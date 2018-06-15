@@ -1,0 +1,39 @@
+---
+layout: post
+title: "7 Talks I'm Looking Forward to Most at Midwest PHP 2016"
+date: 2016-02-25
+img: 
+link: https://www.karllhughes.com/?p=865
+tags: []
+---
+![midwest php 2016](https://i.imgur.com/kvaPP7n.png)I have been neglecting the conference circuit lately. While I make it out to many of the local PHP and Laravel meetups, I decided I'd kick it up a notch this year and attend a couple technical conferences. Since I've never been to Minneapolis, the price was reasonable, and I am an avid PHP fan, I figured [Midwest PHP would be a good start](http://2016.midwestphp.org/). Now that the lineup of speakers has been released, I'm really excited about some of these talks as well as the opportunity to meet some of the speakers and my fellow PHP nerds. I'll be tweeting and probably writing about some of these talks, but in preparation for the event, here are a few of the talks I'm looking forward to most this year:
+
+### 1. [Using PHP to Load Test Your Site and APIs](http://2016.midwestphp.org/session/lessons-in-load-testing-using-php-to-load-test-your-site-and-apis/)
+
+I'm a big fan of service oriented architecture because it allows you to scale pieces of your application independently, but all that modularity is basically useless if you don't know how much load you need to serve and how capable each piece of your application is at delivering it. Lately I've been looking into some load testing services, but they can get expensive and the options to configure them are often limited. If there's a good way to do this in PHP, I'm hoping [Jason Lotito](https://twitter.com/jasonlotito) will tell us about it.
+
+### 2\. [Caching Best Practices](http://2016.midwestphp.org/session/caching-best-practices/)
+
+Scaling has been on my mind a lot in the past few months (we're about to be serving a lot more pageviews at Packback), so naturally caching has been a big topic of conversation around the office. While I've implemented caching in a number PHP apps now ([including Varnish to achieve faster load time on my blog](https://www.karllhughes.com/2016/wordpress-1-second/)), I'm looking forward to hearing [Eli White](https://twitter.com/EliW) go into some advanced caching layers.
+
+### 3\. [Managing Your Content with Elasticsearch](http://2016.midwestphp.org/session/manage-your-content-with-elasticsearch/)
+
+After hearing [Samantha Quiñones](https://twitter.com/ieatkillerbees) a number of times on [Sammy K's PHP Roundtable podcast](https://www.phproundtable.com/), I'm excited to hear her talk in person about the basics of Elasticsearch. I've been meaning to look into implementing this anyway (we currently use Solr at Packback), so this talk will give me an excuse to start.
+
+### 4\. [How Long Will it Take? Estimation Methods](http://2016.midwestphp.org/session/how-long-will-it-take-estimation-methods-to-answer-the-impossible-question/)
+
+As I've taken over managing the team at Packback, I've become a lot more concerned with estimation and project management than I used to be, so I'm interested to hear what [Jared Faris](https://twitter.com/jaredthenerd) has to say on the topic. A few new tools and methods to improve estimates would be a great asset to bring back to the team.
+
+### 5\. [Rethinking Loops](http://2016.midwestphp.org/session/rethinking-loops/)
+
+In the past year I've been working with more Javascript, and I've already noticed that it's changed the way I write PHP code. I no longer fear callbacks and mapping functions, but I still have room for improvement, so I'm hoping [John Kary's](https://twitter.com/johnkary) talk proves useful here. The last line of the description really got me:
+
+> Beware: after this talk you'll never look at for() and foreach() loops the same again!
+
+### 6\. [The Hidden Architecture of the Domain](http://2016.midwestphp.org/session/the-hidden-architecture-of-the-domain/)
+
+As our services at Packback grow, there's no way around the need to constantly refactor a little bit at a time. In doing so, one thing I've struggled with is knowing which pieces of our applications belong in the application, which belong in shared repositories (like Composer packages) and which are truly framework-level pieces of code. Woody's talk sounds like it might help me get a better handle on architectural solutions.
+
+### 7\. [Services in the Enterprise](http://2016.midwestphp.org/session/services-in-the-enterprise-how-not-to-fail/)
+
+As I've mentioned in this article, we have taken a service oriented approach at Packback, so I'm definitely looking forward to [Mike Stowe's](https://twitter.com/mikegstowe) talk about why SOA (service oriented architecture) has failed in enterprise applications. Hopefully we'll avoid a similar fate with the microservices we're building at Packback. Are you going to Midwest PHP this year? Be sure to [let me know on Twitter](https://twitter.com/KarlLHughes) and I'll add you to [my list of attendees to watch](https://twitter.com/KarlLHughes/lists/midwest-php)!

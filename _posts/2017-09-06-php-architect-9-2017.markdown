@@ -1,0 +1,13 @@
+---
+layout: post
+title: "True Tales of Building PHP Microservices Featured in php[architect] Magazine, September 2017"
+date: 2017-09-06
+img: https://i.imgur.com/o7JYvdz.png
+link: https://www.phparch.com/magazine/2017-2/september/
+tags: [php, programming, "php[architect]", microservices]
+---
+I've written a few blog posts (and submitted several conference talk proposals) related to the topic of building microservices in PHP. It's been great to refine my story on this topic so much over the past couple years, and most recently, I had a piece published in [php[architect] magazine](https://www.phparch.com/magazine/2017-2/september/) on the topic of microservices and PHP:
+
+> Microservices have generated a lot of buzz lately. Large companies like Amazon are using them to help segment their code bases and manage software at scale, while smaller startups are using microservices to add new features faster. PHP is a great language for building them; we have several lightweight frameworks available, building and deploying a PHP application is really fast, and it’s a language widely known across the world. In this piece, I will focus on two real-world applications and how teams I’ve led have used PHP microservices to improve the software products we built incrementally.
+
+This is the first time I've had a technical article published in print, so it stands as a personal milestone.

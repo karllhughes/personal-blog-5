@@ -1,0 +1,48 @@
+---
+layout: post
+title: "The Myth of the Hero"
+date: 2017-04-02
+img: https://i.imgur.com/HqBcveo.jpg
+link: http://karllhughes.com/?p=531
+tags: [teams, hiring, consistency]
+---
+*When I first published this post in June, 2014, I was just starting to manage a couple engineers. Interestingly, I've only seen this idea get more true as I've hired and managed more people. Superstars, rockstars, or heroes rarely pay off. Build a team of consistent performers and you'll make great products.*
+
+-----
+
+A lot of people assume that when you want great talent, you need a hero; someone who will rush in, destroy every barrier, and magically carry his team to victory. Unfortunately, [heros like this are mostly mythical beings](http://youtu.be/OBwS66EBUcY).
+
+## Why heros don't work
+
+I play for a couple casual beach volleyball teams here in Chicago. From what I've seen, there are three kinds of players on each team:
+
+1.  The heroic leader
+2.  Underconfident contributors
+3.  Consistent team members
+
+Of these three archetypes, by far **the most effective team members are those who are consistent,** and this stereotype goes much further than social volleyball league players.
+
+Outside of the beach volleyball courts, I've now been on half a dozen teams in my professional career, and I've seen my share of valiant heroes, frightened contributors, and consistent team players. Each personality type has shown up multiple times, and I've been able to manage and train each of them. By far, my favorite kind of employee is the one I can count on; the third one tends to be the most coachable, reliable, and effective one in the bunch, and here's why:
+
+## 1. Heros will take chances even when they aren't required
+Beach volleyball is a pretty simple sport. In most cases, nobody is very good at it, and it isn't that hard to keep the ball away from the obvious ace on the court. Unfortunately, praiseworthy moves like spikes and difficult to return serves are seen as winning skills, when in reality, the ability to consistently hit the ball over the net (and within bounds) is far more valuable.
+
+Heros will try the difficult shots that they should never attempt, they'll overpower their hits, and they'll go for a spot on the court that's challenging to hit rather than a simple volley. Occasionally they hit their mark, but 9/10 times, they fall short, leaving everyone wondering why they tried to make such a big splash.
+
+The same can be said for heroes in business teams. Instead of making low-risk decisions that are a clear win, they will jump into something that - if successful - will shoot the company into stardom. If it fails though, they stand to lose it all, and in most cases, these high risk endeavors fail just like the high-risk volleyball moves do. There's an argument to be made that a few high-risk choices are acceptable in certain businesses, but if there is a solution that seems simpler, it's probably better than a high-risk hero move.
+
+## 2. Underconfidence breeds stagnation
+Conversely, players who are decent, but afraid to even hit the ball are almost useless on a beach volleyball team. They run from the chance to touch the ball, and let heroes push them out of the way even when the other party has little chance of making a decent shot. In beach volleyball, these players usually take the form of inexperienced people who think they have no place on the team. By letting the heroes take the risk for them, they essentially become dead space on the court, destroying any chance of getting the ball over the net at a reasonable percentage.
+
+This same personality type shows up in business, usually as a young employee who is given a project he feels is beyond his skill level. Rather than give the task his best shot or ask a more experienced player to give him guidance, he will try to pawn it off on someone else in the organization. He'll whimper that he didn't have the expertise to handle the issue or that so-and-so would be better suited for the job. Either way, he'll bring down your whole group's effectiveness, and leave everyone wondering what he does exactly.
+
+## 3. Consistent and predictable performances take the cake
+On most beach volleyball teams, there are a few consistently decent performers. They get the ball over the net on 90% or more of their serves; they don't try to put fancy spin on anything; they don't go for a spike when a tap over the net is all that's required. Often times, they will opt to clear the ball over to the other side rather than attempt to set up a play with their teammates.
+
+They aren't especially exciting to watch, but you know you can count on them to put the pressure back on the other team by returning the ball to the other team almost every time. If they're above average, they'll pinpoint risk-takers on the other side and try to put the ball just outside their reach, where they know they'll make a nearly impossible attempt to hit an impossible shot back at them.
+
+In business, these are your best employees. They show up for work and meetings on time, they ask others how they can improve, they take predictable paths that have been proven by past experience. In short, you know you can count on them to do what they say they will. "You want me to finish this project by Monday? Sure thing. I may have to leave out this one feature though," They'll say. You'll nod and admit that it was just a nice addition anyway, and you'll have what you expected on the due date.
+
+Predictable team players are the kind of people you can build a business on. Even if they don't get the recognition of the few superheroes in your organization, you know that every day you can count on them to meet expectations and encourage others to do the same. They won't take undue credit, and they'll keep an even temperament. They'll admit it when they screw up, and they'll learn to be a little more cautious next time they take on a similar project. Even in high risk ventures like startup businesses, you want predictable performers. You need these people to balance you out; you need them to consistently pull through when the riskier elements of your business fail.
+
+It takes more than just guts to run a successful organization. It takes poise and logic as well, and that's what you'll get from consistent team members whether it's beach volleyball or your next business venture. For what it's worth, I'd take a dozen consistently above average performers before a hundred high-risk heroes any day, but what do you think? Are heroes worth the risk? Have they ever paid off for you?

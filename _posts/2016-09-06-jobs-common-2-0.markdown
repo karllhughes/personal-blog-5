@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Version 2.0 of Jobs Common Released"
+date: 2016-09-06
+img: 
+link: https://www.karllhughes.com/?p=928
+tags: []
+---
+For the past year or so I’ve been meaning to invest the time in a version 2 of the [Jobs Common](https://github.com/jobapis/jobs-common) package, and I finally got around to releasing it last weekend. The goal of Jobs Common is to create a standardized interface for retrieving jobs from job board APIs. Basically, it allows you to get a known response no matter what job board you query. It's an open source project that I've been working on for the past few years (on-and-off), and this iteration is the latest item in a series of improvements I'm making to the whole JobApis (formerly JobBrander) organization on Github. [Read more on JobApis.com](http://www.jobapis.com/2016/09/03/jobs-common-v2-release/). ![](https://i.imgur.com/qLSgvU7.png)
