@@ -76,6 +76,9 @@ hr {
   height: 0;
   /* 1 */
   overflow: visible;
+  background-color: #ecf0f1;
+  color: #ecf0f1;
+  border-color: #ecf0f1;
   /* 2 */
 }
 
@@ -963,18 +966,14 @@ table tfoot td {
   transition: transform 0.35s, -webkit-transform 0.35s;
 }
 
-.about img:hover {
-  -webkit-transform: scale3d(0.9, 0.9, 1);
-          transform: scale3d(0.9, 0.9, 1);
-}
-
-.about .author-name {
+.about .author-name, .about .author-name a {
   font-family: 'PT Serif', serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
+  text-decoration: none;
   color: #333030;
   font-weight: 700;
 }
@@ -1126,14 +1125,6 @@ footer .copyright {
   transition: all .3s ease;
   -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
           box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-}
-
-.post:hover {
-  -webkit-transform: translate(0px, -2px);
-      -ms-transform: translate(0px, -2px);
-          transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
 .post .post-thumbnail {
@@ -1360,6 +1351,49 @@ a.newer-posts:hover {
 .tag-list span a:hover {
   text-decoration: underline;
   opacity: .8;
+}
+/* Read more link */
+.read-more-link a {
+  text-align: center;
+  display: block;
+  border: 1px solid #263959;
+  text-decoration: none;
+  color: #263959;
+  padding: 5px;
+}
+
+.read-more-link a:hover {
+  text-decoration: underline;
+  background-color: #ecf0f1;
+}
+
+/* Email Signup */
+.email-group {
+  width: 70%;
+  display: block;
+  float: left;
+}
+.submit-group {
+  width: 30%;
+  display: block;
+  float: left;
+}
+.email-group input, .submit-group input {
+  width: 100%;
+  line-height: 25px;
+  padding: 5px;
+}
+.email-group label {
+  display: none;
+}
+.submit-group input {
+  border: none;
+  border-radius: 0 5px 5px 0;
+  moz-border-radius: 0 5px 5px 0;
+  font-size : 18px;
+  color : #ffffff;
+  padding: 6px 20px;
+  background-color: #ff8c00;
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
