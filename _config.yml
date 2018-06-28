@@ -2,8 +2,8 @@ title: Karl L. Hughes
 description: > # this means to ignore newlines until "baseurl:"
   Technology team builder and startup enthusiast. Currently CTO at The Graide Network and Founder at Portable CTO.
 permalink: 'posts/:title'
-baseurl: "/personal-blog-5"
-url: "https://karllhughes.github.io/"
+baseurl: ""
+url: "https://www.karllhughes.com/"
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
