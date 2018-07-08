@@ -1,0 +1,67 @@
+---
+layout: post
+title: "The Bulk of Software Engineering in 2018 is Just Plumbing"
+date: 2018-07-08
+img: https://i.imgur.com/yGwJMZX.jpg
+tags: [programming, engineering, careers]
+---
+
+I read a post online recently about how some software engineer was asked to complete a technically complex, jargon-filled coding challenge over the phone in order to get a job. He did well enough on the call to get an offer, but after he started the new job, he realized it wasn't going to be the academically challenging role he was hoping for. No, he'd just be building basic CRUD applications for the web with a legacy system haphazardly running on whatever virtual machine could be found.
+
+This happens all the time during job-screening. We put engineers through rigorous screening processes and ask them intellectually stimulating questions, only to hire them and put them into the admittedly dull task of wiring up 5 or 6 services and making the screen look pretty. I'm not saying there aren't skills involved in those tasks - I'm simply saying that those aren't the same skills being tested for in most whiteboarding-style challenges.
+
+_PS: [Here's how I revamped my hiring process with this trend in mind](/posts/rethinking-hiring)._
+
+## Let's stop sugar-coating it
+
+**Software is created when its presence provides more business value than its absence.** 
+
+While it's appealing to read about software craftsmanship and strive for excellence in everything we do, when it really comes down to it, our job wouldn't exist if we didn't make money (or save money) for some business somewhere.
+
+With that in mind, the industry's state makes sense. Just like plumbers, **we are paid to know our tools and understand how they work together to make a usable piece of equipment**, not to reinvent working technology or spend 80 hours optimizing something that 5% of our users will use.
+
+## Put it in perspective
+
+Small to medium sized businesses rarely deal with scaling or optimization problems anymore - partly because hardware has gotten so cheap, and partly because foundational open source software has gotten so good. This is a great thing, and we as software developers should embrace it.
+
+Let's go back to the plumbing example. Imagine you owned a small restaurant with one bathroom and 10 employees. You get a few hundred customers per week and maybe 10% of them use your bathroom. Obviously, you've got to have a working bathroom, but does it need to be anything fancier or more advanced than your home toilet? **Do you need 10 stalls, motion-activated faucets, Dyson hand dryers, and marble counters?** Probably not, unless you're just trying to project some facade of success.
+
+![](https://i.imgur.com/9bS3JGQ.jpg)
+
+**We do this all the time in the world of startup software engineering though.**
+
+A small business with 5-10 employees building a software-as-a-service web app needs to have a reliable, secure system, but does it need to be that much more robust than an off-the-shelf service provides? **Do you really need AI-powered search, real-time dashboards for every internal team member, microsecond optimizations on your home page, and split testing for every feature you release?** Probably not unless you're just trying to project a facade of success...
+
+Just as a good small business owner should hire a humble plumber who knows the standard tools required for small bathrooms, and will pay him market rate, **a good engineering manager should hire [humble team players](/posts/hero-myth) who use industry-standard tools to build reliable software, and pay them market rate.**
+
+Instead, what I'm seeing is a lot of false projections from engineering managers. They give the impression during the interview that every person they hire must be a senior engineer, has to have "big data" experience, or has to know every sorting algorithm by heart.
+
+## We (engineers) are guilty of over-engineering
+
+Part of the problem is that we over-engineer the software we work on. I am guilty of this as well.
+
+I came to the Graide Network and immediately started breaking our legacy app into microservices. Now I've had to build custom tooling just to help new developers get things running on their local machines - not something that is truly worth my time this early on in our business' lifecycle.
+
+I've also made it harder on myself to hire people. I don't want to limit my hiring pool to engineers who know multiple specific web frameworks, Docker containers, microservices, Redis, and MySQL, but I've built myself into a corner with all these choices. Lately I've realized this, and been starting to think of ways to simplify our stack, but that will have to come in a future blog post.
+
+## Investors are guilty of pushing it on us
+
+The other side is investor and media pressure. In the startup world this is especially pronounced as I've found investors as likely to latch onto buzzwords as reporters are.
+
+"Oh, so you're building an app? Does it use AI? Blockchain? <Insert Hot Buzzy Tech Here>? Take my money and do it!"
+
+Now you've sold yourself to an investor as an AI/Blockchain/etc. company, so you've got to hire engineers who do that thing, even if you're not sure it's actually going to help you build a better business or not. This means you're going to shun candidates with 10+ years of experience in existing tech to hire slick kids who jump from buzz-word to buzz-word chasing trends. **It's like hiring a plumber with 3 years of experience who invented his own tools: high risk, very low reward.**
+
+## What do we do about it?
+
+So we're here, living in a world where most "software engineering" is essentially plumbing. What should we do about it? What does it mean for our careers? Will the money keep flowing forever?
+
+**First, we should recognize and embrace the fact that we can build more with less.** What it will mean is that the crummy parts of our job will probably get automated or tools will be built that will make it possible for business people to do them for us. For example, I used to have to make code changes every time someone on our team wanted to change an automated email's copy. Now, they just have to edit a template in Sendgrid's nice visual editor, and I never even know that a change has been made.
+
+**Second, we should consider the complexity required when designing systems.** If an off-the-shelf solution exists, grab it, don't build it from scratch. Get good at soldering pieces together so that you seem more productive, faster, and better at your job than the software artisans out there who have to custom-build their own framework every time they start a project.
+
+**Third, we should set realistic expectations in our job listings.** No more coding exercises that require a CS degree for jobs that require little more than importing libraries and understanding HTTP requests. Yes, some jobs will require micro-optimizations, and that's fine, but recognize that those are few and far between. Your software is likely not as special as you think it is. 
+
+**Finally, [don't get comfortable](https://www.linkedin.com/pulse/code-notenough-karl-l-hughes/).** This isn't a popular opinion among software engineers, but I believe that many in the field are overpaid relative to the difficulty of the work they do. Sometimes it's because they are the only people who know some obscure corner of their field, sometimes it's because their company's gatekeepers are preventing full access to the talent market, and sometimes it's because other engineers insisted they overbuild things such that junior devs will take a long time to understand it. In any case, **we can't stop learning if we want to remain relevant and well-paid.** Keep going deep and wide in your knowledge, and learn how to filter out the hype from the truly ground-breaking technology.
+
+What do you think? I imagine many of you in the field will have a different opinion, so let me hear it on [Twitter](https://twitter.com/karllhughes).
