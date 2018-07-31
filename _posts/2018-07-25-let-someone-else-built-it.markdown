@@ -38,7 +38,7 @@ I am realistic about this dilemma. I know I'll never be the most detail-oriented
 
 ### 1. Turn this weakness into a strength
 
-In college, I read _[Now, Discover Your Strenghts](https://amzn.to/2LOopW0)_, and it changed the way I think about strengths and weaknesses. The book states that rather than trying to get better at your weak areas, you should find ways to use your strengths more and weaknesses less. Just supplement your weak areas with other people or by ignoring them entirely.
+In college, I read _[Now, Discover Your Strengths](https://amzn.to/2LOopW0)_, and it changed the way I think about strengths and weaknesses. The book states that rather than trying to get better at your weak areas, you should find ways to use your strengths more and weaknesses less. Just supplement your weak areas with other people or by ignoring them entirely.
 
 My biggest strength is organization. I've done best (and been happiest) in my role as CTO when I set up a process, tried it and tweaked it for a few weeks, then passed it off to my team to continue refining it. In order to do that, you have to be lucky enough to have a team, but I'm just starting to build one at The Graide Network, so the timing is good here.
 
