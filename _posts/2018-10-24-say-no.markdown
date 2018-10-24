@@ -1,0 +1,43 @@
+---
+layout: post
+title: Say No
+date: 2018-10-24
+img: https://i.imgur.com/PjRzm5b.jpg?1
+tags: [no, bosses, work, balance]
+---
+
+People will continue to request more of your time until you say _no_.
+
+I was talking to a coworker who's been overwhelmed recently. She's got a steady stream of incoming requests from multiple people who outrank her, so she's afraid to say no to any of them. This has resulted in an unsustainable workload for my coworker, and in the end, something - if not everything - is going to get dropped.
+
+This isn't uncommon - regardless of company size - and it's often a problem for an organization's best workers. Because they always say _yes_ they are entrusted with more responsibility and people grow to expect more from them - even if they don't realize this is unsustainable.
+
+Another friend has a similar situation at work. He realized his department needed better organizational systems in place, and because his boss was stretched too thin, he decided to just start implementing them. Everyone has benefited, but now he's in a defacto management role without the title (or salary). When a difficult conversation needs to be had - about an employee's performance or vacation request or project proposal - he is now expected to have it with them. He also has to fight fires, attend more meetings, and do his primary job in the slivers of time in between. He's on a path to burnout.
+
+## The fine line between being a team player and doing too much
+
+I've struggled with this as well. At startups, I know that there are times when an engineer has to swallow his pride and do some crummy manual task because there simply isn't time to automate it. That said, if I answered every request that came in for my time, I'd be a full-time customer support engineer and wouldn't get any of our bigger initiatives delivered.
+
+Because the temptation to just "ask engineering to do it," is so strong, we put in pretty rigorous safeguards to prevent it. People have to file tickets, those tickets are triaged weekly, and we decide as a group if any of them are actually more important than the mainline projects we're currently invested in. If they are, we decide which big project we should delay in order to make the new request happen. Finally, we track the number of "big project" issues we complete vs. the "quick fix" type issues to help determine how focused we were. If anyone complains that a big project is taking too long, it's usually easy to show them which small bugs and quick fixes caused the delay, and the debate is no longer an issue.
+
+## Learn to delegate
+
+The other solution to having too much to do is to learn to delegate. Obviously this only applies if you have someone to delegate to, but assuming that's the case, you have to stop making the excuse that, "teaching someone else will take longer, so I'll just do it myself." This is short-term thinking, and will greatly restrict your growth as a leader.
+
+If you pursue a management path, at some point, delegation becomes your only job. There is little to no time for hands-on work, and you will be responsible for understanding your team's capacity and feeding them work appropriately. It's best to practice this as early and often as possible.
+
+Delegation is challenging, but the only way to scale your time in the long-run.
+
+## Qualify your _no_
+
+Another strategy for saying no is to qualify your response.
+
+For example, if someone asked me to download something from the database, I might respond, "I can't right now, but I can do it on Friday." Then I'll build some time in my schedule - maybe bundling it with other similar tasks on Friday. If the request can't wait, the asker will have to find another solution.
+
+I've found that many times people will ask you to do things that they are capable of doing, but simply don't _want_ to do. That's fine if you're not busy and they are, but if both of you are busy, these requests are just laziness. Of course, you can't tell your boss that, so a better approach would be to say, "I can do that, but I'll have to drop something else. Which task should I drop or push back to tomorrow?" Framing the conversation as a trade-off usually helps people remember that they can't just get more work out of you for free.
+
+## A culture where _no_ is okay
+
+Finally, I'd encourage anyone who's having trouble saying no to talk about this honestly with your boss, coworkers, etc. Building a culture where saying _no_ is okay takes time, and I'm guessing some organizations and industries are less okay with it than others.
+
+I'd love to hear what you think. Find me on [Twitter](https://twitter.com/karllhughes) to keep the conversation going.
