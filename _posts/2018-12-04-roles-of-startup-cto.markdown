@@ -17,6 +17,10 @@ So rather than just oversee big picture technology direction or strategic partn
 ## Responsibilities of a Startup CTO
 Here are just a few of the things startup CTOs end up taking charge of - whether we like it or not: 
 
+<div class="video-responsive">
+  <iframe width="480" height="300" src="https://www.youtube.com/embed/AABZMJcqVA4?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### 1. Building the MVP (Minimum Viable Product)
 
 Most people who want a technical co-founder probably want someone to do this. Creating the first iteration of a startup's product usually falls to the CTO, and that makes a lot of corporate CTO's really bad for the job. Big company CTO's are usually 2 or 3 levels of management away from day-to-day engineering.
@@ -32,8 +36,6 @@ The CTO at a startup will have to get good at hiring, onboarding, training, and 
 ### 3. Figuring out company-wide security
 
 I've never implemented a security policy before, but when one of our partners asked to see ours, it immediately fell to me to come up with one. A startup's [CTO will likely be the first team member to own security](https://www.karllhughes.com/posts/security-tips-startups), run audits, document security procedures, and train everyone on the basics.
-
-![](https://i.imgur.com/CTDUfl4.jpg?1)
 
 ### 4. Product management
 
@@ -73,8 +75,6 @@ Data science, machine learning, and AI are hot topics right now, but data scient
 
 The good news is that there are a lot of [tools for machine learning](https://www.portablecto.com/collections/machine-learning) that don't require much specialized knowledge in this area. I was shocked at how quickly we could run machine learning experiments at Packback with just a few thousand data points and a free trail of [Microsoft's Machine Learning Studio](https://www.portablecto.com/tools/azure-machine-learning-studio).
 
-![](https://i.imgur.com/Cxkg9Nq.jpg?1)
-
 ### 10. Vendor and customer relationships
 
 We live in an [API-driven world](https://www.karllhughes.com/posts/cloud-services). I can't remember the last time I built a real project that didn't connect to at least two or three third party services. From Google Analytics to cloud SQL servers to Amazon S3, it's awesome how much power you can get for a very low cost. But as a CTO, it's a lot to manage. 
@@ -96,5 +96,7 @@ Another reason that startup CTOs are rarely the same people who work as big comp
 ### 13. Employee retention
 
 Tech workers have options, so it's rare to keep one for more than 2 or 3 years. That means that as a startup exits the "tiny startup" phase and enters the "mid-sized startup" phase it's likely that the CTO will start dealing with some churn. Early employees yearn for the excitement of their first months with the company and may start looking for new challenges or go found their own companies. The CTO who originally started building this thing alone in his apartment is now trying to convince his best talent to stay and minimize turnover.
+
+![](https://i.imgur.com/qmBywUb.jpg)
 
 These challenges are far from the only ones that early startup CTO's face, but they are some of the biggest ones, especially for people who mostly just want to write code. Are there any other roles that the CTO fills at your company? Let me hear about it here or on [Twitter](http://www.twitter.com/karllhughes).
