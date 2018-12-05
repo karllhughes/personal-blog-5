@@ -3,19 +3,19 @@ layout: post
 title: "The Lack of Woman-Founded Tech Companies"
 date: 2013-03-28
 img: https://i.imgur.com/ZwNujRX.jpg
-link: http://karllhughes.com/?p=406
 tags: [gender, women, startups]
 ---
+
 I was fortunate enough to sit down with a really interesting and exciting entrepreneur this week. The truth is, I sit down with a lot of really exciting entrepreneurs, but this one was different; she was a woman.
 
 ### Plenty of women own and operate businesses, right?
 The problem isn't that there aren't any entrepreneurs who are women. In fact, [47.1% of privately owned businesses](http://www.slideshare.net/michellevillalobos/female-entrepreneurs-key-statistics-insights) are at least half-owned by women. While fewer women own businesses than men, that's not a terribly huge gap.
 
-The real disconnect comes in high-growth, technology based industries like those in Silicon Valley where a mere [3% of tech firms were started by women](http://www.pbs.org/newshour/businessdesk/2013/03/silicon-valleys-war-against-wo.html). That number is incredible, so think about it for a minute. In a place where hundreds - maybe thousands - of technology startups sprout each year, only _3% are founded by women_. How is that even possible?
+The real disconnect comes in high-growth, technology based industries like those in Silicon Valley where a mere [3% of tech firms were started by women](https://www.pbs.org/newshour/economy/silicon-valleys-war-against-wo). That number is incredible, so think about it for a minute. In a place where hundreds - maybe thousands - of technology startups sprout each year, only _3% are founded by women_. How is that even possible?
 
 Let's look at some other areas of business and culture where women have more influence than they do in Silicon Valley:
 
-*   [School Principals](http://isites.harvard.edu/icb/icb.do?keyword=k74756&pageid=icb.page414550) **- 50% Women**
+*   School Principals **- 50% Women**
 *   [Sales Professionals](http://www.catalyst.org/knowledge/knowing-territory-women-sales) **- 26% Women**
 *   [US Military](http://usmilitary.about.com/od/womeninthemilitary/Women_in_the_United_States_Military.htm) **- 20% Women**
 *   [Engineering Graduates](http://en.wikipedia.org/wiki/Women_in_engineering_in_the_United_States)** - 20% Women**
@@ -28,6 +28,6 @@ I don't think there's a simple answer to this disparity, but I do think it's a p
 Personally, I don't think that argument gives women enough credit, and tries to overly victimize their gender, but there is a little truth to their side too. Clearly, women don't have as many relatable role models in the tech startup industry as men do, and with almost 90% of venture capitalists being men, you have to wonder how much that plays into this equation.
 
 ### More importantly, what's the solution?
-Clearly, fewer women are starting careers in high-tech industries than men, so addressing that gap would be the first step. There will never be as many women founding technology startups when they make up less than a quarter of the industry. Similarly, men need to understand the differences between women in leadership roles and men in similar positions. Just because men [tend to be able to compartmentalize their work](http://www.leadershipexcellencecenter.com/coaching/?p=313&option=com_wordpress&Itemid=11) and relationships doesn't mean that they're inherently any better at building a business.
+Clearly, fewer women are starting careers in high-tech industries than men, so addressing that gap would be the first step. There will never be as many women founding technology startups when they make up less than a quarter of the industry. Similarly, men need to understand the differences between women in leadership roles and men in similar positions. Just because men tend to be able to compartmentalize their work and relationships doesn't mean that they're inherently any better at building a business.
 
 What do you think? Is the lack of women in high growth tech startups a problem? What can we do to fix it? Let me hear your opinion in the comments below.

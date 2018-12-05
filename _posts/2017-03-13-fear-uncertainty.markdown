@@ -3,12 +3,8 @@ layout: post
 title: "Dealing with Fear and Uncertainty"
 date: 2017-03-13
 img: https://i.imgur.com/6RdtfUJ.jpg
-link: 
-tags: [fear, leadership, cto-patterns]
+tags: [fear, leadership, cto]
 ---
-*This is a short excerpt from an online book I'm currently writing called [CTO Patterns](https://github.com/karllhughes/cto-patterns). The book-to-be is full of advice for building and managing engineering teams at startups. Some of it is my own; some has been borrowed from much wiser people. Let me know if you have any feedback!*
-
------
 
 I remember vividly the feeling I got when I was put in charge of my first real team of engineers. I got pulled into an unscheduled meeting with our CEO and COO on a Wednesday afternoon. They told me that my boss - our company's Head of Engineering - was leaving in two weeks and that they wanted me to take over his role.
 
@@ -22,7 +18,7 @@ I walked out of the meeting with the founders a bit shaky and tried to focus on 
 
 ## Imposter Syndrome
 
-I've talked to countless CTOs and engineering managers since then, and I now realize that this feeling of inadequacy is far from exceptional. In fact, [most people will have this feeling at some point in their career](http://bsris.swu.ac.th/journal/i6/6-6_Jaruwan_73-92.pdf), which is why we have a name for it: imposter syndrome.
+[I've talked to countless CTOs and engineering managers](https://www.karllhughes.com/posts/roles-of-startup-cto) since then, and I now realize that this feeling of inadequacy is far from exceptional. In fact, [most people will have this feeling at some point in their career](http://bsris.swu.ac.th/journal/i6/6-6_Jaruwan_73-92.pdf), which is why we have a name for it: imposter syndrome.
 
 I'm not going to try to give you a cure-all for this feeling. If it's your first time managing a team, you're probably going to get it at some point, and hopefully you have a supportive network of mentors within and outside your company to help you out.
 
@@ -74,10 +70,6 @@ The employee's performance was my concern, but in reality, the biggest problem w
 
 In Richard Wiseman's _The Luck Factor_, one of the things that he found in common among lucky people was that they knew when to listen to their "gut" rather than reasoning through every problem completely. Like any common muscle action - typing on a keyboard, turning a page in a book, or putting on your clothes - your brain has learned to put these tasks on auto-pilot. You don't really think about them. At a certain point, your brain relies on this same auto-pilot to help it make decisions based on past experiences you've had that you don't even consciously remember.
 
-I know that as a first-time engineering manager or CTO, you might not think your gut is the best decision-maker, but you might also be surprised. Many of the same problems you faced as a software engineer or team lead have prepared you for making good gut decisions.
+I know that as a [first-time engineering manager](https://www.karllhughes.com/posts/engineering-manager) or [CTO](https://www.karllhughes.com/posts/roles-of-startup-cto), you might not think your gut is the best decision-maker, but you might also be surprised. Many of the same problems you faced as a software engineer or team lead have prepared you for making good gut decisions.
 
 Most importantly, remember that fear, uncertainty, and imposter syndrome or normal reactions to taking on a new role. Your brain is telling you to back off and go back to something comfortable. Don't let this hold you back. Learn to face struggles with action and keep moving forward. It only gets easier.
-
------
-
-*To read more and follow the rest of the book's development, check out the Github repository: [CTO Patterns](https://github.com/karllhughes/cto-patterns).*

@@ -3,7 +3,6 @@ layout: post
 title: "The Myths You’ll Hear About Working as an Engineer at a Startup"
 date: 2017-04-05
 img: https://i.imgur.com/fnNQjYz.jpg
-link: http://karllhughes.com/?p=584
 tags: [startups, engineering, programming]
 ---
 *I first published this piece in August, 2014 to some acclaim on [Hacker News](https://news.ycombinator.com/item?id=8237020). Since then, I've joined another startup, seen a few million dollars more raised, and these myths and truths hold true. There are pros and cons to working at startups, but I still think it's a pretty low-risk proposition for a software engineer.*

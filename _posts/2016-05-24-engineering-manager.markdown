@@ -3,7 +3,6 @@ layout: post
 title: "A Day in the Life of an Engineering Manager"
 date: 2016-05-24
 img: 
-link: https://www.karllhughes.com/?p=904
 tags: []
 ---
 I started tracking how I spend my time at work in March of this year. It's been a couple months, so I've got a good breakdown of time now, and I thought it might be interesting to share with any other engineers who want to know what the day to day is like as an engineering manager.
@@ -15,7 +14,7 @@ First, a little bit about [Packback](https://www.packback.co/) and my role here.
 1.  Making sure our website works and continues to improve
 2.  Helping everyone in the company understand what's technically possible
 
-Along the way, I've had to hire people, build processes to make things run smoothly, and [a million other little things](https://www.karllhughes.com/2015/roles-of-startup-cto/), but my goal is really pretty simple: keep Packback's technology running.
+Along the way, I've had to hire people, build processes to make things run smoothly, and [a million other little things](https://www.karllhughes.com/posts/roles-of-startup-cto/), but my goal is really pretty simple: keep Packback's technology running.
 
 ## So how do I spend my time?
 

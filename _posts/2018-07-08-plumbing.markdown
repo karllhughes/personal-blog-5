@@ -10,7 +10,7 @@ I read a post online recently about how some software engineer was asked to comp
 
 This happens all the time during job-screening. We put engineers through rigorous screening processes and ask them intellectually stimulating questions, only to hire them and put them into the admittedly dull task of wiring up 5 or 6 services and making the screen look pretty. I'm not saying there aren't skills involved in those tasks - I'm simply saying that those aren't the same skills being tested for in most whiteboarding-style challenges.
 
-_PS: [Here's how I revamped my hiring process with this trend in mind](/posts/rethinking-hiring)._
+_PS: [Here's how I revamped my hiring process with this trend in mind](https://www.karllhughes.com/posts/rethinking-hiring)._
 
 ## Let's stop sugar-coating it
 
@@ -28,11 +28,11 @@ Let's go back to the plumbing example. Imagine you owned a small restaurant with
 
 ![](https://i.imgur.com/9bS3JGQ.jpg)
 
-**We do this all the time in the world of startup software engineering though.**
+**We do this all the time in the world of [startup software engineering](https://www.karllhughes.com/posts/roles-of-startup-cto) though.**
 
 A small business with 5-10 employees building a software-as-a-service web app needs to have a reliable, secure system, but does it need to be that much more robust than an off-the-shelf service provides? **Do you really need AI-powered search, real-time dashboards for every internal team member, microsecond optimizations on your home page, and split testing for every feature you release?** Probably not unless you're just trying to project a facade of success...
 
-Just as a good small business owner should hire a humble plumber who knows the standard tools required for small bathrooms, and will pay him market rate, **a good engineering manager should hire [humble team players](/posts/hero-myth) who use industry-standard tools to build reliable software, and pay them market rate.**
+Just as a good small business owner should hire a humble plumber who knows the standard tools required for small bathrooms, and will pay him market rate, **a good engineering manager should hire [humble team players](https://www.karllhughes.com/posts/hero-myth) who use industry-standard tools to build reliable software, and pay them market rate.**
 
 Instead, what I'm seeing is a lot of false projections from engineering managers. They give the impression during the interview that every person they hire must be a senior engineer, has to have "big data" experience, or has to know every sorting algorithm by heart.
 
