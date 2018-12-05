@@ -2,7 +2,7 @@
 layout: post
 title: "The Many Roles of a Startup CTO"
 date: 2018-12-04
-img: https://i.imgur.com/QCnAD23.jpg
+img: https://i.imgur.com/TYBQOEy.jpg
 tags: [management, startups, cto]
 ---
 
@@ -17,9 +17,7 @@ So rather than just oversee big picture technology direction or strategic partn
 ## Responsibilities of a Startup CTO
 Here are just a few of the things startup CTOs end up taking charge of - whether we like it or not: 
 
-<div class="video-responsive">
-  <iframe width="480" height="300" src="https://www.youtube.com/embed/AABZMJcqVA4?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/undefined' frameborder='0' allowfullscreen></iframe></div>
 
 ### 1. Building the MVP (Minimum Viable Product)
 
