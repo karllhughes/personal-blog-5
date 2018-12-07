@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Setting up a Remote Development Environment with Google Chrome and DigitalOcean"
-date: 2018-12-05
-img: https://i.imgur.com/USkbqGm.png
+date: 2018-12-07
+img: https://i.imgur.com/aMQdTd6.jpg
 tags: [programming, google, digital-ocean, remote]
 ---
 
 My Macbook Pro is a couple years old now and I've been thinking about switching to something more portable (that new [Pixelbook is awful tempting](https://store.google.com/us/product/google_pixelbook)), but being a developer, I don't want to get stuck with an underpowered device that won't run any project I have to throw at it for the next few years.
 
-The inspiration for this project hit me when I saw my colleague Eric logging into his remote desktop PC at home through his Chromebook. If you're comfortable on the command line and aren't afraid of working in Linux, then why not make your whole development environment remote? It's 2018 for goodness' sake!
+The inspiration to set up a remote development environment hit me when I saw my colleague Eric logging into his remote desktop PC at home through his Chromebook. If you're comfortable on the command line and aren't afraid of working in Linux, then why not make your whole development environment remote? It's 2018 for goodness' sake!
 
 In this post, I'll outline my experience setting up and using a remote development environment with DigitalOcean and Google Chrome. I'll cover the apps I used to make remote development workable as well as some of the tradeoffs of going this route. You could replicate this environment on a Chromebook, Macbook, old laptop, or even a tablet (with some different apps).
 
@@ -30,6 +30,8 @@ Having an issue with your computer? Can't figure out why your code won't compile
 
 ### Future Proofing
 As more of [our tools go to the cloud](https://www.karllhughes.com/posts/cloud-services), I think it's reasonable to assume that more of our computing power will too. The economies of scale and awesome tools for virtualization are making it cheaper to get server space, and with the internet being available just about everywhere, connectivity is becoming less of an issue.
+
+![](https://i.imgur.com/USkbqGm.png)
 
 ## How to set up a remote development environment
 
