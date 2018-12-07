@@ -28,4 +28,4 @@ Meanwhile, the [availability to education and technical talent is rising](http:/
 
 ## Go out and embrace the unknown
 
-My final encouragement to those with ideas is this: [Make something happen](/posts/be-unique-and-dont-wait/). One of the few ways that the United States might regain its place in the world economy is to encourage and reestablish its place as an entrepreneurial mecca. We have intelligent people with incredible access to a huge market of consumers. We are a land of enterprising individuals. We know our strengths. We _can_ make big things happen. Now it's just a matter of _when_. Are you ready to take the plunge?
+My final encouragement to those with ideas is this: [Make something happen](https://www.karllhughes.com/posts/be-unique-and-dont-wait). One of the few ways that the United States might regain its place in the world economy is to encourage and reestablish its place as an entrepreneurial mecca. We have intelligent people with incredible access to a huge market of consumers. We are a land of enterprising individuals. We know our strengths. We _can_ make big things happen. Now it's just a matter of _when_. Are you ready to take the plunge?

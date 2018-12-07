@@ -12,7 +12,7 @@ tags: [writing, journalism]
 
 -----
 
-In a recent article posted on Internships.com, I was asked about [tips that I have for college students looking to break into the online publishing industry](http://www.internships.com/eyeoftheintern/applying-2/employers-applying-2/5-5-karl-director-student-news-uloop/). I'll admit, I borrowed a little inspiration from my friend and fellow blogger, [Thomas Frank](http://thomasjfrank.com/) who was also [featured on Internships.com](http://www.internships.com/eyeoftheintern/applying-2/personal-branding-applying-2/building-successful-blog/) for his blog, [College Info Geek](http://collegeinfogeek.com/). 
+In a recent article posted on Internships.com, I was asked about tips that I have for college students looking to break into the online publishing industry. I'll admit, I borrowed a little inspiration from my friend and fellow blogger, [Thomas Frank](http://thomasjfrank.com/) who was also [featured on Internships.com](http://www.internships.com/eyeoftheintern/applying-2/personal-branding-applying-2/building-successful-blog/) for his blog, [College Info Geek](http://collegeinfogeek.com/). 
 
 ## First, Why Publish Online?
 

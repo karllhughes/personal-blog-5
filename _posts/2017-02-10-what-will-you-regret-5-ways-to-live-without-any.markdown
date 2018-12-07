@@ -26,7 +26,7 @@ It's inevitable. At some point, you will find yourself going down a road to an u
 
 **Fix:** Love your work.
 
-Our society tells us that you have to work hard to get ahead. Working hard alone won't make you a success ([although it helps](http://localhost:43000/posts/one-thing-that-separates-successful-people-from-failures)).  _Working hard at something you love_ is the key. If your job allows you to live the life you want, and you love doing it then the whole, "worked too hard" regret flies out the window. 
+Our society tells us that you have to work hard to get ahead. Working hard alone won't make you a success ([although it helps](https://www.karllhughes.com/posts/one-thing-that-separates-successful-people-from-failures)).  _Working hard at something you love_ is the key. If your job allows you to live the life you want, and you love doing it then the whole, "worked too hard" regret flies out the window. 
 
 **Regret:** I wish I'd had the courage to express my feelings.
 

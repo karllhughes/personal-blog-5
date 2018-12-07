@@ -14,7 +14,7 @@ tags: [facebook, social-media, data]
 
 People often ask me how experts determine the value of web-based companies. "They don't _make_ anything," they tell me, "so how do you put a value on what they do?"
 
-This is a great question. It's the reason that billionaire investor Warren Buffett [doesn't put his money into technology companies](http://www.huffingtonpost.com/2012/05/07/warren-buffett-facebook_n_1495157.html) - it's very hard to determine the value of online companies. So, what metrics do investors use? 
+This is a great question. It's the reason that billionaire investor Warren Buffett doesn't put his money into technology companies - it's very hard to determine the value of online companies. So, what metrics do investors use? 
 
 ## Determining the Value of Data
 

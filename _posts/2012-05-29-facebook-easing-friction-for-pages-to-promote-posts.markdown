@@ -6,7 +6,7 @@ img:
 link: http://karllhughes.com/?p=192
 tags: [facebook, social-media, marketing]
 ---
-I hopped onto Facebook today to update it with one of the latest articles from [Uloop](https://www.facebook.com/uloop) and was greeted with a new feature.
+I hopped onto Facebook today to update it with one of the latest articles from Uloop and was greeted with a new feature.
 
 ## Would You Like to Promote This Post...for a Fee?
 So in this case, Facebook will let me pay $10 to ensure that this post reaches approximately 3,300 people.  Our page generally reaches around 8,000 people per week, but occasionally we'll have a viral post that reaches up to 80,000. 

@@ -10,13 +10,13 @@ If you're a developer and you want to create a job board aggregator or supplem
 
 ## Jobs Common: Standardizing Job Board API calls in PHP
 
-[Jobs Common](http://code.jobbrander.com/) is a project that @[stevenmaguire](https://twitter.com/stevenmaguire) and I have been working on for the past year to make accessing job board API's in PHP easier and the data they return more standardized. It started with just four job boards in May of 2015, and since then it has ballooned to provide **support for 13 job boards** including Indeed, Careerbuilder, SimplyHired, and Ziprecruiter.
+[Jobs Common](https://github.com/jobapis/jobs-common) is a project that @[stevenmaguire](https://twitter.com/stevenmaguire) and I have been working on for the past year to make accessing job board API's in PHP easier and the data they return more standardized. It started with just four job boards in May of 2015, and since then it has ballooned to provide **support for 13 job boards** including Indeed, Careerbuilder, SimplyHired, and Ziprecruiter.
 
-This week, I relaunched the [documentation site](https://www.jobapis.com/) and released [a new demo application](https://github.com/karllhughes/jobs-common-demo) to make it even easier for developers to get started. Let's take a look at how easy using Jobs Common is vs. accessing job board APIs directly.
+This week, I relaunched the [documentation site](https://jobapis.github.io/) and released [a new demo application](https://github.com/jobapis/jobs-common-demo) to make it even easier for developers to get started. Let's take a look at how easy using Jobs Common is vs. accessing job board APIs directly.
 
 ### Example 1: Getting Jobs from Dice the Hard Way
 
-Let's say that you want to get the latest 'product manager' jobs from Dice's API. First, you need to [read through their documentation](http://www.dice.com/common/content/util/apidoc/jobsearch.html). Next, you'll need to figure out a curl request to make. You'll probably come up with something like this:
+Let's say that you want to get the latest 'product manager' jobs from Dice's API. First, you need to read through their documentation. Next, you'll need to figure out a curl request to make. You'll probably come up with something like this:
 
 ```
 http://service.dice.com/api/rest/jobsearch/v1/simple.json?text=product+manager&city=Chicago,+IL
@@ -44,7 +44,7 @@ Now, you'll need to decode the JSON string Dice's API returns, and parse those r
 
 ### Example 2: Getting Jobs from Dice with Jobs Common
 
-As you can see on the [documentation page for the Dice provider](https://www.jobapis.com/open-source/dice/), getting jobs in a standard format using our jobs-dice package is just a few lines of code:
+As you can see on the [documentation page for the Dice provider](https://jobapis.github.io/open-source/dice/), getting jobs in a standard format using our jobs-dice package is just a few lines of code:
 
 ```
 $client = new JobBrander\Jobs\Client\Providers\Dice;
@@ -54,4 +54,4 @@ $jobs = $client->setKeyword('product manager')
     ->getJobs();
 ```
 
-This will get you a [standardized Schema.org JobPosting object](https://schema.org/JobPosting) that can now be compared with the results returned from Careerbuilder, SimplyHired, or Indeed's APIs. If you want more, check out the documentation on [all the providers we currently support](https://www.jobapis.com/open-source/#Jobs-Common-API-Clients), and feel free to jump in if you'd like to contribute your own!
+This will get you a [standardized Schema.org JobPosting object](https://schema.org/JobPosting) that can now be compared with the results returned from Careerbuilder, SimplyHired, or Indeed's APIs. If you want more, check out the documentation on [all the providers we currently support](https://jobapis.github.io/open-source/#Jobs-Common-API-Clients), and feel free to jump in if you'd like to contribute your own!

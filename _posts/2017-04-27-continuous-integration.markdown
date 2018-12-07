@@ -26,7 +26,7 @@ These concepts (continuous integration, automated testing, automated builds, and
 
 ## The tools we use at Packback
 
-At Packback we have a team of [five engineers](http://blog.packbackbooks.com/post/122460780395/introducing-the-brand-new-packbackbookscom) and we've raised some funding, so we can justify spending more on tools that help us manage deployments and continuous integration. Still, we keep things pretty lean and rely on a lot of open source or free solutions. 
+At Packback we have a team of five engineers and we've raised some funding, so we can justify spending more on tools that help us manage deployments and continuous integration. Still, we keep things pretty lean and rely on a lot of open source or free solutions. 
 
 #### [Codeception](http://codeception.com/)
 Codeception is a PHP unit testing framework that offers behavior driven elements missing from using PHPUnit alone. It adds a layer of complexity, but there are benefits to its enhanced assertions. 

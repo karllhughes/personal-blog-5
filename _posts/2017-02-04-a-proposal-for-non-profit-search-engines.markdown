@@ -12,7 +12,7 @@ tags: [search, google, non-profits]
 
 -----
 
-Lately people have been making all sorts of noise about [Google's changes to their search engine](http://www.zdnet.co.uk/news/security/2012/02/23/consumer-group-takes-google-privacy-complaint-to-ftc-40095110/). As you probably know, Google is the [most widely-used search engine](http://www.comscore.com/Press_Events/Press_Releases/2012/2/comScore_Releases_January_2012_U.S._Search_Engine_Rankings) in the world, and the company now offers hundreds of other web based services to add value to their users.
+Lately people have been making all sorts of noise about [Google's changes to their search engine](https://www.cnet.com/news/consumer-group-files-ftc-complaint-against-google/). As you probably know, Google is the [most widely-used search engine](http://www.comscore.com/Press_Events/Press_Releases/2012/2/comScore_Releases_January_2012_U.S._Search_Engine_Rankings) in the world, and the company now offers hundreds of other web based services to add value to their users.
 
 Personally, I think Google has done a great job improving search over the past decade and a half, but we are reaching a point where Google's interests may collide with offering honest search results to users.
 

@@ -14,7 +14,7 @@ My goal this weekend was to get a couple side projects up and running on [Hyper.
 
 ## About the projects
 
-Both the projects I wanted to deploy this weekend were NodeJS apps: [my personal blog](https://github.com/karllhughes/personal-blog), and a microservice that [emails me the latest articles](https://github.com/karllhughes/feedbin-mailer) from [Feedbin](https://feedbin.com/) every day.
+Both the projects I wanted to deploy this weekend were NodeJS apps: my personal blog, and a microservice that emails me the latest articles from [Feedbin](https://feedbin.com/) every day.
 
 Currently, both projects were set up on a Digital Ocean droplet and running with Docker Compose. That meant that I had to write a lot of scripts to automate deployments, and it was honestly a huge pain point. I've found that for side projects if I don't automate the minor stuff (deployments, CI, etc.) I probably won't update them very often. Digital Ocean droplets are great, but each one cost me at least $10 (the $5 ones couldn't build my Docker images reliably), and running multiple side projects on each was problematic. If one went down or had a memory leak, it would take other ones down with it. Another option I've used in the past is Heroku, which I also like, but I don't know about its support for Docker. If anyone's tried that I'd be willing to hear about it.
 

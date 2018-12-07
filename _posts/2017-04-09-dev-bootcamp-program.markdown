@@ -26,7 +26,7 @@ The stories of Facebook and Twitter's rocketship style success aren't going away
 
 ### 2. There is a serious lack of technical talent
 
-The truth is that there is _not_ a lack of talent when it comes to entry level developers, but the need for experienced software engineers is fueling a flood of interest in the profession. It doesn't hurt that software engineers are often cited in jobs charts ([like this one](http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor)) that show them making six-figure incomes, although it should be noted that most early-stage startups [aren't a good choice if salary is your deciding metric](http://www.karllhughes.com/posts/myths-working-engineer-startup/).
+The truth is that there is _not_ a lack of talent when it comes to entry level developers, but the need for experienced software engineers is fueling a flood of interest in the profession. It doesn't hurt that software engineers are often cited in jobs charts ([like this one](http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor)) that show them making six-figure incomes, although it should be noted that most early-stage startups [aren't a good choice if salary is your deciding metric](https://www.karllhughes.com/posts/myths-working-engineer-startup).
 
 ### 3. Millennials without useful degrees or experience are desperate
 

@@ -3,7 +3,6 @@ layout: post
 title: "My 2017 Writing Goal"
 date: 2017-01-29
 img: https://i.imgur.com/JiFNfkd.jpg
-link: 
 tags: [writing, goals, productivity]
 ---
 I've tried to write *something* every week for the past few years, but I'm not 100% consistent. It usually comes in waves where I spend a week or two cranking out several articles and then maybe a month without much output, but I'm going to up my consistency and hopefully volume in 2017.
@@ -161,7 +160,7 @@ In May I am back to publishing my daily news commentary as I did in January:
 - [The Age of Privacy is Over](https://medium.com/@karllhughes/the-age-of-privacy-is-over-23f5cc2644e7)
 - [Prioritization is Always Relative](https://www.karllhughes.com/posts/prioritization-relative)
 - [Every Company Must be a Technology Company](https://medium.com/@karllhughes/every-company-must-be-a-technology-company-4cda5b4ddb3)
-- [Rethinking the Role of the Postal Service](Rethinking the Role of the Postal Service)
+- [Rethinking the Role of the Postal Service](https://medium.com/@karllhughes/rethinking-the-role-of-the-postal-service-2a18f3bbf463)
 - [Writing a PHP Command Line Script](https://medium.com/shiphp/writing-a-php-command-line-script-31073babdef)
 - [Making Your First Website with PHP](https://medium.com/shiphp/making-your-first-website-with-php-98a75f64e625)
 - [Working with Arrays in PHP](https://medium.com/shiphp/working-with-arrays-in-php-71f45c80ea92)
