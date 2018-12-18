@@ -32,6 +32,6 @@ I'm making generalizations here, but I've had several conversations with "AI sta
 
 And that's okay.
 
-Not every startup has to be a sexy unicorn built on novel technology. Most of them are just small businesses who adopt technology faster than their industry does on average.
+Not every startup has to be a sexy unicorn built on novel technology. Most of them are just [small businesses who adopt technology faster than their industry does on average](https://www.karllhughes.com/posts/myths-working-engineer-startup).
 
 I'd love to hear what you think. Find me on [Twitter](https://twitter.com/karllhughes) to chat.
