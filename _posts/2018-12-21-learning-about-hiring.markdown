@@ -30,13 +30,13 @@ Lately I've been setting up a new customer operations process for [The Graide Ne
 
 2018 has been a tough year for me the _people_ side of things.
 
-If you asked me a year ago if I thought I was good at hiring, I would have said yes, but my track record has proven otherwise. Three of my last four direct hires have left within a year of onboarding, and while I do still think I'm a pretty people manager (probably because I'm better at the process stuff), I have been really bad at choosing the right people for our stage of business.
+If you asked me a year ago if I thought I was good at hiring, I would have said yes, but my track record has proven otherwise. Three of my last four direct hires have left within a year of onboarding, and while I do still think I'm a decent people manager (because I'm better at the process stuff), I have been really bad at choosing the right people for our stage of business.
 
-We're hitting our stride at the Graide Network: sales are growing, we're getting larger customers, and we were able to hire a couple really great non-technical people this year. That said, I'm still the only one doing engineering, and while I enjoy it, I'd rather be able to hand off most of the development and architecture to someone else. In order to do that, I've got to get better at hiring.
+We're hitting our stride at the Graide Network: sales are growing, we're getting larger customers, and we were able to hire a couple really great non-technical people this year. That said, I'm now the only one doing engineering, and while I enjoy it, I'd rather be able to hand off most of the development and architecture to someone else. In order to do that, I've got to get better at hiring.
 
 ## Reflecting on My Mistakes
 
-As I close out 2018 and prepare to [kick off a new hiring process in 2019](https://github.com/thegraidenetwork/job-openings), I wanted to document some of the mistakes I've made in regards to hiring. I know it's not popular for a CTO to talk about why they suck at hiring, but I believe the only way to address a weakness is to acknowledge it and address it head on, so here goes:
+As I close out 2018 and prepare to [kick off a new hiring process in 2019](https://github.com/thegraidenetwork/job-openings), I wanted to document some of the mistakes I've made in regards to hiring. I know it's not popular for a CTO to talk about why they suck at hiring, but I believe the only way to address a weakness is to acknowledge it and face it head on, so here goes:
 
 ### I ignored blatant red flags because I was impatient
 
@@ -48,7 +48,7 @@ I passed on several high potential recent bootcamp grads because I wanted someon
 
 ### I engaged recruiters rather than talking to my network and waiting for the right referral
 
-I spend a lot of time [cultivating my network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), and yet for some reason, I didn't utilize it nearly enough for the last few hires I made. Last time, I spent only 4 of the 12-week hiring process taking meetings and asking for intros. After that, I went on to recruiters and reverse hiring platforms. While those platforms _can work_, they're not the best way for early stage companies to get their hires.
+I spend a lot of time [cultivating my network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), and yet for some reason, I didn't utilize it nearly enough for the last few hires I made. Last time, I spent only 4 of the 12-week hiring process taking meetings and asking for intros. After that, I went on to recruiters and reverse hiring platforms. While those platforms _can work_, they're [not the best way for early stage companies to get their hires](https://blog.ycombinator.com/how-to-hire-your-first-engineer/).
 
 ### I did not have _the right_ rubric for hiring
 
