@@ -14,6 +14,8 @@ For the past 7 years I’ve been working in startups at various stages and I’v
 
 That said, working at a startup - even one that isn’t "successful" - can be an interesting and rewarding experience. I’ve seen the downside and I’m still doing it along with thousands of others across the country. If you're wondering what it's like to be an engineer at a startup in 2018, let me cut through some of the marketing and dispel 5 common myths for you.
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/RMzt4gLx9Hg' frameborder='0' allowfullscreen></iframe></div>
+
 ## Myth 1: you’re going to get a huge equity payout
 
 The overwhelming majority of startups are not big financial successes. Chances are, if you come into a company early on with a bit of equity your stock will be so diluted by the time an exit comes that it won’t make up for the salary cut you took to be there. That is, if you’re lucky enough to be involved in an exit at all.
