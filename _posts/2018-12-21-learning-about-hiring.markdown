@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm a CTO Who Sucks at Hiring. Here's What I've Learned."
+title: "What I've Learned After Failing at Hiring Several Times"
 date: 2018-12-21
 img: https://i.imgur.com/BL00nen.jpg
 tags: [startups, hiring, process]
