@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm a CTO Who Sucks at Hiring. Here's What I've Learned."
-date: 2019-12-21
+date: 2018-12-21
 img: https://i.imgur.com/BL00nen.jpg
 tags: [startups, hiring, process]
 ---
