@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "My First Weekend with Hyper.sh"
+title: "Do Not Trust Hyper.sh or Kata Containers"
 date: 2017-05-06
 img: https://i.imgur.com/acG2EO7.png
 link: 
 tags: [programming, devops, docker]
 ---
+
+_Since writing this post, Hyper.sh has pivoted and no longer offers its container hosting. They gave users less than a month to move off their platform, so I no longer recommend working with Hyper or [Kata Containers](https://katacontainers.io/). The company never gave me a reason for the shutdown, and refused to offer any substantial tools to help with migration. Do not trust this company for your production workloads._
+
 I've been doing a lot of searching for a simple Docker hosting experience lately.
 
 I'm pretty committed to [Docker Compose](https://docs.docker.com/compose/) for running containers locally and  [Codeship for my continuous integration](https://blog.codeship.com/author/karlhughes/), but I hadn't found a container hosting service that was (1) simple enough for me to use on side projects, (2) reliable enough to use in production, and (3) not prohibitively expensive.
@@ -52,4 +55,4 @@ The [feedbin-mailer](https://github.com/karllhughes/feedbin-mailer) project is e
   - Second, there isn't a way to disconnect a volume from a container and then reconnect it to another without taking the container down. I was hoping to do this for my deployment process.
   - Third, using volumes in multiple containers is a pain. You have to set up a shared volume container which then uses NFS to allow each container to attach to it. I am not enough of a Docker expert to propose a better solution, but I'm hoping they come up with something.
 
-While I still have some testing to do before I recommend Hyper.sh for my work projects (I always like to give things a few months of side project testing before I bring them into the office), I'm happy to have found a Docker hosting solution like [Hyper.sh](https://hyper.sh/).
+_Since writing this post, Hyper.sh shut down and gave users less than a month to move off their platform. I do not recommend working with Hyper or [Kata Containers](https://katacontainers.io/). The company never gave me a reason for the shutdown, and refused to offer any substantial tools to help with migration. Do not trust this company for your production workloads._
