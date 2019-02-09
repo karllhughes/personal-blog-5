@@ -3,7 +3,6 @@ layout: post
 title: "Breaking Into the Online Publishing Industry"
 date: 2017-02-06
 img: https://i.imgur.com/VrspzB9.jpg
-link: http://karllhughes.com/?p=78
 tags: [writing, journalism]
 ---
 *When I was managing college bloggers at Uloop, the most common question I got was about how I got my job there. I was not a typical journalist - having just graduated with a degree in Mechanical Engineering - but I had managed to get dozens of writers to work for me at the University of Tennessee and then hundreds at Uloop later. My advice here wasn't typical j-school advice, but it was a viable way to break into the business of being paid to write.*

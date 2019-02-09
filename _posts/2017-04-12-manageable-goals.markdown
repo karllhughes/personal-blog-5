@@ -3,7 +3,6 @@ layout: post
 title: "Keeping Goals Manageable"
 date: 2017-04-12
 img: https://i.imgur.com/xhAV9iq.jpg
-link: http://www.karllhughes.com/?p=669
 tags: [goals, health]
 ---
 It's time for New Year's Resolutions, which means it's time for at least 127,000,000 people in America to set a goal that they will ultimately fail.

@@ -3,7 +3,6 @@ layout: post
 title: "Security Tips for Engineers at Early Stage Startups"
 date: 2017-04-26
 img: https://i.imgur.com/20vtqSOl.jpg
-link: http://www.karllhughes.com/?p=779
 tags: [security, programming, startups]
 ---
 *Since publishing this post in August, 2015 I've become somewhat fanatical about getting my company's employees, my wife, and my family to use the internet securely. Data breaches are very easy now. People use many services on a daily basis, so shared passwords is an increasingly common attack method. If you're a typical internet user, get a [password manager](https://en.wikipedia.org/wiki/Password_manager); if you're a CTO or engineer at a startup, get ready to own security.*

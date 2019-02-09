@@ -3,7 +3,6 @@ layout: post
 title: "CMA 2015 Conference: Introduction to Web Development"
 date: 2015-03-10
 img: 
-link: http://www.karllhughes.com/?p=702
 tags: [presentations, college-media-association, conferences]
 ---
 On March 12th, I spoke at the [College Media Association's 2015 Conference in New York City](http://nyc15.net/). A couple years ago I spoke in New Orleans on the topics of Sponsored Content and Gamification in News, but this year as my role is now more technical, so was my topic. I gave a presentation on how websites work for non-techies. 

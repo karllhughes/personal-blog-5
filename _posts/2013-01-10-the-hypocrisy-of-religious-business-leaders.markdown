@@ -3,7 +3,6 @@ layout: post
 title: "The Hypocrisy of Religious Business Leaders"
 date: 2013-01-10
 img: https://2.bp.blogspot.com/_OCWXw6InF70/TLHinmjgPNI/AAAAAAAAA0o/ODM4CsMeSsQ/s1600/Preacher_still_1.jpg
-link: http://karllhughes.com/?p=332
 tags: [business, religion]
 ---
 I was born and raised in the religious south - Tennessee to be specific. Business leaders are conservative; politicians talk about "intelligent design" in schools; workers don't get unions. This is all part of life in the "Bible Belt."

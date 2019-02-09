@@ -3,7 +3,6 @@ layout: post
 title: "The Secret to Staying Employed: Be Indispensable"
 date: 2017-04-04
 img: https://i.imgur.com/X9af9xC.jpg
-link: http://karllhughes.com/?p=376
 tags: [automation, advice]
 ---
 *With everyone talking about [automation and the widespread job loss that it may lead to](https://www.nytimes.com/2016/12/21/upshot/the-long-term-jobs-killer-is-not-china-its-automation.html), making yourself indispensable is more important than ever. I was naive when I wrote this though. It oversimplifies complex industry trends, and puts a lot of responsibility on workers who were probably intentionally led to believe that their jobs were safe when they really weren't.*

@@ -3,7 +3,6 @@ layout: post
 title: "Contentment Comes from People not Things"
 date: 2017-04-10
 img: https://i.imgur.com/Y3Txb3u.jpg
-link: http://www.karllhughes.com/?p=632
 tags: [personal, relationships]
 ---
 *Every year it gets harder and harder not to fall into the trap of buying more stuff. I first published this in November, 2014 when I didn't even have a bed, but since then my lifestyle has changed pretty dramatically. I have a fiancee, a dog, and an extra bedroom in our apartment, so going back to re-publish this post was a good reminder not to seek contentment through things.*

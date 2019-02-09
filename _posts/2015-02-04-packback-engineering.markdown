@@ -3,7 +3,6 @@ layout: post
 title: "An Update on Engineering at Packback"
 date: 2015-02-04
 img: https://i.imgur.com/kir3G3s.jpg
-link: http://www.karllhughes.com/?p=682
 tags: [packback, personal]
 ---
 As I enter my second full year of working with [Packback](http://www.packbackbooks.com), I can say that it's already been an exciting and challenging experience. When I came in on my first day, there were five offshore developers dragging files onto two servers with absolutely no discernable workflow, coding standards, or version control system.

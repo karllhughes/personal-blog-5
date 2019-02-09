@@ -3,7 +3,6 @@ layout: post
 title: "On Leaving Uloop for Packback Books"
 date: 2013-12-05
 img: https://i.imgur.com/EFSTrzT.png
-link: http://karllhughes.com/?p=516
 tags: [packback, personal]
 ---
 This month marked the end of my first startup experience and the beginning of my next one. I decided to leave Uloop after two years as their director of news, and take a position with Packback Books as their fourth full time team member and lead software engineer. Parting ways with my friends and colleagues at Uloop was a difficult decision, but I feel it was the right one for me at this point in my career. Leaving a job that I legitimately liked, compensated me fairly, and gave me the freedom to innovate may seem a bit crazy, but I have my reasons.

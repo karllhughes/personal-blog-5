@@ -3,7 +3,6 @@ layout: post
 title: "Announcement: We're Hiring Engineers at Packback"
 date: 2015-09-16
 img: https://i.imgur.com/swwVNwn.png
-link: http://www.karllhughes.com/?p=793
 tags: [packback, hiring]
 ---
 2015 has been a really exciting year for us at Packback. We released a [complete rebuild of our eCommerce platform](http://blog.packbackbooks.com/post/122460780395/introducing-the-brand-new-packbackbookscom) at Packbackbooks.com, we brought on our fourth full-time engineer, we started contributing to the [open source community](http://www.karllhughes.com/2015/packback-used-textbook-prices/), we hired our first three full-time salespeople, we [raised another $1.5 million](http://www.chicagotribune.com/bluesky/originals/ct-packback-hyde-park-angels-answers-bsi-20150609-story.html), and now we're even more excited to announce that we're hiring again! 

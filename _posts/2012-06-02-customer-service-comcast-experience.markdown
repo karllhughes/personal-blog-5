@@ -3,7 +3,6 @@ layout: post
 title: "Customer Service: My Comcast Experience"
 date: 2012-06-02
 img: 
-link: http://karllhughes.com/?p=204
 tags: [customer-service, comcast]
 ---
 Last week, I had to end service at my current address to prepare for my mobile journey across the country. I called Comcast, and had a terrible experience. Naturally, I complained about it on Facebook and Google+, to which many people expressed their agreement in my frustration.

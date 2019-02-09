@@ -3,7 +3,6 @@ layout: post
 title: "The Key to Success: Never Stop Learning"
 date: 2017-02-16
 img: https://i.imgur.com/x5Bv3Za.jpg
-link: http://karllhughes.com/?p=220
 tags: [learning, success, fitness]
 ---
 *Back in July, 2012 when I wrote this article, I was barely a PHP novice and just starting to try Ruby on Rails. It's fun to look back at how little I knew just five years ago and realize that everything I've learned since then has propelled me to where I am now.*

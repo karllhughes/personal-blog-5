@@ -3,7 +3,6 @@ layout: post
 title: "20 Reasons I Love Distance Running"
 date: 2014-11-17
 img: https://i.imgur.com/9jXkBx5.jpg
-link: http://www.karllhughes.com/?p=640
 tags: [running, health]
 ---
 My race season is finished for the year. I'm not one of those sissies who won't run outside in the winter - I love a good snow run - but I've done three half marathons this year, had a couple minor foot injuries (okay, one was major), and lost about 20 pounds. I'm due for a little recovery time.

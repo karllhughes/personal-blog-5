@@ -3,7 +3,6 @@ layout: post
 title: "Essential Reading for Software Engineering Managers"
 date: 2016-09-13
 img: 
-link: https://www.karllhughes.com/?p=931
 tags: [books, engineering, programming]
 ---
 I started [trying to read more](https://www.karllhughes.com/2015/trello-as-a-reading-list/) a couple years ago, and this year I've been knocking out some of the most popular engineering management books out there. Since a lot of new and aspiring software managers ask me about this, I figured I would go ahead and put together a list of some of my favorite books for software engineering managers.

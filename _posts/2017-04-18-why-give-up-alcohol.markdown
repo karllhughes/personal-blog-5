@@ -3,7 +3,6 @@ layout: post
 title: "Why I Gave Up Alcohol"
 date: 2017-04-18
 img: 
-link: http://karllhughes.com/?p=539
 tags: [personal, health]
 ---
 *I first wrote about this three years ago when I had just given up alcohol. At that time, it was part of a burgeoning asceticism. I had given up meat, most of my possessions, and moved hours away from all my friends.*

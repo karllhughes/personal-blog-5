@@ -3,7 +3,6 @@ layout: post
 title: "Why Automated Software Testing Matters"
 date: 2017-10-02
 img: https://i.imgur.com/AsAT1rM.png
-link: 
 tags: [testing, programming, engineering]
 ---
 In preparation for my [talk next month at API Strategy & Practice](/posts/api-strat-2017-presentation), I've been thinking a lot about testing. Ever since I started writing automated tests a few years ago, I've found it to be one of the most useful tools for building maintainable software, but I still meet developers all the time who don't write tests. Sometimes it's because their boss (or the business team) won't let them, sometimes it's because they've never explained the benefits to them, and sometimes they just don't care.

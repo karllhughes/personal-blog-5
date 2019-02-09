@@ -3,7 +3,6 @@ layout: post
 title: "Are E-Books Being Over Published?"
 date: 2012-03-09
 img: http://i.imgur.com/1ksWVHy.jpg
-link: http://karllhughes.com/?p=59
 tags: [books, writing]
 ---
 Recently, I was asked about writing an e-book, "You haven't published an e-book yet? Why not?"

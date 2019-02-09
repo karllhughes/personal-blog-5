@@ -3,7 +3,6 @@ layout: post
 title: "Having More and Choosing Less"
 date: 2014-12-30
 img: https://i.imgur.com/N7kO9ST.jpg
-link: http://www.karllhughes.com/?p=665
 tags: [personal, minimalism, materialism]
 ---
 If you've been reading my blog for the past couple years, you know that one of my big personal projects is to cut down on excess.

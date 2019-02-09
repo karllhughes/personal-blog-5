@@ -3,7 +3,6 @@ layout: post
 title: "The Risk in Sending Your Startup's Technology Offshore"
 date: 2017-04-06
 img: https://i.imgur.com/InFNMOw.jpg
-link: http://karllhughes.com/?p=587
 tags: [outsourcing, startups, programming]
 ---
 *When I wrote this in September, 2014 I was managing an offshore dev team for the first time, but almost every business I have worked with before and since has had some connection to an offshore engineering team. I've updated a couple points here, but mostly my advice is the same. Outsourcing overseas may seem "cheaper" than hiring a local developer, but be prepared for it.*

@@ -3,7 +3,6 @@ layout: post
 title: "Health as a Long Term Investment in Your Success"
 date: 2017-03-26
 img: https://i.imgur.com/WPks5ED.jpg
-link: http://www.karllhughes.com/?p=695
 tags: [health, running, success]
 ---
 *I first published this post in February, 2015 when I was just getting back into running after about five years of completely slacking off. Since then I've been pretty consistent with working out. It gets harder every year as I get new personal and familial responsibilities, but I know my fitness has a huge impact on my life performance. You can't be the best version of yourself if your body and brain aren't being taken care of.*

@@ -3,7 +3,6 @@ layout: post
 title: "JobsToMail: Your Personal Job-Search Assistant"
 date: 2016-09-26
 img: https://i.imgur.com/zfPuNVD.png
-link: 
 tags: [jobapis, php, open-source]
 ---
 If you've looked for a job in the past few years, you probably know how much time trolling job boards can take out of your life. In fact, I'd argue that getting out and meeting people is a much more effective strategy than checking job boards at all, but it doesn't hurt to know who's posting jobs if you're in the market.

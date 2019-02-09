@@ -3,7 +3,6 @@ layout: post
 title: "Job Board API Standardization"
 date: 2015-07-08
 img: 
-link: http://www.karllhughes.com/?p=755
 tags: [jobapis, php, open-source]
 ---
 *Since I published this post in 2015, we've done a lot of work on this job board API standardization project and rebranded it. Check out the latest at [JobApis.com](https://www.jobapis.com/)*

@@ -3,7 +3,6 @@ layout: post
 title: "Packbot: Helping our Business Access Data at Packback"
 date: 2015-08-05
 img: https://i.imgur.com/BhqV017.png
-link: 
 tags: [slack, packback, automation, programming]
 ---
 [Slack](https://slack.com/) is a messaging tool that's quickly become ubiquitous in large and small companies alike. It's basically like a walled off version of AOL Instant Messenger (you guys remember that from the early 00's right?) for your company's internal communication. They have apps for iOS and Android, desktop clients, and a web interface, making Slack super accessible and easy to use, plus the allow you to create [Slackbots](https://api.slack.com/bot-users).

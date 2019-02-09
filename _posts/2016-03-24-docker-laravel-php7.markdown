@@ -3,7 +3,6 @@ layout: post
 title: "Using Docker to Run a Laravel Application in PHP7"
 date: 2016-03-24
 img: 
-link: https://www.karllhughes.com/?p=876
 tags: []
 ---
 PHP7 has been out for a few months now; [the performance benefits have been demonstrated](http://www.infoworld.com/article/3011967/web-development/php-7-offers-twice-the-performance.html), and most of the bugs worked out. Now is the time for early to mid-stage adopters to get moving! That said, nobody wants to go through a difficult upgrade process. Fortunately, I've found that upgrading most Laravel 5.0+ applications to PHP7 is almost completely pain-free. If you are worried though, there's a simple way to test them out using Docker.

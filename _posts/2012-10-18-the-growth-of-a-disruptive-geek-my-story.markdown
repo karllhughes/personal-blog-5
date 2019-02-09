@@ -3,7 +3,6 @@ layout: post
 title: "The Growth of a Disruptive Geek: My Story"
 date: 2012-10-18
 img: 
-link: http://karllhughes.com/?p=273
 tags: [personal]
 ---
 I am often asked by friends and family members who see my [controversial posts](https://plus.google.com/u/1/101080316492181821858/posts/eJJo2FhJPMM), "How do you get so many people to comment on your stuff?"

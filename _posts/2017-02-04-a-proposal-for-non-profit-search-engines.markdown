@@ -3,7 +3,6 @@ layout: post
 title: "A Proposal for Non-Profit Search Engines"
 date: 2017-02-04
 img: https://i.imgur.com/Gvh7XXo.jpg
-link: http://karllhughes.com/?p=62
 tags: [search, google, non-profits]
 ---
 *Ever since Google became a household name people have been worried about what they would start doing with our data. Back in 2012 when I wrote this, one solution that I was interested in was to create a non-profit, open-source search engine. The closest thing we have today is [DuckDuckGo](https://duckduckgo.com/), which is closed-source, but does not store personal data.*

@@ -3,7 +3,6 @@ layout: post
 title: "Are You Placing the Blame Internally or Externally?"
 date: 2017-02-15
 img: https://i.imgur.com/7BEUBEg.jpg
-link: http://karllhughes.com/?p=216
 tags: [entrepreneurship, success, accountability]
 ---
 *I was less sympathetic when I wrote this in 2012 than I am now, but I stand by the overall message here. Placing blame for your problems on external sources is a bad habit, no matter how many of those external sources really are working against you.* 

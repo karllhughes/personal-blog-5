@@ -3,7 +3,6 @@ layout: post
 title: "Presentation at API Strategy & Practice, 2017: Testing Layers"
 date: 2017-11-03
 img: https://i.imgur.com/Pi78blE.jpg
-link: 
 tags: [conferences, presentations, engineering, apistrat]
 ---
 This year, I decided to make speaking at a conference one of my goals (and [I made a big list of conferece CFP dates that you can use as well](https://www.karllhughes.com/posts/tech-conference-cfps)). A couple months ago I was invited to speak at the Linux Foundation's [API Strategy & Practice Conference](http://events.linuxfoundation.org/events/apistrat) in Portland, Oregon.

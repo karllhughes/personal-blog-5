@@ -3,7 +3,6 @@ layout: post
 title: "Self-Awareness, Dashboards, and Evaluating Culture"
 date: 2016-07-12
 img: 
-link: https://www.karllhughes.com/?p=915
 tags: []
 ---
 While I haven't been writing here in the past month, I've been working on a few guest posts that all happened to go live last week. Here are some quick summaries with links to the original posts:

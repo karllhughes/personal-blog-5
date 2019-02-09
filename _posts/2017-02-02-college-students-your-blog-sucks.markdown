@@ -3,7 +3,6 @@ layout: post
 title: "College Students: Your Blog Sucks"
 date: 2017-02-02
 img: https://i.imgur.com/uhUWRsK.jpg
-link: http://www.karllhughes.com/?p=49
 tags: [college, writing]
 ---
 *Note: this post is being republished as part of my [2017 daily publishing project](https://www.karllhughes.com/posts/2017-writing-goal). To give some context to this post and its annoyingly negative title, I was reviewing a lot of college blogs at the time for my job at Uloop. Most of these students wanted to be professional writers, yet their blogs were terribly unfocused and trivial. I've decided to leave the article in tact though as the advice still stands for college students who want to blog.*

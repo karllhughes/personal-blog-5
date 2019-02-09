@@ -3,7 +3,6 @@ layout: post
 title: "5 Talks I'm Excited for at #APIStrat 2017"
 date: 2017-10-18
 img: https://i.imgur.com/JbIHdHV.png
-link: 
 tags: [speaking, conferences, apistrat]
 ---
 This year [I'll be speaking](https://www.karllhughes.com/posts/api-strat-2017-presentation) at the [Linux Foundation's API Strategy and Practice conference](http://events.linuxfoundation.org/events/apistrat), but I'm not just excited to go as a speaker. There are some [great looking sessions on the schedule](https://apistrat17.sched.com/), so I figured I would take some time to highlight the talks I'm most excited about this year. If you've got others I should look out for, let me [know about them on Twitter](https://twitter.com/karllhughes).

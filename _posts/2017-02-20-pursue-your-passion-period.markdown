@@ -3,7 +3,6 @@ layout: post
 title: "Pursue Your Passion. Period."
 date: 2017-02-20
 img: https://i.imgur.com/1QWmYdF.jpg
-link: http://karllhughes.com/?p=248
 tags: [happiness, success, passion]
 ---
 *My views on happiness when I wrote this back in September, 2012 were admittedly simplistic. I've seen enough people now who pursued their passions and still aren't happy because they either lack financial stability or are genetically inclined towards depression. While I still think that everyone who can should pursue a career that they love, I no longer think that this pursuit is the magic key to happiness.*

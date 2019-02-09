@@ -3,7 +3,6 @@ layout: post
 title: "Roadblocks to Project Estimation"
 date: 2017-04-15
 img: https://i.imgur.com/4PREITr.jpg
-link: http://www.karllhughes.com/?p=726
 tags: [programming, product-management, estimation, agile]
 ---
 *When I first published this in April, 2015, we were trying to obsessively estimate our projects at Packback. Looking back, this was premature. The truth is, we should have simply been breaking down our projects into smaller bites when there were problems, but I was a new manager and wanted to have some metrics to feed up the chain.*

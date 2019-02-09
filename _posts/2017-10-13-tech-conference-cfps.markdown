@@ -3,7 +3,6 @@ layout: post
 title: "A Curated List of Tech Conferences for Speakers"
 date: 2017-10-13
 img: https://i.imgur.com/BuWXXki.png
-link: 
 tags: [speaking, conferences]
 ---
 Since June, I've applied to speak at a number of tech and developer conferences across the world. It's been fun to refine my proposals and I got accepted to speak at three already (I'll be posting about each, just check out the [Speaking](https://www.karllhughes.com/types/speaking) section of my site).

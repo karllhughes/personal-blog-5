@@ -3,7 +3,6 @@ layout: post
 title: "How Do You Gauge Your Happiness?"
 date: 2017-02-27
 img: https://i.imgur.com/dODnJh4.jpg
-link: http://karllhughes.com/?p=328
 tags: [happiness, success, money]
 ---
 *When I wrote this back in December, 2012 I had a lot less money than I do now. I lived on the floor of a 300 square foot apartment, and didn't even have a savings account. That said, I was pretty darn happy. I loved going to work every day and that positive attitude is what set me up for much greater financial success later.*

@@ -3,7 +3,6 @@ layout: post
 title: "My PHP Open Source Project Checklist"
 date: 2016-10-10
 img: https://i.imgur.com/XKTihFa.png
-link: https://www.karllhughes.com/?p=992
 tags: [open-source, programming]
 ---
 Open source software is becoming the norm, and not just for small companies, indie developers and startups. [78% of companies](http://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/) are using open source software, and with [PHP being the most widely-used server-side programming language](https://w3techs.com/technologies/overview/programming_language/all), we need high quality, well built open source PHP projects. I've been working on several open source packages for both the [JobApis](https://github.com/jobapis) project as well as a couple [small projects](https://bitbucket.org/account/user/thegraidenetwork/projects/OS) for my team at The Graide Network in the past few months, and it's gotten me thinking about what a good open source PHP project needs. A project with great, clean, readable code is nice, but it's not really usable without all the other things that make a good open source project including tests, documentation, a license, etc.

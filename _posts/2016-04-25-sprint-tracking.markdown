@@ -3,7 +3,6 @@ layout: post
 title: "Building an Agile Sprint Tracking System"
 date: 2016-04-25
 img: 
-link: https://www.karllhughes.com/?p=892
 tags: []
 ---
 I've found [Agile](http://agilemethodology.org/) to be a great tool for helping startups build software at a predictable pace while remaining flexible enough to deal with the changing needs of an inherently volatile organization. Still, there are some challenges to implementing it, and just because you put a working system in place doesn't mean you won't run into issues along the way. A few things that we've struggled with when implementing [Agile at Packback](https://www.linkedin.com/pulse/agile-startup-our-product-process-packback-karl-l-hughes) include:

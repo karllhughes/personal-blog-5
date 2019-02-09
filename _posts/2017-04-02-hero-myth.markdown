@@ -3,7 +3,6 @@ layout: post
 title: "The Myth of the Hero"
 date: 2017-04-02
 img: https://i.imgur.com/HqBcveo.jpg
-link: http://karllhughes.com/?p=531
 tags: [teams, hiring, consistency]
 ---
 *When I first published this post in June, 2014, I was just starting to manage a couple engineers. Interestingly, I've only seen this idea get more true as I've hired and managed more people. Superstars, rockstars, or heroes rarely pay off. Build a team of consistent performers and you'll make great products.*

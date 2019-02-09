@@ -3,7 +3,6 @@ layout: post
 title: "What to do After you Graduate from a Code Bootcamp"
 date: 2016-04-18
 img: 
-link: https://www.karllhughes.com/?p=884
 tags: []
 ---
 I've been volunteering as a teacher at [Startup Institute](https://www.startupinstitute.com/) for a couple years now where I usually give a few lessons per year to their developers-to-be. Teaching the students helps me stay connected to the entry level community and reminds me what it was like at the beginning of my career. While I didn't attend a bootcamp program, I am a self-taught software developer, so I can relate to the challenges that new graduates face. The most common question I get from Startup Institute and Dev Bootcamp grads is, "I'm done with the program, but what should I do next?" Most of them don't have a job the moment they graduate, and if they do it's more likely an apprenticeship program than anything else. Very few developers are actually ready for a job after a nine-week program, but if you take what you learned from your developer program, there's no reason you can't make a strong foundation for your career. Here's what I recommend to new graduates of coding bootcamp programs:

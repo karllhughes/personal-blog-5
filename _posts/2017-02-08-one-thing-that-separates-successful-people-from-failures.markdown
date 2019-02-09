@@ -3,7 +3,6 @@ layout: post
 title: "One Thing That Separates Successful People From Failures"
 date: 2017-02-08
 img: https://i.imgur.com/ser1iv0.jpg
-link: http://karllhughes.com/?p=93
 tags: [inspiration, success, entrepreneurship]
 ---
 *This post was originally published in March of 2012, and despite the overly inspirational tone, I've decided to republish it in its original form. I don't write like this much anymore, so it's been interesting to go back and read these older posts.*

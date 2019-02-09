@@ -3,7 +3,6 @@ layout: post
 title: "Testing Layers Talk at Codemash 2018"
 date: 2018-01-13
 img: https://i.imgur.com/2pR8pAo.png
-link: 
 tags: [codemash, conferences, speaking]
 ---
 This year I was invited to speak at [Codemash](http://www.codemash.org/), a huge, multi-disciplinary event for software engineers, project managers, web developers, and others in the industry. I gave my talk on Testing Layers in Distributed Architectures, but unlike [the 25-minute version I gave at AP Strat & Practice](https://www.karllhughes.com/posts/api-strat-2017-presentation), this version was a full hour long.

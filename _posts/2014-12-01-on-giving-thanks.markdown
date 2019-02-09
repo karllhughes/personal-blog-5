@@ -3,7 +3,6 @@ layout: post
 title: "On Giving Thanks"
 date: 2014-12-01
 img: 
-link: http://www.karllhughes.com/?p=649
 tags: [personal]
 ---
 It's way too easy to skate through life expecting certain things from other people and not mindfully giving thanks. I'm as guilty of it as anyone, and it's not just something we should be paying attention to around the holidays. It really should be a yearlong, daily thing. Expressing gratitude [can actually make you happier](http://www.health.harvard.edu/newsletters/harvard_mental_health_letter/2011/november/in-praise-of-gratitude). 

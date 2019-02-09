@@ -3,7 +3,6 @@ layout: post
 title: "Why I've Decided to Go Vegetarian"
 date: 2017-02-28
 img: https://s15.postimg.org/6n3lx4857/dan_gold_193498.jpg
-link: http://karllhughes.com/?p=453
 tags: [personal, vegetarian, health]
 ---
 *I quit eating meat in the summer of 2013, when I first published this article. In 2017, I've loosened up a bit - I now occasionally eat fish - but I still believe that a plant-based diet is better for your body and the world at large. So, I've updated this post to reflect my current values and reasons for not eating meat, but the bulk of my logic from four years ago still applies.*

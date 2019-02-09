@@ -3,7 +3,6 @@ layout: post
 title: "What Will You Regret? 5 Ways to Live Without Any"
 date: 2017-02-10
 img: https://i.imgur.com/gr1A11c.jpg
-link: http://karllhughes.com/?p=157
 tags: [inspiration, success]
 ---
 *Reading back through this article to republish it helped me gain some perspective. Five years after I  wrote this, I still wonder if I'm doing a good enough job keeping up with old friends and living a life worth living. Am I making the impact I really could be? Sometimes I don't know.*

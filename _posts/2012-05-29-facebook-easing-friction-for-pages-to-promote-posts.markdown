@@ -3,7 +3,6 @@ layout: post
 title: "Facebook: Easing Friction for Pages to Promote Posts"
 date: 2012-05-29
 img: 
-link: http://karllhughes.com/?p=192
 tags: [facebook, social-media, marketing]
 ---
 I hopped onto Facebook today to update it with one of the latest articles from Uloop and was greeted with a new feature.

@@ -3,7 +3,6 @@ layout: post
 title: "Knowing When Your Business is Ready to Launch"
 date: 2017-04-28
 img: https://i.imgur.com/WLV6LFF.jpg
-link: http://www.karllhughes.com/?p=813
 tags: [startups, revenue]
 ---
 *I can't tell you how many conversations I've had with entrepreneurs who fit into the Founder A or Founder B boxes at this point, but it's probably in the dozens. It seems that more people I've talked to in the past couple years are like Founder A, but maybe that's because I'm being more selective with who I talk to.*

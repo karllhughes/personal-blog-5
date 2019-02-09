@@ -3,7 +3,6 @@ layout: post
 title: "Sub 1-Second Page Load Time in Wordpress"
 date: 2016-01-11
 img: https://i.imgur.com/51nbhGK.png
-link: 
 tags: [wordpress, php]
 ---
 Wordpress has a bad reputation on the web for being bulky and slow, but that doesn't have to be the case. As most bloggers build up more content, add bigger images, install new plugins, and move to feature-rich themes they forget that [speed is a huge factor in their site's performance on the web](https://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html), especially with more consumers using mobile devices. 

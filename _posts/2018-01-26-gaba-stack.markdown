@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Building a Free Website on the GABA Stack"
+title: "Building a Free Website on the GABA Stack - A Spin on JAM Stack"
 date: 2018-01-26
 img: https://i.imgur.com/lnx7vsT.png
-link: 
 tags: [mvps, engineering, github, airtable, programming]
 ---
+
+_Note: When I first wrote this in early 2018, I had not heard of the [JAM Stack](https://jamstack.org/), which uses **J**avascript, **A**PIs, and **M**arkdown. The **GABA* stack I mention here is basically just a more specific version of the JAM stack, and it remains one of my favorite methods for building websites at low cost._
+
 There are hundreds of ways you can put up a website without writing much code, but one pattern I've started playing around with is the GABA stack.
 
 ### What is the GABA stack?

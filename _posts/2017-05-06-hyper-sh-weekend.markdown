@@ -3,7 +3,6 @@ layout: post
 title: "Do Not Trust Hyper.sh or Kata Containers"
 date: 2017-05-06
 img: https://i.imgur.com/acG2EO7.png
-link: 
 tags: [programming, devops, docker]
 ---
 

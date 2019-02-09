@@ -3,7 +3,6 @@ layout: post
 title: "Know Your Competition When Hiring"
 date: 2017-04-24
 img: https://i.imgur.com/XQJOn7I.jpg
-link: http://www.karllhughes.com/?p=746
 tags: [hiring, management]
 ---
 *Hiring software engineers hasn't gotten any easier or cheaper since I posted this in June, 2015. I've always been interested in the recruiting space, and I continue developing open source tools for job seekers and recruiters at [JobApis.com](https://www.jobapis.com/).*

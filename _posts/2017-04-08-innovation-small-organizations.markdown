@@ -3,7 +3,6 @@ layout: post
 title: "Inviting Innovation in Small Organizations"
 date: 2017-04-08
 img: https://i.imgur.com/D30N5AY.jpg
-link: http://www.karllhughes.com/?p=620
 tags: [packback, innovation, startups]
 ---
 *When I first published this post in October, 2014 all of us on the leadership team at Packback were new at management. We sort of took our own approach to employee engagement, and Innovation Day was one of those approaches.*
