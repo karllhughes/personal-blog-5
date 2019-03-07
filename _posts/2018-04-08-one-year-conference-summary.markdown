@@ -5,7 +5,8 @@ date: 2018-04-08
 img: https://i.imgur.com/mo5k8d6.jpg
 tags: [conferences, speaking]
 ---
-For almost a year now I've been applying for (and speaking) at tech conferences. Midway through 2017, I made a goal for myself to speak at at least four conferences in a year, and I'm really happy to have accomplished that goal.
+
+For over a year now I've been applying for (and speaking) at tech conferences. Midway through 2017, I made a goal for myself to speak at at least four conferences in a year, and I'm really happy to have accomplished that goal.
 
 Along the way, I've run into many other developers who asked me about how I got into speaking and what my process was like, so I wanted to put this post together as a resource for prospective tech conference speakers. Whether you're just starting your career out or you're retired, you can _definitely_ speak at a conference if that's something you want to do. Here's how I did it:
 
@@ -31,4 +32,4 @@ Now that I have a baseline acceptance rate, I met my goal of speaking at 4 confe
  
 While applying to over 40 conferences in a year was a great experience, I'm going to be pickier in the 2018. I love traveling, but doing one conference per month is probably too much for me at this point, so I'm hoping to take it down to 1-3 per year and will try to focus all my talks on a single niche.
 
-If you've got other resources for new conference speakers, I'd love to see them. I'm still learning a ton about this process and trying to become a better speaker, so [find me on Twitter for more](https://twitter.com/karllhughes).
+If you've got other resources for new conference speakers, I'd love to hear about them. I'm still learning a ton about this process and trying to become a better speaker, so [find me on Twitter for more](https://twitter.com/karllhughes).
