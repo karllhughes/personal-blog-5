@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 Tips For Non-Technical Founders Looking For a CTO"
+title: "7 Tips For Non-Technical Founders Looking For a CTO"
 date: 2019-05-24
 img: https://i.imgur.com/bN6fc9R.jpg
 tags: [startups, cto, hiring]
