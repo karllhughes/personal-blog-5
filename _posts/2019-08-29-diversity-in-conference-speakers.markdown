@@ -17,8 +17,7 @@ This lack of diversity is unusual in conferences - even technical ones - because
 > I speak at conferences all the time. Every time I walk on stage - often, as the solo woman on the lineup - I’m very aware I’m representing my gender, as you said. If a guy f***s up, nobody will look at him and go “he was only up there to meet a diversity quota 🙄” - [Samantha Geitz](https://twitter.com/SamanthaGeitz/status/1166713386975006722)
 
 I will empathize a little with dissenters who note that Central Europe is _not_ the most ethnically diverse region in the world. 
-Germany comprises 91% Native-Born Germans, but with gender ratios more evenly split, it's surprising that a conference willing to 
-fly men from America to speak at it didn't invite a single woman to share the stage. Even after [three](https://markbakeruk.net/2019/07/24/withdrawal-from-speaking-at-phpce-2019/) [male](https://twitter.com/grmpyprogrammer/status/1165608289654235136) [speakers](https://steemit.com/php/@crell/skipping-php-ce-this-year) volunteered to give up their spots, the organizer refused to relent:
+Germany for example, comprises 91% Native-Born Germans, but with gender ratios more evenly split in all of Central Europe, it's surprising that a conference willing to fly men from America to speak didn't invite a single woman to share the stage. Even after [three](https://markbakeruk.net/2019/07/24/withdrawal-from-speaking-at-phpce-2019/) [male](https://twitter.com/grmpyprogrammer/status/1165608289654235136) [speakers](https://steemit.com/php/@crell/skipping-php-ce-this-year) volunteered to give up their spots, the organizer refused to relent:
 
 > Equal chances mean to not disturb in the natural process. Favoritism one people group against another is acting in compliance with the /divide et empera/ principle. This is the politics and we are very far from entering politics into the event organization. - [Dariusz Grzesista, PHP CE Organizer](https://twitter.com/DarGrze/status/1152089009725874178)
 
@@ -87,7 +86,7 @@ notable suggestions for conferences that _do_ want to improve diversity and incl
 
 > I'm black in this world, whether I declare myself as black or not. My stories are ones I share with people I trust... - [Alan Johnson](https://twitter.com/AlanJay1/status/1166717359903707138)
 
-### 4. See something? Say something.
+### 5. See something? Say something.
 
 > Thank you for speaking out about this - we 100% need men to back us up to make change happen! - [Ursula Clarke](https://twitter.com/tangentfairy/status/1166057069679644673)
 
