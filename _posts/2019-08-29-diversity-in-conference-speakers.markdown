@@ -48,7 +48,7 @@ In case you want some specific examples:
 
 - Did you know [60% of women in Silicon Valley have been sexually harassed](https://www.vice.com/en_us/article/mgmzb4/for-women-in-tech-sexual-harassment-is-part-of-the-job)?
 - Most white people don't have to think twice about waiting for their friends on the street, but [if you're black, someone might just call the police on you](https://www.forbes.com/sites/rachelsandler/2019/07/09/white-man-calls-police-on-black-man-waiting-for-friend-at-san-francisco-apartment-building/#7c3e48e162b5).
-- Both Dell and Amazon have recently been sued for [allowing discrimination against transgendered employees](http://www.newnownext.com/does-silicon-valley-have-a-transphobia-problem-dell-amazon-google-mozilla/08/2019/), with allegations that employee chat software enabled slurs and hate speech behind these peoples' backs.
+- Both Dell and Amazon have recently been sued for [allowing discrimination against transgender employees](http://www.newnownext.com/does-silicon-valley-have-a-transphobia-problem-dell-amazon-google-mozilla/08/2019/), with allegations that employee chat software enabled slurs and hate speech behind these peoples' backs.
 
 ## But Why Do Conference Organizers Have to Help Fix This?
 
