@@ -10,7 +10,7 @@ tags: [management, startups, cto]
 
 "Chief Technology Officer" (or "CTO") sounds like a glamorous title. It's right up there with "Chief Executive Officer" and "Chief Financial Officer" in the pecking order of a company's leadership, and at big organizations, it's quite an honor to hold. At an early stage startup, the distinction is slightly less exclusive.
 
-After talking to a number of CTOs in 2018, I've realized that the job of CTO in a startup is _way_ different from that in a fortune 500 company; probably much more different than that of CEO or even CFO. While startup CTOs can hire developers to do specific tasks, filling in the rest of the gaps is still a huge responsibility. It's likely that all that work will fall to the CTO.
+After talking to a number of CTOs in the past few years, I've realized that the job of CTO in a startup is _way_ different from that in a fortune 500 company; probably much more different than that of CEO or even CFO. While startup CTOs can hire developers to do specific tasks, filling in the rest of the gaps is still a huge responsibility. It's likely that all that work will fall to the CTO.
 
 So rather than just oversee big picture technology direction or strategic partnerships (although he/she will certainly do that), a startup CTO pretty much does a bit of everything.
 

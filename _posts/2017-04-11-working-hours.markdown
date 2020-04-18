@@ -5,7 +5,7 @@ date: 2017-04-11
 img: https://i.imgur.com/4gJYXh3.jpg
 tags: [startups, balance, health]
 ---
-*I am currently, and was when I wrote this post, a startup employee, and not a founder. Because of this, my advice here comes more from the perspective of the employee, but I hope that perspective makes it even more powerful to the founders who read it. In short: if you want to retain good employees, don't expect them to push it like you do.*
+*My advice here comes more from the perspective of the employee, but I hope that perspective resonates with the founders who read it. In short: if you want to retain good employees, don't expect them to push it like you do.*
 
 -----
 
