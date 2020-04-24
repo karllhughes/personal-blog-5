@@ -12,8 +12,8 @@
 }
 
 body {
-  color: $body-color;
-  background-color: #fbfbfb;
+  color: $dark-gray;
+  background-color: $light-gray;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -44,7 +44,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: italic;
-  color: $dark-gray;
+  color: $gray;
 }
 
 pre {
@@ -70,7 +70,7 @@ pre {
   margin-right: auto;
   margin-left:  auto;
 
-  max-width: 720px;
+  max-width: 740px;
 
   padding: 40px;
 }
@@ -126,6 +126,8 @@ footer {
 @import 'parts/header';
 
 @import 'parts/post';
+
+@import 'parts/signup';
 
 ///* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 //@import 'parts/tag';

@@ -18,20 +18,20 @@ layout: main
 
     {{content | markdownify}}
 
+    <div class="page-tag">
+      <p>Tagged:
+      {% for tag in page.tags %}
+      <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35;{{ tag }}</a>
+      {% endfor %}
+      </p>
+    </div>
+
     <div class="read-more-link">
       {% if page.link %}
       <a href="{{ page.link }}" target="_blank" class="text-center">Read More</a>
       {% else %}
       {% include signup.html %}
       {% endif %}
-    </div>
-
-    <div class="page-footer">
-      <div class="page-tag">
-        {% for tag in page.tags %}
-        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
-        {% endfor %}
-      </div>
     </div>
     {% include disqus.html %}
   </div> <!-- End Page Content -->
