@@ -1,5 +1,5 @@
 header {
-  .about {
+  .title {
     margin-bottom: 2rem;
     .header-image {
       float: left;
@@ -21,7 +21,7 @@ header {
       }
     }
   }
-  .about:after {
+  .title:after {
     clear: both;
   }
 
