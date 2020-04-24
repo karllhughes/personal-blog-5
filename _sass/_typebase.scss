@@ -12,7 +12,7 @@ $scale:1.414 !default;
 
 html {
   /* Change default typefaces here */
-  font-family: serif;
+  font-family: 'Lato', sans-serif;
   font-size: $baseFontSize / 16 * 100%;
   // Make everything look a little nicer in webkit
   -webkit-font-smoothing: antialiased;
@@ -57,7 +57,7 @@ h4,
 h5,
 h6 {
   /* Change heading typefaces here */
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   margin-top: $leading;
   margin-bottom: 0;
   line-height: $leading;

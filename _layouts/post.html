@@ -1,39 +1,38 @@
 ---
 layout: main
 ---
-<article class="article-page">
-  <div class="page-content">
+<article class="post">
+  <div class="post-content">
     {% if page.img %}
     <div class="page-cover-image">
       <img class="page-image" src="{{page.img}}" alt="{{page.title}}">
     </div> <!-- End Page Cover Image -->
     {% endif %}
-    <div class="wrap-content">
-      <header class="header-page">
-        <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{{page.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-      </header>
+    <h1 class="page-title">{{page.title}}</h1>
+    <p class="post-meta">
+      {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;
+      {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
+    </p>
 
+    {% include signup.html %}
+
+    {{content | markdownify}}
+
+    <div class="read-more-link">
+      {% if page.link %}
+      <a href="{{ page.link }}" target="_blank" class="text-center">Read More</a>
+      {% else %}
       {% include signup.html %}
+      {% endif %}
+    </div>
 
-      {{content | markdownify}}
-
-      <div class="read-more-link">
-        {% if page.link %}
-          <a href="{{ page.link }}" target="_blank" class="text-center">Read More</a>
-        {% else %}
-          {% include signup.html %}
-        {% endif %}
+    <div class="page-footer">
+      <div class="page-tag">
+        {% for tag in page.tags %}
+        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
+        {% endfor %}
       </div>
-
-      <div class="page-footer">
-        <div class="page-tag">
-          {% for tag in page.tags %}
-            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
-          {% endfor %}
-        </div>
-      </div>
-      {% include disqus.html %}
-    </div> <!-- End Wrap Content -->
+    </div>
+    {% include disqus.html %}
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->

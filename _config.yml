@@ -1,6 +1,6 @@
 title: Karl L. Hughes
 description: > # this means to ignore newlines until "baseurl:"
-  Technology Team Leader & Entrepreneur in Chicago
+  Technology Team Leader & Entrepreneur
 permalink: 'posts/:title'
 baseurl: ""
 url: "https://www.karllhughes.com"
