@@ -3,7 +3,6 @@
 ---
 
 @import 'normalize';
-@import 'syntax';
 @import 'variables';
 @import 'typebase';
 
@@ -48,21 +47,12 @@ blockquote {
 }
 
 pre {
-  padding: 1rem 2rem;
-  overflow: auto;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  word-break: break-all;
-
-  code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0;
-    overflow: auto;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    word-break: break-all;
-  }
+  background: $light-gray;
+  color: $dark-red;
+  padding: 20px;
+  border: 0;
+  overflow: scroll;
+  font-family: monospace;
 }
 
 .wrapper {

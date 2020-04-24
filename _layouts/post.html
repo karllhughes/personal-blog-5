@@ -18,7 +18,11 @@ layout: main
 
     {{content | markdownify}}
 
-    <div class="page-tag">
+    {% if page.link %}
+      <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
+    {% endif %}
+
+    <div class="page-tags">
       <p>Tagged:
       {% for tag in page.tags %}
       <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35;{{ tag }}</a>
@@ -26,13 +30,9 @@ layout: main
       </p>
     </div>
 
-    <div class="read-more-link">
-      {% if page.link %}
-      <a href="{{ page.link }}" target="_blank" class="text-center">Read More</a>
-      {% else %}
+    {% unless page.link %}
       {% include signup.html %}
-      {% endif %}
-    </div>
-    {% include disqus.html %}
+      {% include disqus.html %}
+    {% endunless %}
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
