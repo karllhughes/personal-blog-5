@@ -1,17 +1,37 @@
+---
+layout: page
+title: Speaking
+permalink: /speaking/
+---
 <p>I have always enjoyed public speaking, but in 2017, <a href="https://www.karllhughes.com/posts/one-year-conference-summary">I started applying to speak at technology conferences</a>. Since then, I've spoken at many conferences around the country as well as a variety of Chicago-area meetups and coding bootcamps.</p>
 <p>As I started speaking, I realized that it was a pain to keep up with the hundreds of Calls for Proposals available every year, so I started <a href="https://www.cfpland.com">CFP Land</a> to help solve this problem for myself and other speakers. If you want to start speaking, I <a href="https://www.cfpland.com/guides/speaking/">also wrote a free 17,000 word guide</a> on the topic.</p>
 <p>Below is a list of the conference talks I'm currently giving:</p>
 
 <h3>Stop Writing Code and Start Solving Problems</h3>
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aw5B8XDQLT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p>Solving problems is a complex, multi-disciplinary art, but as software developers, we tend to jump straight into writing code. While that may be your strength, there are times when you'd be better served by stopping to ask, "What's the real problem here?"</p>
 <p>In this talk, we'll hear several true stories of how engineering teams I've been on have solved problems without writing code. We'll explore the tradeoffs that were made, tools they used, and the lessons learned by these teams so that you can step away from the keyboard and start solving real problems.</p>
 
 <h3>Building Your First Application with Docker</h3>
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tltpMxXgaf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p>Whether you're just starting out or an expert software developer, you've probably heard the dreaded line, "Works on my machine." Docker is quickly becoming the industry-accepted answer to this problem by making virtualization faster and more flexible than ever before.</p>
 <p>In this walk-through, we'll take a step-by-step look at exactly how to set up a web application using Docker. Along the way we'll explore how Docker works, why containers are an improvement over virtual machines, and how this setup can minimize the differences between local and production environments.</p>
 <p><em>Note: I also have a 4-hour workshop on this topic for Javascript developers.</em></p>
 
 <h3>Testing Layers in a Distributed Architecture</h3>
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NcQryexNKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p>Modern web applications often rely on internal APIs, multiple frontend applications, several third-party services, and dozens of vendor libraries. With complex distributed systems like this, how can developers create a comprehensive test plan that covers everything without slowing development down to a crawl?</p>
 <p>In this talk we'll learn how to create test plans for complex, service-oriented applications as well as some best practices for testing across a distributed architecture. We'll see how layers of unit, integration, acceptance, and end-to-end tests can greatly improve the reliability of our applications and make maintaining them much easier in the long-run.</p>
 

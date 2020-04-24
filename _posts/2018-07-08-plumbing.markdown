@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bulk of Software Engineering in 2018 is Just Plumbing"
+title: "The Bulk of Software Engineering is Just Plumbing"
 date: 2018-07-08
 img: https://i.imgur.com/yGwJMZX.jpg
 tags: [programming, engineering, careers]

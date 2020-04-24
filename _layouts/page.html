@@ -1,0 +1,19 @@
+---
+layout: main
+---
+<article class="post">
+  <div class="post-content">
+    {% if page.img %}
+    <div class="page-cover-image">
+      <img class="page-image" src="{{page.img}}" alt="{{page.title}}">
+    </div> <!-- End Page Cover Image -->
+    {% endif %}
+    <h1 class="page-title">{{page.title}}</h1>
+
+    {{content | markdownify}}
+
+    {% if page.link %}
+      <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
+    {% endif %}
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
