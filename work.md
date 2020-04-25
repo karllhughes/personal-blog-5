@@ -29,20 +29,20 @@ and grow the team to about 30 people by the time I left.
 
 Along the way, I started figuring out how to hire engineers, build distributed scalable software, and work with
 founders to learn what customers need and how we can deliver best. I was part of the leadership team 
-during a major pivot, and helped establish the companies core values.
+during a major pivot, and helped establish the company's core values.
 
 ### Director of News, [Uloop](https://www.uloop.com/)
 <p class="post-meta">2011 - 2013</p>
 
 <p class="hug">
-While I was studying Mechanical Engineering at The University of Tennessee, I started a student blog
-that grew to over 30 writers. In addition to managing the editorial process and content calendar, 
-I wrote all the code that powered the CMS.
+While I was studying Mechanical Engineering at The University of Tennessee, I started a student blog. 
+In addition to managing the editorial process and content calendar, I wrote all the code that powered the CMS.
 </p>
 
 Failing to make a sustainable business out of that venture, I joined Uloop, 
 a college classified ads website to integrate my knowledge of content with their expertise in
-online marketing.
+online marketing. I ended up recruiting and managing over 500 college student writers across the country, 
+and building a gamified newsroom in Wordpress to help motivate and focus our efforts.
 
 It was an interesting experience as my job was a blend of technical, editorial, and recruiting, but I 
 learned a ton about being part of a scrappy startup. 
@@ -56,7 +56,7 @@ learned a ton about being part of a scrappy startup.
  technology professionals find public speaking opportunities.</p>
 
 After building an email list of over 2000 technology conference speakers, I've been working on
-making the project consistently profitable by selling Pro Memberships and Sponsorships. I keep an updated log of my 
+making the project consistently profitable by selling Pro Memberships and Sponsorships. I keep a log of my 
 progress on <a href="https://www.indiehackers.com/product/cfp-land">Indie Hackers</a>.
 
 ### [Chicago PHP User Group](https://www.meetup.com/Chicago-PHP-User-Group/)
@@ -65,7 +65,7 @@ progress on <a href="https://www.indiehackers.com/product/cfp-land">Indie Hacker
 <p class="hug">
 In 2018, I was invited to help co-organize the monthly PHP User Group here in Chicago. My primary role is to 
 find and maintain sponsors to cover the location and cost of food at the events, but I've also spoken at
-the event when I have to.
+the event and helped coordinate our annual Hacktoberfest event.
 </p>
 
 ### [Shiphp](https://www.shiphp.com)
