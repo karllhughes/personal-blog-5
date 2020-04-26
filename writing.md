@@ -60,6 +60,7 @@ I have been invited and contributed to a number of other blogs and websites incl
 - [PHP Architect Magazine](https://www.karllhughes.com/posts/php-arch-highlights)
 - [The Muse](https://www.themuse.com/author/karl-l-hughes)
 - [The Linux Foundation](https://www.linuxfoundation.org/author/khughes/)
+- [Javascript January](https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker)
 - [The Side Project Checklist Blog](https://www.sideprojectchecklist.com/blog/)
 - StackShare ([1](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab), [2](https://stackshare.io/stackups/docker-vs-vagrant-cloud))
 - [Indie Hackers](https://www.indiehackers.com/article/building-a-customer-development-funnel-ca25dbc2d6)
