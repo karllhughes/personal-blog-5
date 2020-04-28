@@ -4,70 +4,83 @@ title: Writing
 permalink: /writing/
 ---
 
-I actually started programming because I loved writing.
+I started programming because I loved writing.
 
-In college, I started a campus blog with around 30 of my peers. As a business, the venture was terrible, but 
+In college, I created a campus blog with around 30 of my peers. As a business, the venture was terrible, but 
 it forced me to learn Wordpress and basic web development.
 
 Now 10 years later, I've written almost as much prose as I have code. In addition to the almost 200 posts
-here on this blog, I've been able to contribute to and start a number of professional writing ventures:
+here on this blog, I've been able to contribute to and start a number of great publications.
 
-### KarlLHughes.com
-I can't pick favorites, so here are the top 8 most popular posts I've written in the past 4 years:
+Check out some of my writing samples below and if you're looking for a freelance writer for your technical blog,
+ email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com).
 
-- [The Bulk of Software Engineering is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
-- [The Myths You’ll Hear About Working as an Engineer at a Startup](https://www.karllhughes.com/posts/myths-working-engineer-startup)
-- [The Many Roles of a Startup CTO](https://www.karllhughes.com/posts/roles-of-startup-cto)
-- [Essential Reading for Software Engineering Managers](https://www.karllhughes.com/posts/reading-for-engineering-managers)
-- [Setting up a Remote Development Environment with Google Chrome and DigitalOcean](https://www.karllhughes.com/posts/remote-development-environment)
-- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring)
-- [A Day in the Life of an Engineering Manager](https://www.karllhughes.com/posts/engineering-manager)
-- [Testing the Layers in a Microservice Architecture](https://www.karllhughes.com/posts/testing-layers)
-
-### The Guide to Speaking at Technology Conferences
-
-In 2018, I started [speaking at conferences](/speaking/), which led me to start the weekly [CFP Land newsletter](https://www.cfpland.com).
-
-I have now interviewed over 40 technology conference speakers for the [CFP Land blog](https://www.cfpland.com/blog/) now, and I compiled their advice into
-**[a 17,000 word guide to speaking at tech conferences](https://www.cfpland.com/guides/speaking/)**. It's available for free, and I try to keep it updated
-as I refine my thoughts on public speaking and learn from others.
-
-### The PHP and Docker Book + Shiphp
+### The PHP and Docker Book
 In 2017, I wrote a book called **[Building Your First PHP Application with Docker](https://leanpub.com/first-php-docker-application)** which has since been downloaded by over 1000 developers.
 
 I also maintain a blog for PHP developers at [Shiphp.com](https://www.shiphp.com/).
 
-### Portable CTO Guides
-For a time in 2018/2019, I wrote some [guides for non-technical founders on Portable CTO](https://www.portablecto.com/).
-I don't plan to add more of these anytime soon, but these ones are pretty good:
+### Comprehensive Guides
+One format that I've seen work really well is the long, in-depth guide to a niche topic. I've written
+a few of these:
 
+- [CFP Land's 17,000 word guide to Speaking at Tech Conferences](https://www.cfpland.com/guides/speaking/)
 - [The Complete Guide for Building APIs Without Code](https://www.portablecto.com/guides/api-development)
 - [The Guide for Building Webs Apps Without Code](https://www.portablecto.com/guides/web-applications)
-
-### The Graide Network Blog
-As a passionate advocate for technology education, I can't keep myself from writing a few pieces on our company blog:
-
-- [Top Tech Accomplishments at The Graide Network in 2016](https://www.thegraidenetwork.com/blog-all/2017/1/16/tech-accomplishments)
-- [Why Math and Science Students Need Writing](https://www.thegraidenetwork.com/blog-all/2017/10/3/why-math-and-science-students-need-writing)
 - [Using Technology to Improve Student Writing Skills](https://www.thegraidenetwork.com/blog-all/using-technology-to-improve-student-writing-skills)
 
-### Contributions
-I have been invited and contributed to a number of other blogs and websites including:
+### Tutorials
+As an experienced software engineer, I really enjoy sharing my knowledge, so I've written many tutorials for 
+sites as a volunteer and paid contributor: 
 
-- [Codeship/Rollout](https://rollout.io/blog/author/karlhughes/)
-- [Telerik](https://www.telerik.com/blogs/author/karl-hughes)
-- [Digital Ocean](https://www.digitalocean.com/community/users/khughes)
-- [PHP Architect Magazine](https://www.karllhughes.com/posts/php-arch-highlights)
-- [The Muse](https://www.themuse.com/author/karl-l-hughes)
-- [The Linux Foundation](https://www.linuxfoundation.org/author/khughes/)
-- [Javascript January](https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker)
-- [The Side Project Checklist Blog](https://www.sideprojectchecklist.com/blog/)
-- StackShare ([1](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab), [2](https://stackshare.io/stackups/docker-vs-vagrant-cloud))
-- [Indie Hackers](https://www.indiehackers.com/article/building-a-customer-development-funnel-ca25dbc2d6)
+- [How To Set Up Multi-Node Deployments With Rancher 2.1](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-node-deployments-with-rancher-2-1-kubernetes-and-docker-machine-on-ubuntu-18-04) (DigitalOcean)
+- [Serving an Angular App on Azure's CDN with Codeship and Docker](https://rollout.io/blog/serving-an-angular-app-on-azures-cdn-with-codeship-and-docker/) (Codeship)
+- [Testing the Layers in a Microservice Architecture](https://www.karllhughes.com/posts/testing-layers)
+- [Creating a Custom Build Status Page Using Codeship API v2](https://rollout.io/blog/creating-a-custom-build-status-page-using-codeship-api-v2/) (Codeship)
+- [Setting Up and Deploying a Modern PHP Application](https://rollout.io/blog/setting-up-and-deploying-a-modern-php-application/) (Codeship)
+- [Automating Cloudflare Worker Deployments with CodeShip](https://rollout.io/blog/automating-cloudflare-worker-deployments-codeship/) (Codeship)
+- [Incremental Software Development with PHP Microservices](https://rollout.io/blog/incremental-software-development-with-php-microservices/) (Codeship)
+- [Building a PHP Command Line App with Docker](https://rollout.io/blog/building-a-php-command-line-app-with-docker/) (Codeship)
+- [Building Your First Node App Using Docker](https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker) (Javascript January)
+- [Setting up a Remote Development Environment with Google Chrome and DigitalOcean](https://www.karllhughes.com/posts/remote-development-environment)
+- [Debugging Gmail's "Suspicious link" Warnings](https://dev.to/karllhughes/debugging-gmail-s-suspicious-link-warnings-45ia)
+- [Building a Single NGinx Docker Image For All My PHP-FPM Containers](https://www.shiphp.com/blog/2018/nginx-php-fpm-with-env)
+- [Optimizing MySQL View Queries](https://www.shiphp.com/blog/2019/optimizing-mysql-view-queries)
 
-### Other Platforms
-Finally, I do occasionally write on other open platforms besides my personal blog if you want to follow there:
+### Software Tool Comparisons
+Stackshare invited me to write a couple comparisons between popular technology tools. This was a really fun and unique format, 
+so I'd like to find a good place to contribute more of these:
 
-- [Medium](https://medium.com/@karllhughes)
-- [Dev.to](https://dev.to/karllhughes)
-- [Linkedin](https://www.linkedin.com/in/karllhughes/detail/recent-activity/posts/)
+- [Bitbucket vs GitHub vs GitLab](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab) (Stackshare)
+- [Docker vs Vagrant](https://stackshare.io/stackups/docker-vs-vagrant-cloud) (Stackshare)
+
+### Listacles
+I know the format can be a little clickbaity, but listacles are fun to write, and I've seen several of these do
+really well in search engine rankings.
+
+- [Essential Reading for Software Engineering Managers](https://www.karllhughes.com/posts/reading-for-engineering-managers)
+- [The Myths You’ll Hear About Working as an Engineer at a Startup](https://www.karllhughes.com/posts/myths-working-engineer-startup)
+- [The Many Roles of a Startup CTO](https://www.karllhughes.com/posts/roles-of-startup-cto)
+- [7 Ways to Improve Your Test Suite with Docker](https://rollout.io/blog/7-ways-to-improve-your-test-suite-with-docker/) (Codeship)
+- [Why Math and Science Students Need Writing](https://www.thegraidenetwork.com/blog-all/2017/10/3/why-math-and-science-students-need-writing)
+- [Why Testing Is Important for Distributed Software](https://www.linuxfoundation.org/blog/2017/10/testing-important-distributed-software/) (The Linux Foundation)
+
+### Thought Leadership
+I always enjoy writing about processes and patterns that I'm seeing in the world of software engineering. These kinds of
+posts have a therapeutic quality to me, and they are often among the most widely shared on social media.
+
+- [The Bulk of Software Engineering is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
+- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring)
+- [A Day in the Life of an Engineering Manager](https://www.karllhughes.com/posts/engineering-manager)
+- [Writing Less Software to Accomplish More](https://www.karllhughes.com/posts/less-custom-software)
+- [The Evolution of Our Product Management Process](https://www.karllhughes.com/posts/product-management-process)
+- [Developing New Engineers](https://www.karllhughes.com/posts/developing-talent)
+- [Five Things I’ve Learned Running a PHP User Group](https://www.phparch.com/article/cultivating-a-community-five-things-ive-learned-running-a-php-user-group/) (PHP Architect Magazine)
+- [True Tales of Building PHP Microservices](https://www.phparch.com/magazine/2017-2/september/) (PHP Architect Magazine)
+- [How My Team Accidentally Moved to TypeScript and Loved It](https://www.telerik.com/blogs/how-my-team-accidentally-moved-to-typescript-and-loved-it) (Telerik)
+- [Code is not Enough](https://www.linkedin.com/pulse/code-notenough-karl-l-hughes/)
+- [Building a Customer Development Funnel](https://www.indiehackers.com/article/building-a-customer-development-funnel-ca25dbc2d6) (Indie Hackers)
+- [My Social Media & Email Marketing Automation Strategy](https://www.sideprojectchecklist.com/2018/my-social-media-automation/)
+
+### What can I do for you?
+I am always willing to hear about new writing opportunities. Email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com).

@@ -57,13 +57,21 @@ blockquote {
   color: $gray;
 }
 
-pre {
+pre, code {
   background: $light-gray;
   color: $dark-red;
+  font-family: monospace;
+}
+
+code {
+  vertical-align: center;
+  padding: 3px;
+}
+
+pre {
   padding: 20px;
   border: 0;
   overflow: scroll;
-  font-family: monospace;
 }
 
 .wrapper {
