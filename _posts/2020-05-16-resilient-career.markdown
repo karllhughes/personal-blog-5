@@ -8,7 +8,7 @@ tags: [career, jobs, startups]
 
 I was reading another engineer's story this week about [his 65-day job hunt](https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs). I've avoided traditional job applications and interviews since I graduated from college, but a few things struck me from this post:
 
-1. Instead of targeting _every_ job, Matt Dupree selectively applied at **only 16 companies*** and withdrew applications when he thought the company was a bad fit. I love this advice.
+1. Instead of targeting _every_ job, Matt Dupree selectively applied at **only 16 companies** and withdrew applications when he thought the company was a bad fit. I love this advice.
 2. Matt has built side projects, spoken at conferences, and blogged consistently for years. **He walked into interviews with a trust level much higher than random applicants.** I have said this before: [coding skills are not enough to build a resilient career](https://www.linkedin.com/pulse/code-notenough-karl-l-hughes/).
 3. Technical interviews still tell employers very little about an engineer's ability (that's a [whole other blog post](https://www.karllhughes.com/posts/rethinking-hiring)).
 
