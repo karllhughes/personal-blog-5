@@ -15,7 +15,7 @@ This summer, I found myself with a little extra time on my hands, so I decided t
 ### How Much Does it Pay?
 Most freelance writers have a tough time making much money, but technical writing is among the highest-paid segments of the industry. I've been paid anywhere between $200 and $700 per article depending on the topic, publication, and length. It usually works out to between $50 and $250 per hour (excluding administrative work and pitching). Obviously, that's a big spread, so you'll have to balance the kind of writing you want to do with your desire for income.
 
-For example, you might get paid $500 for a long piece about something you've never used before. The upside to this kind of post is that _you'll learn a lot_, but the downside is that your hourly rate won't be great.
+For example, you might get paid $500 for a long piece about something you've never used before. The upside to this kind of post is that _you'll learn a lot_, but the downside is that your hourly rate isn't great if it takes you 20 hours of work.
 
 ### What Skills Do You Need to Have?
 Technical bloggers are well-paid because they have to have specialized knowledge that can take years to acquire. Writing in-depth software engineering tutorials can require quite a bit of research - even if you are already familiar with the topic. I've been writing software for almost ten years now, and some articles take me 2-3 hours of research before I can even get started writing.
