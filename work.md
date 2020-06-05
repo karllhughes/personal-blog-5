@@ -4,8 +4,19 @@ title: Work History
 permalink: /work/
 ---
 
+### Founder, [Draft](https://draft.dev/)
+<p class="post-meta">2020 - Present</p>
+
+<p class="hug">
+Writing for a technical audience is notoriously hard and incredibly valuable. I founded
+Draft to help brands create high-quality content that reaches software developers.  
+</p>
+
+Draft offers [done-for-you technical blogging services](https://draft.dev/) for a fixed monthly rate.
+As the founder, I work primarily on business development, content strategy, and quality control.
+
 ### CTO, [The Graide Network](https://www.thegraidenetwork.com)
-<p class="post-meta">2016 - Present</p>
+<p class="post-meta">2016 - 2020</p>
 
 <p class="hug">
 I joined The Graide Network's leadership team to help refine a messy MVP and kickstart the
@@ -14,9 +25,9 @@ continuous integration, version control, uptime monitoring, backups, etc. - and 
 platform for our hundreds of student "Graiders" to use.
 </p>
 
-Since then, I've implemented processes and hired two more engineers to work with me on the product.
-We're rapidly expanding across the country, and after raising over $1mm in 2018, we recently delivered our 
-1,000,000th piece of feedback given mark.
+During my time with The Graide Network, I implemented processes and hired two more engineers to work with me on the product.
+We were able to raise $1mm in 2018 and expand to dozens of schools across the country. We delivered over 1,000,000 
+pieces of feedback to students in my four years with the company.
 
 ### Head of Engineering, [Packback](https://www.packback.co/)
 <p class="post-meta">2013 - 2016</p>
