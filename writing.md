@@ -13,7 +13,7 @@ Now 10 years later, I've written almost as much prose as I have code. In additio
 here on this blog, I've been able to contribute to and start a number of great publications.
 
 Check out some of my writing samples below and if you're looking for a freelance writer for your technical blog,
- email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com).
+ check out my company, [Draft](https://draft.dev).
 
 ### The PHP and Docker Book
 In 2017, I wrote a book called **[Building Your First PHP Application with Docker](https://leanpub.com/first-php-docker-application)** which has since been downloaded by over 1000 developers.
@@ -34,7 +34,9 @@ As an experienced software engineer, I really enjoy sharing my knowledge, so I'v
 sites as a volunteer and paid contributor: 
 
 - [How To Set Up Multi-Node Deployments With Rancher 2.1](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-node-deployments-with-rancher-2-1-kubernetes-and-docker-machine-on-ubuntu-18-04) (DigitalOcean)
+- [User registration and sign-in with Laravel and FusionAuth](https://fusionauth.io/blog/2020/06/03/user-registration-and-sign-in-with-laravel) (FusionAuth)
 - [Serving an Angular App on Azure's CDN with Codeship and Docker](https://rollout.io/blog/serving-an-angular-app-on-azures-cdn-with-codeship-and-docker/) (Codeship)
+- [Build an SMS Reminder Tool for Teachers Using Google Classroom](https://www.nexmo.com/blog/2020/06/04/build-an-sms-reminder-tool-for-teachers-using-google-classroom-dr) (Nexmo/Vonage)
 - [Testing the Layers in a Microservice Architecture](https://www.karllhughes.com/posts/testing-layers)
 - [Creating a Custom Build Status Page Using Codeship API v2](https://rollout.io/blog/creating-a-custom-build-status-page-using-codeship-api-v2/) (Codeship)
 - [Setting Up and Deploying a Modern PHP Application](https://rollout.io/blog/setting-up-and-deploying-a-modern-php-application/) (Codeship)
@@ -54,11 +56,12 @@ so I'd like to find a good place to contribute more of these:
 - [Bitbucket vs GitHub vs GitLab](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab) (Stackshare)
 - [Docker vs Vagrant](https://stackshare.io/stackups/docker-vs-vagrant-cloud) (Stackshare)
 
-### Listacles
-I know the format can be a little clickbaity, but listacles are fun to write, and I've seen several of these do
-really well in search engine rankings.
+### Roundups
+I know listacles can be a little clickbaity, but they are fun to write, and can do 
+well in search engine rankings.
 
 - [Essential Reading for Software Engineering Managers](https://www.karllhughes.com/posts/reading-for-engineering-managers)
+- [Static Analysis in JavaScript: 11 Tools to Help You Catch Errors](https://blog.logrocket.com/static-analysis-in-javascript-11-tools-to-help-you-catch-errors-before-users-do/) (LogRocket)
 - [The Myths You’ll Hear About Working as an Engineer at a Startup](https://www.karllhughes.com/posts/myths-working-engineer-startup)
 - [The Many Roles of a Startup CTO](https://www.karllhughes.com/posts/roles-of-startup-cto)
 - [7 Ways to Improve Your Test Suite with Docker](https://rollout.io/blog/7-ways-to-improve-your-test-suite-with-docker/) (Codeship)
@@ -83,4 +86,4 @@ posts have a therapeutic quality to me, and they are often among the most widely
 - [My Social Media & Email Marketing Automation Strategy](https://www.sideprojectchecklist.com/2018/my-social-media-automation/)
 
 ### What can I do for you?
-I am always willing to hear about new writing opportunities. Email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com).
+I am always willing to hear about new writing opportunities. Email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com) or learn more on [Draft](https://draft.dev)'s website.
