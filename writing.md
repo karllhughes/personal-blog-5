@@ -12,8 +12,7 @@ it forced me to learn Wordpress and basic web development.
 Now 10 years later, I've written almost as much prose as I have code. In addition to the almost 200 posts
 here on this blog, I've been able to contribute to and start a number of great publications.
 
-Check out some of my writing samples below and if you're looking for a freelance writer for your technical blog,
- check out my company, [Draft](https://draft.dev).
+Check out some of my writing samples below and if you're looking for a freelance writer for your technical blog, email me: [khughes.me@gmail.com](mailto:khughes.me@gmail.com).
 
 ### The PHP and Docker Book
 In 2017, I wrote a book called **[Building Your First PHP Application with Docker](https://leanpub.com/first-php-docker-application)** which has since been downloaded by over 1000 developers.
