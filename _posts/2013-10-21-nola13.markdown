@@ -5,6 +5,7 @@ date: 2013-10-21
 img: https://i.imgur.com/DuZ0CYs.jpg
 link: https://www.youtube.com/watch?v=PM_6x7fLQKg
 tags: [college-media-association, conferences]
+redirect_to: /
 ---
 I was invited to speak at the College Media Association's 2013 conference in New Orleans, so I wanted to publicly post my presentations for anyone who is interested. Feel free to let me know if you have questions, comments, feedback, or whatever.
 

@@ -4,6 +4,7 @@ title: "The Journey Begins - Homeless for a Summer"
 date: 2012-05-28
 img: https://i.imgur.com/SCW5Qkt.jpg
 tags: [roaming-summer, personal-updates]
+redirect_to: /
 ---
 As many of you who follow me on Google+ know, this summer, I sold [almost all of my possessions](https://plus.google.com/101080316492181821858/posts/1KX5pX8FbgB) and [I'm going to be homeless](https://plus.google.com/101080316492181821858/posts/XzbbsDxcryh).
 

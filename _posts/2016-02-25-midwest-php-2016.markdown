@@ -4,6 +4,7 @@ title: "7 Talks I'm Looking Forward to Most at Midwest PHP 2016"
 date: 2016-02-25
 img: 
 tags: []
+redirect_to: /
 ---
 ![midwest php 2016](https://i.imgur.com/kvaPP7n.png)I have been neglecting the conference circuit lately. While I make it out to many of the local PHP and Laravel meetups, I decided I'd kick it up a notch this year and attend a couple technical conferences. Since I've never been to Minneapolis, the price was reasonable, and I am an avid PHP fan, I figured [Midwest PHP would be a good start](http://2016.midwestphp.org/). Now that the lineup of speakers has been released, I'm really excited about some of these talks as well as the opportunity to meet some of the speakers and my fellow PHP nerds. I'll be tweeting and probably writing about some of these talks, but in preparation for the event, here are a few of the talks I'm looking forward to most this year:
 

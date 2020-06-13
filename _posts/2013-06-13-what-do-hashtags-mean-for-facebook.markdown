@@ -4,6 +4,7 @@ title: "What do #Hashtags Mean for Facebook?"
 date: 2013-06-13
 img: 
 tags: [facebook, social-media]
+redirect_to: /
 ---
 Facebook finally [unveiled the hashtag feature](https://www.facebook.com/KarlLHughes/posts/10101487297081615) that they've been [talking about for a few months now](http://techcrunch.com/2013/03/14/facebook-hashtags/). As an avid [Twitter](https://twitter.com/KarlLHughes) and [Google+](https://plus.google.com/101080316492181821858/posts) user, I've been comfortable with hashtags for a long time, but for many casual social media users, this will be the first time they are exposed to the search utility. For bloggers, marketers, and anyone who wants a public presence online, this feature might be the most important one that Facebook has released to date, and here's why:
 

@@ -4,6 +4,7 @@ title: "Social Media 101: Be Human"
 date: 2013-01-26
 img: 
 tags: [social-media, facebook, twitter]
+redirect_to: /
 ---
 I've been active on social networks for almost my whole life. It's weird to say that, because people just a few years older than myself couldn't claim this about themselves. My generation is the first to grow up with it, and the first to form their thoughts about customers, sales, and marketing with social media tightly integrated into the conversation.
 

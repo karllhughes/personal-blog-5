@@ -4,6 +4,7 @@ title: "Are You Going to be a Good CEO? Here's How You Can Find Out"
 date: 2013-02-13
 img: 
 tags: [business, ceo, startups]
+redirect_to: /
 ---
 [Robert Scoble](http://scobleizer.com/) has always been one of my big influences. His job is to go around and interview CEO's and founders of interesting startups, so he's definitely got some know-how when it comes to business. He posted this answer on Quora, so I figured I would share. The original question was "[What separates the top 10% of startup CEOs from the rest?](http://www.quora.com/Startup-Founders-and-Entrepreneurs/What-separates-the-top-10-of-startup-CEOs-from-the-rest)"
 
