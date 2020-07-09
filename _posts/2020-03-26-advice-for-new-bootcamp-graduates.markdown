@@ -52,20 +52,22 @@ of their employees.
 10\. [You'll also need to do more than just code](https://www.themuse.com/advice/7-things-startups-want-in-engineers-besides-knowing-how-to-code), but
 that might be a universally a good idea (see #4).
 
+11\. [You also don't have to be a software developer forever](https://www.freecodecamp.org/news/alternative-career-paths/). Your career is long and there are lots of interesting branches you can take.
+
 ## Edtech
 
-11\. I have collected [a number of resources on Github](https://github.com/karllhughes/edtech-chicago) for people trying to
+12\. I have collected [a number of resources on Github](https://github.com/karllhughes/edtech-chicago) for people trying to
 break into the education technology industry. _Aside: you might also consider a job teaching or TA'ing at a bootcamp to get started in this field._ 
 
 ## Controversial Thoughts
 
-12\. The first job is the hardest. Plan on 3-6 months of searching, or 6-12 months if you're picky or can't devote 50+ hours/week to it.
+13\. The first job is the hardest. Plan on 3-6 months of searching, or 6-12 months if you're picky or can't devote 50+ hours/week to it.
 
-13\. Focus on < 10 companies, don't use the "spray and pray" approach.
+14\. Focus on < 10 companies, don't use the "spray and pray" approach.
 
-14\. Learn one programming language and (at most) 2 frameworks to start. Go deep, you can widen out later in your career.
+15\. Learn one programming language and (at most) 2 frameworks to start. Go deep, you can widen out later in your career.
 
-15\. Spend 1/3 of your time networking/meeting people, 1/3 of your time coding/practicing ([project Euler](https://projecteuler.net/) is a fun way to do this), and 1/3 of your time applying/interviewing/coding challenges. If you're not able to put in 50+ hours/week, it may take longer to find a job.
+16\. Spend 1/3 of your time networking/meeting people, 1/3 of your time coding/practicing ([project Euler](https://projecteuler.net/) is a fun way to do this), and 1/3 of your time applying/interviewing/coding challenges. If you're not able to put in 50+ hours/week, it may take longer to find a job.
 
 -----
 
