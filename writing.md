@@ -32,9 +32,12 @@ a few of these:
 As an experienced software engineer, I really enjoy sharing my knowledge, so I've written many tutorials for 
 sites as a volunteer and paid contributor: 
 
+- [How To Deploy Laravel 7 and MySQL on Kubernetes using Helm](https://www.digitalocean.com/community/tutorials/how-to-deploy-laravel-7-and-mysql-on-kubernetes-using-helm) (DigitalOcean)
 - [How To Set Up Multi-Node Deployments With Rancher 2.1](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-node-deployments-with-rancher-2-1-kubernetes-and-docker-machine-on-ubuntu-18-04) (DigitalOcean)
+- [Using OAuth and PKCE to Add Authentication to Your Gatsby Site](https://fusionauth.io/blog/2020/06/25/using-oauth-and-pkce-to-add-authentication-to-your-gatsby-site) (FusionAuth)
 - [User registration and sign-in with Laravel and FusionAuth](https://fusionauth.io/blog/2020/06/03/user-registration-and-sign-in-with-laravel) (FusionAuth)
 - [Serving an Angular App on Azure's CDN with Codeship and Docker](https://rollout.io/blog/serving-an-angular-app-on-azures-cdn-with-codeship-and-docker/) (Codeship)
+- [Speeding Up API Key Generation Using Edge Computing](https://blog.stackpath.com/speeding-up-api-key-generation-using-edge-computing/) (StackPath)
 - [Build an SMS Reminder Tool for Teachers Using Google Classroom](https://www.nexmo.com/blog/2020/06/04/build-an-sms-reminder-tool-for-teachers-using-google-classroom-dr) (Nexmo/Vonage)
 - [Testing the Layers in a Microservice Architecture](https://www.karllhughes.com/posts/testing-layers)
 - [Creating a Custom Build Status Page Using Codeship API v2](https://rollout.io/blog/creating-a-custom-build-status-page-using-codeship-api-v2/) (Codeship)
@@ -59,6 +62,7 @@ so I'd like to find a good place to contribute more of these:
 I know listacles can be a little clickbaity, but they are fun to write, and can do 
 well in search engine rankings.
 
+- [23 Alternative Career Paths for Software Developers](https://www.freecodecamp.org/news/alternative-career-paths/) (FreeCodeCamp)
 - [Essential Reading for Software Engineering Managers](https://www.karllhughes.com/posts/reading-for-engineering-managers)
 - [Static Analysis in JavaScript: 11 Tools to Help You Catch Errors](https://blog.logrocket.com/static-analysis-in-javascript-11-tools-to-help-you-catch-errors-before-users-do/) (LogRocket)
 - [The Myths You’ll Hear About Working as an Engineer at a Startup](https://www.karllhughes.com/posts/myths-working-engineer-startup)
@@ -82,7 +86,6 @@ posts have a therapeutic quality to me, and they are often among the most widely
 - [How My Team Accidentally Moved to TypeScript and Loved It](https://www.telerik.com/blogs/how-my-team-accidentally-moved-to-typescript-and-loved-it) (Telerik)
 - [Code is not Enough](https://www.linkedin.com/pulse/code-notenough-karl-l-hughes/)
 - [Building a Customer Development Funnel](https://www.indiehackers.com/article/building-a-customer-development-funnel-ca25dbc2d6) (Indie Hackers)
-- [My Social Media & Email Marketing Automation Strategy](https://www.sideprojectchecklist.com/2018/my-social-media-automation/)
 
 ### What can I do for you?
-I am always willing to hear about new writing opportunities. Email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com) or learn more on [Draft](https://draft.dev)'s website.
+I am always willing to hear about new writing opportunities. Email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com) if you'd like to work together.
