@@ -40,7 +40,7 @@ Even though you might not be required to spend every weekend at the office, itâ€
 
 Want to create the next internal service in a new language? Why not? Want to create your own hybrid framework based on standards youâ€™ve implemented on your engineering team? You might get to do it.
 
-These things would be difficult if not impossible in a large corporate environment, but when teams are small, the stakes are high, and people need to move fast, you have more room to [try new tools](https://www.portablecto.com/tools/) and experiment. An environment that encourages learning and experimentation keeps engineers more motivated than one that stifles its technical talent.
+These things would be difficult if not impossible in a large corporate environment, but when teams are small, the stakes are high, and people need to move fast, you have more room to [try new tools](https://www.karllhughes.com/tools/) and experiment. An environment that encourages learning and experimentation keeps engineers more motivated than one that stifles its technical talent.
 
 ## Myth 3: you have to be a full-stack rock star hacker to work at a startup
 

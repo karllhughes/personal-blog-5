@@ -62,8 +62,8 @@ Codeship is the truly continuous integration part of this whole workflow. They g
 
 _Cost: Free - $600/month_
 
-#### [Digital Ocean](https://www.digitalocean.com/)
-Digital Ocean offers one of the [easiest and cheapest options for hosting](https://www.digitalocean.com/). You can effortlessly scale servers and manage your DNS records there as well.
+#### [Digital Ocean](https://m.do.co/c/888fefc32a01)
+Digital Ocean offers one of the [easiest and cheapest options for hosting](https://m.do.co/c/888fefc32a01). You can effortlessly scale servers and manage your DNS records there as well.
 
 _Cost: $5 - $80/month per server_
 

@@ -10,7 +10,7 @@ My Macbook Pro is a couple years old now and I've been thinking about switching 
 
 The inspiration to set up a remote development environment hit me when I saw my colleague Eric logging into his remote desktop PC at home through his Chromebook. If you're comfortable on the command line and aren't afraid of working in Linux, then why not make your whole development environment remote? It's 2018 for goodness' sake!
 
-In this post, I'll outline my experience setting up and using a remote development environment with DigitalOcean and Google Chrome. I'll cover the apps I used to make remote development workable as well as some of the tradeoffs of going this route. You could replicate this environment on a Chromebook, Macbook, old laptop, or even a tablet (with some different apps).
+In this post, I'll outline my experience setting up and using a remote development environment with [DigitalOcean](https://m.do.co/c/888fefc32a01) and Google Chrome. I'll cover the apps I used to make remote development workable as well as some of the tradeoffs of going this route. You could replicate this environment on a Chromebook, Macbook, old laptop, or even a tablet (with some different apps).
 
 ## Why use a remote development environment?
 
@@ -39,7 +39,7 @@ As I got into researching this project, I realized I was far from the first pers
 
 ### 1. Create a DigitalOcean droplet
 
-[DigitalOcean's droplets](https://www.portablecto.com/tools/digitalocean) are virtual private servers that range in price from $5/month to $160+/month depending on the size and bandwidth you need. Each one comes with a public IP address, hard disk, and network connectivity, so it takes about 60 seconds to get a server up and on the internet. You can create them [with a bare Linux install](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04) or with a [one-click application](https://www.digitalocean.com/docs/one-clicks/) that comes pre-configured to common project specifications. Let's take a look at how easy it is to set one up.
+[DigitalOcean's droplets](https://m.do.co/c/888fefc32a01) are virtual private servers that range in price from $5/month to $160+/month depending on the size and bandwidth you need. Each one comes with a public IP address, hard disk, and network connectivity, so it takes about 60 seconds to get a server up and on the internet. You can create them [with a bare Linux install](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04) or with a [one-click application](https://www.digitalocean.com/docs/one-clicks/) that comes pre-configured to common project specifications. Let's take a look at how easy it is to set one up.
 
 I like [using Docker for development](https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker), so I chose to set up my droplet using the Docker one-click app. If you prefer to use a LAMP stack or you build a lot of Node apps, you might want to select those presets. Otherwise, just pick your favorite Linux distro.
 
@@ -94,7 +94,7 @@ At first it wasn't intuitive, but when you import your SSH keys, you have to sel
 Once your `id_rsa` keys are added, click Connect and start using the terminal just like you would on your local machine.
 
 ### 4. Install [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
-If you do a lot of work [creating APIs](https://www.portablecto.com/guides/api-development), you need a way to test requests. I've been consistently impressed by Postman as they've continued to innovate over the past 3 years that I've been using the tool.
+If you do a lot of work [creating APIs](https://www.karllhughes.com/posts/api-development), you need a way to test requests. I've been consistently impressed by Postman as they've continued to innovate over the past 3 years that I've been using the tool.
 
 It's pretty simple to install Postman and start creating requests, so I won't go over that in detail, but connecting to your new droplet is easy. Just use the IP address as the URL.
 

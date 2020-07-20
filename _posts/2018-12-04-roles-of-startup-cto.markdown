@@ -23,7 +23,7 @@ Here are just a few of the things startup CTOs end up taking charge of - whether
 
 Most people who want a technical co-founder probably want someone to do this. Creating the first iteration of a startup's product usually falls to the CTO, and that makes a lot of corporate CTO's really bad for the job. Big company CTO's are usually 2 or 3 levels of management away from day-to-day engineering.
 
-Startup CTOs should be very well versed in the [tools and technologies available for building MVPs](https://www.portablecto.com/tools/), whether those be web apps, mobile apps, desktop software, or hardware. They can't be afraid to get their hands dirty because even if there is a budget to hire a team, the CTO will inevitably play back-up for any roles that can't be filled immediately.
+Startup CTOs should be very well versed in the [tools and technologies available for building MVPs](https://www.karllhughes.com/tools/), whether those be web apps, mobile apps, desktop software, or hardware. They can't be afraid to get their hands dirty because even if there is a budget to hire a team, the CTO will inevitably play back-up for any roles that can't be filled immediately.
 
 ### 2. Hiring engineers, IT professionals, and data scientists
 
@@ -71,7 +71,7 @@ Once again, a startup's CTO will pick up the slack here until they can hire a de
 
 Data science, machine learning, and AI are hot topics right now, but data scientists are a luxury that smaller startups usually cannot afford. Even if you can collect millions of data points, it's useless without a CTO who can come up with a decent system for storing and accessing this data securely and quickly.
 
-The good news is that there are a lot of [tools for machine learning](https://www.portablecto.com/collections/machine-learning) that don't require much specialized knowledge in this area. I was shocked at how quickly we could run machine learning experiments at Packback with just a few thousand data points and a free trail of [Microsoft's Machine Learning Studio](https://www.portablecto.com/tools/azure-machine-learning-studio).
+The good news is that there are a lot of tools for machine learning that don't require much specialized knowledge in this area. I was shocked at how quickly we could run machine learning experiments at Packback with just a few thousand data points and a free trail of [Microsoft's Machine Learning Studio](https://azure.microsoft.com/en-us/services/machine-learning/).
 
 ### 10. Vendor and customer relationships
 
