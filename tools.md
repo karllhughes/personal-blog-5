@@ -28,6 +28,7 @@ which may give both of us a little free credit, so click away if you want to try
 - [Github](http://github.com/) - Not only a code-hosting platform, Github is my go-to static site hosting as well.
 
 ## Sales and Marketing
+- [Carrd](https://carrd.co/) - The best one-page landing page builder I've found.
 - [Streak CRM](https://www.streak.com/) - Good for tracking sales leads, sending follow-ups, and mail merges.
 - [Hunter.io](https://hunter.io/) - There are a million reasons you might want to find an email address. This is how I do it.
 - [Mailchimp](http://eepurl.com/cMDrn5) - Has its rough edges, but Mailchimp is probably the best all-purpose email management tool available.
