@@ -183,7 +183,7 @@ Now the data is a little easier to look at. Congratulations, you just made your 
 
 ### Accessing an API from Postman
 
-The example above was simple because the API didn't require any authentication and we were just making a "Get" request to see all the data about a single product. If the API you're accessing or building is more complex, you'll likely need to use an API tool like [Postman](/tools/postman).
+The example above was simple because the API didn't require any authentication and we were just making a "Get" request to see all the data about a single product. If the API you're accessing or building is more complex, you'll likely need to use an API tool like [Postman](/posts/postman-api-access).
 
 - To set up Postman, [download it for your operating system here](https://www.getpostman.com/apps).
 - We'll be using the [Holiday API](https://holidayapi.com/), so go to [holidayapi.com](https://holidayapi.com/) and sign up for a free API key.
