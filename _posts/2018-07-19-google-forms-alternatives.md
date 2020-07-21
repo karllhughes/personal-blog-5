@@ -2,7 +2,7 @@
 layout: post
 title: "11 Alternatives to Google Forms"
 img: https://i.imgur.com/VK5SMVk.png
-date: 2020-07-19
+date: 2018-07-19
 tags: [startups, forms]
 ---
 
