@@ -1,6 +1,6 @@
 title: Karl L. Hughes
 description: > # this means to ignore newlines until "baseurl:"
-  Technology Team Leader & Entrepreneur
+  Startups · Technology · Leadership
 permalink: 'posts/:title'
 baseurl: ""
 url: "https://www.karllhughes.com"
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Karl L. Hughes # add your name
 author-img: karl.jpg # add your photo
-about-author: Technology Team Leader & Entrepreneur in Chicago, IL
+about-author: Entrepreneur, software engineer, and writer based in Chicago, IL.
 social-twitter: karllhughes # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: karllhughes # add your Github handle
