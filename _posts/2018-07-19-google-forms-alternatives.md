@@ -54,6 +54,9 @@ If your site is built on Wordpress, check out the Formidable Forms plugin. They 
 
 If you've outgrown forms entirely and you need something a little more robust, check out Appenate. It's a no-code platform for building internal applications that can be accessed over the web.
 
+## [Paperform](https://paperform.co/)
+Paperform is perfect for creating bespoke forms and landing pages. You can leverage more than 20 data-collection fields, accept payments, and even manage your product inventory. If you're looking to move your Google forms elsewhere, you can use Paperform's importer to preview how they'd look.
+
 -----
 
 These are just a few of the options available to founders who've outgrown Google forms. Have your own tools or suggestions? [Find me on Twitter](https://twitter.com/karllhughes) to send them my way.
