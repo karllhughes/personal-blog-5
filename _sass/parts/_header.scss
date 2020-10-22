@@ -14,10 +14,13 @@ header {
         font-size: 2rem;
         line-height: 2rem;
       }
-      h2 {
+      nav {
         margin-top: .2rem;
         font-size: 1.1rem;
         line-height: 1.3rem;
+        a {
+          color: $dark-gray;
+        }
       }
     }
   }

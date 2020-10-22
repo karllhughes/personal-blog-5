@@ -16,23 +16,24 @@ layout: main
 
     {% include signup.html %}
 
-    {{content | markdownify}}
+    {{ content | markdownify }}
 
     {% if page.link %}
       <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>
     {% endif %}
 
+    {% if page.categories.size > 0 %}
     <div class="page-tags">
-      <p>Tagged:
-      {% for tag in page.tags %}
-      <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35;{{ tag }}</a>
+      <p>Read more like this in
+      {% for category in page.categories %}
+        <a href="{{site.baseurl}}/{{ category | slugify }}" class="tag">{{ category }}</a>{% if forloop.last %}{% else %},{% endif %}
       {% endfor %}
       </p>
     </div>
+    {% endif %}
 
     {% unless page.link %}
       {% include signup.html %}
-      {% include disqus.html %}
     {% endunless %}
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->

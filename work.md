@@ -4,15 +4,15 @@ title: Work History
 permalink: /work/
 ---
 
-### Founder, [Draft](https://draft.dev/)
+### Founder, [Draft.dev](https://draft.dev/)
 <p class="post-meta">2020 - Present</p>
 
 <p class="hug">
 Writing for a technical audience is notoriously hard and incredibly valuable. I founded
-Draft to help brands create high-quality content that reaches software developers.  
+Draft.dev to help brands create high-quality content that reaches software developers.  
 </p>
 
-Draft offers [done-for-you technical blogging services](https://draft.dev/) for a fixed monthly rate.
+Draft.dev offers [done-for-you technical blogging services](https://draft.dev/) for a fixed monthly rate.
 As the founder, I work primarily on business development, content strategy, and quality control.
 
 ### CTO, [The Graide Network](https://www.thegraidenetwork.com)
