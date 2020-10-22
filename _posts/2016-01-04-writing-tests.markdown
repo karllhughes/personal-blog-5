@@ -3,7 +3,8 @@ layout: post
 title: "Start Writing Tests - They Don't Have to be Perfect"
 date: 2016-01-04
 img: 
-tags: []
+categories:
+  - Software Engineering
 ---
 I think a lot of developers are intimidated by the prospect of writing tests. When a project is small or "just a side project" it seems like it's more trouble than it's worth to include a testing library, refactor for testability, and write tests to cover a few hundred or few dozen lines of code. That is, until the project grows, another developer starts working on it, or its spec changes. [Testing always seems like it's not worth it until it really is](http://www.renaissancesoftware.net/blog/archives/206). ![](https://i.imgur.com/4qRG5bp.jpg) If you start with test coverage in mind from the beginning, testing is actually pretty easy, but what about writing tests for established, in production legacy applications? What can you do there? I recently started contributing to a little open source project that had almost zero test coverage. Worse, there were a few tests that the original maintainer had written, but he hadn't bothered to fix them as the library evolved, so they were actually failing. Still, the project was being used in production and it seemed to be functioning as expected, so I figured it would still be easier to help implement tests than to start from scratch. **What do you do with a working application that doesn't have tests?** Where do you start?
 

@@ -3,7 +3,8 @@ layout: post
 title: "A Collection of Docker and PHP Tutorials"
 date: 2017-06-23
 img: https://i.imgur.com/pHQ5aKr.jpg
-tags: [php, docker, shiphp, programming]
+categories:
+  - Software Engineering
 ---
 As part of [my 2017 writing goal](https://www.karllhughes.com/posts/2017-writing-goal), I decided to spend this month writing a series of short "How-Tos" for people trying to learn PHP or up their skills. Since a lot of the work I've been doing lately has involved PHP and Docker and I've found precious few resources on that topic, many of my posts center around using Docker containers to accomplish typical PHP tasks.
 

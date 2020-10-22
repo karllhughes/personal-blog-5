@@ -3,7 +3,8 @@ layout: post
 title: "Is Facebook Really a $104 Billion Company?"
 date: 2012-03-31
 img: https://i.imgur.com/WdM01PN.jpg
-tags: [facebook, social-media, ipo]
+categories: 
+  - Startups
 ---
 This week, Facebook underwent its [final valuation before their initial public offering of stock](http://thenextweb.com/insider/2012/03/31/final-facebook-auction-values-the-firm-at-104-billion/).  Facebook is making all sorts of history with its IPO, but the real question in my mind is "how the hell is Facebook worth _$104 BILLION_?" 
 

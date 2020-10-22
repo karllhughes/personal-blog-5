@@ -3,7 +3,8 @@ layout: post
 title: "The Bulk of Software Engineering is Just Plumbing"
 date: 2018-07-08
 img: https://i.imgur.com/yGwJMZX.jpg
-tags: [programming, engineering, careers]
+categories:
+  - Software Engineering
 ---
 
 I read a post online recently about how some software engineer was asked to complete a technically complex, jargon-filled coding challenge over the phone in order to get a job. He did well enough on the call to get an offer, but after he started the new job, he realized it wasn't going to be the academically challenging role he was hoping for. No, he'd just be building basic CRUD applications for the web with a legacy system haphazardly running on whatever virtual machine could be found.

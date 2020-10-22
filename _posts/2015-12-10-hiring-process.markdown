@@ -3,7 +3,8 @@ layout: post
 title: "Our Hiring Process at Packback"
 date: 2015-12-10
 img: https://i.imgur.com/vlm3X9C.jpg
-tags: [hiring]
+categories:
+  - Management
 ---
 _Note: I've since left Packback and [updated my hiring process](https://www.karllhughes.com/posts/rethinking-hiring). You can learn more about [Packback's current hiring process for engineers on Github](https://github.com/packbackbooks/careers-at-packback)._
 

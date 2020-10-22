@@ -3,7 +3,6 @@ layout: post
 title: "5 Things I Learned at Midwest PHP 2016"
 date: 2016-03-08
 img: 
-tags: []
 redirect_to: /
 ---
 In [my last post before Midwest PHP](https://www.karllhughes.com/2016/midwest-php-2016/) I gave an overview of some of the talks I was most excited about at the conference. Now that it's over and I'm back on my cozy couch here in Chicago, I'll share just a few of the nuggets of knowledge I gathered over the weekend in Minneapolis:

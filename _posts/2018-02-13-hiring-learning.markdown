@@ -3,7 +3,8 @@ layout: post
 title: "What I Learned During My Latest Round of Hiring "
 date: 2018-02-13
 img: https://i.imgur.com/tOJbssu.jpg
-tags: [hiring, interviews]
+categories: 
+  - Management
 ---
 I spent about half my time in January hiring our second software engineer at The Graide Network. Hiring developers is tough, especially at a startup where we don't have the dedicated sourcing resources or internal employee network that some larger companies do. I've been in this position before and [I felt pretty confident in my process](https://www.karllhughes.com/posts/rethinking-hiring), but it still took me 80 candidates, 50 phone interviews, 11 in-person technical assessments, and 6 final team interviews to find the right person.
 

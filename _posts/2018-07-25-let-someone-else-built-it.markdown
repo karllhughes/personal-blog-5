@@ -3,7 +3,8 @@ layout: post
 title: "Stop Working and Let Someone Else Build It"
 date: 2018-07-25
 img: https://i.imgur.com/EQqrHGq.jpg?1
-tags: [startups, productivity, side-projects]
+categories: 
+  - Startups
 ---
 
 My backlog of project ideas is long. Like, ridiculously long. Even though I clean it out every few months, I see problems everywhere, and being an ambitious, side-project loving programmer, I have an urge to solve every one of them.

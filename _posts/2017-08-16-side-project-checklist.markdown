@@ -3,7 +3,8 @@ layout: post
 title: "The Side Project Marketing Checklist: Making it Go Viral"
 date: 2017-08-16
 img: https://i.imgur.com/cuhZODE.png
-tags: [open-source, side-projects, marketing]
+categories:
+  - Startups
 ---
 Like many developers, I've been building side projects in my spare time for years. One of the most fun things about being a software developer is having the ability to build tools that solve your own problems, so most of these projects have been very specific to my needs, but a couple have had potential for market appeal.
 

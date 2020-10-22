@@ -3,7 +3,7 @@ layout: post
 title: "Be Unique, and Don't Wait"
 date: 2017-02-23
 img: http://i.imgur.com/WZHD24r.jpg
-tags: [motivation, success]
+redirect_to: /
 ---
 *This is another post I'm republishing as part of my [2017 daily writing project](/posts/2017-writing-goal). Like many of the others originally published in 2012, I was focused on inspiring people to action. Reading this almost five years later is inspiring, but also exciting, and I hope it helps some readers remember to take a few risks in life.*
 

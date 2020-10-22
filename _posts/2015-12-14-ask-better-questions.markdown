@@ -3,7 +3,6 @@ layout: post
 title: "How We're Changing the World by Getting Students to Ask Better Questions"
 date: 2015-12-14
 img: https://i.imgur.com/TZOsRlwm.png
-tags: []
 redirect_to: /
 ---
 ![](https://i.imgur.com/TZOsRlwm.png)

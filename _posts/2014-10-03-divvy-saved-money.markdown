@@ -3,7 +3,8 @@ layout: post
 title: "How Riding Divvy Saved Me $622 Last Year"
 date: 2014-10-03
 img: 
-tags: [startups, divvy, transportation]
+categories: 
+  - Startups
 ---
 It's no secret, but I love [Divvy](https://www.divvybikes.com/) (I'm one of the few who rides them in the winter), and here's why:
 

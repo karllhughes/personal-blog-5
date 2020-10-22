@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Don't Think About Marketing"
+title: "How to Put Your Startup's Marketing on Autopilot"
 date: 2017-10-06
 img: https://i.imgur.com/a3X93KR.png
 link: https://www.indiehackers.com/@karlhughes/dont-think-about-marketing-your-side-project-445c413521
-tags: [marketing, side-projects]
+categories:
+  - Startups
 ---
 I've been spending a little time every week promoting the [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/) I wrote a few weeks ago - mostly by posting answers to questions on Quora, forums, and Slack channels. This week I decided to publish a longer post about the project on [Indie Hackers](https://www.indiehackers.com/).
 

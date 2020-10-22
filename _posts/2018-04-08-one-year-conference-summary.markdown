@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "My First Year Speaking"
+title: "My First Year Speaking at Software Engineering Conferences"
 date: 2018-04-08
 img: https://i.imgur.com/mo5k8d6.jpg
-tags: [conferences, speaking]
+categories:
+  - Software Engineering
 ---
 
 For over a year now I've been applying for (and speaking) at tech conferences. Midway through 2017, I made a goal for myself to speak at at least four conferences in a year, and I'm really happy to have accomplished that goal.

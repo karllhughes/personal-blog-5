@@ -3,9 +3,10 @@ layout: post
 title: "Here's How I Got 10,000 Followers on Google+"
 date: 2017-02-01
 img: https://i.imgur.com/aft39e7.png
-tags: [google, social-media]
+categories:
+  - Startups
 ---
-*Note: this post is being republished as part of my [2017 daily publishing project](https://www.karllhughes.com/posts/2017-writing-goal). It was originally published on March 7, 2012, and besides minor formatting updates, I have chosen to leave the content in tact. Unfortunately, Google+ will probably be dismantled soon, but back in 2012 I was all over the thing. I posted several times per day, hosted a little tech hangout every week, and got over 10,000 followers.*
+*Note: this post was originally published on March 7, 2012, and besides minor formatting updates, I have chosen to leave the content in tact. Unfortunately, Google+ will probably be dismantled soon, but back in 2012 I was all over the thing. I posted several times per day, hosted a little tech hangout every week, and got over 10,000 followers.*
 
 *The days of new social networks might be over, but I think some of this advice applies to any online marketing channel, so maybe it will still resonate for some readers.*
 

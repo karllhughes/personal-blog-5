@@ -4,7 +4,8 @@ title: "Building a PHP Command Line App with Docker"
 date: 2017-05-02
 img: https://i.imgur.com/N8f725d.png
 link: https://blog.codeship.com/building-a-php-command-line-app-with-docker/
-tags: [docker, programming, php]
+categories:
+  - Software Engineering
 ---
 At The Graide Network, we needed to automate a bunch of reminder emails and text messages being sent to our users. Every hour, we wanted to go into the database and find any reminders that needed to be sent, then queue up jobs to send each of them. 
 

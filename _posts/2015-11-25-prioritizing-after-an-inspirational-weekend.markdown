@@ -3,7 +3,8 @@ layout: post
 title: "Prioritizing After an Inspirational Weekend"
 date: 2015-11-25
 img: https://i.imgur.com/ruJpRSp.jpg
-tags: [packback, personal, management]
+categories:
+  - Management
 ---
 On Friday and Saturday we had our first ever Packback team retreat. We did a mix of activities designed to help the team grow closer together and cement a unified mission and values for the company. This is the first time I've been with a company that is truly run by idealistic leaders who want to embody our values, so it's exciting and inspirational to dig into these important tenants. I think we all really enjoyed getting to know each other better (here's a bit from [my teammate Eric on his thoughts](https://www.facebook.com/BinarySentinel/posts/10208324567858938?pnref=story)).
 

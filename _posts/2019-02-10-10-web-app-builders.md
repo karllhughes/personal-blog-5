@@ -3,7 +3,8 @@ layout: post
 title: "10 Web Application Builders for Non-Technical Startup Founders"
 date: 2019-02-10
 img: https://i.imgur.com/BQO5ZAf.jpg
-tags: [no-code, startups, founders]
+categories: 
+  - Startups
 ---
 
 In the days of [Web 1.0](https://www.geeksforgeeks.org/web-1-0-web-2-0-and-web-3-0-with-their-difference/), entrepreneurs had to learn code or hire web developers to create a website. Now, two decades later, startup founders are able to build [web applications](https://www.karllhughes.com/posts/web-applications) without needing to know a single line of code.

@@ -3,7 +3,8 @@ layout: post
 title: "What I've Learned After Failing at Hiring Several Times"
 date: 2018-12-21
 img: https://i.imgur.com/BL00nen.jpg
-tags: [startups, hiring, process]
+categories: 
+  - Management
 ---
 
 I grew up around small businesses. My uncle has owned a machine shop for decades and my dad has been an entrepreneur since I was 9. I got interested in startups and small business myself when I was in college, and for the past few years, that's what my career has been.

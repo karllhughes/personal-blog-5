@@ -3,7 +3,8 @@ layout: post
 title: "Trello as a Reading List"
 date: 2017-04-13
 img: https://i.imgur.com/8QeyNBk.png
-tags: [trello, organization, reading]
+categories:
+  - Management
 ---
 *I first started using Trello and published this post in January, 2015, and since then I've used Trello exclusively as my engineering team's project management system and my personal to-do list. I seriously can't rave enough about Trello, and I've probably introduced a couple dozen people to it along the way. I [still publish a board for books](https://trello.com/b/2n8bdc12/books) that I'm reading or have read if you want to check that out.*
 
@@ -11,7 +12,7 @@ tags: [trello, organization, reading]
 
 I hated reading in high school and "never had time," in college. I kind of regret that, but I guess there's a time in your life when you want to spend all your free time socializing and a time in your life when you want a little peace and quiet with a good book.
 
-Anyway, I started reading more when I was [living out of my car a couple summers ago](https://www.karllhughes.com/posts/the-journey-begins-homeless-for-a-summer). I did a lot of driving, so I started with audiobooks, but I was also doing a lot of relaxing on the beach, so I started picking up business books and biographies whenever I'd see one at a second hand store that looked interesting.
+Anyway, I started reading more when I was living out of my car a couple summers ago. I did a lot of driving, so I started with audiobooks, but I was also doing a lot of relaxing on the beach, so I started picking up business books and biographies whenever I'd see one at a second hand store that looked interesting.
 
 Over the past few years I've gotten more serious about reading regularly, and this year (2015) I decided that I would make it my main form of nightly entertainment before bed. So, with a 30 minute train ride to and from work every day and at least a few minutes before bed most nights, I get quite a lot of reading done, and I needed a way to keep it organized.
 

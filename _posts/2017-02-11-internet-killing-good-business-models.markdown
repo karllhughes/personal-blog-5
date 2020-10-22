@@ -3,7 +3,8 @@ layout: post
 title: "Where Have All the Business Models Gone? Did the Internet Kill the Need for One?"
 date: 2017-02-11
 img: https://i.imgur.com/HrZqhxr.jpg
-tags: [entrepreneurship, social-media, startups]
+categories:
+  - Startups
 ---
 *When I wrote this article in April of 2012, Instagram had just been bought by Facebook. The hype around consumer web was at its peak since the dot com crash of 2000, and like a lot of people I was sick of it.*
 

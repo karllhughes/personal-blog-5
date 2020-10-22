@@ -3,7 +3,8 @@ layout: post
 title: "Book: Building PHP Applications in Docker"
 date: 2017-10-04
 img: https://i.imgur.com/uMywG3a.png
-tags: [php, programming, docker, books]
+categories:
+  - Software Engineering
 ---
 Last month I finished my first book - a step-by-step guide for PHP developers who want to learn Docker called "Building PHP Applications in Docker". It's about 10,000 words (40 pages), and it covers quite a bit if you're new to Docker.
 

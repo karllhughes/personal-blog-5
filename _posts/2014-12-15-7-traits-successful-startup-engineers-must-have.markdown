@@ -4,7 +4,9 @@ title: "7 Traits Successful Startup Engineers Must Have"
 date: 2014-12-15
 img: 
 link: https://www.themuse.com/advice/7-things-startups-want-in-engineers-besides-knowing-how-to-code
-tags: [the-muse, startups, programming]
+categories: 
+  - Software Engineering
+  - Startups
 ---
 Last week I got my first article published in [the Daily Muse](https://www.themuse.com/advice/7-things-startups-want-in-engineers-besides-knowing-how-to-code). Here's a sample, but be sure to check out the link below for more:
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Prioritization is Always Relative"
+title: "Prioritization is Always Relative"
 date: 2017-05-26
 img: https://i.imgur.com/E7ffvMs.jpg
-tags: [planning, product-management, startups]
+categories:
+  - Management
 ---
 When asking non-technical team members to prioritize their issues on an absolute scale I’ve noticed that they always classify their issues at one of the two highest priority levels.
 

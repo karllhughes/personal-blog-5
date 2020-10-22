@@ -3,11 +3,10 @@ layout: post
 title: "Marketing isn't about Content Creation, it's about Platform Creation"
 date: 2017-02-22
 img: https://i.imgur.com/kijFOUO.jpg
-tags: [marketing, content-marketing, writing]
+categories:
+  - Startups
 ---
 *Back when I was first starting out, I was actually more interested in technical marketing than product engineering, and this post from 2012 reflects that focus. I'm glad I did get some training in marketing though because that's come to help me a lot as a developer.*
-
-*Creating a platform has been a really influential mindset for my open source project [JobApis](https://www.jobapis.com/), and knowing about online marketing has helped me communicate more effectively with business teams at all the startups I've worked at.*
 
 -----
 

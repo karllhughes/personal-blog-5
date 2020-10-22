@@ -3,7 +3,7 @@ layout: post
 title: "Moving to a New Place: My First Post in Chicago"
 date: 2012-08-27
 img: https://i.imgur.com/FJN0ZYi.jpg
-tags: [personal, chicago, moving]
+redirect_to: /
 ---
 Back in September of 2011, I quit my cushy internship with a large medical manufacturing company in Knoxville to work on contract with small businesses and startups. My first client was Uloop, and now, less than one year later, I'm the newest member of a six-man team based here in Chicago.
 

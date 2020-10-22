@@ -3,7 +3,9 @@ layout: post
 title: Why I Left a Career as a Startup CTO to Become a Writer
 date: 2020-08-16
 img: https://i.imgur.com/L8IdxkC.jpg
-tags: [startups, career, writing]
+categories: 
+  - Startups
+  - Software Engineering
 ---
 
 When I graduated from college, my dream was to lead a team at a startup. Over the past decade, I've had the opportunity to serve in a [variety of engineering and management roles](https://www.karllhughes.com/work/) with funded tech startups and, most recently I joined The Graide Network as their [Chief Technology Officer](https://www.karllhughes.com/posts/joining-the-graide-network).

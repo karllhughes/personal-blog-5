@@ -4,7 +4,8 @@ title: "Packback at the 1776 Challenge Cup"
 date: 2014-11-03
 img: 
 link: http://youtu.be/YYez-o0qgH8
-tags: [packback, presentation]
+categories: 
+  - Startups
 ---
 Last week, Packback was invited to pitch at the [Challenge Cup](http://challengecup.1776dc.com/) event hosted by 1776 and held at 1871. After the first round of one-minute pitches, we were invited back up to be one of two education startups to give our full pitch in five minutes.
 

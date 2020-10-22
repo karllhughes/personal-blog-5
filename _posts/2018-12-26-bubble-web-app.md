@@ -3,7 +3,8 @@ layout: post
 title: "Using Bubble to Build a Web Application" 
 img: https://i.imgur.com/vkZIIUX.png
 date: 2018-12-26
-tags: [no-code, startups, bubble]
+categories: 
+  - Startups
 ---
 
 Move over Wordpress and Wix; there's another no-code programming platform in the mix. [Bubble](http://bubble.io/) — a drag and drop application — allows people to build [web applications](/posts/web-applications) *without requiring them to learn how to code*.

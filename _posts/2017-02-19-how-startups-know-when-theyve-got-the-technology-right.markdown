@@ -3,7 +3,9 @@ layout: post
 title: "How Startups Know When They've Got the Technology Right"
 date: 2017-02-19
 img: 
-tags: [startups, technology, product-management]
+categories:
+  - Startups
+  - Software Engineering
 ---
 *I wrote this post back in September of 2012. I had just started my first full-time job at a startup in Chicago, and I was naively and desperately trying to build a product that would change the college new industry.*
 

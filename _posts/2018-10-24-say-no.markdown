@@ -3,7 +3,9 @@ layout: post
 title: Say No
 date: 2018-10-24
 img: https://i.imgur.com/PjRzm5b.jpg?1
-tags: [no, bosses, work, balance]
+categories: 
+  - Management
+  - Startups
 ---
 
 People will continue to request more of your time until you say _no_.

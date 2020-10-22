@@ -3,7 +3,8 @@ layout: post
 title: "What to do After you Graduate from a Code Bootcamp"
 date: 2016-04-18
 img: 
-tags: [bootcamp, engineering, career]
+categories:
+  - Software Engineering
 ---
 I've been volunteering as a teacher at [Startup Institute](https://www.startupinstitute.com/) for a couple years now where I usually give a few lessons per year to their developers-to-be. Teaching the students helps me stay connected to the entry level community and reminds me what it was like at the beginning of my career.
 

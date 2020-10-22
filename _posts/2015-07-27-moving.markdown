@@ -3,7 +3,7 @@ layout: post
 title: "Moving"
 date: 2015-07-27
 img: https://i.imgur.com/dwQu3VE.jpg
-tags: [personal, moving, minimalism]
+redirect_to: /
 ---
 This week I moved out of the tiny one-room place I've lived at since I moved to Chicago in 2012. The little studio in Uptown, Chicago was one of the few places I could afford when I came here right after college, and when I moved in I had just four bags of clothing and miscellaneous cooking supplies to my name. I've bought a few things since then, but I still managed to move out alone without much trouble.
 

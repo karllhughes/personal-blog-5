@@ -4,7 +4,7 @@ title: "True Tales of Building PHP Microservices Featured in php[architect] Maga
 date: 2017-09-06
 img: https://i.imgur.com/o7JYvdz.png
 link: https://www.phparch.com/magazine/2017-2/september/
-tags: [php, programming, "php[architect]", microservices]
+redirect_to: /
 ---
 I've written a few blog posts (and submitted several conference talk proposals) related to the topic of building microservices in PHP. It's been great to refine my story on this topic so much over the past couple years, and most recently, I had a piece published in [php[architect] magazine](https://www.phparch.com/magazine/2017-2/september/) on the topic of microservices and PHP:
 

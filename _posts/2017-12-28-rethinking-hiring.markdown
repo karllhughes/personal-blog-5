@@ -3,7 +3,8 @@ layout: post
 title: "Rethinking the Hiring Process"
 date: 2017-12-28
 img: https://i.imgur.com/hKMDnvX.jpg
-tags: [hiring, interviews]
+categories: 
+  - Management
 ---
 A year and a half ago when I joined The Graide Network, I left a role managing and hiring an engineering team to be the first developer at a new startup. Our hope was that as the company grew, my role would shift away from individual contributor to team lead, and now it's happening with our [next full-time software engineering job opening](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer-1.md).
 

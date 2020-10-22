@@ -4,7 +4,8 @@ title: "A PHP Client for the Government Jobs API"
 date: 2014-12-10
 img: 
 link: https://www.jobapis.com/open-source/govt/
-tags: [jobapis, php]
+categories: 
+  - API Development
 ---
 A while back I used the [Government Jobs API](http://search.digitalgov.gov/developer/jobs.html) for a sample project at a class I was teaching at Startup Institute. That was in Ruby, and they already included a link to their own [Ruby library for the API](https://github.com/GSA/jobs_api), so I figured I would make one in PHP - my language of choice for most things.
 

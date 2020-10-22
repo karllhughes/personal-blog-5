@@ -3,7 +3,8 @@ layout: post
 title: "Success is in Your Attitude"
 date: 2017-02-07
 img: https://i.imgur.com/13VT2fr.jpg
-tags: [success, attitude]
+categories:
+  - Management
 ---
 *Back in March of 2012 when I wrote this article, I had been reading [Dale Carnegie's "How to Win Friends and Influence People"](http://amzn.to/2kJSw6t) which definitely shows up in the tone of this post. That said, I agree with my past self that attitude is probably the biggest defining factor in framing success. I've grown a bit more realistic (read cynical) now, but I do still think that persistence and positivity will take you further than formal schooling or financial backing.*
 

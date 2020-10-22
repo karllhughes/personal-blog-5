@@ -3,7 +3,9 @@ layout: post
 title: "API Development: The Complete Guide for Building APIs Without Code" 
 img: "https://i.imgur.com/iWQY2Et.jpg"
 date: 2018-07-07
-tags: [no-code, apis, engineering]
+categories:
+  - Software Engineering
+  - API Development
 ---
 
 **The term "API" gets thrown around a lot these days, but what does it mean? What can you use an API for? Do you have to have a developer on your team to build or use an API? In this guide, we'll explore all those questions and more, including a spotlight on the tools you can use as a nontechnical founder to build your own APIs.**

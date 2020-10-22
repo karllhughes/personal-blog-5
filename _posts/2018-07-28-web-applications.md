@@ -3,7 +3,9 @@ layout: post
 title: "Web Applications: The Guide for Building Webs Apps Without Code" 
 img: "https://i.imgur.com/d7tbfNr.jpg"
 date: 2018-07-07
-tags: [no-code, apis, engineering]
+categories: 
+  - Startups
+  - Software Engineering
 ---
 
 **Web applications are getting more and more popular, but in 2018, what's the best way to build one? The answer is: it depends on your needs. In this guide, we'll cover the best tools and lessons learned for building web applications without a developer.**

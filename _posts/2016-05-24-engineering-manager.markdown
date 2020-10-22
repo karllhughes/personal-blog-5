@@ -3,7 +3,8 @@ layout: post
 title: "A Day in the Life of an Engineering Manager"
 date: 2016-05-24
 img: 
-tags: []
+categories:
+  - Management
 ---
 I started tracking how I spend my time at work in March of this year. It's been a couple months, so I've got a good breakdown of time now, and I thought it might be interesting to share with any other engineers who want to know what the day to day is like as an engineering manager.
 

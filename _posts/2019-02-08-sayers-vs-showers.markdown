@@ -3,7 +3,8 @@ layout: post
 title: "Employees Who Say vs. Employees Who Show"
 date: 2019-02-08
 img: https://i.imgur.com/SQz8Z3u.jpg
-tags: [hiring, management]
+categories: 
+  - Management
 ---
 
 In the past few years, I've had the opportunity to work with several employees who struggled for one reason or another. Some were junior engineers who knew that they didn't know everything, but wanted to improve; some were experienced engineers who thought they knew everything, and saw little reason to listen to feedback. Most fell somewhere between those two extremes.

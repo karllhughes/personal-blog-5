@@ -3,7 +3,8 @@ layout: post
 title: "Jobs Common: Making Access to Job Board APIs Effortless in PHP"
 date: 2015-12-22
 img: 
-tags: [php, programming, open-source]
+categories:
+  - API Development
 ---
 If you're a developer and you want to create a job board aggregator or supplement your own site's job listings with listings from other providers, here's a dead simple way to do it. 
 

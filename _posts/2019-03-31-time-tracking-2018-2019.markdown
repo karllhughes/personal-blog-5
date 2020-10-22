@@ -3,7 +3,8 @@ layout: post
 title: "How I Spent My Time in 2018/2019"
 date: 2019-03-07
 img: https://i.imgur.com/C32oNg8.jpg
-tags: [productivity, management]
+categories: 
+  - Management
 ---
 
 One of my goals this past year has to get back in the habit of time tracking. [I did this for a while back in 2016](/posts/engineering-manager) when I was the Engineering Manager at Packback, and now 3 years later, I'm here to update how my time allocation has changed.

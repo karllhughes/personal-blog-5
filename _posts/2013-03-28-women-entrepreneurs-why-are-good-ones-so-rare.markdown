@@ -3,7 +3,7 @@ layout: post
 title: "The Lack of Woman-Founded Tech Companies"
 date: 2013-03-28
 img: https://i.imgur.com/ZwNujRX.jpg
-tags: [gender, women, startups]
+redirect_to: /
 ---
 
 I was fortunate enough to sit down with a really interesting and exciting entrepreneur this week. The truth is, I sit down with a lot of really exciting entrepreneurs, but this one was different; she was a woman.

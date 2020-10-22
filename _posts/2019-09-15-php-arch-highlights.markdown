@@ -4,7 +4,8 @@ title: "PHP Architect 2019 Contributions"
 date: 2019-09-15
 img: https://i.imgur.com/YMrJ8Gl.jpg?1
 link: https://www.phparch.com/community/karl-hughes/
-tags: [php, links, phparchitect, magazine]
+categories:
+  - Software Engineering
 ---
 
 I have not been writing as much this year as [I did in 2017](/posts/2017-writing-goal), but I do occasionally find 

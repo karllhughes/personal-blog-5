@@ -3,7 +3,8 @@ layout: post
 title: "How to Start Freelance Technical Blogging"
 date: 2020-05-26
 img: https://i.imgur.com/AvGZPlv.png
-tags: [career, jobs, freelance, writing]
+categories: 
+  - Software Engineering
 ---
 
 I like writing. I lived with a bunch of English majors in college, so we geeked out on short stories and literature all the time. During my last year of college, I got a job doing technical documentation writing for a medical device company, and I briefly considered making a career as a technical writer.

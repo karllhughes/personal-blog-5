@@ -3,7 +3,7 @@ layout: post
 title: "America: The Country of Escape Artists"
 date: 2017-02-26
 img: https://i.imgur.com/rfwRZwg.jpg
-tags: [immigration, politics, america]
+redirect_to: /
 ---
 *This post was originally published in December, 2012, but with the latest round of anti-immigration sentiment in America, it's still highly relevant today.*
 

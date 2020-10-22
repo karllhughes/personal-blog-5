@@ -3,7 +3,8 @@ layout: post
 title: "Determining the Value of Online Data"
 date: 2017-02-14
 img: https://i.imgur.com/bOeCWZm.jpg
-tags: [facebook, social-media, data]
+categories:
+  - Startups
 ---
 *Since I wrote this post back in May, 2012, many more online companies have been valued, but many are still avoiding public markets. Niche investors may feel confident in putting a price tag on private companies like Uber or AirBnB, but the broad public market may still be wary of these two-sided platforms whose assets are largely digital.*
 

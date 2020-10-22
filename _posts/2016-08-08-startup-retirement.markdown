@@ -3,7 +3,8 @@ layout: post
 title: "Planning for Retirement While Working at a Startup"
 date: 2016-08-08
 img: https://i.imgur.com/LRoLTlK.jpg
-tags: [money, retirement, finances]
+categories:
+  - Startups
 ---
 As I've entered my late 20's and begun to solidify my career path in startups, I've started to listen to everyone's advice about saving for retirement. This got me inspired to do some research, ask other startup employees what they do, and try some things out. While I'm not a financial professional, I hope this post gives you a good jumping off point if you work for a startup and you're wondering about retirement.
 

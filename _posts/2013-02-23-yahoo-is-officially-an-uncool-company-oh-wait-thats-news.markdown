@@ -3,7 +3,7 @@ layout: post
 title: "Yahoo! is Officially an Uncool Company...Oh Wait, That's News?"
 date: 2013-02-23
 img: 
-tags: [yahoo, business]
+redirect_to: /
 ---
 This week, Yahoo! launched their [first revamped home page in four years](http://www.fastcompany.com/3006068/fast-feed/yahoo-makes-over-its-homepage-bid-more-traffic)... _And nobody gave a shit._
 

@@ -3,7 +3,8 @@ layout: post
 title: "Setting up a Remote Development Environment with Google Chrome and DigitalOcean"
 date: 2018-12-07
 img: https://i.imgur.com/aMQdTd6.jpg
-tags: [programming, google, digital-ocean, remote]
+categories: 
+  - Software Engineering
 ---
 
 My Macbook Pro is a couple years old now and I've been thinking about switching to something more portable (that new [Pixelbook is awful tempting](https://store.google.com/us/product/google_pixelbook)), but being a developer, I don't want to get stuck with an underpowered device that won't run any project I have to throw at it for the next few years.

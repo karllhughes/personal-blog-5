@@ -3,7 +3,8 @@ layout: post
 title: "Testing Layers at the Javascript Chicago Meetup"
 date: 2017-10-21
 img: https://i.imgur.com/HdefFJg.png
-tags: [testing, speaking, javascript, video]
+categories:
+  - Software Engineering
 ---
 Last week I was able to give a short 20-minute version of my talk on Testing Layers in Distributed Systems that I'm going to be giving at a couple conferences in the upcoming year. Unfortunately, the audio is a little quiet, but it gives you a little bit of an idea what to expect.
 

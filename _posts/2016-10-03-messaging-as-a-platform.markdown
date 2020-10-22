@@ -3,7 +3,8 @@ layout: post
 title: "Messaging as a Platform"
 date: 2016-10-03
 img: https://i.imgur.com/K7esLaZ.png
-tags: [messaging, chatbots]
+categories:
+  - Startups
 ---
 Messaging platforms like Slack, Snapchat, WeChat, Allo, and What's App are all the rage - each with their own unique spin on messaging. Some say [they're killing email](http://time.com/4092354/how-e-mail-killer-slack-will-change-the-future-of-work/), and some say [that's not likely](https://techcrunch.com/2016/06/28/you-cant-kill-email/), but regardless it's hard to argue that they aren't changing the way we communicate with one another.
 

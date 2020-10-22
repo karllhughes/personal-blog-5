@@ -3,9 +3,10 @@ layout: post
 title: "Creating Standards for Job Search API Clients in PHP"
 date: 2015-03-30
 img: 
-tags: [jobapis, php]
+categories: 
+  - API Development
 ---
-_Since publishing this, I've actually built a pretty large collection of open source job board clients. They're now all part of a [Github organization called JobApis](https://github.com/jobapis). Much of this post is now outdated, so if you run across it and want to know the latest state of this project, head over to [www.JobApis.com](https://www.jobapis.com/) to learn more._
+_Since publishing this, I've actually built a pretty large collection of open source job board clients. They're now all part of a [Github organization called JobApis](https://github.com/jobapis)._
 
 -----
 

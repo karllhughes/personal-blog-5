@@ -3,7 +3,8 @@ layout: post
 title: The One Reason Software Engineers Should Write
 date: 2020-08-30
 img: https://i.imgur.com/zqgvlYO.jpg
-tags: [software-engineering, career, writing]
+categories: 
+  - Software Engineering
 ---
 
 I've been thinking a lot about writing lately. I recently [left a career as a startup CTO to write full-time](https://www.karllhughes.com/posts/cto-writer), so when people ask me things like, "Why should software engineers know how to write?" I have a lot of thoughts. Rather than write yet another listicle ([1](https://www.thegraidenetwork.com/blog-all/2017/10/3/why-math-and-science-students-need-writing), [2](https://benmccormick.org/2019/03/02/the-importance-of-writing), [3](https://www.freecodecamp.org/news/why-developers-should-know-how-to-write-dc35aa9b71ab/), [4](https://www.tiny.cloud/blog/developer-blog-writing-social-networks/)), I am going to boil it down to one simple reason:

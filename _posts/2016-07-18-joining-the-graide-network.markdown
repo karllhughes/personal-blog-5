@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "New Role at The Graide Network"
+title: "Joining The Graide Network as Chief Technology Officer"
 date: 2016-07-18
 img: https://i.imgur.com/KV9Ehie.png?1
-tags: [cto, the-graide-network, personal]
+categories:
+  - Startups
+  - Management
 ---
 After over 2 and a half years at [Packback](https://www.packback.co/), I've decided to move on and have accepted the [first engineer/CTO](https://www.karllhughes.com/posts/roles-of-startup-cto) role at [The Graide Network](http://www.thegraidenetwork.com/). [When I joined Packback](https://www.karllhughes.com/posts/on-leaving-uloop-for-packback-books) I wasn't sure what I wanted to do. During my time with the company I went from the team's only in-house engineer to the manager of a small team. It was amazingly fun, and while I hadn't been actively seeking another job, when the opportunity to do what we did at Packback again came up at The Graide Network, I knew I would be a great fit. Here's a little more information about the company and my role:
 

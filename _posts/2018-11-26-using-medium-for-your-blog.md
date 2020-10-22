@@ -3,7 +3,8 @@ layout: post
 title: "Using Medium for Your Startup's Blog"
 img: https://i.imgur.com/M4DYZTR.gif
 date: 2018-11-26
-tags: [blogging, writing, Medium]
+categories: 
+  - Startups
 ---
 
 How large is your online footprint? Marketing your startup is a matter of getting your information in front of more people. This means **enlarging the size of your online footprint**. You'll need social media accounts, a newsletter, and a blog to use as tools towards this goal.

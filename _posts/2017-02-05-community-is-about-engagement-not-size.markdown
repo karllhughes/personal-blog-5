@@ -3,11 +3,11 @@ layout: post
 title: "Community Is About Engagement, Not Size"
 date: 2017-02-05
 img: https://i.imgur.com/lQFuE0w.jpg
-tags: [social-media, marketing]
+categories:
+  - Startups
 ---
 *Back in March, 2012 when I wrote and first published this post and was doing some informal social media consulting, buying Twitter and Facebook fans was a big trend. I'm out of the social media world nowadays, but I assume it still happens.*
 
-*This post is being republished as part of my [2017 daily publishing project](https://www.karllhughes.com/posts/2017-writing-goal).*
 -----
 
 One of the most [common mistakes made in internet marketing](http://www.forbes.com/2010/08/06/facebook-online-communities-engagement-communispace-cmo-network.html) is to obsess about size. The idea that you're company needs 1,000,000 followers on Twitter and another 1,000,000 Facebook Fans in order to make their social media efforts worth it is utterly absurd. Here's the way I look at it: 

@@ -3,7 +3,8 @@ layout: post
 title: "Why the Textbook Industry is Ripe for a Technological Revolution"
 date: 2017-04-07
 img: http://i.imgur.com/m4yfd8I.jpg
-tags: [textbooks, startups, packback]
+categories:
+  - Startups
 ---
 *When I first wrote this in September, 2014 I was just a few months in at [Packback](https://www.packback.co/), a company founded to upset the ancient college textbook market. Packback has since refocused on software for the classroom, but I still believe there's a huge need for change in the way we distribute textbooks. If you've got any ideas in that market, I'd love to hear about them!*
 

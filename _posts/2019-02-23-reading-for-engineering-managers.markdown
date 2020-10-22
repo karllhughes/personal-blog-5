@@ -3,7 +3,9 @@ layout: post
 title: "Essential Reading for Software Engineering Managers"
 date: 2019-02-23
 img: https://i.imgur.com/LfoGVeM.jpg
-tags: [books, engineering, programming, management]
+categories: 
+  - Management
+  - Software Engineering
 ---
 
 Software engineering management is an evolving field with a growing body of knowledge, and [thousands of books](https://amzn.to/2Et5hfa) are available on the topic. I started [reading more](/posts/trello-as-a-reading-list) a few years ago, so as 2019 gets started, I thought I would take a look at some of the best software management books available. Most of these are pretty popular in the field, but some are a bit non-traditional, so bear with me. Scroll to the bottom if you want to suggest your own favorites as well.

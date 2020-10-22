@@ -3,8 +3,7 @@ layout: post
 title: "Signs That an Engineering Job Might be a Trap"
 date: 2015-02-16
 img: https://i.imgur.com/mwAvD4T.jpg
-link: https://www.themuse.com/advice/6-red-flags-to-avoid-when-applying-to-engineering-jobs
-tags: [the-muse, programming, engineering, advice]
+redirect_to: /
 ---
 When you're gainfully employed, it's easier to be a clear judge of a bad job than when you're desperate for your next paycheck. Fortunately for those of us in technical fields, there are usually a lot of jobs going around; it's really a matter of finding one that doesn't suck. I put together my thoughts for a piece on the Muse this week. Here are the six red flags I watch for in engineering jobs:
 

@@ -3,7 +3,8 @@ layout: post
 title: "Colleges API: A Database and REST API of Accredited Colleges in the United States"
 date: 2017-03-29
 img: https://i.imgur.com/BtTw8Cy.png
-tags: [open-source, colleges, data]
+categories:
+  - API Development
 ---
 Back in 2013 I needed a list of all the colleges in the US. The best I could find was [this](http://ope.ed.gov/accreditation/GetDownloadFile.aspx). The list seemed complete (there are about 9000 colleges in the most recent version), but the formatting wasn't ideal.
 

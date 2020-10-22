@@ -3,7 +3,9 @@ layout: post
 title: "The Key to Networking: Keeping in Touch"
 date: 2017-04-03
 img: https://i.imgur.com/ukYykv1.jpg
-tags: [networking]
+categories:
+  - Software Engineering
+  - Management
 ---
 *I first wrote about my quarterly contact list in August, 2013, but I started following this pattern at least a year or two before that. Since then, my list of contacts has changed dramatically, but my method for keeping in touch with them hasn't. I've updated this post as I'm also including it in [CTO Patterns](https://github.com/karllhughes/cto-patterns) this year.*
 

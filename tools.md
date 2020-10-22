@@ -35,6 +35,8 @@ which may give both of us a little free credit, so click away if you want to try
 - [Hunter.io](https://hunter.io/) - There are a million reasons you might want to find an email address. This is how I do it.
 - [Mailchimp](http://eepurl.com/cMDrn5) - Has its rough edges, but Mailchimp is probably the best all-purpose email management tool available.
 - [Goodbits.io](http://goodbits.io/) - I used to have a custom-built system for building my weekly email newsletters, but it got unwieldy after a while. Goodbits is the best solution I've found.  
+- [ahrefs](https://ahrefs.com/) - My go-to SEO tool. 
 
 ## Misc
 - [Wohven](http://wohven.refr.cc/karlhughes) - I wear a black t-shirt and jeans every day. Wohven takes care of my t-shirts.
+- [Moonclerk](https://www.moonclerk.com/?via=karl) - Adds recurring billing to Stripe for just a few dollars per month.

@@ -3,7 +3,7 @@ layout: post
 title: "Do Not Trust Hyper.sh or Kata Containers"
 date: 2017-05-06
 img: https://i.imgur.com/acG2EO7.png
-tags: [programming, devops, docker]
+redirect_to: /
 ---
 
 _Since writing this post, Hyper.sh has pivoted and no longer offers its container hosting. They gave users less than a month to move off their platform, so I no longer recommend working with Hyper or [Kata Containers](https://katacontainers.io/). The company never gave me a reason for the shutdown, and refused to offer any substantial tools to help with migration. Do not trust this company for your production workloads._

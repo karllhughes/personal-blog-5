@@ -3,7 +3,8 @@ layout: post
 title: "5 Talks I'm Excited for at Codemash 2018"
 date: 2017-12-31
 img: https://i.imgur.com/PmWuIcI.png
-tags: [codemash, conferences, speaking]
+categories:
+  - Software Engineering
 ---
 In just a few days I'll be heading to Sandusky, Ohio for the [2018 Codemash conference](http://www.codemash.org/). In addition to the talk I'll be giving on [Testing Distributed Systems](http://www.codemash.org/sessions?id=7231) and the tour of [NASA's Plum Brook Station](https://www.nasa.gov/centers/glenn/about/testfacilities/index.html) that I'm doing while there, I'm really excited to see and meet some of the other great speakers at the conference. This is a huge event with four days of talks and interactive "precompiler" sessions, so putting together a list like this is really tough. I'm sure there are tons of great sessions I won't be able to make due to timing and the fact that I have to do a little work while I'm there, so be sure to check out [the whole conference speaker list](http://www.codemash.org/schedule/) if you're heading to Codemash.
 

@@ -3,7 +3,7 @@ layout: post
 title: "My 2017 Writing Goal"
 date: 2017-01-29
 img: https://i.imgur.com/JiFNfkd.jpg
-tags: [writing, goals, productivity]
+redirect_to: /
 ---
 I've tried to write *something* every week for the past few years, but I'm not 100% consistent. It usually comes in waves where I spend a week or two cranking out several articles and then maybe a month without much output, but I'm going to up my consistency and hopefully volume in 2017.
 

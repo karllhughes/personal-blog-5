@@ -3,7 +3,7 @@ layout: post
 title: "What Being Made Up as a Swedish Drag Queen Taught Me About New Experiences"
 date: 2017-02-17
 img: https://i.imgur.com/aRrYjLD.jpg?1
-tags: [success, attitude, fear]
+redirect_to: /
 ---
 A couple years ago, I had the opportunity to travel to Sweden to see some relatives over there. My aunt and uncle live in [Borlange](http://en.wikipedia.org/wiki/Borl%C3%A4nge), a small countryside town about three hours northwest of Stockholm. The trip itself was amazing, and I could write a dozen blog posts about it, but one of the most memorable stories was accidentally finding myself alone in a beauty shop with fake eyelashes, a silver wig, lipstick, and perfectly plucked eyebrows.
 

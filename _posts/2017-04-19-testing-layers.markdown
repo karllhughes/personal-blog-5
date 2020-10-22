@@ -3,7 +3,9 @@ layout: post
 title: "Testing the Layers in a Microservice Architecture"
 date: 2017-04-19
 img: https://i.imgur.com/vTbDied.jpg
-tags: [programming, testing, microservices]
+categories:
+  - Software Engineering
+  - API Development
 ---
 We've gotten to make some [huge improvements to the tech stack](http://www.thegraidenetwork.com/blog-all/2017/1/16/tech-accomplishments) at The Graide Network over the past year, but one of the things I'm most proud of is our automated testing system. When I joined the startup last fall, there were no tests; no way to tell if something was wrong on the site; no way to catch bugs before they went into production. Needless to say, we couldn't ship much code in the first few weeks.
 

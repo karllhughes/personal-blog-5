@@ -3,7 +3,8 @@ layout: post
 title: "A Strong Team isn't Afraid to Piss Each Other Off"
 date: 2013-05-07
 img: https://i.imgur.com/PiYl6Mm.jpg
-tags: [teams, startups, uloop]
+categories: 
+  - Management
 ---
 Working in a small company can be quite taxing. We recently downsized to three full-time employees at Uloop, meaning that we all have more work and consequently more responsibilities and more stress. As you would expect, more stress also breeds higher tempers and shorter fuses - myself being no exception. If you've ever worked with me on something that I'm passionate about - as I am with [Uloop](http://www.uloop.com) - you'll know that I can be a bit brusque. It's hard not to think strongly about something when it is the controlling force in your life though. I mean, I left the engineering industry, my home state, and a lot of potential income by going the startup route, so it's pretty obvious why I want to see this thing succeed.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Having More and Choosing Less"
 date: 2014-12-30
 img: https://i.imgur.com/N7kO9ST.jpg
-tags: [personal, minimalism, materialism]
+redirect_to: /
 ---
 If you've been reading my blog for the past couple years, you know that one of my big personal projects is to cut down on excess.
 

@@ -1,10 +1,9 @@
 title: Karl L. Hughes
 description: > # this means to ignore newlines until "baseurl:"
-  Startups · Technology · Leadership
+  Startups · Software Engineering · Management
 permalink: 'posts/:title'
 baseurl: ""
 url: "https://www.karllhughes.com"
-site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Karl L. Hughes # add your name

@@ -3,7 +3,6 @@ layout: post
 title: "Open Source Update: 13 Job Board API Clients"
 date: 2015-12-03
 img: 
-tags: []
 redirect_to: /
 ---
 As some of you may know, I've been working with [Steven Maguire](https://twitter.com/stevenmaguire) for the past year on a project to help [standardize the retrieval of data from various job boards](http://www.karllhughes.com/2015/job-board-api-1-release/). As of today, our little project supports **13 job board APIs**, and now I am finally using our open source project in production for JobBrander. We've also started work on a transformer class (mostly Steven so far) to help you turn the job objects our client returns into useful output like Eloquent Models or CSV files. **How I'm using the project for JobBrander** JobBrander provides two things:

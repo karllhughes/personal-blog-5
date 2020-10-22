@@ -3,7 +3,8 @@ layout: post
 title: "Writing - You Don't Need a Degree for it"
 date: 2017-02-13
 img: https://i.imgur.com/1887oc3.jpg
-tags: [writing, education]
+categories:
+  - Software Engineering
 ---
 *Writing has been one of my favorite hobbies since high school, but I used to feel like an imposter  when I did it. I went to school with a lot of smart people who now write for a living, so I felt like a hack with my scant blog posts and shallow listicles, but I did it anyway.*
 

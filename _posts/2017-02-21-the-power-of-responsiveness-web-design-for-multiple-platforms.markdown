@@ -3,7 +3,8 @@ layout: post
 title: "The Power of Responsiveness - Web Design for Multiple Platforms"
 date: 2017-02-21
 img: https://i.imgur.com/QPAYcp7.jpg
-tags: [web-design, responsive-design, apps]
+categories:
+  - Software Engineering
 ---
 *Since writing this post in 2012, the case for responsive (and now [progressive](https://developers.google.com/web/progressive-web-apps/)) websites has gotten even stronger. The frameworks available make it easy to do, and the variety of screen sizes has only increased.*
 

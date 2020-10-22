@@ -3,7 +3,8 @@ layout: post
 title: "What to Expect from a Developer \"Bootcamp\" Program"
 date: 2017-04-09
 img: https://i.imgur.com/65FecIk.jpg
-tags: [programming, education, "developer-bootcamps"]
+categories:
+  - Software Engineering
 ---
 *Since publishing this post in October, 2014 I've taught or guest lectured at several of Chicago's developer training programs including Dev Bootcamp, General Assembly, Fullstack Academy, and (now defunct) Startup Institute. While each of these programs is different, this advice generally still applies to anyone interested in joining one of them as a student.*
 

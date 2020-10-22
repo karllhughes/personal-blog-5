@@ -4,7 +4,8 @@ title: "Improving Your Test Suite with Docker"
 date: 2018-05-21
 img: https://i.imgur.com/oEhlYxA.jpg
 link: https://blog.codeship.com/7-ways-to-improve-your-test-suite-with-docker/
-tags: [codeship, docker, testing, programming]
+categories: 
+  - Software Engineering
 ---
 For the last couple years I've had a lot of success using Docker in my test environment. While I think the tool has a lot of potential for production too, it's easiest to get started with local and continuous integration systems.
 

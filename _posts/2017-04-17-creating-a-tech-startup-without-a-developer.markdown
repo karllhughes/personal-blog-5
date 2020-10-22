@@ -3,7 +3,8 @@ layout: post
 title: "Creating a Tech Startup without a Developer: the Lean Way"
 date: 2017-04-17
 img: https://i.imgur.com/oxhRqAl.png
-tags: [startups]
+categories:
+  - Startups
 ---
 *Since writing this in 2015, I've only become more convinced that more startups need to start without a developer. Premature automation and optimization is a huge time suck, and developers are expensive. The last two startups I've been with have used off-the-shelf services to create their MVPs, and even now when we want to test something new at The Graide Network, we usually do it manually or semi-manually before we build software around it.*
 

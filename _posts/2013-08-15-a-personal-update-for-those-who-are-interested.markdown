@@ -3,7 +3,7 @@ layout: post
 title: "A Personal Update for Those Who are Interested"
 date: 2013-08-15
 img: https://i.imgur.com/c3fpm2n.jpg
-tags: [personal, chicago]
+redirect_to: /
 ---
 I've been in Chicago just over a year now, and it's crazy to think about how much I've learned and lived since I moved up here after graduation. This is just a personal update on my past year, so if that doesn't interest you, feel free to read something else. Go ahead, I won't be offended.
 

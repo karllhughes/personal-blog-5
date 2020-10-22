@@ -3,7 +3,8 @@ layout: post
 title: "Managing a Remote Engineering Team"
 date: 2020-04-18
 img: https://i.imgur.com/YuMMIx0.jpg
-tags: [management, remote, cto, startups]
+categories: 
+  - Management
 ---
 
 Coronavirus has forced the majority of software engineering teams across the world into remote work overnight, 

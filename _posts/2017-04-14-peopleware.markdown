@@ -3,7 +3,9 @@ layout: post
 title: "Peopleware: All Technology Problems are Really People Problems"
 date: 2017-04-14
 img: https://i.imgur.com/ceLqlH1.png
-tags: [books, startups, programming]
+categories:
+  - Management
+  - Software Engineering
 ---
 *Two years ago I read Peopleware for the first time and wrote this blog post. That book was the most inspiring engineering leadership material I had read, and it's still definitely in my [top 5 recommendations](/posts/reading-for-engineering-managers).*
 

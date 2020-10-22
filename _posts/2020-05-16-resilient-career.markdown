@@ -3,7 +3,8 @@ layout: post
 title: "Building a Resilient Career"
 date: 2020-05-16
 img: https://i.imgur.com/bxALnlU.png
-tags: [career, jobs, startups]
+categories: 
+  - Software Engineering
 ---
 
 I was reading another engineer's story this week about [his 65-day job hunt](https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs). I've avoided traditional job applications and interviews since I graduated from college, but a few things struck me from this post:

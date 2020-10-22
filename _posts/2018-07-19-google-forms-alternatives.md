@@ -3,7 +3,8 @@ layout: post
 title: "11 Alternatives to Google Forms"
 img: https://i.imgur.com/VK5SMVk.png
 date: 2018-07-19
-tags: [startups, forms]
+categories: 
+  - Startups
 ---
 
 I've been using [Google Forms](https://www.google.com/forms/about/) for over a decade, and it has continued to impress me with new features, improved design, and more flexibility every year. Coupled with [Zapier](https://zapier.com/) for automation, there's not a lot you can't do with Google Forms.

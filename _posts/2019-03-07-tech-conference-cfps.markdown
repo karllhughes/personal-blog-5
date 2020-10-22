@@ -4,7 +4,8 @@ title: "CFP Land: A Curated Newsletter for Tech Conference Speakers"
 date: 2019-03-07
 img: https://i.imgur.com/36LXPq6.jpg
 link: https://www.cfpland.com/
-tags: [speaking, conferences]
+categories:
+  - Software Engineering
 ---
 
 In 2017, I [started applying to speak at a number of tech and developer conferences across the world](/posts/one-year-conference-summary). It's been fun to refine my proposals, meet other speakers, and get accepted to speak at a few of them.

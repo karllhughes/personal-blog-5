@@ -3,7 +3,9 @@ layout: post
 title: "Knowing Your Startup's Technical Maturity Level"
 date: 2017-04-29
 img: https://i.imgur.com/9lz5BG7.jpg
-tags: [programming, startups, leadership]
+categories:
+  - Management
+  - Startups
 ---
 *As a startup developer I'm always trying to strike a balance between pragmatism and optimization. Since publishing this in October, 2015 I've continued to come back to this checklist as a baseline for startups who need more reliable software, and many of the items on this list were the first we tackled at [The Graide Network](http://www.thegraidenetwork.com/blog-all/2017/1/16/tech-accomplishments).*
 

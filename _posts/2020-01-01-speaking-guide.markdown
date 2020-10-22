@@ -4,7 +4,8 @@ title: "The Comprehensive Guide to Speaking at Tech Conferences"
 date: 2020-01-01
 img: https://i.imgur.com/SvwcdNz.jpg
 link: https://www.cfpland.com/guides/speaking/
-tags: [speaking, conferences, cfpland]
+categories:
+  - Software Engineering
 ---
 
 In 2017, I started [speaking at technology conferences](/posts/one-year-conference-summary). I've always enjoyed public speaking,

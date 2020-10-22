@@ -3,7 +3,8 @@ layout: post
 title: "7 Tips For Non-Technical Founders Looking For a CTO"
 date: 2019-05-24
 img: https://i.imgur.com/bN6fc9R.jpg
-tags: [startups, cto, hiring]
+categories: 
+  - Startups
 ---
 
 I've worked in startups my whole career, first as a software engineer and now as a Chief Technology Officer (CTO). In that time,
