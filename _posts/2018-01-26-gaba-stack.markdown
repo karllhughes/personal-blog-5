@@ -22,11 +22,11 @@ So what does "GABA" stand for?
 - **A**irtable - [Airtable](https://airtable.com/invite/r/4EaSmQNr) is my absolute favorite tool I found in 2017. Like Google sheets, it lets you store your data in a shareable, online spreadsheet-like format. Unlike Google sheets, it also comes with an API, database-like filters/queries, and customizable input forms and views. This means that you can set up an embedded Airtable form to handle data inputs and then display this data by calling their API right from your frontend.
 
 ### What does this look like?
-I put together my first proof of concept using this stack over a couple early mornings this week. It's hosted now at [news.fored.us](https://news.fored.us/). The site is just a news feed of education blogs that I've aggregated using [Zapier](https://zapier.com/), [RSSMix](http://www.rssmix.com/), and [Airtable](https://airtable.com/invite/r/4EaSmQNr), but it's presented such that I can learn what people on the site want to see in future iterations of the project. If I see a lot of people clicking on the RSS link, that's the feature I'll build next; if they're clicking the "Popular" tab often, that's what I'll tackle.
+I put together my first proof of concept using this stack over a couple early mornings this week. The site is just a news feed of education blogs that I've aggregated using [Zapier](https://zapier.com/), [RSSMix](http://www.rssmix.com/), and [Airtable](https://airtable.com/invite/r/4EaSmQNr), but it's presented such that I can learn what people on the site want to see in future iterations of the project. If I see a lot of people clicking on the RSS link, that's the feature I'll build next; if they're clicking the "Popular" tab often, that's what I'll tackle.
 
-[![](https://i.imgur.com/GBvNz8x.png)](https://news.fored.us/)
+![](https://i.imgur.com/GBvNz8x.png)
 
-The goal of an MVP (even just a little side project like this) is to find something that might be useful to really build, so while I did write a little code (just some [HTML and Javascript hosted on Github](https://github.com/foredus/news-frontend)), there's nothing complicated in here. All the hard stuff (permissions, data storage, aggregation, etc.) is handled by the supporting services.
+The goal of an MVP (even just a little side project like this) is to find something that might be useful to really build, so while I did write a little code (just some HTML and Javascript), there's nothing complicated in here. All the hard stuff (permissions, data storage, aggregation, etc.) is handled by the supporting services.
 
 Since the site costs me (practically) nothing to keep running, I can just check the traffic every few weeks and see if there's any indication for what to build next. If nobody uses it, I'll try something different and I'll have lost almost nothing but a couple hours.
 

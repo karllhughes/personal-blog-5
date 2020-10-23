@@ -24,7 +24,7 @@ Most people don't have a job the moment they graduate, and if they do it's more
 
 ### 2. Meet people
 
-**Apply for jobs** - This should be obvious, but as they say, you miss 100% of the shots you don't take. Even if you don't feel qualified, try applying for some jobs, taking some interviews, and learning from each one you get. If you're not sure what employers are looking for, here are some [things I look for when hiring entry level devs](http://blog.startupinstitute.com/2016-04-13-qualities-of-a-good-developer-karl-hughes/). 
+**Apply for jobs** - This should be obvious, but as they say, you miss 100% of the shots you don't take. Even if you don't feel qualified, try applying for some jobs, taking some interviews, and learning from each one you get. 
 
 **Meet with people** - Not every "interview" is an official interview. In fact, both of my last two jobs have been a result of unofficial coffee talks and not official interviews. Ask your friends, colleagues, former coworkers, teachers, etc. for intros.
 

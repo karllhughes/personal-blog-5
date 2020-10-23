@@ -101,10 +101,10 @@ It's pretty simple to install Postman and start creating requests, so I won't go
 
 ![](https://i.imgur.com/SgPZuKA.png)
 
-### 5. Install [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin/)
+### 5. Install [Chrome MySQL Admin](https://chrome.google.com/webstore/detail/chrome-mysql-admin/ndgnpnpakfcdjmpgmcaknimfgcldechn?hl=en)
 I typically use MySQL as a database, and found Chrome MySQL Admin to be a satisfactory option. It's not perfect, but I can always write SQL in the terminal if I have to.
 
-![](https://i.imgur.com/Wd35hFp.png)
+![Installing Chrome MySQL Admin](https://i.imgur.com/Wd35hFp.png)
 
 That's it! You should have a workable remote development environment completely usable through Google Chrome apps. If you get stuck, feel free to [leave me a message on Twitter](https://www.twitter.com/karllhughes) and I'll see what I can do to help.
 

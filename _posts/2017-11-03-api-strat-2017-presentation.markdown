@@ -30,6 +30,6 @@ I've actually [written a brief post on this topic here on my blog before](https:
 
 ## Why do you need to test distributed systems?
 
-I'm glad you asked because in addition to addressing this question in the talk, I was invited to write a [blog post about it for Linux.org](https://www.linuxfoundation.org/blog/testing-important-distributed-software/).
+I'm glad you asked because in addition to addressing this question in the talk, I was invited to write a [blog post about it for Linux.org](https://www.linuxfoundation.org/blog/2017/10/testing-important-distributed-software/).
 
 If you have feedback for me on this talk or others, feel free to [find me on Twitter](https://twitter.com/karllhughes).

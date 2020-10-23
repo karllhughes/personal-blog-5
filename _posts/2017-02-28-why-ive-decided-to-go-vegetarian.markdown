@@ -21,7 +21,7 @@ In this post, I'll outline my personal rationale for each of these reasons. Whil
 
 There was a time when I neglected to take very good care of my body. I was overweight, I didn't care what I ate, I drank a lot on the weekends, I smoked cigarettes, and I almost never exercised. Quitting meat was the first step I took in getting my health under control.
 
-There are plenty of perfectly healthy people who eat meat, so I don't think that going meat-free is the only way to bring about good health, but I do believe that our meat and processed-food obsessed country is the ([second](http://www.cbsnews.com/8301-202_162-57592714/mexico-takes-title-of-most-obese-from-america/)) most obese in the world for a reason. Striking meat from your diet completely and instead focusing on getting as much raw, unprocessed food as possible is a quick way to consume fewer calories and up your vitamin intake dramatically.
+There are plenty of perfectly healthy people who eat meat, so I don't think that going meat-free is the only way to bring about good health, but I do believe that our meat and processed-food obsessed country is the one of the most obese in the world for a reason. Striking meat from your diet completely and instead focusing on getting as much raw, unprocessed food as possible is a quick way to consume fewer calories and up your vitamin intake dramatically.
 
 I won't get into all the health benefits, but check out [Forks Over Knives](http://www.forksoverknives.com/) if you're interested in learning more.
 

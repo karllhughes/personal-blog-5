@@ -20,7 +20,7 @@ For smaller companies, individual bloggers, and resource-strapped news providers
 
 A website that is responsive is one that essentially "responds" to the device accessing it. For example, if the reader is using a desktop computer, their screen resolution is likely high enough to support a wide page with lots of columns. But, if the reader is using a mobile phone, they probably only have room to see one narrow column, and wider sites will be cumbersome to read as they will likely have to do a lot of side scrolling. 
 
-There are several ways to approach responsive design. ~~For this site, I used a slightly modified version of [Scherzo](http://leonpaternoster.com/wp-themes/), a light, responsive Wordpress theme created by Leon Paternoster.~~ (I now use [Milligram](https://milligram.github.io/) to handle responsiveness here) If you resize your browser window, you'll notice that as your window gets narrower, the content shifts and column widths change. Since this site is a pretty simple blog without ads, this theme works great, but with more complicated sites, responsive design becomes a little more demanding. 
+There are several ways to approach responsive design. If you resize your browser window, you'll notice that as your window gets narrower, the content shifts and column widths change. Since this site is a pretty simple blog without ads, this theme works great, but with more complicated sites, responsive design becomes a little more demanding. 
 
 ## A Demonstration with Media Queries
 

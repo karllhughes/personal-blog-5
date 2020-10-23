@@ -21,7 +21,7 @@ First, I should back up and explain what we do at [Packback](http://packback.co
 
 ## Making Packbot
 
-There's not much to creating a Slackbot. If you're familiar with NodeJS or at least some basic Javascript, you can [follow this tutorial to get your first one up and running](http://devdactic.com/first-slackbot/). In order to create Packbot, we used:
+There's not much to creating a Slackbot. If you're familiar with NodeJS or at least some basic Javascript, you can [follow this tutorial to get your first one up and running](https://www.freecodecamp.org/news/building-a-slackbot-with-node-js-and-slackbots-js/). In order to create Packbot, we used:
 
 *   Heroku for hosting/deployment
 *   NodeJS with Express to access our internal product API and respond when Slack sends a message its way

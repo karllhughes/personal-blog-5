@@ -24,7 +24,7 @@ Twitter is all about spewing out everything that gets posted equally.  It doesn
 
 ## Spam, Spam, Spam
 
-With only 600 or so followers, I'm _far_ from a Twitter power user, yet I _still_ receive at least one spam mention or message _every day_.  I can't imagine how bad it is for those who have 10,000 or 100,000 followers. The inordinate amount of spam and fake accounts on the network prevent honest users from being able to connect with other people. I have to take a serious look at every link that gets sent to me before clicking for fear that the next one will hold some diabolical virus. Twitter [isn't doing much about this issue](http://www.technologyreview.com/blog/mimssbits/26704/) either. You can create a new account in seconds, and it's way to easy to automate messages and mentions.
+With only 600 or so followers, I'm _far_ from a Twitter power user, yet I _still_ receive at least one spam mention or message _every day_.  I can't imagine how bad it is for those who have 10,000 or 100,000 followers. The inordinate amount of spam and fake accounts on the network prevent honest users from being able to connect with other people. I have to take a serious look at every link that gets sent to me before clicking for fear that the next one will hold some diabolical virus.
 
 ## Twitter Makes it Easy to Cheat
 

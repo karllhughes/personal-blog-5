@@ -26,7 +26,7 @@ Let's switch gears to talk about microservices for a minute. [Microservice archi
 
 ### Another example from Packback's domain
 
-At Packback, we use this architecture pattern when thinking about our users in different contexts. We have two products ([Packback Books](https://www.packback.co/books/) and [Packback Questions](https://www.packback.co/questions)) which share the same Users microservice. This allows users of one product to skip the signup process for the other product, but gives them different information in their dashboard based on which product they're logged into. Often, the two frontends share the same backend endpoints, but occassionaly one uses different filters than the other to request different data.
+At Packback, we use this architecture pattern when thinking about our users in different contexts. We have two products (Packback Books and Packback Questions) which share the same Users microservice. This allows users of one product to skip the signup process for the other product, but gives them different information in their dashboard based on which product they're logged into. Often, the two frontends share the same backend endpoints, but occasionally one uses different filters than the other to request different data.
 
 ## In the end, DDD relies on strong communication
 
