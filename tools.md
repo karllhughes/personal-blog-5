@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Favorite Tools
-permalink: /tools/
+permalink: /tools
 ---
 
 People often ask me what tools I use for various tasks, so I put together this list to make it easier to share.
