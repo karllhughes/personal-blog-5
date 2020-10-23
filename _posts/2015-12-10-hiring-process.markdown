@@ -8,7 +8,7 @@ categories:
 ---
 _Note: I've since left Packback and [updated my hiring process](https://www.karllhughes.com/posts/rethinking-hiring). You can learn more about [Packback's current hiring process for engineers on Github](https://github.com/packbackbooks/careers-at-packback)._
 
-[When I took over as Packback's Head of Engineering earlier in 2015](http://www.karllhughes.com/2015/packback-engineering/), I already had a team of three full-time engineers and a great intern who had started just after I did. When the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding people. I started with the framework my predecessor used, and brought in some heavy influences from _[Peopleware](http://www.karllhughes.com/2015/peopleware/)_ and Josh Tyler's _[Building Great Software Engineering Teams](http://amzn.to/1XQAfT7)_ book. 
+[When I took over as Packback's Head of Engineering earlier in 2015](/posts/packback-engineering), I already had a team of three full-time engineers and a great intern who had started just after I did. When the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding people. I started with the framework my predecessor used, and brought in some heavy influences from _[Peopleware](/posts/peopleware)_ and Josh Tyler's _[Building Great Software Engineering Teams](http://amzn.to/1XQAfT7)_ book. 
 
 It's still a work in progress, but here is the structure we use for hiring engineers at Packback:
 

@@ -36,8 +36,8 @@ Most people don't have a job the moment they graduate, and if they do it's more
 
 **Create a list of must-read blogs** - I use Feedly to curate a few hundred developer blogs, and then I use Zapier to email me a digest of the new articles every day.
 
-**Work out** - Staying in shape is a [long-term investment in yourself and your career](https://www.karllhughes.com/2015/health-investment-success/). I know it seems easy to take a pass on working out when you're job hunting, but don't. It'll help you keep your confidence up and give you a reason to wake up and shower every morning.
+**Work out** - Staying in shape is a [long-term investment in yourself and your career](/posts/health-investment-success). I know it seems easy to take a pass on working out when you're job hunting, but don't. It'll help you keep your confidence up and give you a reason to wake up and shower every morning.
 
-**Read some books** - Another good habit you can build now while you've got the time is reading. I recommend keeping a list of books you want to read ([here's more info about how I do it](https://www.karllhughes.com/2015/trello-as-a-reading-list/)), and making a commitment to read a few pages every night before bed.
+**Read some books** - Another good habit you can build now while you've got the time is reading. I recommend keeping a list of books you want to read ([here's more info about how I do it](/posts/trello-as-a-reading-list)), and making a commitment to read a few pages every night before bed.
 
-That's it. If you have questions, feel free to [mention me on Twitter](https://twitter.com/karllhughes), and if you're interested in learning more about developer bootcamp programs? Not sure what you should expect? I wrote more on the topic a while back, so [check the article out](http://www.karllhughes.com/2014/dev-bootcamp-program/).
+That's it. If you have questions, feel free to [mention me on Twitter](https://twitter.com/karllhughes), and if you're interested in learning more about developer bootcamp programs? Not sure what you should expect? I wrote more on the topic a while back, so [check the article out](/posts/dev-bootcamp-program).

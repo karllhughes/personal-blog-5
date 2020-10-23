@@ -6,11 +6,11 @@ img: https://i.imgur.com/EHex9XC.png
 categories:
   - Software Engineering
 ---
-*I first published this post in May, 2015, but Clean Code is timeless. If you're new to programming, read it because it's a great primer. If you're experienced in programming, read it because it's a great reminder.*
+*I first published this post in May 2015, but Clean Code is timeless. If you're new to programming, read it because it's a great primer. If you're experienced in programming, read it because it's a great reminder.*
 
 -----
 
-As regulars to my blog know, [I've been reading more this year](/posts/trello-as-a-reading-list/), and while most of the books I've finished in 2015 have been fiction, I've also made an effort to spend some time with books that will advance my professional knowledge.
+As regulars to my blog know, [I've been reading more this year](/posts/trello-as-a-reading-list), and while most of the books I've finished in 2015 have been fiction, I've also made an effort to spend some time with books that will advance my professional knowledge.
 
 Software engineering is a challenging field because it changes quickly and there's no end to what you can learn. While you can certainly gather applied knowledge from just _doing_ it and reading code, it's helpful for me to read principles out on paper (or on screen at least).
 

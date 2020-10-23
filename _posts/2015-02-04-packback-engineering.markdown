@@ -9,7 +9,7 @@ categories:
 ---
 As I enter my second full year of working with [Packback](http://www.packbackbooks.com), I can say that it's already been an exciting and challenging experience. When I came in on my first day, there were five offshore developers dragging files onto two servers with absolutely no discernable workflow, coding standards, or version control system.
 
-The first few months were a free-for-all, but I learned a lot about [managing outsourced resources](http://www.karllhughes.com/2014/risk-of-offshore-outsourcing/), and some of the goods and bads associated with going that route in software development.
+The first few months were a free-for-all, but I learned a lot about [managing outsourced resources](/posts/risk-of-offshore-outsourcing), and some of the goods and bads associated with going that route in software development.
 
 In Spring of 2014, we had closed a round of funding and knew that our first task was to expand the engineering team. [Steven Maguire](http://stevenmaguire.com/) was my first choice of the potential engineers that we looked at, and he soon came onto our team as our Head of Engineering. Working with Steven was one of the best learning experiences of my career.
 
@@ -17,7 +17,7 @@ Coming into my job with Packback, I wasn't sure that I wanted to be a software�
 
 ## But things can change quickly in a startup
 
-[Engineering in a startup can be quite a challenge](/startups/), even under the best circumstances. Steven moved on from Packback last month, and as of this week I've taken over his responsibilities as the leader of our team of four engineers. Coming into a role like this without a ton of experience is a challenge, but I've got a great team to work with, and thanks to Steven, much of the technical architecture questions that I had a year ago have since been answered.
+[Engineering in a startup can be quite a challenge](/startups), even under the best circumstances. Steven moved on from Packback last month, and as of this week I've taken over his responsibilities as the leader of our team of four engineers. Coming into a role like this without a ton of experience is a challenge, but I've got a great team to work with, and thanks to Steven, much of the technical architecture questions that I had a year ago have since been answered.
 
 ## In short, we've got a great trajectory in place, so it's my job to keep it together and keep the momentum up
 

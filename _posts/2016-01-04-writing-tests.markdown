@@ -12,7 +12,7 @@ I think a lot of developers are intimidated by the prospect of writing tests. Wh
 *   Do you take it out of production until it meets the quality standards you'd like it to?
 *   Do you rewrite the whole thing?
 
-While these extreme solutions may seem like the best option from a developer's perspective, they rarely make good business sense. Implementing tests on an untested app is a process. Much like the [technical maturity level of a startup](http://www.karllhughes.com/2015/technical-maturity/), you can't expect every application to be perfect in an organization, but you can make gradual improvements to the test coverage and testability of an application as you work on it. Here's how I approach the problem:
+While these extreme solutions may seem like the best option from a developer's perspective, they rarely make good business sense. Implementing tests on an untested app is a process. Much like the [technical maturity level of a startup](/posts/technical-maturity), you can't expect every application to be perfect in an organization, but you can make gradual improvements to the test coverage and testability of an application as you work on it. Here's how I approach the problem:
 
 ### 1\. Acceptance tests
 

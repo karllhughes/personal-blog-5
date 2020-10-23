@@ -15,7 +15,7 @@ First, a little bit about [Packback](https://www.packback.co/) and my role here.
 1.  Making sure our website works and continues to improve
 2.  Helping everyone in the company understand what's technically possible
 
-Along the way, I've had to hire people, build processes to make things run smoothly, and [a million other little things](https://www.karllhughes.com/posts/roles-of-startup-cto/), but my goal is really pretty simple: keep Packback's technology running.
+Along the way, I've had to hire people, build processes to make things run smoothly, and [a million other little things](https://www.karllhughes.com/posts/roles-of-startup-cto), but my goal is really pretty simple: keep Packback's technology running.
 
 ## So how do I spend my time?
 

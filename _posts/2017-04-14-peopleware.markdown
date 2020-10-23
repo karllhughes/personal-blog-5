@@ -17,7 +17,7 @@ One of my favorites so far has been  _[Peopleware: Productive Projects and Team
 
 **People - not technology - are the reason that software projects (and by extension, software startups) live and die.**
 
-This is my [first year managing a software engineering team](/posts/packback-engineering/), so I know I have a ton to learn, but **I've started to suspect that my job is more about handling diverse desires, goals, and issues between people than it is to manage the technology choices we as a team make.**
+This is my [first year managing a software engineering team](/posts/packback-engineering), so I know I have a ton to learn, but **I've started to suspect that my job is more about handling diverse desires, goals, and issues between people than it is to manage the technology choices we as a team make.**
 
 The nice thing about software is that it is predictable. Computers do what you expect them to and they do the same thing every single time. While creating software that is sustainable, testable, and extensible is no doubt challenging (one of the other books I'm reading now is _Clean Code_), the technology portion of software development is at least predictable. You can spend a few months learning patterns that make code workable most of the time, but figuring out how to make people work together is a lifelong exercise.
 

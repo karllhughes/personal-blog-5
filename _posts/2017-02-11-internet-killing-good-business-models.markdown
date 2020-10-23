@@ -24,7 +24,7 @@ Call me old-school, but isn't that what entrepreneurs do? Make money?
 
 Would I have said "yes" to joining the Instagram team a year ago?  **Probably not.**
 
-In hind sight, I would have kicked myself if they _had_ asked me, but at the same time, it wouldn't have made any sense to me. Now we know that Instagram's exit was in large part due to [previous connections with Facebook's investors](http://www.nytimes.com/2012/04/14/technology/instagram-founders-were-helped-by-bay-area-connections.html?pagewanted=all). They were built to sell; not built to make money, and you already know how I feel about Facebook's [long term success as a company](/posts/is-facebook-really-a-104-billion-company/).
+In hind sight, I would have kicked myself if they _had_ asked me, but at the same time, it wouldn't have made any sense to me. Now we know that Instagram's exit was in large part due to [previous connections with Facebook's investors](http://www.nytimes.com/2012/04/14/technology/instagram-founders-were-helped-by-bay-area-connections.html?pagewanted=all). They were built to sell; not built to make money, and you already know how I feel about Facebook's long term success as a company.
 
 Instagram aside, it seems like every college kid and unemployed yuppie is working on a "killer app" or social network that has _no business model_ aside from getting millions of users and crossing their fingers for a big sale to another bloated web-based company.  When did this become entrepreneurship?
 

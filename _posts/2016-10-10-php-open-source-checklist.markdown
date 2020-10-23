@@ -43,7 +43,7 @@ Squizlabs has [an excellent code sniffer](https://github.com/squizlabs/PHP_CodeS
 
 ### 7. Write unit and integration tests
 
-If you haven't gotten to write many tests in your projects at work then open source projects is a great time to get introduced to testing in PHP development. I've [written a bit about testing before](https://www.karllhughes.com/2016/writing-tests/), but take my word, it's important and will save you a ton of headaches in the long-term.
+If you haven't gotten to write many tests in your projects at work then open source projects is a great time to get introduced to testing in PHP development. I've [written a bit about testing before](/posts/writing-tests), but take my word, it's important and will save you a ton of headaches in the long-term.
 
 ### 8. Use Travis and Scrutinizer
 

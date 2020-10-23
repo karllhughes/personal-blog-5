@@ -8,9 +8,11 @@ categories:
 ---
 Now that Midwest PHP 2016 is over and I'm back on my cozy couch here in Chicago, I'll share just a few of the nuggets of knowledge I gathered over the weekend in Minneapolis:
 
-### 1\. Build microservices for failure and interchangeability
+### 1\. Build microservices for failure and interchangeability
 
-![](https://i.imgur.com/OWyTM8r.jpg)Microservices are all the rage, and I definitely felt it at the conference. I have a feeling this is partly because [continuous integration and deployment](https://www.karllhughes.com/2015/continuous-integration/) have gotten so cheap and easy to set up, but the pattern is definitely attractive to developers. That said, it's also challenging to build services that are truly decoupled and abstracted enough to be interchangeable. [Mike Stowe's](https://twitter.com/mikegstowe) talk reminded me that one of the big theoretical advantages to microservices is that you can one day refactor or completely replace a service without the pain of completely rebuilding your system. Of course, you only get this upside if you did your microservices right to begin with, and that means testing for failure and building for interchangeability. If you've got tightly coupled microservices working across an HTTP layer, you're just getting the downside of increased latency with no upside of modularity.
+![](https://i.imgur.com/OWyTM8r.jpg)
+
+Microservices are all the rage, and I definitely felt it at the conference. I have a feeling this is partly because [continuous integration and deployment](/posts/continuous-integration) have gotten so cheap and easy to set up, but the pattern is definitely attractive to developers. That said, it's also challenging to build services that are truly decoupled and abstracted enough to be interchangeable. [Mike Stowe's](https://twitter.com/mikegstowe) talk reminded me that one of the big theoretical advantages to microservices is that you can one day refactor or completely replace a service without the pain of completely rebuilding your system. Of course, you only get this upside if you did your microservices right to begin with, and that means testing for failure and building for interchangeability. If you've got tightly coupled microservices working across an HTTP layer, you're just getting the downside of increased latency with no upside of modularity.
 
 ### 2\. Hypermedia is an awesome idea; why don't more APIs use it?
 

@@ -6,7 +6,7 @@ img:
 categories:
   - Software Engineering
 ---
-I've always been a big fan of [Heroku](https://www.heroku.com/) for deploying my personal projects, but there are other options. Laravel's creator has a great project called [Forge](https://forge.laravel.com/) that makes deploying and managing a Laravel project even smoother than Heroku. We've been using Forge as part of our [continuous integration and deployment process](http://www.karllhughes.com/2015/continuous-integration/) at Packback for over a year now, and in most cases, it does the job perfectly. Here's a quick overview of how you can use Forge to set up and deploy your own Laravel projects:
+I've always been a big fan of [Heroku](https://www.heroku.com/) for deploying my personal projects, but there are other options. Laravel's creator has a great project called [Forge](https://forge.laravel.com/) that makes deploying and managing a Laravel project even smoother than Heroku. We've been using Forge as part of our [continuous integration and deployment process](/posts/continuous-integration) at Packback for over a year now, and in most cases, it does the job perfectly. Here's a quick overview of how you can use Forge to set up and deploy your own Laravel projects:
 
 ## 1\. Register and set up your accounts
 

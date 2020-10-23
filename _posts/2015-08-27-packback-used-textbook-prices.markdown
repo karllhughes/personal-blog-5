@@ -17,7 +17,7 @@ Whenever someone loads a product page, we send an asynchronous request to each o
 
 ## Open Sourcing Textbook Price Access
 
-One of the big challenges in getting prices from each of the used textbook retailers is dealing with their APIs. Much like the [job board standardization project](/posts/job-board-api-1-release/) I've been doing on the side, Packback needed a way to standardize the data from each of these retailers so that requesting, receiving, and delivering prices to the user was pain-free. As of today, the textbook price collector works with the following providers:
+One of the big challenges in getting prices from each of the used textbook retailers is dealing with their APIs. Much like the job board standardization project I've been doing on the side, Packback needed a way to standardize the data from each of these retailers so that requesting, receiving, and delivering prices to the user was pain-free. As of today, the textbook price collector works with the following providers:
 
 *   AbeBooks
 *   Amazon
