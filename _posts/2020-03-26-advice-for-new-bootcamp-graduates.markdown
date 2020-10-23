@@ -3,7 +3,6 @@ layout: post
 title: "My Advice for New Bootcamp Graduates"
 date: 2020-03-26
 img: https://i.imgur.com/otrG6LW.png
-tags: [bootcamps, hiring, jobs]
 categories: 
   - Software Engineering
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "Why Automated Software Testing Matters"
 date: 2017-10-02
 img: https://i.imgur.com/AsAT1rM.png
-tags: [testing, programming, engineering]
 categories:
   - Software Engineering
   - API Development

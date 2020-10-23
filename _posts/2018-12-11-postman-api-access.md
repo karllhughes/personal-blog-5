@@ -3,7 +3,6 @@ layout: post
 title: "Using Postman to Access APIs Without Code"
 img: https://i.imgur.com/KA7CkEA.png
 date: 2018-12-11
-tags: [apis, postman, no-code]
 categories: 
   - API Development
   - Software Engineering

@@ -3,7 +3,6 @@ layout: post
 title: "The Myths You’ll Hear About Working as an Engineer at a Startup"
 date: 2018-12-18
 img: https://i.imgur.com/QHH8cxL.jpg
-tags: [startups, engineering, programming]
 categories: 
   - Startups
   - Software Engineering
