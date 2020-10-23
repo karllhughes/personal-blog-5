@@ -2,7 +2,7 @@
 layout: main
 ---
 <h2 class="home-page-header">
-  Blog Posts About <a href="{{ page.url }}">{{ page.category-name }}</a>
+  {{ page.title }}
 </h2>
 {% for post in site.categories[page.category-name] %}
 <article class="post">

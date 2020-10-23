@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where Have All the Business Models Gone? Did the Internet Kill the Need for One?"
+title: "Where Have All the Business Models Gone?"
 date: 2017-02-11
 img: https://i.imgur.com/HrZqhxr.jpg
 categories:
