@@ -6,6 +6,7 @@ img: https://i.imgur.com/ceLqlH1.png
 categories:
   - Management
   - Software Engineering
+  - Books
 ---
 *Two years ago I read Peopleware for the first time and wrote this blog post. That book was the most inspiring engineering leadership material I had read, and it's still definitely in my [top 5 recommendations](/posts/reading-for-engineering-managers).*
 
