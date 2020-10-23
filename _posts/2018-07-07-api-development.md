@@ -8,7 +8,7 @@ categories:
   - API Development
 ---
 
-**The term "API" gets thrown around a lot these days, but what does it mean? What can you use an API for? Do you have to have a developer on your team to build or use an API? In this guide, we'll explore all those questions and more, including a spotlight on the tools you can use as a nontechnical founder to build your own APIs.**
+**The term "API" gets thrown around a lot these days, but what does it mean? What can you use an API for? Do you have to have a developer on your team to build or use an API? In this guide, we'll explore all those questions and more, including a spotlight on the tools you can use as a [non-technical founder](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto) to build your own APIs.**
 
 You don't have to understand what an API is at this point, but if you do, feel free to skip the first section and move right into "[Why Build an API?](#why-build-an-api)". If you already know why you need one, then skip down to "[Things to Consider When Building an API](#things-to-consider-when-building-an-api)", and if you are seasoned at building APIs but just want to know how you can build them without a developer, jump all the way down to "[Tools for Building APIs Without Code](#tools-for-building-apis-without-code)".
 

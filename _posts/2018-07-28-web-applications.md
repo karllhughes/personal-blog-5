@@ -179,7 +179,7 @@ Now that you know what a web application is, why you might need one, and some of
 
 ### [Bubble](http://bubble.io/)
 
-**Description:** Bubble is probably the best web application builder I've seen for those who don't code. You can use Bubble as your data storage or hook it up to an existing database or import data from a spreadsheet, kick off notifications when data changes, and handle user accounts and logins with ease. They even offer a mobile app builder if you want to expand your web app in the future.
+**Description:** Bubble is probably [the best web application builder I've seen](https://www.karllhughes.com/posts/10-web-app-builders) for those who don't code. You can use Bubble as your data storage or hook it up to an existing database or import data from a spreadsheet, kick off notifications when data changes, and handle user accounts and logins with ease. They even offer a mobile app builder if you want to expand your web app in the future.
 
 **Pros:**
 - User accounts and logins are handled for you

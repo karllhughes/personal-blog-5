@@ -98,7 +98,7 @@ I believe that managing engineers at a startup is a related, but different skill
 
 ### [The Lean Startup by Eric Ries](http://amzn.to/2ccHgut)
 
-This remains my top recommendation for new startup product and engineering managers. While the book isn't necessarily for startups only, it's a lot easier to implement short feedback cylces when your whole company can fit in a single room. 
+This remains my top recommendation for new startup product and [engineering managers](https://www.karllhughes.com/posts/engineering-manager). While the book isn't necessarily for startups only, it's a lot easier to implement short feedback cylces when your whole company can fit in a single room. 
 
 ### [The E-Myth Revisited: Why Most Small Businesses Don't Work by Michael E. Gerber](https://amzn.to/2GZZC1A)
 
