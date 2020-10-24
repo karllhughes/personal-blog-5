@@ -37,4 +37,4 @@ To get started, simply sign up for a free account. It only takes a minute! Here'
 
 When you sign up with Facebook or Twitter, Medium will import all your friends and make them automatically follow you. Once you're in, you can head straight over the Editor and start writing. When you click publish, you'll be prompted to add up to three tags such as "side project", "business", or "entrepreneurship". Choose the tags which are most relevant to your article, audience, and product or service.
 
-If Medium isn't right for you, [click here to see more blogging tools](https://learn.draft.dev/posts/blogging-platforms) you can use for your startup.
+If Medium isn't right for you, [click here to see more blogging tools](https://draft.dev/learn/posts/blogging-platforms) you can use for your startup.
