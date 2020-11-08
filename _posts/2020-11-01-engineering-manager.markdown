@@ -31,7 +31,7 @@ The short answer is: it depends.
 
 ### Engineering Managers Must be Technical
 
-Generally, engineering managers write less code than the senior developers on their team, but [they should write code some to keep their skills sharp](https://medium.com/swlh/do-engineering-managers-need-to-write-code-d89903d68e8d). They also need to be good at helping their team members get "unstuck." Sometimes this means answering technical questions, and sometimes it means solving disputes between team members.
+Generally, engineering managers write less code than the senior developers on their team, but [they should write some code to keep their skills sharp](https://medium.com/swlh/do-engineering-managers-need-to-write-code-d89903d68e8d). They also need to be good at helping their team members get "unstuck." Sometimes this means answering technical questions, and sometimes it means solving disputes between team members.
 
 They're likely to play a role in [training new engineers](https://www.karllhughes.com/posts/developing-talent) as well as evaluating candidates on a technical and interpersonal basis.
 
