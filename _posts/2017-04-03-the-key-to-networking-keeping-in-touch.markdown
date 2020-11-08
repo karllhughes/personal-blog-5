@@ -7,9 +7,6 @@ categories:
   - Software Engineering
   - Management
 ---
-*I first wrote about my quarterly contact list in August, 2013, but I started following this pattern at least a year or two before that. Since then, my list of contacts has changed dramatically, but my method for keeping in touch with them hasn't. I've updated this post as I'm also including it in [CTO Patterns](https://github.com/karllhughes/cto-patterns) this year.*
-
------
 
 I first started using a system for keeping in touch with important people in my life in college. I realized that if I wasn't intentional about it, I wouldn't be able to keep up with a few dozen coworkers, mentors, friends, and peers, so I started keeping a list of people who I wanted to stay in touch with.
 
