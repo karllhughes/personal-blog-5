@@ -33,6 +33,8 @@ Finding and bringing on engineering talent is one of the hardest things for tech
 
 The CTO at a startup will have to get good at hiring, onboarding, training, and eventually replacing the company's technical staff. Having a proven hiring process and strong network will help here. 
 
+_Note: If you're looking for more great reads for startup CTOs, check out [my favorite books here](https://www.karllhughes.com/posts/reading-for-startup-ctos)._
+
 ### 3. Figuring out company-wide security
 
 I've never implemented a security policy before, but when one of our partners asked to see ours, it immediately fell to me to come up with one. A startup's [CTO will likely be the first team member to own security](https://www.karllhughes.com/posts/security-tips-startups), run audits, document security procedures, and train everyone on the basics.
@@ -41,7 +43,7 @@ I've never implemented a security policy before, but when one of our partners a
 
 Most startups I've seen have a non-technical product manager and a de-facto technical project manager in their CTO. This usually means that while the CTO's primary goal is to make the vision of the non-technical manager a reality, it also means that they've got to manage the flow of work into the engineering team.
 
-In other cases, a startup may have a [CTO who stands in as the product manager](https://www.reddit.com/r/startups/comments/a20mp9/product_management_ceo_or_cto/eauh5ud/) or at least takes an active role in laying out the product planning process. In my current role at The Graide Network I lead both product and technology, which has been a stretch, but [learning new things](https://www.karllhughes.com/posts/the-key-to-success-never-stop-learning) is the norm at startups. 
+In other cases, a startup may have a [CTO who stands in as the product manager](https://www.reddit.com/r/startups/comments/a20mp9/product_management_ceo_or_cto/eauh5ud/) or at least takes an active role in laying out the product planning process. In my current role at The Graide Network I lead both product and technology, which has been a stretch, but learning new things is the norm at startups.
 
 ### 5. Application architecture
 
