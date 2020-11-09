@@ -1,4 +1,13 @@
 .post {
+  .single-post {
+    a {
+      text-decoration: underline;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
   .page-cover-image {
     margin: 0 -40px;
   }
