@@ -11,7 +11,7 @@ I read a post online recently about how some software engineer was asked to comp
 
 This happens all the time during job-screening. We put engineers through rigorous screening processes and ask them intellectually stimulating questions, only to hire them and put them into the admittedly dull task of wiring up 5 or 6 services and making the screen look pretty. I'm not saying there aren't skills involved in those tasks - I'm simply saying that those aren't the same skills being tested for in most whiteboarding-style challenges.
 
-_PS: [Here's how I revamped my hiring process with this trend in mind](https://www.karllhughes.com/posts/rethinking-hiring)._
+_PS: [Here's how I revamped my hiring process with this trend in mind](https://www.karllhughes.com/posts/hiring-process)._
 
 ## Let's stop sugar-coating it
 

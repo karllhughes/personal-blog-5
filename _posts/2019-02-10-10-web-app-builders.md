@@ -7,7 +7,7 @@ categories:
   - Startups
 ---
 
-In the days of [Web 1.0](https://www.geeksforgeeks.org/web-1-0-web-2-0-and-web-3-0-with-their-difference/), entrepreneurs had to learn code or hire web developers to create a website. Now, two decades later, startup founders are able to build [web applications](https://www.karllhughes.com/posts/web-applications) without needing to know a single line of code.
+In the days of [Web 1.0](https://www.geeksforgeeks.org/web-1-0-web-2-0-and-web-3-0-with-their-difference/), entrepreneurs had to learn code or [hire web developers to create a website](https://www.karllhughes.com/posts/hiring-process). Now, two decades later, startup founders are able to build [web applications](https://www.karllhughes.com/posts/web-applications) without needing to know a single line of code.
 
 There are numerous non-technical tools you can use to build web applications. I'm going to talk about ten of them, starting with Wordpress.
 

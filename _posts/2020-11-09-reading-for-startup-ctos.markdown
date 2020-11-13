@@ -103,7 +103,7 @@ Every application becomes a data-intensive application if it grows large enough,
 
 ## Scaling Up
 
-If you are already making some money but you’res struggling to hire and build a large team, the books in this section will help. These books talk about growing your business, raising money, and building a scalable team structure.
+If you are already making some money but you’re [struggling to hire and build a large team](https://www.karllhughes.com/posts/hiring-process), the books in this section will help. These books talk about growing your business, raising money, and building a scalable team structure.
 
 
 ### [Startup Engineering Management](https://amzn.to/2IfMZ5g)

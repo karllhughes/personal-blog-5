@@ -28,7 +28,7 @@ Worst of all, equity is easy to lose. If you leave early, are let go for any rea
 
 Most engineers who come into an existing organization are met with a slew of predetermined rules, established policies, bureaucratic requirements, and “best” practices that you’re unlikely to change. On the other hand, when you come into a startup, almost everything is fluid. I’ve never been part of a startup team that didn’t welcome new ideas and tools if they could be implemented quickly.
 
-You are also likely to get some input on the way future engineers are hired and the way your technology team interacts with the business team. These extra-engineering responsibilities can be tough for some to handle, but if they sound like something you’d enjoy, you’ll likely fit right in at a startup.
+You are also likely to get some input on [the way future engineers are hired](https://www.karllhughes.com/posts/hiring-process) and the way your technology team interacts with the business team. These extra-engineering responsibilities can be tough for some to handle, but if they sound like something you’d enjoy, you’ll likely fit right in at a startup.
 
 ## Myth 2: you _have_ to work 80 hours per week all the time
 

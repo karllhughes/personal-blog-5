@@ -10,7 +10,7 @@ categories:
 
 When I graduated from college, my dream was to lead a team at a startup. Over the past decade, I've had the opportunity to serve in a [variety of engineering and management roles](https://www.karllhughes.com/work/) with funded tech startups and, most recently I joined The Graide Network as their [Chief Technology Officer](https://www.karllhughes.com/posts/joining-the-graide-network).
 
-The Graide Network was my dream job. I got to pick the tech stack, hire the team, make important decisions, and speak and write about all of it. It was challenging, exciting, and it felt like something I'd want to do forever.
+The Graide Network was my dream job. I got to pick the tech stack, [hire the team](https://www.karllhughes.com/posts/hiring-process), make important decisions, and speak and write about all of it. It was challenging, exciting, and it felt like something I'd want to do forever.
 
 In 2020, when Covid-19 struck, the business hit a wall. Our customers (K-12 schools) tightened their budgets, and like many early-stage startups, we had to let a few team members go. I had been managing the engineering team for four years, and now and after Covid, the team had contracted to just one other developer and me.
 

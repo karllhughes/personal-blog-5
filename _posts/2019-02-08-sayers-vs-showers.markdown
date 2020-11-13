@@ -51,7 +51,7 @@ _Carol Dweck, author of [Mindset: The New Psychology of Success](https://amzn.to
 
 When you read the list above, it should be pretty clear that "showers" are easier to manage, more reliable to work with, and typically better hires, but how can you select for these traits? What traits are you even looking for?
 
-As an engineer, it's easy for me to get [caught up in the technical aspects of hiring](https://www.karllhughes.com/posts/learning-about-hiring), but I've found the personality and work habits below to be even more important indicators for success:
+As an engineer, it's easy for me to get [caught up in the technical aspects of hiring](https://www.karllhughes.com/posts/hiring-process), but I've found the personality and work habits below to be even more important indicators for success:
 
 - Look for people who acknowledge and talk openly about their weaknesses. They don't use them as an excuse, but rather know where other team members can help them out or enhance their abilities. [StrengthsFinder 2.0](https://amzn.to/2TEUhAt) has a lot of fantastic research on this topic.
 

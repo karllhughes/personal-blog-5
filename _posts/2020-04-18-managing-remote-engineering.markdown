@@ -64,7 +64,7 @@ remote workers who might be your next hires. Start an engineering email newslett
 on Linkedin.
 
 It's definitely harder to make personal connections when you're not seeing people face-to-face, but long-term this is one of the 
-best ways to ensure you have a strong pipeline of candidates to hire from.
+best ways to ensure you have a [strong pipeline of candidates to hire from](https://www.karllhughes.com/posts/hiring-process).
 
 ### 6. Ensure employees have secure setups
 

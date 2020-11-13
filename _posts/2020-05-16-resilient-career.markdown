@@ -11,7 +11,7 @@ I was reading another engineer's story this week about [his 65-day job hunt](htt
 
 1. Instead of targeting _every_ job, Matt Dupree selectively applied at **only 16 companies** and withdrew applications when he thought the company was a bad fit. I love this advice.
 2. Matt has built side projects, spoken at conferences, and blogged consistently for years. **He walked into interviews with a trust level much higher than random applicants.** I have said this before: [coding skills are not enough to build a resilient career](https://www.linkedin.com/pulse/code-notenough-karl-l-hughes/).
-3. Technical interviews still tell employers very little about an engineer's ability (that's a [whole other blog post](https://www.karllhughes.com/posts/rethinking-hiring)).
+3. Technical interviews still tell employers very little about an engineer's ability (that's a [whole other blog post](https://www.karllhughes.com/posts/hiring-process)).
 
 Not everyone has the luxury of choice when it comes to choosing their next job, but if you're a software engineer, you should be able to get there. There's more demand for our skillset than there is supply, but you have to be intentional if you want to build a resilient career.
 

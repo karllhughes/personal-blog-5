@@ -7,7 +7,7 @@ categories:
   - Management
 ---
 
-I've gone through a couple iterations of [my hiring process](/posts/learning-about-hiring) here on the blog, but I realized this month that I've never outlined the techniques I use for onboarding and developing new engineers. As I'm working on [hiring an early-career engineer now](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md), I figured it would be a fitting time to describe some of the things I do to get new hires up to speed.
+I've gone through a couple iterations of [my hiring process](https://www.karllhughes.com/posts/hiring-process) here on the blog, but I realized this month that I've never outlined the techniques I use for onboarding and developing new engineers. As I'm working on [hiring an early-career engineer now](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md), I figured it would be a fitting time to describe some of the things I do to get new hires up to speed.
 
 ## 1. Have a Plan
 

@@ -21,7 +21,7 @@ First, a little bit about my roles as an engineering manager: my first managemen
 
 I joined the team when there were just four people in the company - it was essentially myself and the founders. In the intervening three years, I saw the company raise close to $5 million and grow to almost 30 people. My engineering team was pretty lean - there were five when I left in 2016 - but my role changed quite a bit over my years with the company.
 
-After [I left Packback to join The Graide Network](https://www.karllhughes.com/posts/joining-the-graide-network), I started over as an engineering manager. Initially, my team was just a contractor and me, but over my four years at Graide, I hired three other engineers and [took on more of the product management duties](https://www.karllhughes.com/posts/product-management-process).
+After [I left Packback to join The Graide Network](https://www.karllhughes.com/posts/joining-the-graide-network), I started over as an engineering manager. Initially, my team was just a contractor and me, but over my four years at Graide, I [hired three other engineers](https://www.karllhughes.com/posts/hiring-process) and [took on more of the product management duties](https://www.karllhughes.com/posts/product-management-process).
 
 While my day-to-day work changed a lot over the years, **as a software engineering manager, I was ultimately responsible for helping my team ship software that worked as expected on schedule and within budget.**
 

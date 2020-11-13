@@ -6,7 +6,7 @@ img: https://i.imgur.com/HqBcveo.jpg
 categories:
   - Management
 ---
-*When I first published this post in June, 2014, I was just starting to manage a couple engineers. Interestingly, I've only seen this idea get more true as I've hired and managed more people. Superstars, rockstars, or heroes rarely pay off. Build a team of consistent performers and you'll make great products.*
+*When I first published this post in June, 2014, I was just starting to manage a couple engineers. Interestingly, I've only seen this idea get more true as I've hired and managed more software engineers. Superstars, rockstars, or heroes rarely pay off. Build a team of consistent performers and you'll make great products.*
 
 -----
 
