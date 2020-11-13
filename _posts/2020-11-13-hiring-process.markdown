@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recruiting and Hiring Software Engineers"
-date: 2020-11-12
+date: 2020-11-13
 img: /assets/img/hiring.png
 categories: 
   - Management
