@@ -7,9 +7,9 @@ categories:
   - Software Engineering
 ---
 
-My Macbook Pro is a couple years old now and I've been thinking about switching to something more portable (that new [Pixelbook is awful tempting](https://store.google.com/us/product/google_pixelbook)), but being a developer, I don't want to get stuck with an underpowered device that won't run any project I have to throw at it for the next few years.
+My Macbook Pro is a couple years old now and I've been thinking about switching to something more portable (some of the newest [Chromebooks are awful tempting](https://amzn.to/32Mkxz9)), but being a developer, I don't want to get stuck with an underpowered device that won't run any project I have to throw at it for the next few years.
 
-The inspiration to set up a remote development environment hit me when I saw my colleague Eric logging into his remote desktop PC at home through his Chromebook. If you're comfortable on the command line and aren't afraid of working in Linux, then why not make your whole development environment remote? It's 2018 for goodness' sake!
+The inspiration to set up a remote development environment hit me when I saw my colleague Eric logging into his remote desktop PC at home through his Chromebook. If you're comfortable on the command line and aren't afraid of working in Linux, then why not make your whole development environment remote? It's 2018 for goodness' sake!
 
 In this post, I'll outline my experience setting up and using a remote development environment with [DigitalOcean](https://m.do.co/c/888fefc32a01) and Google Chrome. I'll cover the apps I used to make remote development workable as well as some of the tradeoffs of going this route. You could replicate this environment on a Chromebook, Macbook, old laptop, or even a tablet (with some different apps).
 
@@ -21,7 +21,7 @@ First, let's talk about why you would want to go through the process of developi
 Don't have your computer with you, but you want to make a quick code change? Want to do remote development from an iPad or even your smart phone? This set up allows you to have access to your dev environment anywhere you have an SSH connection, meaning any terminal, Chrome web browser, or even a mobile app.
 
 ### Cost
-A new Macbook Pro will set you back up to $3000, but if you can do your dev work on a Chromebook and a Digital Ocean droplet, you can spend [less than $200](https://amzn.to/2PkXK43) up front and $40/month or less to keep your environment running.
+A new Macbook Pro will set you back up to $3000, but if you can do your dev work on a Chromebook and a Digital Ocean droplet, you can spend [less than $200](https://amzn.to/2PkXK43) up front and $40/month or less to keep your environment running.
 
 ### Environmental Consistency
 I almost always work with Linux servers, and while 95% of the time, there's no real difference between them and my Mac OSX, it's nice to know that my development environment accurately mirrors our server's. It has also forced me to get better at working with servers and bash scripting.
