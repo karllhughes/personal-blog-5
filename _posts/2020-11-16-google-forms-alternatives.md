@@ -2,7 +2,7 @@
 layout: post
 title: "14 Alternatives to Google Forms"
 img: /assets/img/google-forms.png
-date: 2018-07-19
+date: 2020-11-16
 categories: 
   - Startups
 ---
@@ -111,3 +111,5 @@ As one of the most popular paid WordPress plugins available, WPForms is worth co
 ![Paperform](https://i.imgur.com/C2HIm0F.png)
 
 Paperform is perfect for creating bespoke forms and landing pages. You can leverage more than 20 data-collection fields, accept payments, and even manage your product inventory. If you're looking to move your Google forms elsewhere, you can use Paperform's importer to preview how they'd look.
+
+_Note: This post was originally published in 2018, but was updated with new options and more details in November 2020._
