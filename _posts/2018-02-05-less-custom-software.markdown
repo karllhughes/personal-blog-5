@@ -51,7 +51,7 @@ While keeping writers engaged was a challenge, we were able to bring on over 500
 
 The team at Uloop was really good at being scrappy and making money though. Something I learned at that job is that there are sometimes market opportunities that seem too easy, but are still worth pursuing. After a few months of working on Uloop News, we managed to purchase [UWire](http://uwire.com/), and we quickly integrated their PR customers into our news blog, allowing them to publish their releases with guaranteed coverage on Uloop News for a small fee.
 
-Neither side of this two-sided marketplace required a fancy product. We used mostly off-the-shelf plugins for Wordpress and Google forms to take orders from UWire customers. Occasionally we had to make phone calls or emails to handle payments, but since our volume was relatively low, we didn't need an automated payment solution on day 1.
+Neither side of this two-sided marketplace required a fancy product. We used mostly off-the-shelf [plugins for Wordpress and Google Forms](/posts/google-forms-alternatives) to take orders from UWire customers. Occasionally we had to make phone calls or emails to handle payments, but since our volume was relatively low, we didn't need an automated payment solution on day 1.
 
 The outcome of this lean product was thousands of dollars in revenue in our first year, a new focus on fresh content for Uloop, and eventually it set the company up to buy College Media Network a few years later. While I left Uloop in 2013, they continued to focus on news content as a headlining feature for years afterwards, and eventually built it into their primary platform.
 

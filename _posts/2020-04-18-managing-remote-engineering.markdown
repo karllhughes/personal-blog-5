@@ -78,7 +78,7 @@ If the standard procedure for reporting urgent bugs or requests is to walk over 
 then you're going to need to spend some time on this.
 
 There's no way to eliminate urgent issues entirely, but it's not realistic for everyone on your team to simply send you a text message
-whenever there's a problem. We handle this pretty simply with a Google Form that users can use to report urgent issues which are 
+whenever there's a problem. We handle this pretty simply with a [Google Form or something similar](/posts/google-forms-alternatives) that users can use to report urgent issues which are 
 then piped into Slack where our engineering team is notified. If you have more complex needs, there are plenty of bug
 trackers out there that you can use.
 

@@ -16,7 +16,7 @@ Some of the advantages to using Airtable as a [no-code API](/posts/api-developme
 - Super simple to get started, a zero-code solution
 - Authentication via a single API key is very simple
 - Permissions using sharing settings in UI
-- Input forms to allow users to add content
+- [Input forms](/posts/google-forms-alternatives) to allow users to add content
 - Can use with [Zapier](https://zapier.com/) to trigger events in other services, send emails, etc.
 - Database-style linking between records
 - Query by complex functions for advanced filtering and searching of records
