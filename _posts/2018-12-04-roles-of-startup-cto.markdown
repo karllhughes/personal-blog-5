@@ -102,5 +102,5 @@ Tech workers have options, so it's rare to keep one for more than 2 or 3 years. 
 ![13 Roles of a Startup CTO](https://i.imgur.com/qmBywUb.jpg)
 
 These challenges are far from the only ones that early startup CTO's face, but they are some of the biggest ones, especially for people who mostly just want to write code. 
- 
+
 Looking for more reading material? Check out [my favorite books for startup CTOs](https://www.karllhughes.com/posts/reading-for-startup-ctos).

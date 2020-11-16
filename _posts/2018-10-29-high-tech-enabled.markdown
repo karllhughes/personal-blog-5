@@ -5,7 +5,6 @@ date: 2018-10-29
 img: https://i.imgur.com/0n7ZviH.jpg?1
 categories: 
   - Startups
-  - Software Engineering
 ---
 
 I was talking with an entrepreneur and investor here in Chicago today, and he pointed out a distinction that I've started to notice more and more over the past couple years:

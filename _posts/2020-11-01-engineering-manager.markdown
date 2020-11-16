@@ -118,5 +118,7 @@ Don't create or perpetuate drama, divide your team from the rest of the company,
 
 -----
 
-If you're an aspiring engineering manager or you're just wondering what your boss does all day, I hope this helps you. If you've got ideas about becoming a better engineering manager, [find me on Twitter](https://twitter.com/KarlLHughes). I look forward to hearing what you think.
+If you're an aspiring engineering manager or you're just wondering what your boss does all day, I hope this helps you.
+
+Interested in more great reading material? Here are some of the [books that helped me on my journey to become an engineering manager](https://www.karllhughes.com/posts/reading-for-engineering-managers).
 
