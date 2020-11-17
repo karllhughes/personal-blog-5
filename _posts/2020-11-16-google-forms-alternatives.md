@@ -70,11 +70,11 @@ It may seem like Formspree offers less than Google Forms, but its simplicity is 
 
 JotForm gives you hundreds of themes and templates to make sure your forms stand out and match your branding. Their paid plans also include HIPAA Compliance, so if you're in a healthcare setting, you may want to check out JotForm.
 
-### [NinjaForms](https://ninjaforms.com/)
+### [NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061)
 
-![NinjaForms](https://i.imgur.com/HHOpxwP.png)
+[![NinjaForms](https://i.imgur.com/HHOpxwP.png)](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061)
 
-NinjaForms is another option for WordPress-based sites that need to handle user input. It's especially good for non-technical users who want a simple drag-and-drop interface that accepts payments and user email addresses securely.
+[NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061) is another option for WordPress-based sites that need to handle user input. It's especially good for non-technical users who want a simple drag-and-drop interface that accepts payments and user email addresses securely.
 
 ### [Formsite](https://www.formsite.com/)
 
@@ -100,16 +100,16 @@ With a relatively high price point, Formstack definitely falls on the premium en
 
 If you've outgrown forms entirely and you need something a little more robust, check out Appenate. It's a no-code platform for building internal applications that can be accessed over the web.
 
-### [WPForms](https://wpforms.com/)
-
-![WPForms](https://i.imgur.com/v1aYTCW.png)
-
-As one of the most popular paid WordPress plugins available, WPForms is worth considering if your site is built on WordPress. Like other options on this list, it includes custom hooks, filters, and styling so your forms fit your design and data needs. 
-
 ### [Paperform](https://paperform.co/)
 
 ![Paperform](https://i.imgur.com/C2HIm0F.png)
 
 Paperform is perfect for creating bespoke forms and landing pages. You can leverage more than 20 data-collection fields, accept payments, and even manage your product inventory. If you're looking to move your Google forms elsewhere, you can use Paperform's importer to preview how they'd look.
+
+### [WPForms](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312)
+
+[![WPForms](https://i.imgur.com/v1aYTCW.png)](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312)
+
+As one of the most popular paid WordPress plugins available, [WPForms](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312) is worth considering if your site is built on WordPress. Like other options on this list, it includes custom hooks, filters, and styling so your forms fit your design and data needs. 
 
 _Note: This post was originally published in 2018, but was updated with new options and more details in November 2020._
