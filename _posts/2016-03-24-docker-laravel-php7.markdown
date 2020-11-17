@@ -20,7 +20,7 @@ One important note about Docker: it only runs on Linux. So, if you use a Mac or 
 
 There are a number of good use cases for Docker, but I'd recommend starting small with local testing and development. [Moving it into production](http://blog.heavybit.com/blog/2015/3/23/dockermeetup) can be challenging, but using it to test a new version of a language or test a new service might be an ideal use case for beginners. I've used Docker for:
 
-*   Testing worker microservices locally that will [run on Iron.io](https://github.com/iron-io/dockerworker)
+*   [Testing worker microservices](/posts/testing-layers) locally that will [run on Iron.io](https://github.com/iron-io/dockerworker)
 *   Switching between Apache and Nginx for local development
 *   **Ensuring that an application will run in PHP7 before deploying it to a production server**
 

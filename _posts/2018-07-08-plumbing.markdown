@@ -41,7 +41,7 @@ Instead, what I'm seeing is a lot of false projections from engineering managers
 
 Part of the problem is that we over-engineer the software we work on. I am guilty of this as well.
 
-I came to the Graide Network and immediately started breaking our legacy app into microservices. Now I've had to build custom tooling just to help new developers get things running on their local machines - not something that is truly worth my time this early on in our business' lifecycle.
+I came to the Graide Network and immediately started breaking our legacy app into microservices. Now I've had to build [a complex testing strategy](/posts/testing-layers) and custom tooling just to help new developers get things running on their local machines - not something that is truly worth my time this early on in our business' lifecycle.
 
 I've also made it harder on myself to hire people. I don't want to limit my hiring pool to engineers who know multiple specific web frameworks, Docker containers, microservices, Redis, and MySQL, but I've built myself into a corner with all these choices. Lately I've realized this, and been starting to think of ways to simplify our stack, but that will have to come in a future blog post.
 

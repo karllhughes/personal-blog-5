@@ -20,7 +20,7 @@ This year, I decided to make speaking at a conference one of my goals (and [I ma
 
 I was [really excited about this conference]() even before getting chosen as a speaker. We've been building microservices with REST APIs here at The Graide Network since I joined last summer, and before that we used similar architecture at Packback. This conference is put on by the Linux Foundation and the [Open API Initiative](https://www.openapis.org/), both great organizations with a huge influence in the open source community. While I'm not building all my projects with the Open API spec (yet), I have used their specifications in Swagger and AWS's API Gateway.
 
-My talk was about creating a test plan for distributed architectures.
+My talk was about creating a test plan for distributed architectures and builds on [this piece I wrote about testing microservices](/posts/testing-layers).
 
 ## What is unique about testing APIs?
 

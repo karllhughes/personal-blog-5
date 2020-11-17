@@ -195,3 +195,5 @@ Instead, I looked for a candidate who knew a specific set of languages and frame
 While hiring software engineers is still challenging, having a robust process that focuses on the skills (both technical and non-technical) that you need makes it much better. Reflecting on what's worked in the past always helps me understand how I can make my process better in the future, so I'd like to hear from you.
 
 What's your hiring process like? [Find me on Twitter](https://twitter.com/karllhughes) to pick up the conversation.
+
+_Note: This post was originally published in 2016, but was updated in 2017, 2018, and most recently in November 2020._
