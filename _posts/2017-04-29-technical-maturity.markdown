@@ -60,7 +60,7 @@ Inconsistent or hard to reproduce bugs have been ironed out of the product. The 
 
 ### 4. Expandability
 
-The developer(s) have high confidence in the product's stability, and aren't afraid of adding new developers or features quickly. Code is readable, documented, and well-tested.
+The developer(s) have high confidence in the product's stability, and aren't afraid of adding new developers or features quickly. Code is readable, documented, and [well-tested](/posts/testing-matters).
 
 #### Technical Details
 

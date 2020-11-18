@@ -59,9 +59,9 @@ Deciding what to do when a bug comes in requires detailed knowledge about the te
 
 ### 7. QA and testing
 
-Once again, it's rare to see an early stage startup with a dedicated QA (Quality Assurance) team or even single person. Small companies usually come up with a system that splits testing and validation work between developers, but that system is usually dictated by...you guessed it...the CTO. This is the kind of tedious work that most corporate CTO's have long ago eschewed, and it adds to the challenge of finding a good CTO at a startup.
+[Testing is important](/posts/testing-matters), but it's rare to see an early stage startup with a dedicated QA (Quality Assurance) team or even single person. Small companies usually come up with a system that splits testing and validation work between developers, but that system is usually dictated by...you guessed it...the CTO. This is the kind of tedious work that most corporate CTO's have long ago eschewed, and it adds to the challenge of finding a good CTO at a startup.
 
-That said, some of the fun of testing is coming up with a strong testing architecture. I really enjoyed planning out [our testing layers](https://www.karllhughes.com/posts/testing-layers) at The Graide Network, and while it still involves some messy hands-on work, the CTO is likely the only person who knows enough about the whole system to test it thoroughly. 
+That said, some of the fun of testing is coming up with a strong testing architecture. I really enjoyed planning out [our microservice testing pattern](https://www.karllhughes.com/posts/testing-layers) at The Graide Network, and while it still involves some messy hands-on work, the CTO is likely the only person who knows enough about the whole system to test it thoroughly.
 
 ### 8. DevOps
 

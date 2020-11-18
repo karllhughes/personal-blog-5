@@ -26,7 +26,7 @@ permalink: /speaking/
 <p>In this walk-through, we'll take a step-by-step look at exactly how to set up a web application using Docker. Along the way we'll explore how Docker works, why containers are an improvement over virtual machines, and how this setup can minimize the differences between local and production environments.</p>
 <p><em>Note: I also have a 4-hour workshop on this topic for Javascript developers.</em></p>
 
-<h3>Testing Layers in a Distributed Architecture</h3>
+<h3>Testing APIs and Microservices</h3>
 
 <div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NcQryexNKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,6 +34,7 @@ permalink: /speaking/
 
 <p>Modern web applications often rely on internal APIs, multiple frontend applications, several third-party services, and dozens of vendor libraries. With complex distributed systems like this, how can developers create a comprehensive test plan that covers everything without slowing development down to a crawl?</p>
 <p>In this talk we'll learn how to create test plans for complex, service-oriented applications as well as some best practices for testing across a distributed architecture. We'll see how layers of unit, integration, acceptance, and end-to-end tests can greatly improve the reliability of our applications and make maintaining them much easier in the long-run.</p>
+<p>I've also <a href="/posts/testing-layers">written about this topic</a> here on my blog.</p>
 
 <h3>Improving Your PHP with Static Types</h3>
 <p>As PHP incorporates more features typical of statically typed languages (class properties, function parameters, return types), developers will need to adjust to a completely new style of programming in PHP. While many applaud these features, PHP's implementation isn't quite the same as many traditionally statically typed languages, so there are limitations and pitfalls to be aware of.</p>

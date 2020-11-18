@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Microservices: A Layered Testing Strategy"
-date: 2020-11-22
+date: 2017-04-19
 img: /assets/img/testing-microservices.png
 categories:
   - Software Engineering
@@ -19,13 +19,15 @@ First, why do we care about testing our software anyway?
 
 While testing adds time to the software development life cycle, it [pays dividends in the long run](https://www.karllhughes.com/posts/testing-matters). I'm not going to harp on this topic here, but in my experience, automated tests:
 
-- Push developers to use better architectural patterns
 - Help prevent defects from reaching production
-- Help developers debug tricky edge cases
-- Add a level of professionalism to the work environment
+- Lower the risk of regressions
+- Push developers to use better architectural patterns
+- Enhance your documentation
+- Guide code reviewers
 - Make it easier to add new features later
+- Help developers debug tricky edge cases
 
-When using microservices, these same factors are all important, but as you'll see, the distributed nature of this pattern adds an extra challenge.
+When using microservices, these factors are all important, but as you'll see, the distributed nature of this pattern adds an extra challenge.
 
 ## Our Architecture and Testing Strategy
 

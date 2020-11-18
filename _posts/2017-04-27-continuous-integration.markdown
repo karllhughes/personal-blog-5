@@ -6,6 +6,7 @@ img: https://i.imgur.com/9nVmGDYl.jpg
 categories:
   - Software Engineering
 ---
+
 *Since I wrote this in September, 2015, continuous integration has become pretty much the standard for smaller, more nimble companies, and it's even making inroads at the enterprise level. The tools are so much better than they were 3 to 5 years ago, that there's really no excuse not to automate your builds, tests, and deployments.*
 
 *The tools I mention in this article haven't changed too much since I wrote it, but I have written a bit [more about this topic on Codeship's blog](https://blog.codeship.com/setting-up-and-deploying-a-modern-php-application/), and will be putting out a new piece soon on CI with Docker. I am now using Webpack to build most of my frontend projects (instead of Grunt), and have stopped using Envoyer at the moment as it was more complex than what I needed.*
@@ -20,7 +21,7 @@ Before I dig into the tools I use at work and on open source projects, let's mak
 
 Strictly speaking, [continuous integration](https://www.thoughtworks.com/continuous-integration) is the process of merging all developers' work into a main repository on a daily (or more frequent) basis.
 
-More broadly, the term has come to imply that the code is also automatically tested, built, and deployed to a server when it is updated, so CI can be used as a way of describing your engineering team's entire deployment process.
+More broadly, the term has come to imply that the code is also [automatically tested](/posts/testing-matters), built, and deployed to a server when it is updated, so CI can be used as a way of describing your engineering team's entire deployment process.
 
 These concepts (continuous integration, automated testing, automated builds, and automated deployments) are all part of the same process of releasing and updating code, so for the remainder of the article, I'll be talking about the processes we use to achieve all four goals under the umbrella of continuous integration. There is a spectrum of quality, customizability, and cost associated with each of the three CI paths I'll outline below, and there are certainly tools that go way beyond what I'll cover, but I hope this serves as a good introduction to anyone who's been afraid of making CI a priority in their project - no matter how small.
 

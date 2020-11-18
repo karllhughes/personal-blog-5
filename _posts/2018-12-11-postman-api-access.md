@@ -54,7 +54,7 @@ This raw data is called JSON data, and that's what many web-based APIs return. I
 
 There are other things you can do in Postman that make accessing APIs easier as well. For example, you can store your team's API documentation in Postman. This documentation is made interactive by giving team members the ability to sync their local version of the docs with the online version.
 
-Additionally, you can use Postman to automatically test your APIs. If you're building an API for your business, you can set Postman to run tests against your development environment every time you update your code.
+Additionally, you can use Postman to automatically [test your APIs](/posts/api-strat-2017-presentation). If you're building an API for your business, you can set Postman to run tests against your development environment every time you update your code.
 
 ## Pricing
 
