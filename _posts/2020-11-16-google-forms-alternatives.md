@@ -52,6 +52,12 @@ Formidable's drag-and-drop builder supports a wide range of input types like cal
 
 Typeform has a unique and visually appealing style. Because they offer a comprehensive API, you can embed Typeform forms into your website, pull data from form responses, and connect with third-party automation tools. They also offer team-based permissions on their paid plans.
 
+### [NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061)
+
+[![NinjaForms](https://i.imgur.com/HHOpxwP.png)](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061)
+
+[NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061) is another option for WordPress-based sites that need to handle user input. It's especially good for non-technical users who want a simple drag-and-drop interface that accepts payments and user email addresses securely. They support PayPal or Stripe for payments and integrate with all the major email providers for collecting subscribers.
+
 ### [SurveyMonkey](https://www.surveymonkey.com/)
 
 ![SurveyMonkey form builder](https://i.imgur.com/1DhLTlQ.png)
@@ -70,17 +76,17 @@ It may seem like Formspree offers less than Google Forms, but its simplicity is 
 
 JotForm gives you hundreds of themes and templates to make sure your forms stand out and match your branding. Their paid plans also include HIPAA Compliance, so if you're in a healthcare setting, you may want to check out JotForm.
 
-### [NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061)
-
-[![NinjaForms](https://i.imgur.com/HHOpxwP.png)](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061)
-
-[NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061) is another option for WordPress-based sites that need to handle user input. It's especially good for non-technical users who want a simple drag-and-drop interface that accepts payments and user email addresses securely.
-
 ### [Formsite](https://www.formsite.com/)
 
 ![Formsite form builder](https://i.imgur.com/249Vi6n.png)
  
 Formsite rides the border between form builder and full-on web application creator. You can set up payments, complex data workflows, and embed the forms on your website or landing page.
+
+### [CaptainForm](https://www.shareasale.com/r.cfm?b=921362&u=1653894&m=68154)
+
+[![CaptainForm WordPress form editor](https://i.imgur.com/0gRviP5.png)](https://www.shareasale.com/r.cfm?b=921362&u=1653894&m=68154)
+
+With a drag-and-drop editor, 30 great templates, and deep data integration options, [CaptainForm](https://www.shareasale.com/r.cfm?b=921362&u=1653894&m=68154) is another great WordPress-based option for your forms. It also supports Captcha and includes a free plan so you can try it out without the financial commitment.
 
 ### [CognitoForms](https://www.cognitoforms.com/)
 
