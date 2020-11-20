@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Importance of Software Testing"
-date: 2020-11-17
+date: 2020-11-22
 img: /assets/img/software-testing.png
 categories:
   - Software Engineering
