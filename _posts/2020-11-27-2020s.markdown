@@ -1,0 +1,193 @@
+---
+layout: post
+title: "Defining Trends of the 2020s"
+date: 2020-11-27
+img: /assets/img/2020-trends.png
+categories:
+  - Startups
+---
+
+A lot has happened in 2020. As this strange and unsettling year comes to a close, I wanted to look forward to some of the trends that are likely to define the coming decade.
+
+I'm going to cover a lot of ground in this article, so if you’d like to hop around, I’ve divided these trends into five categories:
+
+- [Technology](#technology)
+- [Business](#business)
+- [Education](#education)
+- [Finance](#finance)
+- [Society](#society)
+
+I’m sure you’ll disagree with me on some points, so I’d love to hear why. Feel free to pass me a message via [Twitter](https://twitter.com/KarlLHughes) or [email](mailto:khughes.me@gmail.com).
+
+## Technology
+
+> “It is only when they go wrong that machines remind you how powerful they are.” - Clive James
+
+### Artificial (Pseudo)Intelligence
+Sadly, the term “Artificial Intelligence” has been co-opted by marketers to mean nothing, but that doesn’t mean that advances in machine learning and artificial intelligence will not impact the next decade. The continued advancement of AI will produce the greatest impact on human productivity since the industrial revolution, but I don’t think it will necessitate mass unemployment the way that alarmists do.
+
+The common fear around AI is that robots will come in and take all of our jobs. Maybe someday, but truly sentient AI isn’t coming this decade. All existing AIs use pseudo-intelligence to ingest massive amounts of data and extract patterns from it based on programmed parameters. This makes [AI _much_ better at some tasks](https://disruptiveviews.com/ai-good-things-terrible-others/) than humans and [comically much worse at others](https://aiweirdness.com/).
+
+![Strengths of AI vs. strengths of humans](https://i.imgur.com/xY5HMi3.png)
+
+AI will excel by partnering with humans. For example, GPT-3 [is not going to write great blog posts on its own](https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/), but it could be used to help a human writer create better or more content faster. I recorded a [video of how I could see this working recently](https://youtu.be/lywWkR0vo_A):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lywWkR0vo_A" frameborder="0" allowfullscreen></iframe>
+
+**This pattern of human-AI partnerships will be the defining technological advancement of the 2020s.** Machines will help us [write code](https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-gpt3.html), [automate business processes](https://medium.com/@intelligent_pathways/business-process-automation-with-artificial-intelligence-4828356488b7), [create art](https://aiartists.org/), [reduce medical errors](https://medium.com/swlh/artificial-intelligence-to-reduce-medical-errors-d87bdb8e1ce5), [perform better in sports](https://www.cio.com/article/3400877/artificial-intelligence-in-sports-a-smarter-path-to-victory.html), and much more. It’s going to take time for us to figure out how best to partner with our computer allies in these ventures, but I’m really excited to see what people come up with.
+
+### “No-Code” and “Low-Code”
+Low-cost access to higher-level abstractions in the form of open-source frameworks, languages, and libraries have completely changed software development. Software developers are [the plumbers of the 21st century](https://www.karllhughes.com/posts/plumbing): it takes some skill to learn all the tools, but you don’t need to forge your own pipes to install a toilet.
+
+[No-code is just the next higher-level abstraction for writing software](https://www.telerik.com/blogs/what-no-code-movement-means-for-software-developers), and it’s going to allow [millions of “non-developers” to build custom software](https://www.zdnet.com/article/is-software-now-everybodys-job-the-implications-of-low-code-and-no-code-for-developers/). While it won’t supplant the need for specialized applications at large businesses, it will [remove the requirement for new startups and small businesses to have a technical founder](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). 
+
+What’s more, no-code is being embedded in the next generation’s casual play:
+
+> “Take the popularity of platforms like Roblox and Minecraft. Easily derided as just a generation’s obsession with gaming, both platforms teach kids how to build entire worlds using their devices. Even better, as kids push the frontiers of the toolsets offered by these games, they are inspired to build their own tools. There has been a proliferation of guides and online communities to teach kids how to build their own games and plugins for these platforms (Lua has never been so popular).” - [Danny Crichton, TechCrunch](https://techcrunch.com/2020/10/26/the-no-code-generation-is-arriving/)
+
+The 2020s will be the decade where kids raised playing Minecraft join the workforce. They’ll bring a casual acceptance that everyone can create custom business tools, and the millennials who think working knowledge of Excel is enough will get left in the dust.
+
+### Computing on “the Edge”
+Over the past decade, as more devices have become “smart,” people have been trying to figure out what we could do with all these small internet-connected devices. The 2020s will be the decade where the first killer features hit this network of edge computing devices.
+
+As a software developer, one of the most exciting advancements is the possibility of hosting more of our applications on the edge. Today, this means using specialized hosting services like [Fly.io](https://fly.io/), [Netlify](https://www.netlify.com/products/edge/), or [CloudFlare](https://workers.cloudflare.com/) to serve APIs or web applications at globally distributed data centers. In the not-so-distant future, it might mean serving our applications from a peer-to-peer network that uses available compute power in nearby smart devices or phones.
+
+![Peer to peer hosting](https://i.imgur.com/rlPTvJd.png)
+
+Even if peer-to-peer is unrealistic this decade, edge computing will continue to find new uses. For example, TinyML enables smart devices to share the computing responsibility for [creating and processing machine learning models](https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/). In the coming decade, your cell phone, computer, refrigerator, thermostat, and lights could be networked such that they “understand” your habits and alert you to unusual behaviors without sending this data to a central server.
+
+The smart home is fun to think about as a consumer but probably not as important as smart manufacturing or smart resource extraction. The 2020s will bring a proliferation of companies like [Uptake](https://www.uptake.com/) in a variety of industries which process and understand the myriad inputs coming in from networked devices around the worksite (or the world).
+
+## Business
+
+> “Business opportunities are like buses; there's always another one coming.” - Richard Branson.
+
+### Default to Remote Work
+While many in-person events will come back after the Covid-19 pandemic is under control, companies were forced to rethink the requirement that all employees go into an office every day. Some of the world’s biggest companies [are extending remote options](https://www.flexjobs.com/blog/post/companies-switching-remote-work-long-term/) and will likely downsize their office footprints in the coming decade. Startups that want to have the whole company together will likely move to hybrid models as well.
+
+Remote work for white-collar office workers like programmers, accountants, and designers makes sense, but Covid-19 has pushed everyone to consider a default-remote future. Teachers have had to learn how to work remotely, convenience store workers are [controlling robots remotely in Japan](https://www.dailymail.co.uk/sciencetech/article-8748519/Robot-stocking-shelves-Japanese-convenience-store-lets-workers-maintain-social-distancing.html), and personal trainers are [adapting with virtual offerings](https://www.ecommercetimes.com/story/86898.html). Some of these in-person roles will return, and some will not.
+
+As more workers get the option to work from home, this will affect other aspects of society as well. Why pay 3x per square foot in a city center if you don’t have to go to the office every day? Why buy a car if you only drive twice a week? If you want some sense of community, why not join a neighborhood coworking space instead of going to a downtown office?
+
+Remote workers will re-evaluate these norms in the coming decade.
+
+### Automation of Last Mile Transportation
+For years, we’ve heard about autonomous vehicles, but in the past year as [a few pilot programs have taken to city streets](https://azdot.gov/motor-vehicles/professional-services/autonomous-vehicles-testing-and-operating-state-arizona) and [states have figured out how to legislate them](https://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted-legislation.aspx), it’s looking like the self-driving car will finally arrive this decade. One area that especially excites me about autonomous vehicles is [last-mile delivery](https://www.sharedmobility.news/how-driverless-delivery-vehicles-are-solving-the-last-mile-delivery-problem/).
+
+Right now, getting packages and mail to the final recipient is expensive, especially in rural areas. If the trend toward remote work pushes middle-class professionals back into the suburbs and exurbs, there’s going to be an increased demand in fast shipping to these distant areas, so we’ll see Amazon and other carriers continue to invest in driverless technology.
+
+With any luck, the US Post Office will actually [catch this trend and stay relevant](https://www.npr.org/2019/05/21/725524334/u-s-postal-service-is-testing-self-driving-trucks), but if not, I’d bet they’ll be shut down or reorganized this decade.
+
+### Smaller Full-Time Staff Augmented by Specialized Services
+Profit per employee [has been steadily rising](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-new-metrics-of-corporate-performance-profit-per-employee) in the past two decades. This trend will continue as companies build a narrowly focused core team around their primary value driver and use a combination of outsourcing, specialized service providers, and artificial intelligence to accomplish supporting functions.
+
+![Diagram of small core, satellite services](https://i.imgur.com/Iuod8I5.png)
+
+A few trends are facilitating this ongoing shift.
+
+First, as global communication breaks down barriers between commerce, companies that want to stand out have to focus on a narrow niche of specialization rather than be locationally focused. In the 2020s, it won’t make sense to try to be Chicago’s best digital agency. You’ll want to be the best digital agency for (insert specific industry) _in the world_. Networking and introductions will still matter, but connections can be made globally.
+
+Another trend facilitating this change is the rise of the [productized service](https://productizeandscale.com/what-is-productized-service/). In this model, a service is packaged into a standard offering for a very specific customer and offered in a very specific way. The customer doesn’t get to go in and change the delivery mechanism or set all their own preferences because the service provider wants to capitalize on economies of scale by selling the service _the same way every time_.
+
+I’ve already talked about AI, but this will be one of the biggest reasons companies will be able to run on a smaller core employee base. Even if large companies need departments for auxiliary functions like accounting, purchasing, and marketing, these teams will be smaller as they’ll rely on AI to get more done with fewer people.
+
+## Education
+
+> “Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.” - Malcolm X
+
+### K-12 School Stratification
+One of the trends I worry about most is the continued stratification of education in the 2020s. [Schools are more segregated today](https://www.washingtonpost.com/news/answer-sheet/wp/2013/08/29/report-public-schools-more-segregated-now-than-40-years-ago/) than they were in the 1970s, and Covid-19 seems to have only accelerated this stratification of education.
+
+Public schools have been struggling to offer a high-quality education to our top students while helping the millions of disadvantaged kids in our nation simply survive. Teachers are expected to do too much, but [regressive unions](https://www.city-journal.org/html/how-teachers%E2%80%99-unions-handcuff-schools-12102.html) and [growing administrative costs](https://www.aei.org/carpe-diem/chart-of-the-day-administrative-bloat-in-us-public-schools/) make it impossible for schools to financially incentivize good teachers to stay around.
+
+> “66% of teachers want to leave their job and 41.3% of new teachers leave the profession within the first 5 years. Teachers also suffer from higher than average rates of drug and alcohol use. At any given point in time, 36.4% are likely to quit.” - [Jeff Campbell](https://newmiddleclassdad.com/teacher-burnout-statistics/)
+
+**So, the wealthy are doing what they’ve done since [they started segregation academies in the 1950s](https://en.wikipedia.org/wiki/Segregation_academy): they’re opting out of the public education system.**
+
+In the 2020s, that means they’ll be [homeschooling](https://techcrunch.com/2020/05/12/homeschooling-startup-primer-closes-3-7m-seed-round-led-by-founders-fund/), [putting their kids into optional programs](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html), or enrolling in private schools to avoid “bad” neighborhood schools.
+
+I have a child, so I can empathize. Given the option, I would have a hard time putting my kid in a school with a high gang activity rate and low graduation rate if I knew I could send them somewhere without those detriments.
+
+It’s a hard problem, but public school systems around the country have lost sight of the goal of education. Nobody wants to try innovative approaches in public schools because they’re scared of political backlash, so instead, they stick with what they know doesn’t work because at least they didn’t break anything.
+
+### The End of Higher Education as We Know It
+
+> "If there is one common theme to the vast range of the world’s financial crises, it is that excessive debt accumulation, whether by the government, banks, corporations, or consumers, often poses greater systemic risks than it seems during a boom." - Carmen Reinhart
+
+While K-12 education struggles to help students survive, higher education has become more available and more costly than ever before. The system is currently [burdening students with impossible debt](https://medium.com/@karllhughes/student-debt-is-crippling-half-of-loan-holders-1039e0d79a0a) and pretending that this debt can’t ever go bad. The higher education bubble is my pick for the next major financial crisis.
+
+[Administrative costs are skyrocketing](https://www.forbes.com/sites/carolinesimon/2017/09/05/bureaucrats-and-buildings-the-case-for-why-college-is-so-expensive/?sh=63853403456a), [acceptance rates are higher than ever](https://www.cnbc.com/2020/05/12/college-acceptance-rates-rise-nearly-across-the-board-amid-coronavirus.html), and while an undergraduate degree still has a positive impact on your economic prospects, this is less true for [grads from poor backgrounds](https://www.brookings.edu/blog/social-mobility-memos/2016/02/19/a-college-degree-is-worth-less-if-you-are-raised-poor/) or [those who drop out](https://www.air.org/sites/default/files/downloads/report/AIR_High_Cost_of_Low_Graduation_Aug2011_0.pdf).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YytF2v7Vvw0" frameborder="0" allowfullscreen></iframe>
+
+Finally, schools are giving fewer good jobs to professors, so there’s a brain drain happening in higher ed’s teaching arm. This means that college no longer guarantees students access to the smartest people in their fields; it just gives them access to someone in their field who was willing to take a poorly-paid adjunct role.
+
+In the 2020s, we’ll see the culling of many high-cost, low-value private colleges. Other schools will transition to online-first programs, take advantage of [wealthy international students](https://files.eric.ed.gov/fulltext/EJ1066279.pdf), or continue to blindly contribute to the student loan bubble.
+
+### Bootcamp Graduate Saturation
+I’m a big fan of alternative pathways to education [like coding bootcamps](https://www.karllhughes.com/posts/advice-for-new-bootcamp-graduates), but the market for new bootcamp graduates is saturated. Companies don’t need more entry-level developers, and in general, the [quality of students entering these programs has declined](https://www.reddit.com/r/webdev/comments/8xwzsb/do_you_think_the_evergrowing_amount_of_coding/e26fvt8/?utm_source=reddit&utm_medium=web2x&context=3) since I started lecturing at them 8 years ago.
+
+The problem is an economic one. Most coding bootcamps are incentivized to get students into their programs [regardless of whether the student actually gets a coding job afterward](https://medium.com/launch-school/why-do-programming-bootcamps-fail-to-live-up-to-their-job-placement-expectations-7b90e929fe64). Bootcamps pump up job placement rates by doing sketchy things like not letting students graduate until they have a job or claiming they “left the job market” if they fail to get one in a few months. They use these trumped-up stats to attract more students who pay more money to get mediocre jobs (if they get one at all).
+
+The software development industry is growing, but it doesn’t _just_ need bootcamp graduates. In the 2020s, we’ll see bootcamps realize this and start to look further up the chain at retraining ([like General Assembly is doing](https://generalassemb.ly/corporate-digital-training)), upskilling existing developers, or training development-adjacent skills, which we’ll discuss next.
+
+### Hybrid Software Development Careers
+Something I’m really excited about in the coming decade is the proliferation of “developer-adjacent” roles. Understanding software development [does not mean you have to become a software developer](https://www.freecodecamp.org/news/alternative-career-paths/), but many bootcamp graduates and experienced software developers don’t realize this.
+
+[![Alternative career pathways for software developers](https://i.imgur.com/PLmjL3i.png)](https://www.freecodecamp.org/news/alternative-career-paths/)
+
+There are dozens of good jobs that require hybrid skill sets, and we’ll see even more of these in the 2020s.
+
+## Finance
+> "The four most dangerous words in investing are, it’s different this time." - Sir John Templeton
+
+### Cryptocurrency
+I’m not nearly as cynical about cryptocurrency [as Warren Buffett is](https://www.forbes.com/sites/billybambrough/2020/02/26/if-billionaire-investor-warren-buffett-ever-buys-bitcoin-you-should-probably-sell/?sh=65c1412f1152), but I do have some concerns.
+
+First, I buy the argument that in the black swan event that the US dollar goes to zero, Bitcoin [might be the next generation of currency](https://www.tropicalmba.com/cryptocurrency/). For that reason, I own a little to hedge my bets against societal collapse...assuming someone out there will still take my Bitcoin.
+
+![When society collapses, will I be able to use Bitcoin?](https://i.imgur.com/WQPjKhW.jpg)
+
+But, my biggest concern about cryptocurrency today is its utility. You [can’t use Bitcoin to make transactions at scale](https://news.ycombinator.com/item?id=15884698), and at least half of its value is currently driven by speculators who have no idea how it really works.
+
+On the other hand, Bitcoin might just be the first iteration of cryptocurrency, and it might not be the one we’re talking about in 2030. This decade will be the deciding one for crypto, and I think we’ll finally get the killer application we’ve been waiting for.
+
+### Alternative Access to Funding
+Private equity funds and venture capitalists have [unique access to markets that most of us can’t invest in](https://hbr.org/2007/09/the-strategic-secret-of-private-equity). The general public can’t put money into privately traded companies in the United States, but there have been moves over the past decade to change that.
+
+First, there was the [JOBS act](https://www.investopedia.com/terms/j/jumpstart-our-business-startups-act-jobs.asp), which gave non-accredited investors join in mini-IPOs using crowdfunding. These are currently limited to minimal raises, but we could see this loosen up in the next few years.
+
+Next, there was the [rise of ICOs](https://en.wikipedia.org/wiki/Initial_coin_offering) (initial coin offerings) in the mid-2010s. While this new, unregulated source of capital quickly turned into a mechanism for scammers and was shut down in most countries, the experiment shows how eager the public is to access private markets...even if this was a bad way to do it.
+
+While ICOs are on hold, two new funding models went live this year that might spur decade-defining shifts in equity markets. Eric Ries launched a [Long Term Stock Exchange](https://ltse.com/articles/the-long-term-stock-exchange-goes-live), which lets companies focus on five to ten-year timelines instead of living by quarterly numbers that dictate their stock prices. While the LTSE is a public stock exchange, it lets companies that would traditionally stay private access funding from aligned investors who want long-term returns.
+
+Finally, AngelList [released rolling funds](https://angel.co/blog/rolling-venture-fund-launch), which allow investors to commit to smaller, monthly inputs of cash rather than forcing companies to raise multi-million dollar tranches. This means that investors can put a smaller amount into more companies and founders can raise money gradually rather than stop operations to go full-time on fundraising.
+
+While I’m not sure any one of these alternative equity pathways will dominate the 2020s, the fact that investors and legislators are getting more creative is exciting. I hope this allows more innovative startups to raise money and more casual investors to get a piece of the upside.
+
+## Society
+> “If you want a picture of the future, imagine a boot stamping on a human face—for ever.” - George Orwell
+
+### The End of Objective Truth
+Despite the fact that we have access to more information than any generation before us, we as a society seem to be as prone to misinformation as ever.
+
+The golden age of mass media (if it ever existed, see _[Manufacturing Consent](https://amzn.to/3nWA6MW)_) is over. There is no such thing as “fair and balanced” coverage, objective reporting, or even accepted facts. Conspiracy theories are [treated as legitimate concerns](https://www.washingtonpost.com/lifestyle/trump-conservative-media-fox-election-fraud-claims/2020/11/20/c6febaf0-29d2-11eb-b847-66c66ace1afb_story.html), [deep fakes](https://www.theguardian.com/technology/2020/jan/13/what-are-deepfakes-and-how-can-you-spot-them) are blurring the line between reality and fiction, and our political discourse has gotten [more extreme](https://www.pewresearch.org/fact-tank/2020/11/13/america-is-exceptional-in-the-nature-of-its-political-divide/) in the past two decades.
+
+Around the world, we’re [rediscovering fascism](https://aeon.co/essays/what-1930s-political-ideologies-can-teach-us-about-the-2020s) and a growing number of people are rejecting the idea of a global society in favor of the zero-sum attitude of nationalists. Despite decades of mutually beneficial trade, we’ve begun [branding China the new boogeyman](https://moderndiplomacy.eu/2020/08/05/china-replacing-russia-as-the-boogeyman-in-the-u-s-presidential-campaign/) in nationalist rhetoric, and every election is now up for debate as to whether it was hacked or spoofed by the other side.
+
+Unfortunately, I think this trend will continue into the 2020s. Free elections have been the norm in the United States in my lifetime, but there’s nothing in history indicating that they’re guaranteed forever.
+
+### Global Warming
+Despite a large number of climate change deniers out there, global warming isn’t going to stop, and [it’s unlikely we’ll be able to reverse course at this point](https://www.technologyreview.com/2019/03/28/136279/the-two-key-reasons-the-world-cant-reverse-climate-emissions/).
+
+While it’s nice to think that maybe humans will just stop using cars, unsustainable energy, and factory farms, I don’t see any large-scale efforts that are even trying to make drastic changes like that. Even if one country did outlaw all greenhouse gas emissions, [they’d fall into the trap that China did when they outlawed guns in the second millennium AD](https://www.quora.com/Why-didnt-the-Chinese-who-invented-gunpowder-have-assault-rifles-by-about-1500-AD/answer/Geoffrey-Widdison).
+
+We’re facing two options when it comes to global warming:
+
+**The first is that humans might find a way to inhabit other planets or artificially stop the threat of climate change.** We might discover a way to reverse it or live on floating cities as the polar ice caps melt. We’ve always been pretty resourceful, so it’s not impossible.
+
+**The second is that humans might be an evolutionary dead-end.** We tend to forget that extinction is [eventually inevitable](https://www.sciencefocus.com/planet-earth/how-human-extinction-would-change-the-earth/), and the evolutionary path that led to upright-walking, tool-making apes, might just be a failed experiment. If so, global warming will take us the way of the dinosaurs, and life will find another way.
+
+I don’t think humanity’s extinction is coming in the next decade, but I do believe that in the 2020s, we’ll see more tragedies that can be tied directly to global warming.
+
+What do you think about the upcoming decade? Share your thoughts with me [via Twitter](https://twitter.com/KarlLHughes) or [email](mailto:khughes.me@gmail.com). I look forward to hearing what you think will define the next ten years.
