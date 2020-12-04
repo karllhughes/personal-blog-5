@@ -222,4 +222,6 @@ The books above helped me grow from engineer to manager to CTO, but learning is 
 *   [The Unicorn Project by Gene Kim](https://amzn.to/3pmXe94)
 *   [Modern CTO by Joel Beasley](https://amzn.to/32pdnkb)
 
+I also [wrote another list of books for startup founders](/posts/startup-books) recently. You might want to check those out foe even more recommendations.
+
 If you know other good books that could help startup CTOs, please [let me know about them on Twitter](https://twitter.com/KarlLHughes). I look forward to hearing your recommendations.
