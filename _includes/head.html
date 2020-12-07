@@ -28,7 +28,7 @@
     <meta content="{{ site.url }}" property="article:author">
   {% endif %}
   {% if page.img %}
-    <meta content="{{ page.img }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ page.img }}" property="og:image">
   {% else %}
     <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}" property="og:image">
   {% endif %}
@@ -60,9 +60,9 @@
   <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
   {% if page.img %}
-    <meta name="twitter:image:src" content="{{ page.img }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.img }}">
   {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
   {% endif %}
 
   {% if page.id %}
