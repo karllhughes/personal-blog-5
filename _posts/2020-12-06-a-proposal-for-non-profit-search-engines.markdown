@@ -38,7 +38,7 @@ I would envision a core team with many contributors - much like open-source proj
 Of course, there is room for abuse in this system as well, but there are numerous improvements to be had in a publicly visible model like this.
 
 ## The Best Option Today
-The closest thing we have today is [DuckDuckGo](https://duckduckgo.com/), which is closed-source, but does not store personal data. This gives users some of the privacy-focused features that a non profit search engine might provide, but doesn't answer the potential for abuse or eventual monopoly.
+The closest thing we have today is [DuckDuckGo](https://duckduckgo.com/), which is closed-source and for-profit, but does not store personal data. This gives users some of the privacy-focused features that a non profit search engine might provide, but doesn't answer the potential for abuse or eventual monopoly.
 
 ![DuckDuckGo search engine](https://i.imgur.com/OkT1Ljn.png)
 
