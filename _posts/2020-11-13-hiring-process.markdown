@@ -59,7 +59,7 @@ Initiative is a start, but [I don't want a hero](https://www.karllhughes.com/pos
 Candidates with a history of staying in jobs for a long time, strong references, and commitment to projects usually make it to the top of my list when hiring. 
 
 ### Competency
-When I was a new engineering manager, I over-indexed on technical skills. It's easy to fall into the trap of grading engineers based purely on their technical knowledge (whole companies like [Toptal](https://www.toptal.com/) and [Triplebyte](https://triplebyte.com/) are built on this fallacy), but arcane trivia does not make a sound engineer.
+When I was a new engineering manager, I over-indexed on technical skills. It's easy to fall into the trap of grading engineers based purely on their technical knowledge, but arcane trivia does not make a sound engineer.
 
 I'll talk more about how I gauge a candidate's competency later in this post, but the key question I ask is, **do I think this engineer can learn to solve the problems we are facing?**
 
