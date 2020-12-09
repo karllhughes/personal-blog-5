@@ -56,7 +56,7 @@ So, I track the number of hours it takes me to create each post, the amount I ge
 Also, a publication's posted rate is rarely the highest rate they'll pay writers. Most offer a low rate to new writers but will increase your rate if you ask for it, and you've proven yourself to be reliable.
 
 #### 5. Find ways to decrease your research time
-Try to double-down on topics you know so you can decrease your research time per post. For example, if you are writing a post about setting up a Laravel application, keep the app on your local machine for a future article about something related.
+Try to double-down on topics you know so you can decrease your research time per post. For example, if you are writing a post about [setting up a Laravel application](/posts/laravel-forge), keep the app on your local machine for a future article about something related.
 
 You can also pitch similar topics to different publications, but don't reuse the same blog post. Your clients will not like that and it's dishonest.
 

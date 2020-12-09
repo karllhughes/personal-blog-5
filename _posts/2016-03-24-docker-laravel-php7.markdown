@@ -6,9 +6,12 @@ img:
 categories:
   - Software Engineering
 ---
+
 PHP7 has been out for a few months now; [the performance benefits have been demonstrated](http://www.infoworld.com/article/3011967/web-development/php-7-offers-twice-the-performance.html), and most of the bugs worked out. Now is the time for early to mid-stage adopters to get moving! That said, nobody wants to go through a difficult upgrade process. Fortunately, I've found that upgrading most Laravel 5.0+ applications to PHP7 is almost completely pain-free. If you are worried though, there's a simple way to test them out using Docker.
 
-### ![docker-php7](https://i.imgur.com/xwm4v6Q.png)What is Docker, and how can it help us test PHP7 applications?
+![docker-php7](https://i.imgur.com/xwm4v6Q.png)
+
+### What is Docker, and how can it help us test PHP7 applications?
 
 [Docker](https://www.docker.com/) is a service for running containers. Containers are small, contained microservices that can run on a single machine. I see them as the next logical step in virtualization: where virtual machines let you emulate an entire operating system, containers let you emulate everything on top of the kernel, so more of the underlying infrastructure is shared while keeping a sharp separation of concerns. If that just went completely over your head, it's okay. I'm not an expert either, but that doesn't mean we can't use Docker as a tool to make our lives a little easier.
 
@@ -52,4 +55,7 @@ From the container's command line, navigate to the web root with "cd /www". The
 
 #### 6. Make sure things are working
 
-Your application should be available at _http://localhost:80_ if everything is wired up correctly. You can also attach the application to another port by modifying the command above to something else: "docker run -it -v $PWD:/www -p <YOUR LOCAL PORT>:80 karllhughes/laravel-php-7". If you get a 500 error, make sure your file permissions are open and you have a valid .env file in the project. You can also run "composer install" or "composer update" to make sure your packages work with PHP7\. Finally, you can run your unit tests with "php vendor/bin/phpunit". Now you've got your Laravel application running in PHP7\. Congrats! Feel free to leave me feedback [on the repo](https://github.com/karllhughes/laravel-php-7) or on [Twitter](https://twitter.com/karllhughes) if you have questions or trouble setting this up.
+Your application should be available at _http://localhost:80_ if everything is wired up correctly. You can also attach the application to another port by modifying the command above to something else: "docker run -it -v $PWD:/www -p <YOUR LOCAL PORT>:80 karllhughes/laravel-php-7". If you get a 500 error, make sure your file permissions are open and you have a valid .env file in the project. You can also run "composer install" or "composer update" to make sure your packages work with PHP7\. Finally, you can run your unit tests with "php vendor/bin/phpunit". Now you've got your Laravel application running in PHP7.
+
+## What's Next?
+If you're looking to deploy your Laravel PHP applications, [check out my tutorial on using Laravel Forge](/posts/laravel-forge). While it doesn't support Docker yet, Forge is a great way to get your PHP apps out into the world fast, so I highly recommend it.
