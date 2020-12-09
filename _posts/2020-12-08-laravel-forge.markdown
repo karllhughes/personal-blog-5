@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laravel Forge: Deploy Laravel Applications Fast"
-date: 2016-02-01
+date: 2020-12-08
 img: /assets/img/laravel-forge.png
 categories:
   - Software Engineering
@@ -103,3 +103,5 @@ Forge is specialized for Laravel (and generally PHP projects), so it's not quite
 *   Adding multiple SSH keys to log in as the Forge user
 
 If you'd like to get $100 in free DigitalOcean credit, [sign up using this link](https://m.do.co/c/888fefc32a01). Whether you use Forge or not, DigitalOcean is a reliable and reasonably price web host.
+
+_Note: This post was first published in 2016, but it was updated in 2020 to reflect Forge's updated pricing and new features._
