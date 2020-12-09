@@ -11,7 +11,7 @@ categories:
 
 -----
 
-To the non-technical startup founder, offshore outsourcing seems like a godsend. For pennies on the dollar, you can get programmers in India, Vietnam, South America, or the Ukraine to put together your software product in just a few short weeks, so why would you even try to go through getting a technical co-founder or raising funds to hire an engineer?
+To the [non-technical startup founder](/posts/non-technical-founder-hiring-cto), offshore outsourcing seems like a godsend. For pennies on the dollar, you can get programmers in India, Vietnam, South America, or the Ukraine to put together your software product in just a few short weeks, so why would you even try to go through getting a technical co-founder or raising funds to hire an engineer?
 
 Every startup I've worked for has used offshore development teams to some extent and with varying degrees of success. It's true that outsourcing some work overseas can save you a ton of money, but if you're in an early stage startup, it might not be the best way to get your MVP together. In fact, [it can be a huge risk](http://www.zdnet.com/outsourcing-exec-urges-stop-outsourcing-your-software-development-7000004315/) that can impede the process of raising funds and hiring a permanent engineering team in the future.
 

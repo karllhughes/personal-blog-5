@@ -35,7 +35,9 @@ While the cash cost is pretty significant (usually $100k/year or more), there's 
 
 Beyond that, writing custom software almost always takes 2-3 times as long as you think it will ([it's a known problem, and it's even a problem if you know about it](https://lifehacker.com/estimate-how-much-time-you-need-for-a-project-then-dou-1592791225)), you almost never get the product right on the first iteration (meaning you need to keep that expensive engineer around longer than you were hoping), and your engineer will probably overbuild it, especially if he's got some experience.
 
-The other common solution I hear is to hire outsourced developers to build your MVP. While it is _sometimes_ cheaper up-front, it's almost certainly more expensive in the long-run, and you have to remember that your outsourcing partner **does not have the same interest as you do in your project's success**. They'll all try to sell you on how much they care, but they're trying to churn through your project to move on to the next one. Full stop. ([I've written more about outsourcing and offshoring here if you want to read more](https://www.karllhughes.com/posts/risk-of-offshore-outsourcing)).
+Another common solution I hear is to hire outsourced developers to build your MVP. While it is _sometimes_ cheaper up-front, it's almost certainly more expensive in the long-run, and you have to remember that your outsourcing partner **does not have the same interest as you do in your project's success**. They'll all try to sell you on how much they care, but they're trying to churn through your project to move on to the next one. Full stop. ([I've written more about outsourcing and offshoring here if you want to read more](https://www.karllhughes.com/posts/risk-of-offshore-outsourcing)).
+
+Finally, you might start the search for [a technical co-founder](/posts/non-technical-founder-hiring-cto). This is a good option, but it's not an easy role to fill, so I recommend not letting it stop you from getting started. Traction will attract better co-founders than dreams alone will.
 
 ## So what should non-technical founders do?
 

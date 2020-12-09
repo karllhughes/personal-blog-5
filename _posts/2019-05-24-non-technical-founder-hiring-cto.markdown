@@ -7,7 +7,7 @@ categories:
   - Startups
 ---
 
-I've worked in startups my whole career, first as a software engineer and now as a Chief Technology Officer (CTO). In that time, the most common question I get from non-technical founders has been, "How can I find a CTO or technical co-founder?"
+I've worked in startups my whole career, first as a software engineer, then as a Chief Technology Officer (CTO), and most recently [as a founder](https://www.karllhughes.com/posts/cto-writer). In that time, the most common question I get from non-technical founders has been, "How can I find a CTO or technical co-founder?"
 
 ## What Does a Startup CTO Do?
 First, it's important to understand that [startup CTOs have a very unique role](https://www.karllhughes.com/posts/roles-of-startup-cto). They are responsible for _everything_ in the software product from writing code for your MVP to hiring engineers to company-wide security. Being a startup CTO is hard - you're basically doing 13 jobs at once.
