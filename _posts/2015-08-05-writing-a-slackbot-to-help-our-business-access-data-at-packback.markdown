@@ -7,17 +7,25 @@ categories:
   - Software Engineering
   - API Development
 ---
-[Slack](https://slack.com/) is a messaging tool that's quickly become ubiquitous in large and small companies alike. It's basically like a walled off version of AOL Instant Messenger (you guys remember that from the early 00's right?) for your company's internal communication. They have apps for iOS and Android, desktop clients, and a web interface, making Slack super accessible and easy to use, plus the allow you to create [Slackbots](https://api.slack.com/bot-users).
+[Slack](https://slack.com/) is a messaging tool that's quickly become ubiquitous in large and small companies alike. It's basically like a walled off version of AOL Instant Messenger (you guys remember that from the early 00's right?) for your company's internal communication.
+
+They have apps for iOS and Android, desktop clients, and a web interface, making Slack super accessible and easy to use, plus they allow you to create [Slackbots](https://api.slack.com/bot-users).
 
 ## What is a Slackbot?
 
-Slackbots look like users on Slack in that they can write messages, mention other people, etc., but they're controlled by a computer not a real person. AIM had a similar bot construct that allowed people to make programs that told you the weather or dirty jokes when you contacted their bot. While it may be cute to make a Slackbot that makes jokes (I had one running for a few weeks that poked fun at one of our sales people), they can be genuinely useful, like the Slackbot we created for Packback called [Packbot](https://github.com/packbackbooks/packbot).
+Slackbots look like users on Slack in that they can write messages, mention other people, etc., but they're controlled by a computer not a real person. AIM had a similar bot construct that allowed people to make programs that told you the weather or dirty jokes when you contacted their bot.
+
+While it may be cute to make a Slackbot that makes jokes (I had one running for a few weeks that poked fun at one of our sales people), they can be genuinely useful, like the Slackbot we created for Packback called [Packbot](https://github.com/packbackbooks/packbot).
 
 ## What is "Packbot"?
 
-First, I should back up and explain what we do at [Packback](http://packback.co/). We sell digital textbooks and offer professors and students a [question and answers platform centered around their class](https://www.packback.co/questions). One of the common problems we encounter is that while our salespeople are talking to professors about their classes, they may or may not know which textbook the professor is using. They may also not be sure if the textbook is available on our site yet, which may dictate the sales conversation moving forward. **In short, the sales team needed a way to quickly determine whether a book was available on Packback, and that's what Packbot does.** So, when you enter an ISBN number in any public slack channel, you'll get a response from Packbot with some basic info about the textbook:
+I should back up and explain what we do at [Packback](http://packback.co/).
 
-![](https://i.imgur.com/BhqV017.png)
+We sell digital textbooks and offer professors and students a [question and answers platform centered around their class](https://www.packback.co/questions). One of the common problems we encounter is that while our salespeople are talking to professors about their classes, they may or may not know which textbook the professor is using. They may also not be sure if the textbook is available on our site yet, which may dictate the sales conversation moving forward.
+
+**In short, the sales team needed a way to quickly determine whether a book was available on Packback, and that's what Packbot does.** So, when you enter an ISBN number in any public Slack channel, you'll get a response from Packbot with some basic info about the textbook:
+
+![Packbot response](https://i.imgur.com/BhqV017.png)
 
 ## Making Packbot
 
@@ -27,7 +35,7 @@ There's not much to creating a Slackbot. If you're familiar with NodeJS or at le
 *   NodeJS with Express to access our internal product API and respond when Slack sends a message its way
 *   Environmental variables to set our base API url and Slack Token
 
-### 1. Set up the application
+### 1. Set up the Application
 
 If you've set up a Node app before, this one is about as easy as they come. There's a package.json file that includes the dependencies we'll need for running an Express server and parsing Slack's data:
 
@@ -60,7 +68,7 @@ And finally a Procfile for Heroku. This just tells Heroku what kind of applicati
 
 `web: node app`
 
-### 2. Writing the Node app
+### 2. Writing the Node App
 
 First, let's talk about what this app needs to do:
 
@@ -125,7 +133,7 @@ app.post('/isbn', function (req, res, next) {
 
 There's certainly some room to improve the logic here for parsing the request and results, but it serves its purpose as an internal tool.
 
-### 3. Testing locally
+### 3. Testing Locally
 
 One of the problems I ran into was testing the Slackbot locally. After adding a function to run the server:
 
@@ -155,16 +163,18 @@ app.get('/', function (req, res) {
 
 Now I can hit `http://localhost:1337/?isbn=<ISBN>` and see the response that would be returned to Slack.
 
-### 4. Deploying and configuring Slack
+### 4. Deploying and Configuring Slack
 
-Finally, once I had everything running locally I pushed the repo up to Heroku. To set up Slackbots, go to _Integrations_ then add one for _Outgoing Webhooks_.
+Finally, once I had everything running locally I pushed the repo up to Heroku. To set up Slackbots, go to _Integrations_ then add one for _Outgoing Webhooks_.
 
-![](https://i.imgur.com/AEovub3l.png)
+![Setting up an outgoing webhook in Slack](https://i.imgur.com/AEovub3l.png)
 
 From there, I added the URL to our Slackbot on Heroku and got the token for our environmental configurations.
 
-## Slackbots: just another tool to make your data accessible
+## Slackbots: Making Your Data More Accessible
 
-We undoubtedly could have (in fact, we already have) built an internal tool to allow people to search for books on our platform, but that requires going to a new URL, logging in, and knowing how to use the tool. What I love about the Slackbot solution is that Slack offers a platform that makes data accessible and lowers the barrier to accessing it while maintaining security. We know that anyone with access to our Slack channels should also have access to our product data quickly, so this tool makes sense for us.
+We have since built an internal tool to allow people to search for books on our platform, but that requires going to a new URL, logging in, and knowing how to use the tool.
 
-If you've got a use case for Slackbots, I'd love to hear about it. Also, if you'd like to build your own Slackbot, feel free to [grab Packbot's open source code](https://github.com/packbackbooks/packbot) as a starting point.
+What I love about the Slackbot solution is that Slack offers a platform that makes data accessible and lowers the barrier to accessing it while maintaining security. We know that anyone with access to our Slack channels should also have access to our product data quickly, so this tool makes sense for us.
+
+If you'd like to build your own Slackbot, feel free to [grab Packbot's open source code](https://github.com/packbackbooks/packbot) as a starting point.
