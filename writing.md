@@ -6,17 +6,14 @@ permalink: /writing/
 
 I started programming because I loved writing.
 
-In college, I created a campus blog with around 30 of my peers. As a business, the venture was terrible, but 
-it forced me to learn Wordpress and basic web development.
+In college, I created a campus blog with around 30 of my peers. As a business, the venture was terrible, but it forced me to learn Wordpress and basic web development.
 
-Now 10 years later, [I left my job as a startup CTO to become a full-time writer and business owner](https://www.karllhughes.com/posts/cto-writer).
+10 years later, [I left my job as a startup CTO to become a full-time writer and business owner](https://www.karllhughes.com/posts/cto-writer).
 
-Check out some of my writing samples below and if you're looking for a freelance writer, email me: [khughes.me@gmail.com](mailto:khughes.me@gmail.com).
+Check out some of my writing samples below, and if you're looking for help with your blog, [check out my company, Draft.dev](https://draft.dev).
 
 ### The PHP and Docker Book
 In 2017, I wrote a book called **[Building Your First PHP Application with Docker](https://leanpub.com/first-php-docker-application)** which has since been downloaded by over 1000 developers.
-
-I also maintain a blog for PHP developers at [Shiphp.com](https://www.shiphp.com/).
 
 ### Comprehensive Guides
 One format that I've seen work really well is the long, in-depth guide to a niche topic. I've written
@@ -74,6 +71,7 @@ well in search engine rankings.
 I always enjoy writing about processes and patterns that I'm seeing in the world of software engineering. These kinds of
 posts have a therapeutic quality to me, and they are often among the most widely shared on social media.
 
+- [The Danger in Listening to Experts](https://www.karllhughes.com/posts/experts)
 - [The Bulk of Software Engineering is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
 - [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring)
 - [A Day in the Life of an Engineering Manager](https://www.karllhughes.com/posts/engineering-manager)
@@ -87,4 +85,4 @@ posts have a therapeutic quality to me, and they are often among the most widely
 - [Building a Customer Development Funnel](https://www.indiehackers.com/article/building-a-customer-development-funnel-ca25dbc2d6) (Indie Hackers)
 
 ### What can I do for you?
-I am always willing to hear about new writing opportunities. Email me at [khughes.me@gmail.com](mailto:khughes.me@gmail.com) if you'd like to work together.
+I work with a team of subject matter experts at [Draft.dev](https://draft.dev), so I'd love to help you get more high-quality, technical content for your blog.

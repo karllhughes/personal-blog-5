@@ -14,12 +14,14 @@ First, it's important to understand that [startup CTOs have a very unique role](
 
 [![13 responsibilities of a startup CTO](https://i.imgur.com/qmBywUb.jpg)](https://www.karllhughes.com/posts/roles-of-startup-cto)
 
-That said, everyone at a startup is doing a lot, so CTOs aren't really special. My point is that you aren't _just_ looking for a software engineer or _just_ an engineering manager. You need someone with a hybrid set of hands-on and higher-level thinking skills. The CTO role is a really difficult one to fill.  
+That said, everyone at a startup is doing a lot, so CTOs aren't really special. My point is that you aren't _just_ looking for a software engineer or _just_ an engineering manager. You need someone with a hybrid set of hands-on and higher-level thinking skills. The CTO role is a really difficult one to fill.
+
+_Note: If you’re looking for more reading material, I’ve assembled a list of [my favorite books for startup founders here](https://www.karllhughes.com/posts/startup-books)._
 
 ## Tips for Finding a CTO
 While it's difficult, it's clearly not impossible for non-technical founders to find a CTO.
 
-At [my last two startups](/work/), I was the first engineering hire, and I know dozens of others technical co-founders and CTOs in Chicago alone. After having this conversation with many of them, I put this list of tips together for non-technical founders looking to hire a CTO.
+At [my last two startups](/work/), I was the first engineering hire, and I know dozens of others technical co-founders and CTOs in Chicago alone. Unfortunately, it's not as easy as putting together a [list of interview questions](/posts/cto-interview-questions) and posting a job listing. After having conversations with several of my CTO friends, I put this list of tips together for non-technical founders looking to attract a technical co-founder or CTO.
 
 ### 1. Hone Your Vision
 
