@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Find a CTO: Tips for Non Technical Founders"
-date: 2019-05-24
+date: 2020-12-14
 img: /assets/img/find-cto.png
 categories: 
   - Startups
