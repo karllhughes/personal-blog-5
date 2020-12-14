@@ -1,18 +1,35 @@
 ---
 layout: post
-title: "Jobs Common: Making Access to Job Board APIs Effortless in PHP"
+title: "Accessing Job Board APIs in PHP"
 date: 2015-12-22
-img: 
+img: /assets/img/job-board-apis.png
 categories:
   - API Development
 ---
-If you're a developer and you want to create a job board aggregator or supplement your own site's job listings with listings from other providers, here's a dead simple way to do it. 
 
-## Jobs Common: Standardizing Job Board API calls in PHP
+Niche job boards have made a surprising comeback in the past few years. Despite the fact that many large players are well-established in job listings and recruiting, new boards like [We Work Remotely](https://weworkremotely.com/) and [Remote.co](https://remote.co/) have successfully made a niche for themselves in the past few years.
 
-[Jobs Common](https://github.com/jobapis/jobs-common) is a project that @[stevenmaguire](https://twitter.com/stevenmaguire) and I have been working on for the past year to make accessing job board API's in PHP easier and the data they return more standardized. It started with just four job boards in May of 2015, and since then it has ballooned to provide **support for 13 job boards** including Indeed, Careerbuilder, SimplyHired, and Ziprecruiter.
+That said, aggregating data from multiple job boards is not easy. In this post, you'll see some of the challenges as well as a solution I've been working on for the past year to help make job board data collection more achievable.
 
-This week, I relaunched the [documentation site](https://jobapis.github.io/) and released [a new demo application](https://github.com/jobapis/jobs-common-demo) to make it even easier for developers to get started. Let's take a look at how easy using Jobs Common is vs. accessing job board APIs directly.
+## The Problem
+As you start reading the documentation on [the various job board APIs available](https://jobapis.github.io/open-source/), you'll quickly realize that there is very little standardization in the world of job board APIs. For instance:
+
+1. Every job board's API demands different request parameters
+2. Every API returns different data; some will only do XML, some JSON, and the names of fields can be all over the place
+3. Some require API/Publisher keys
+4. Some have libraries, some don't; very few have good ones in PHP
+5. Even if there are libraries, they still return non-standard results so you can't compare one with another
+6. Many of the PHP libraries are outdated, and don't take advantage of stuff like [Composer](https://getcomposer.org/) which makes it super easy to include in a project
+
+If you're a PHP developer, and you want to create a [job board aggregator](https://www.smartrecruiters.com/resources/glossary/job-aggregator/) or supplement your website's job listings with jobs from other providers, I built a new tool that can help.
+
+## Jobs Common: The PHP Job Board API Client
+
+[Jobs Common](https://github.com/jobapis/jobs-common) is a project that @[stevenmaguire](https://twitter.com/stevenmaguire) and I have been working on for the past year to make accessing job board API's in PHP easier. Since we started the project with just four job boards in May, we've added **support for 13 job boards** including Indeed, Careerbuilder, SimplyHired, and Ziprecruiter. We've also standardized the data they return so that it's easier to work with.
+
+You can also find the [documentation site](https://jobapis.github.io/) and [a demo application](https://github.com/jobapis/jobs-common-demo) to make it even easier for developers to get started.
+
+In this post, we'll take a look at how easy using Jobs Common is vs. accessing job board APIs directly.
 
 ### Example 1: Getting Jobs from Dice the Hard Way
 
@@ -54,4 +71,4 @@ $jobs = $client->setKeyword('product manager')
     ->getJobs();
 ```
 
-This will get you a [standardized Schema.org JobPosting object](https://schema.org/JobPosting) that can now be compared with the results returned from Careerbuilder, SimplyHired, or Indeed's APIs. If you want more, check out the documentation on [all the providers we currently support](https://jobapis.github.io/open-source/#Jobs-Common-API-Clients), and feel free to jump in if you'd like to contribute your own!
+This will get you a [standardized Schema.org JobPosting object](https://schema.org/JobPosting) that can now be compared with the results returned from Careerbuilder, SimplyHired, or Indeed's APIs. If you want more, check out the documentation on [all the providers we currently support](https://jobapis.github.io/open-source/#Jobs-Common-API-Clients), and feel free to jump in if you'd like to contribute your own.
