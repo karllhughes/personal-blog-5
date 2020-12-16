@@ -23,7 +23,7 @@ It's not hard to find developers who can search the internet and hack together a
 
 ### 2. Prepare to work some odd hours and deal with communication issues
 
-This might not be a big deal if you're used to working long hours at your startup, but it's something to keep in mind anyway, especially if you want to keep a sustainable schedule. Somebody needs to manage your overseas team, and if their workday is 12 hours ahead of yours it can be tricky.
+This might not be a big deal if you're used to [working long hours at your startup](/posts/working-hours), but it's something to keep in mind anyway, especially if you want to keep a sustainable schedule. Somebody needs to manage your overseas team, and if their workday is 12 hours ahead of yours it can be tricky.
 
 Additionally, you'll need to be able to clearly communicate expectations and specs for your project in spite of language and cultural barriers. While most offshore contractors speak English, that doesn't mean they have the same communication style as we do here in America. For example, in India, [it's impolite to say "no" or "I don't understand" to your superiors](http://www.accelerance.com/blog/the-7-ways-an-indian-programmer-says-no). This can obviously cause huge communication mismatches when outsourcing your product development, so it's important to know what your overseas developers are really saying.
 

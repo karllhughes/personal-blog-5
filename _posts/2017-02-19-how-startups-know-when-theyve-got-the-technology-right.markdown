@@ -9,7 +9,7 @@ categories:
 ---
 *I wrote this post back in September of 2012. I had just started my first full-time job at a startup in Chicago, and I was naively and desperately trying to build a product that would change the college new industry.*
 
-*It's fun to sit back and read some of these posts from 4-5 years ago because I hear versions of myself in young founders and engineers who I speak to today. I don't stand by my work habits or measure of productivity (5000 lines of code is a stupid way to prove you've been doing something and working 60+ hours per week is unsustainable), but I don't disagree with my thesis statement:*
+*It's fun to sit back and read some of these posts from 4-5 years ago because I hear versions of myself in young founders and engineers who I speak to today. I don't stand by my work habits or measure of productivity (5000 lines of code is a stupid way to prove you've been doing something and [working 60+ hours per week is unsustainable](/posts/working-hours)), but I don't disagree with my thesis statement:*
 
 _You know you have the technology right when you stop working and the technology keeps getting results._
 

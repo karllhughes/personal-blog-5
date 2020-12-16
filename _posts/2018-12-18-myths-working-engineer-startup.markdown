@@ -32,7 +32,7 @@ You are also likely to get some input on [the way future engineers are hired](ht
 
 ## Myth 2: you _have_ to work 80 hours per week all the time
 
-There may be times where it’s necessary to put in extra hours. I know I’ve spent more than a few long nights and weekends coding in my past seven years with startups, but those are balanced out by the option to telecommute, lax vacation policies, and flexible working hours when things aren’t as busy.
+There may be [times where it’s necessary to put in extra hours](/posts/working-hours). I know I’ve spent more than a few long nights and weekends coding in my past seven years with startups, but those are balanced out by the option to telecommute, lax vacation policies, and flexible working hours when things aren’t as busy.
 
 You should be ready to sacrifice a bit of your free time - especially if the engineering team consists of just one or two people - but [you can’t expect to sustain a grueling 80+ hour work week for long](https://www.karllhughes.com/posts/working-hours). You’ll need balance in order to avoid burnout, and all but the worst employers will recognize this.
 

@@ -35,7 +35,7 @@ This brings me to my second point, which is that you have to set boundaries.
 It's easy to think that working at home means "working all the time", but that's not sustainable. There are times
 where you may have to work harder than others, but you shouldn't have to be 100% available every second you're at home.
 
-Establish regular working hours (not everyones' have to be the same), and ensure everyone on your team marks them on their calendar and 
+Establish [regular working hours](/posts/working-hours) (not everyones' have to be the same), and ensure everyone on your team marks them on their calendar and 
 by setting away messages at the right times.
 
 ### 3. Settle on a good toolset

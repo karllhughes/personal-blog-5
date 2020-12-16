@@ -19,7 +19,7 @@ As you might guess, you want employees who _show you_ they can respond to feedba
 
 2. Will respond in the short term, but they won't keep it up. You will likely get a burst of motivation out of a "sayer", and they'll think that was enough. It may get them through to their next performance review, but true improvement is a _long term effort_. **Nobody can show you they've made a lasting improvement in less than 3 months.**
 
-3. Will work longer hours, but won't actually respond to your feedback. For example, I once gave an engineer feedback about his estimates being wildly inaccurate and rather than spending more time planning and organizing his projects, he worked for days without sleep trying to prove he could get the project done. This is not sustainable, and it's not what I asked of him.
+3. Will [work longer hours](/posts/working-hours), but won't actually respond to your feedback. For example, I once gave an engineer feedback about his estimates being wildly inaccurate and rather than spending more time planning and organizing his projects, he worked for days without sleep trying to prove he could get the project done. This is not sustainable, and it's not what I asked of him.
 
 4. Will try to distract you from their poor performance with "above and beyond" heroics or goodwill building. "Sayers" will try to make you feel bad for giving them poor marks by bringing in cookies, staying late to work on an important bug, or helping an external team member get their work done. While these might be positive behaviors, don't let them mask the fundamental problem you were trying to address.
 

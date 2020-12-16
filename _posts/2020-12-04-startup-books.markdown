@@ -135,7 +135,7 @@ This is, by far, one of the best books about management I have ever read. It exp
 
 ## Personal Development
 
-Running a business can be an all-consuming endeavor. While [a little stress is okay](https://www.karllhughes.com/posts/stress-a-little-its-okay), it can be a challenge to stay mentally and physically healthy if you ignore all your friends and work 80 hours every week. Knowing more about your psychology can help. Here are some of the books that have helped me maintain personal balance while running a business.
+Running a business can be an all-consuming endeavor. While [a little stress is okay](https://www.karllhughes.com/posts/stress-a-little-its-okay), it can be a challenge to stay mentally and physically healthy if you ignore all your friends and [work 80 hours every week](/posts/working-hours). Knowing more about your psychology can help. Here are some of the books that have helped me maintain personal balance while running a business.
 
 
 ### [Mindset: The New Psychology of Success](https://amzn.to/35LLTr4)
