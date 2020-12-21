@@ -256,7 +256,7 @@ If you’re invested this much time in considering what your potential CTO could
 
 ### 22. Tell me about your team management style. How would you describe it?
 
-What’s your internal culture like and what type of management would you like the CTO to bring to the development function? This is another key question that you can use to assess cultural bias in addition to hard skills.
+What’s your [startup's culture like](/posts/startup-culture) and what type of management would you like the CTO to bring to the development function? This is another key question that you can use to assess cultural bias in addition to hard skills.
 
 **What to look for:** A management style that is congruous with the overall culture of the company and which will mirror your own approach.
 

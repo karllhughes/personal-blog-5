@@ -58,7 +58,7 @@ This might be controversial, but I believe that part of the reason startups tout
 
 When you require everyone in your company to work 60+ hour weeks, you exclude people who have a family at home, kids they need to pick up from school, or mental health issues. This disproportionately hurts minorities, single parents, older workers, and [women](https://www.telegraph.co.uk/news/2016/06/16/working-long-hours-harms-women-but-protects-men-study-shows/), and it's part of the reason we see fewer underrepresented groups in startups.
 
-This isn't always the case though. I remember meeting a CTO at another startup early in my career who quit work at 3 pm every day to pick up his kids. This set a culture at the company, which was totally different from my experience.
+This isn't always the case though. I remember meeting a CTO at another startup early in my career who quit work at 3 pm every day to pick up his kids. This [set a culture at the company](/posts/startup-culture), which was totally different from my experience.
 
 ![Long hours is a form of gatekeeping](https://i.imgur.com/ApmhcQ1.png)
 
