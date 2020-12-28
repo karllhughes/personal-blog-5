@@ -14,8 +14,6 @@ layout: main
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
 
-    {% include signup.html %}
-
     {{ content | markdownify }}
 
     {% if page.link %}
