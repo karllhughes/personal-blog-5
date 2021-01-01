@@ -29,8 +29,8 @@
       float: left;
 
       input[type=submit] {
-        background-color: $light-gray;
-        font-weight: bold;
+        background-color: $green;
+        color: $white;
         cursor: pointer;
       }
     }
@@ -47,5 +47,55 @@
     ::-ms-input-placeholder { /* Microsoft Edge */
       color: $gray;
     }
+  }
+}
+
+.signup-hover {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 9;
+  opacity:0;
+  -webkit-transition: opacity 1s;
+  -moz-transition: opacity 1s;
+  -o-transition: opacity 1s;
+  transition: opacity 1s;
+
+  h3 {
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+  }
+
+  /* Add styles to the form container */
+  .form-container {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: $light-accent;
+  }
+
+  /* Full-width input fields */
+  .form-container input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+  }
+
+  /* Set a style for the submit button */
+  .form-container .btn {
+    background-color: $green;
+    color: $white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+  }
+
+  .close-form {
+    float: right;
+    cursor: pointer;
+    color: $gray;
+    width: 0;
   }
 }
