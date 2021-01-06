@@ -113,3 +113,20 @@ code {
 .hug {
   margin-top: 0;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 2 * $scale * 1rem;
+    line-height: 2 * $leading;
+    margin-top: 2 * $leading;
+  }
+  h2 {
+    font-size: 1.5 * $scale * 1rem;
+    line-height: 1.5 * $leading;
+    margin-top: 1.5 * $leading;
+  }
+}
+@media (max-width: 768px) {
+
+}
+
