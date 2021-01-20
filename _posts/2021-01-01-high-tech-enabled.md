@@ -13,7 +13,7 @@ I was talking with an entrepreneur and investor here in Chicago recently, and he
 
 In this post, I'm going to offer a working definition of both terms. I'll show you how to identify a high tech or tech-enabled startup, and I'll share some of the pros and cons of each.
 
-After almost ten years working with startups, I've seen companies on both sides, and I can tell you that *neither type is inherently better than the other*. That said, founders who try to run a tech-enabled startup like a high tech one will be disappointed, so the distinction does matter.
+After almost ten years [working with startups](/posts/working-at-startup), I've seen companies on both sides, and I can tell you that *neither type is inherently better than the other*. That said, founders who try to run a tech-enabled startup like a high tech one will be disappointed, so the distinction does matter.
 
 ![The spectrum of high tech vs. tech enabled startups](/assets/img/high-tech-vs-tech-enabled-spectrum.png)
 

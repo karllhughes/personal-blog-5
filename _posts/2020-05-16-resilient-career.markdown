@@ -57,6 +57,6 @@ It's no surprise that my friend's employer let him go. He wasn't growing and whe
 Any employer I work for gets me working ~35 hours per week on the projects we plan and ~5 hours per week learning new things. My value to my employer only increases as I become a more well-rounded engineer, so learning is non-negotiable. Now I bake this into my team's weekly retrospectives - we share what we're learning with each other - so we can hold each other accountable for learning new things.
 
 ## Make the journey your own
-Finally, what works for me won't necessarily work for you. My journey has involved working for early-stage startups - which you might hate - and being a software development generalist. Still, I think the fundamental goal should be the same: to build a resilient career.
+Finally, what works for me won't necessarily work for you. My journey has involved [working for early-stage startups](/posts/working-at-startup) - which you might hate - and being a software development generalist. Still, I think the fundamental goal should be the same: to build a resilient career.
 
 Let me know what you think [on Twitter](https://www.twitter.com/karllhughes).

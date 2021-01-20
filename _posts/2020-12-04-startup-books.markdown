@@ -11,7 +11,7 @@ categories:
 
 As a startup founder, you get pulled in a million different directions from the moment you start your company. It can be overwhelming to have to learn so many new skills at once: raising funds, hiring a team, managing people.
 
-Before I started [Draft.dev](http://draft.dev/) earlier this year, I spent almost a decade working with startups, reading, and preparing myself to run a business. I worked with some great people, met fantastic mentors, and read some outstanding books that gave me the confidence to go out on my own. In this post, I’ll give you my list of the best startup books available today.
+Before I started [Draft.dev](http://draft.dev/) earlier this year, I spent almost a decade [working with startups](/posts/working-at-startup), reading, and preparing myself to run a business. I worked with some great people, met fantastic mentors, and read some outstanding books that gave me the confidence to go out on my own. In this post, I’ll give you my list of the best startup books available today.
 
 
 ## Early-Stage Startups

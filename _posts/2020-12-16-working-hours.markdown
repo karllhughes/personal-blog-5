@@ -15,7 +15,7 @@ At that time, I didn't have a family, significant other, or many hobbies outside
 After working for three early-stage startups and [founding my own in 2020](https://www.karllhughes.com/posts/cto-writer), I've talked to countless founders about startup hours, pacing, burnout, and hustling. I've since seen a lot of founders fall into the trap of working more hours instead of working smarter, so in this post, I'll give you my perspective on why this happens. Finally, I'll share a few things that I've learned about maintaining balance in a startup from both an employee's and founder's perspective.
 
 ## "Typical" Startup Hours
-One of the challenging things about joining a startup is that there are rarely "typical" work hours. Some startups expect employees to be in the office from 8 am to 8 pm every day and answer emails on the weekend, while others might allow complete flexibility with very little concern over hours worked.
+One of the challenging things about [joining a startup](/posts/working-at-startup) is that there are rarely "typical" work hours. Some startups expect employees to be in the office from 8 am to 8 pm every day and answer emails on the weekend, while others might allow complete flexibility with very little concern over hours worked.
 
 **While it's [a myth that every startup requires you to work overtime every week](https://www.karllhughes.com/posts/myths-working-engineer-startup), most startup employees put in 50-60 hours per week, and many founders put in 60-100 per week.**
 

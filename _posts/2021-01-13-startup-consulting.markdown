@@ -11,7 +11,7 @@ One of my friends recently brought up the idea of consulting for startups. He's 
 
 I've thought about this topic a lot. I have worked for early-stage startups, done some startup consulting, and met plenty of startup consultants. A few of them have actually been pretty successful.
 
-That said, I steer consultants away from startups when they ask, and in this post, I'll explain why. I love working with startups, so please don't read this as a knock against them. As you'll see, they're just an objectively poor target market for consultants.
+That said, I steer consultants away from startups when they ask, and in this post, I'll explain why. [I love working with startups](/posts/working-at-startup), so please don't read this as a knock against them. As you'll see, they're just an objectively poor target market for consultants.
 
 _Learning more about startups? I've compiled a list of [my favorite books for founders here](https://www.karllhughes.com/posts/startup-books)._
 

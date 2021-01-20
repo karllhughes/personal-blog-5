@@ -21,7 +21,7 @@ Culture is the difference between a sales force that lies to customers and one t
 
 ![Working for the weekend to go windsurfing](https://i.imgur.com/Qd42hKL.jpg)
 
-After ten years as an early employee ([and now founder](https://www.karllhughes.com/posts/cto-writer)) at several startups, I have some thoughts on what makes a good startup culture. In this post, I'll offer some tangible tips for founders who want to intentionally build their startup's culture. This won't be your typical cookie-cutter listicle, so brace yourself for a slightly unconventional perspective on company culture.
+After ten years as an [early employee](/posts/working-at-startup) ([and now founder](https://www.karllhughes.com/posts/cto-writer)) at several startups, I have some thoughts on what makes a good startup culture. In this post, I'll offer some tangible tips for founders who want to intentionally build their startup's culture. This won't be your typical cookie-cutter listicle, so brace yourself for a slightly unconventional perspective on company culture.
 
 _Note: If you're looking for more reading material to help you on your journey to create a healthy startup, [I created this list of my favorite books for founders](/posts/startup-books)._
 
