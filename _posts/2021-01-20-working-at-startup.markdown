@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What it's Really Like Working for a Startup"
-date: 2021-01-13
+date: 2021-01-20
 img: /assets/img/working-at-startup.png
 categories:
 - Startups
