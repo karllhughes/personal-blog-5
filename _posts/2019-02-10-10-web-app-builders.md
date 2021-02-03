@@ -17,6 +17,8 @@ Wordpress is a no-code-required powerhouse; as a matter of fact, the content man
 
 ### 2. [Bubble](http://bubble.io/)
 
+_Note: I wrote a detailed overview of [using the Bubble app builder for your startup here](https://www.karllhughes.com/posts/bubble-web-app)._
+
 Bubble features a drag and drop interface allowing for a web application to be molded like a sculpture. This web application builder is packed with connectivity integrations. For example, you're able to connect your own SQL database to the application build. Bubble has an active community online (forums) and in person (local meetups). 
 
 ### 3. [Shopify](https://www.shopify.com/)
