@@ -15,7 +15,7 @@ Over the past several years, I've taught or guest spoken at many of Chicago's co
 
 In this post, I'm going to share a summary of what you can expect from a typical coding bootcamp. My goal is to help you set realistic expectations going in and be better prepared for life on the other side. The truth is that [merely attending a bootcamp won't skyrocket your career](https://www.karllhughes.com/posts/advice-for-new-bootcamp-graduates), but it might open up [career paths that you wouldn't have expected anyway](https://www.freecodecamp.org/news/alternative-career-paths/).
 
-**As with any major educational investment: do your homework.** Talk to graduates, teachers, and employers before you make the plunge. You also might want to try a free course like _[A Beginner’s Guide to Open Source Software Development](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fbeginners%2Dguide%2Dopen%2Dsource%2Dsoftware%2Ddevelopment%2F&afftrack=)_ or a low-cost online bootcamp like _[The Cloud Engineer Bootcamp](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fcloud%2Dengineer%2Dbootcamp%2F&afftrack=) offered by the Linux Foundation.
+**As with any major educational investment: do your homework.** Talk to graduates, teachers, and employers before you make the plunge. You also might want to try a free course like _[A Beginner’s Guide to Open Source Software Development](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fbeginners%2Dguide%2Dopen%2Dsource%2Dsoftware%2Ddevelopment%2F&afftrack=)_ or a low-cost online bootcamp like _[The Cloud Engineer Bootcamp](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fcloud%2Dengineer%2Dbootcamp%2F&afftrack=)_ offered by the Linux Foundation.
 
 These options might help you test the waters and see what coding is like before you commit to an expensive, in-person bootcamp.
 
@@ -82,6 +82,8 @@ Another blindspot in most coding bootcamps is working with existing codebases. T
 I asked one of the students in one of the coding bootcamps I speak at what he hoped to do after graduation. "Well, I want to spend a few months mastering web development and then join a startup as a CTO or something," he told me quickly. I laughed.
 
 While some of the students I've met realize that "mastering" software is a life-long process, **many students who are drawn to bootcamps are under the impression that in a few weeks they will actually know something significant.** This assumption needs to be pruned early.
+
+<a target="_blank" href="https://shareasale.com/r.cfm?b=1214291&amp;u=1653894&amp;m=59485&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/59485/TrainingAffiliateAds_728x90-Generic.png" border="0" /></a>
 
 ## Pick a Program That Sets Realistic Expectations
 Coding bootcamps are here to stay. I don't think they're all bad, and I do think they're actually a more practical solution than trying to go back to college for most people. But, some of them have been misadvertised. Whether you're thinking about joining one of these bootcamps or thinking about hiring someone who's recently graduated from one, keep your expectations in line with reality.
