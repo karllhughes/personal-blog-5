@@ -87,5 +87,6 @@ By this point, I hope I've convinced you that influence is an important part of 
 ### Further Reading
 
 - [How to Start Freelance Technical Blogging](https://www.karllhughes.com/posts/start-freelance-blogging)
-- [Writing for Software Developers by Philip Kiely](https://philipkiely.com/wfsd/)
+- [How to Write Better Technical Content](https://draft.dev/learn/writing/how-to-write-better-technical-content)
+- [Writing for Software Developers by Philip Kiely](https://gumroad.com/a/881726579) (Note: this is my affiliate link, but I vouch for this book wholeheartedly. Lots of good interviews with well-known engineers who write here!)
 - [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)

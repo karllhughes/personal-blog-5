@@ -75,3 +75,10 @@ On the flip side, you'll get paid to learn new concepts and help teach them to o
 To be a successful freelance technical blogger, you'll need to be detail-oriented enough to write good content, but not so much that you can't finish an article and get it in on time. Time management is crucial. When you're freelance writing, you'll set your own deadlines, but nobody is going to be standing over you asking when you'll finish - you just won't get paid until you do. Publishers prefer working with freelancers they can count on to get their work done on time and at a consistent quality.
 
 If freelance technical blogging sounds interesting to you, [follow me on Twitter](https://twitter.com/karllhughes) for more tips or [apply to write for Draft.dev](https://draft.dev/#write). We work with writers at all skill levels who are reliable and receptive to feedback.
+
+### Further Reading
+
+- [Why Engineers Should Write](https://www.karllhughes.com/posts/engineers-should-write)
+- [How to Write Better Technical Content](https://draft.dev/learn/writing/how-to-write-better-technical-content)
+- [Writing for Software Developers by Philip Kiely](https://gumroad.com/a/881726579) (Note: this is my affiliate link, but I vouch for this book wholeheartedly. Lots of good interviews with well-known engineers who write here!)
+- [Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
