@@ -23,7 +23,7 @@ For example, you might get paid $500 for a long piece about something you've nev
 ### What Skills Do You Need to Have?
 Technical bloggers are well-paid because they have to have specialized knowledge that can take years to acquire. Writing in-depth software engineering tutorials can require quite a bit of research - even if you are already familiar with the topic. I've been writing software for almost ten years now, and some articles take me 2-3 hours of research before I can even get started writing.
 
-If you're a new software developer or [recent bootcamp graduate](/posts/advice-for-new-bootcamp-graduates), you might have to start with introductory blog posts on the lower end of the pay scale. Once you get good at finding niches to pitch articles about, you are essentially getting paid to learn new things. It's not a bad deal.
+If you're a new software developer or [recent bootcamp graduate](/posts/graduate-code-bootcamp), you might have to start with introductory blog posts on the lower end of the pay scale. Once you get good at finding niches to pitch articles about, you are essentially getting paid to learn new things. It's not a bad deal.
 
 I've found that certain topics do tend to pay a little better than others, but as you might expect, they're the ones that take longer to learn. For example, DevOps is a hot topic right now, but learning Docker, Kubernetes, Serverless, and all the tools involved in those technologies is quite an undertaking.
 
