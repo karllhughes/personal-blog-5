@@ -32,11 +32,11 @@ On the other hand, I see a lot of new founders who overcomplicate their business
 
 For example, I recently spoke to a founder who was trying to build a three-sided marketplace funded by larger corporate sponsors who would benefit from having their tools used by one of the other two sides.
 
-It sounded like something similar to the Uber Eats three-sided marketplace, but likely even harder to pull off.
+It sounded like something similar to the Uber Eats three-sided marketplace but likely even harder to pull off.
 
 ![Three sided marketplace by Uber Eats](https://i.imgur.com/qUOeaUG.png)
 
-While Uber (a multi-billion dollar, publicly traded company) _might_ be able to pull this model off ([the verdict is still out](https://nymag.com/intelligencer/2020/08/if-uber-eats-isnt-profitable-now-when-can-it-be.html)), what chance does a brand new startup with little funding or market access have?
+While Uber (a multi-billion dollar, publicly-traded company) _might_ be able to pull this model off ([the verdict is still out](https://nymag.com/intelligencer/2020/08/if-uber-eats-isnt-profitable-now-when-can-it-be.html)), what chance does a brand new startup with little funding or market access have?
 
 ### Things Will Only Get More Complex
 Starting with a complicated business model makes getting your first dollar harder, but it also sets your business up for continued, increasing complexity down the line.
@@ -59,7 +59,7 @@ Some lists include dozens of variations, but I think if you boil these models do
 
 This model is attractive because once the initial outlay of cash is put down, you can profit from it indefinitely. While there are various limitations (maintenance costs, competition, and fickle customers), *Build Once, Sell Repeatedly* has enormous long-term upsides.
 
-The big downside is that most easy *Build Once, Sell Repeatedly* opportunities are completely saturated. The ones that are will likely require a lot of money to build to a level where they can differentiate. For example, I'd love to own Salesforce, but building a CRM from scratch to take the giant head on would be nearly impossible in 2021.
+The big downside is that most easy *Build Once, Sell Repeatedly* opportunities are completely saturated. The ones that are will likely require a lot of money to build to a level where they can differentiate. For example, I'd love to own Salesforce, but building a CRM from scratch to take the giant head-on would be nearly impossible in 2021.
 
 ### Collect Once, Sell Repeatedly
 **Examples:** data enrichment, online courses
@@ -76,12 +76,12 @@ While the costs are higher in *Design Once, Build Repeatedly, Sell Repeatedly* b
 ### Build Once, Sell Once
 **Examples:** custom jewelry, web design agencies
 
-Bespoke businesses that charge a huge premium for individualized work shouldn't be overlooked. While it's rare for venture-funded startups to use the *Build Once, Sell Once* model, it doesn't mean you can't [build a great business off it](https://www.inc.com/magazine/201603/kalee-thompson/how-to-expand-custom-design-business.html).
+Bespoke businesses that charge a huge premium for individualized work shouldn't be overlooked. While it's rare for venture-funded startups to use the *Build Once, Sell Once* model, it doesn't mean you can't [build a great business with it](https://www.inc.com/magazine/201603/kalee-thompson/how-to-expand-custom-design-business.html).
 
 ### Matchmaker
 **Examples:** advertising, brokers, two-sided marketplaces
 
-Owning nothing but a platform is appealing to a lot of founders. *Matchmakers* provide access to a scarce resource that they don't actually own to someone who can't easily access it otherwise. Asymmetries plague almost every industry to some extent, and most of these information imbalances is an opportunity for a matchmater.
+Owning nothing but a platform is appealing to a lot of founders. *Matchmakers* provide access to a scarce resource that they don't actually own to someone who can't easily access it otherwise. Asymmetries plague almost every industry to some extent, and most of these information imbalances provide opportunities for matchmakers.
 
 ### Risk Limiters
 **Examples:** retained lawyers, insurance
