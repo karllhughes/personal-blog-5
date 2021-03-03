@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What to do After Your Coding Bootcamp"
-date: 2021-02-19
+date: 2021-03-02
 img: /assets/img/after-coding-bootcamp.png
 categories:
   - Software Engineering
