@@ -14,6 +14,13 @@ layout: main
       {% capture words %}{{ page.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
     </p>
 
+    {% if content contains "<!-- ad-text -->" %}
+      {% assign content = content | replace:"<!-- ad-text -->","<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script><!-- Top of post ad block --><ins class='adsbygoogle'     style='display:block'     data-ad-client='ca-pub-2322554200861137'     data-ad-slot='6903095716'     data-ad-format='link'     data-full-width-responsive='true'></ins><script>  (adsbygoogle = window.adsbygoogle || []).push({});</script>" %}
+    {% endif %}
+    {% if content contains "<!-- ad-banner -->" %}
+      {% assign content = content | replace:"<!-- ad-banner -->","<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script><!-- banner-1 --><ins class='adsbygoogle'     style='display:block'     data-ad-client='ca-pub-2322554200861137'     data-ad-slot='1085267601'     data-ad-format='auto'     data-full-width-responsive='true'></ins><script>  (adsbygoogle = window.adsbygoogle || []).push({});</script>" %}
+    {% endif %}
+
     {{ content | markdownify }}
 
     {% if page.link %}

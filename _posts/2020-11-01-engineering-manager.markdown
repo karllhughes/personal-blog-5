@@ -7,6 +7,8 @@ categories:
   - Management
 ---
 
+<!-- ad-banner -->
+
 During the eight years I spent as an engineering manager, I regularly tracked how I spent my time. As a startup engineering manager, I was responsible for a wide range of duties, so keeping track of which areas I spent the most time on helped me plan and schedule appropriately.
 
 For example, I knew that I typically spent about 1/3rd of my time helping my team solve technical problems or pairing with teammates. Knowing this, I reserved some free blocks of time for them. If my whole week were full of meetings and big-picture planning, I'd become a blocker for my team who needed my input on specific issues. 
@@ -28,6 +30,8 @@ While my day-to-day work changed a lot over the years, **as a software engineeri
 The tricky word there is "helping." What does that mean exactly? Does it mean that an engineering manager writes code? Or do they just make sure everyone on their team is writing code?
 
 The short answer is: it depends.
+
+<!-- ad-text -->
 
 ### Engineering Managers Must be Technical
 
@@ -69,6 +73,8 @@ In this section, you'll see how I spent my time as an engineering manager. I'll 
 While I tracked my time pretty rigidly for periods of my 8-year management career, I decided to round each category to a nice round number for the sake of simplicity. Exact hours spent on each task aren't the point here, but I found it helpful to know if one area spiked in one week or dropped sharply in another.
 
 ![engineering-manager-time](https://i.imgur.com/Tx9pTaz.png)
+
+<!-- ad-text -->
 
 ### Technical
 _35% of my time._

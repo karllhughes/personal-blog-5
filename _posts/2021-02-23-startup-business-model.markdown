@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Defense of Simple Business Models"
-date: 2021-02-24
+date: 2021-02-23
 img: /assets/img/startup-business-model.png
 categories:
 - Startups
