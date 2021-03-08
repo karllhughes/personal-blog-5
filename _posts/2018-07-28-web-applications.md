@@ -10,7 +10,7 @@ categories:
 
 **Web applications are getting more and more popular, but in 2018, what's the best way to build one? The answer is: it depends on your needs. In this guide, we'll cover the best tools and lessons learned for building web applications without a developer.**
 
-If you're not quite sure what a _web application_ is and how it's different from a website, that's okay. I'll cover that in detail in this guide. If you are more experienced in web applications, and you're just interested in learning best practices, jump right down to the section "[Things to Consider When Building a Web Application](#things-to-consider-when-building-a-web-app)". If you already have experience building web apps, but you'd like to learn about the best tools available for building them without code, head on down to "[Tools for Building Web Apps Without Code](#tools-for-building-web-apps-without-code)".
+If you're not quite sure what a _web application_ is and how it's different from a [website](/posts/startup-website), that's okay. I'll cover that in detail in this guide. If you are more experienced in web applications, and you're just interested in learning best practices, jump right down to the section "[Things to Consider When Building a Web Application](#things-to-consider-when-building-a-web-app)". If you already have experience building web apps, but you'd like to learn about the best tools available for building them without code, head on down to "[Tools for Building Web Apps Without Code](#tools-for-building-web-apps-without-code)".
 
 ## What is a Web Application?
 
@@ -93,7 +93,7 @@ Note-taking apps are all over the place, but Evernote is probably the best one a
 
 ## Does Every Business Need a Web Application?
 
-While pretty much every company needs a website these days, the truth is that some businesses don't need a full-blown web application. Businesses with physical locations may not need to have an online store, some startups _only_ offer a mobile app, and many B2B (Business-to-Business) service providers (like consultants) don't need a web app.
+While pretty much [every company needs a website](/posts/startup-website) these days, the truth is that some businesses don't need a full-blown web application. Businesses with physical locations may not need to have an online store, some startups _only_ offer a mobile app, and many B2B (Business-to-Business) service providers (like consultants) don't need a web app.
 
 Before you commit to building a web application, ask yourself a few questions about your business, and think about the following factors:
 

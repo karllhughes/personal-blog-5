@@ -38,7 +38,7 @@ It's something that when you hear it makes so much sense, but yet very few entre
 
 You _can_ get people to sign up and commit to pay for a product you haven't built yet.
 
-Set up a [Wufoo](http://www.wufoo.com/) or Google Form, make a list of potential customers, and start contacting them. Once you feel like they're ready to commit, get them to sign up in the form.
+Set up a [Wufoo](https://www.shareasale.com/r.cfm?b=1379130&u=1653894&m=89794) or Google Form (or [another one of these alternatives](https://www.karllhughes.com/posts/google-forms-alternatives)), make a list of potential customers, and start contacting them. Once you feel like they're ready to commit, get them to sign up in the form.
 
 Whether your future product is an app, a data mining tool, or a social network, having a list of committed customers to help you as you build your product will go a longer way than any amount of funding you can raise. Once you have customers telling you what they need, your vision for the solution will form. Think in terms of the simplest possible solution, and then move to the complex. For example:
 

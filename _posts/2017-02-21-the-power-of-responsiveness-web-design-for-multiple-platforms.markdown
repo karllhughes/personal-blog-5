@@ -14,7 +14,7 @@ As more and more content consumers use "non-traditional" devices to access the i
 
 ## But What About the Little Guys?
 
-For smaller companies, individual bloggers, and resource-strapped news providers, there is a viable alternative: **Responsive Design**. 
+For [startup websites](/posts/startup-website), individual bloggers, and resource-strapped news providers, there is a viable alternative: **Responsive Design**. 
 
 ## What is Responsive Design?
 
