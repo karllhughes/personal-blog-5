@@ -8,6 +8,8 @@ categories:
   - API Development
 ---
 
+<!-- ad-banner -->
+
 I've started using [Airtable](https://airtable.com/invite/r/4EaSmQNr) for almost everything that I used to pack into spreadsheets. The big advantage to using Airtable for your API is that they have an excellent visual user interface and integrations with many other tools built in. Plus, you can use Zapier to trigger custom actions when new items show up in Airtable.
 
 ### Pros
@@ -44,5 +46,7 @@ Using Airtable is one of the simplest ways to turn your data into an API. You ba
 - To use the API, open up [Postman](/posts/postman-api-access) and make your first call
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOSTzeRpeg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ad-text -->
 
 If you want to enhance your Airtable API, check out the [Micro Airtable API library on Github](https://github.com/rosszurowski/micro-airtable-api).

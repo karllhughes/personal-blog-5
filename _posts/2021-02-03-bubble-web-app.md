@@ -7,12 +7,15 @@ categories:
   - Startups
 ---
 
+<!-- ad-banner -->
+
 There are an average of 12,000 new startups founded daily in the US. To gain an edge, you have to move fast, and even if you’re a software developer, writing code takes time.
 
 No-code platforms like [Bubble](https://bubble.is/), [Weebly](https://www.shareasale.com/r.cfm?b=358504&u=1653894&m=37723), [Webflow](https://webflow.com/), [Weblium](https://weblium.com/), and even [WordPress](https://wordpress.org/) can help you go from concept to prototype to launch in **as little as a few hours** [without the costly expense of a development team or coding classes](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). Reducing your dependency on outside investors to build your MVP is one of the best ways to gain leverage and build a strong company.
 
 In this article, I want to introduce you to Bubble. I’ll share some of the pros and cons of building your [web application without code](https://www.karllhughes.com/posts/web-applications), how much you can expect to pay for Bubble, and a comparison of Bubble to some of its competitors. Whether you use Bubble or one of the other good options out there, I’m a strong advocate for [building without code](https://www.telerik.com/blogs/what-no-code-movement-means-for-software-developers), and I hope this post inspires you to embrace the same ethos.
 
+<!-- ad-text -->
 
 ## Introducing the Bubble App Builder
 
@@ -42,26 +45,22 @@ Staying lean means carefully watching every penny you invest in your startup, so
 
 This is where tools like Bubble come in. With Bubble, non-technical people can create a professional application with no coding experience. Of course, as your MVP grows and moves into the full production stages, it may become necessary to hire on or contract with a developer to help create any additional functionality that the platform doesn’t offer.
 
-
 ### Bubble Pricing
+
+<!-- ad-text -->
 
 With Bubble's pricing structure, you can't go wrong. Whether you're a small-scale operation or you have staff on hand to build your application, you will find a price point that works for you.
 
 
 If you're testing the waters or building your first prototype to see if your application idea holds water, **Bubble offers a Free Plan to play around with**. While it's limited, it's a great way to test out the platform and see how simple application creation is. Once you have a working prototype, you can easily upgrade and scale to one of the other available plans, keeping your initial costs low.
 
-
-
 The Bubble app builder offers two primary tiers: Individual and Professional.
-
 
 #### Individual Plans
 
 The Individual Plans include the Free Plan as well as a Personal Plan. Both only offer Bubble's basic level of server capacity and a single user/editor, but they are great options to get started. Each includes:
 
-
-
-**Free Plan: .**5 GB file storage, community-level support, and Bubble branding.
+**Free Plan:** 5 GB file storage, community-level support, and Bubble branding.
 
 **Personal Plan:** 10 GBs file storage, email support, white labeling, and custom domain for $29/month or $300 if paid annually.
 
@@ -74,7 +73,7 @@ The Professional plans offer reserved servers, white labeling, daily run workflo
 
 **Production Plan:** 50 GBs file storage, priority email support, last 365 days for data backup and restoration, and up to 15 editors for $529/month or $5,700 if paid annually.
 
-
+<!-- ad-text -->
 
 Choosing to move to a Professional plan allows you to have multiple contributors assigned to a project. This collaborative aspect makes Bubble the go-to platform for an organization to optimize production since multiple people can simultaneously work on the app development.
 
@@ -101,6 +100,7 @@ The other thing you have to consider when using Bubble is the challenge of event
 
 If Bubble helps you get to market and raise funding, it may be necessary. But, you may have to rebuild your entire application in a couple years once you outgrow it, and this can be quite expensive and painful.
 
+<!-- ad-banner -->
 
 ## Why I Recommend Bubble for Most MVPs
 
@@ -149,6 +149,8 @@ Bubble offers a brief questionnaire that will point you to the best training vid
 If you decide to take each lesson, you can still be on your way to building your first app in less than one hour. Click the "Create a new app" button at the bottom of the welcome page and get started.
 
 [Bubble app builder](https://i.imgur.com/cFtmelq.jpg)
+
+<!-- ad-text -->
 
 Fill in the "New App" page and select a free ready-made template from their marketplace. If you need additional help getting started, Bubble even offers a network of agencies that can provide services at an additional cost and an active user community on their forums where individuals help one another out.
 

@@ -8,6 +8,8 @@ categories:
   - Startups
 ---
 
+<!-- ad-banner -->
+
 Hiring a [Chief Technology Officer (CTO)](https://www.karllhughes.com/posts/roles-of-startup-cto) is a difficult feat at the best of times. But for startups, [a lot rides on choosing the right candidate](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto). Whereas in a large organization a CTO might be expected to focus largely on high-level strategic decisions such as overseeing development teams and finding integration partners, in the startup environment, it’s all hands on deck — from day one. 
 
 Your CTO might have to do everything from hop into the code to establish lead sprint meetings, and find time to [travel to tech conferences](https://www.cfpland.com/guides/speaking/).  
@@ -16,6 +18,7 @@ I was recently asked to help a startup interview a prospective CTO. Here are som
 
 _Note: If you’re looking for more reading material, I’ve assembled a list of [my favorite books for startup founders here](https://www.karllhughes.com/posts/startup-books)._
 
+<!-- ad-text -->
 
 ## MVP Development
 
@@ -48,6 +51,7 @@ In Startupland, QA doesn’t always get the attention it deserves. There are spr
 
 **What to avoid:** If you need somebody who’s going to be comfortable diving in the deep end, then you probably don’t want a candidate that would freak out at the first sign of trouble. If that’s the case, look for somebody who has experienced getting their hands dirty with an ugly codebase.
 
+<!-- ad-text -->
 
 ## Hiring
 
@@ -86,6 +90,8 @@ While the above will provide you with a good sense for the potential hire’s ov
 These days cybersecurity is a concern for organizations both small and large. One of the key functionalities of a startup CTO is going to be around making sure that all internal systems are properly secured. Does the potential CTO have the required background in security to know what to look for?
 
 ![CTO candidates should know a substantial amount about security](https://i.imgur.com/zaAN5H5.jpg)
+
+<!-- ad-text -->
 
 ### 7. What are some of the first things you would check when evaluating organizational security at a startup? 
 
@@ -288,3 +294,5 @@ Finally, the retention question. You can use this pointed question to learn a lo
 **[The Mythical Man-Month](https://amzn.to/3pWPMla):** If you want a little insight into what your CTO will be facing as they take on the role at your startup, this is one of my favorite books. You don’t have to be technical at all to see how software projects can go off the rails with the wrong leadership in place.
 
 **[The Phoenix Project](https://amzn.to/35ZHxNa):** This enjoyable piece of fiction also helps non-technical founders understand the dynamics of software project management. While your CTO will likely take on the role of leading these initiatives, you can be their backup if you know what direction they’re heading in.
+
+<!-- ad-text -->

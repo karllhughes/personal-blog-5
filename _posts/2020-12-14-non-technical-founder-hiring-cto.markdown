@@ -7,6 +7,8 @@ categories:
   - Startups
 ---
 
+<!-- ad-banner -->
+
 I've worked in startups my whole career, first as a software engineer, then as a Chief Technology Officer (CTO), and most recently [as a founder](https://www.karllhughes.com/posts/cto-writer). In that time, the most common question I get from non-technical founders has been, "How can I find a CTO or technical co-founder?"
 
 ## What Does a Startup CTO Do?
@@ -22,6 +24,8 @@ _Note: If you’re looking for more reading material, I’ve assembled a list of
 While it's difficult, it's clearly not impossible for non-technical founders to find a CTO.
 
 At [my last two startups](/work/), I was the first engineering hire, and I know dozens of others technical co-founders and CTOs in Chicago alone. Unfortunately, it's not as easy as putting together a [list of interview questions](/posts/cto-interview-questions) and posting a job listing. After having conversations with several of my CTO friends, I put this list of tips together for non-technical founders looking to attract a technical co-founder or CTO.
+
+<!-- ad-text -->
 
 ### 1. Hone Your Vision
 

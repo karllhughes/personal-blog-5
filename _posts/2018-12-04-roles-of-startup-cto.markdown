@@ -16,12 +16,16 @@ After talking to a number of CTOs in the past few years, I've realized that the 
 
 _Note: If you're looking for more great reads for startup CTOs, check out [my favorite books here](https://www.karllhughes.com/posts/reading-for-startup-ctos)._
 
+<!-- ad-text -->
+
 So rather than just oversee big picture technology direction or strategic partnerships (although he/she will certainly do that), a startup CTO pretty much does a bit of everything.
 
 ## Responsibilities of a Startup CTO
 Here are just a few of the things startup CTOs end up taking charge of - whether we like it or not: 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/AABZMJcqVA4' frameborder='0' allowfullscreen></iframe></div>
+
+<!-- ad-banner -->
 
 ### 1. Building the MVP (Minimum Viable Product)
 
@@ -44,6 +48,8 @@ I've never implemented a security policy before, but when one of our partners a
 Most startups I've seen have a non-technical product manager and a de-facto technical project manager in their CTO. This usually means that while the CTO's primary goal is to make the vision of the non-technical manager a reality, it also means that they've got to manage the flow of work into the engineering team.
 
 In other cases, a startup may have a [CTO who stands in as the product manager](https://www.reddit.com/r/startups/comments/a20mp9/product_management_ceo_or_cto/eauh5ud/) or at least takes an active role in laying out the product planning process. In my current role at The Graide Network I lead both product and technology, which has been a stretch, but learning new things is the norm at startups.
+
+<!-- ad-text -->
 
 ### 5. Application architecture
 
@@ -100,6 +106,8 @@ Another reason that startup CTOs are rarely the same people who work as big comp
 Tech workers have options, so it's rare to keep one for more than 2 or 3 years. That means that as a startup exits the "tiny startup" phase and enters the "mid-sized startup" phase it's likely that the CTO will start dealing with some churn. Early employees yearn for the excitement of their first months with the company and may start looking for new challenges or go found their own companies. The CTO who originally started building this thing alone in his apartment is now trying to convince his best talent to stay and minimize turnover.
 
 ![13 Roles of a Startup CTO](https://i.imgur.com/qmBywUb.jpg)
+
+<!-- ad-text -->
 
 These challenges are far from the only ones that early startup CTO's face, but they are some of the biggest ones, especially for people who mostly just want to write code. 
 

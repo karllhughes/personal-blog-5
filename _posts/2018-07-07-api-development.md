@@ -8,6 +8,8 @@ categories:
   - API Development
 ---
 
+<!-- ad-banner -->
+
 **The term "API" gets thrown around a lot these days, but what does it mean? What can you use an API for? Do you have to have a developer on your team to build or use an API? In this guide, we'll explore all those questions and more, including a spotlight on the tools you can use as a [non-technical founder](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto) to build your own APIs.**
 
 You don't have to understand what an API is at this point, but if you do, feel free to skip the first section and move right into "[Why Build an API?](#why-build-an-api)". If you already know why you need one, then skip down to "[Things to Consider When Building an API](#things-to-consider-when-building-an-api)", and if you are seasoned at building APIs but just want to know how you can build them without a developer, jump all the way down to "[Tools for Building APIs Without Code](#tools-for-building-apis-without-code)".
@@ -19,6 +21,8 @@ API stands for "Application Programming Interface." Before I lose you with a bun
 APIs are used in almost all software, websites, mobile apps, or computer games. Some companies even make money using only their APIs, but before I get to that, let's take a look at an example of an API you're probably familiar with:
 
 ![Facebook API login](https://i.imgur.com/idFuNEf.png)
+
+<!-- ad-text -->
 
 Ever seen a screen like this? This is a Facebook login button, and it uses Facebook's API to allow users to verify their identity. It essentially lets you skip entering your username and password by using your Facebook account as proof that you are who you say you are. Developers who use Facebook's API can save themselves time by not having to build their own username and password login system, instead piggy-backing off of Facebook's.
 
@@ -86,6 +90,8 @@ This means that developers hoping to analyze or categorize data can simply send 
 
 Aylien might someday offer a user interface, but by starting out as an API-first company, they've aligned themselves with developers and put the focus on their technical tooling rather than UI.
 
+<!-- ad-text -->
+
 ## Does Every Business Need an API?
 
 Some businesses have had great success building APIs that customers or other third parties can use, but you do not have to have an API, even if you are building a software-based business. In fact, the complexity of offering an API in addition to a user interface may be too much for a small startup or non-technical founder, but it's still good to understand when and why an API is appropriate.
@@ -141,6 +147,8 @@ What if you want to trigger alerts, link multiple API requests together, or kick
 500 milliseconds (1/2 a second) may not sound like much time, but for computers this is an eternity. While there's no single answer to the question, "How fast should your API be?" many successful APIs respond within 100 milliseconds. This can depend greatly on who your users are and what they're using your API for. Real-time stock market price APIs need to be much faster than most consumer web applications.
 
 ![Can your API handle the real world?](https://i.imgur.com/U0j7OTh.png)
+
+<!-- ad-text -->
 
 ## How an API Works
 
@@ -367,3 +375,5 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 ## Next Steps
 
 This guide will continue to evolve and grow as new tools and information becomes available. If you have your own suggestions, [find me on Twitter](https://twitter.com/karllhughes) to let me know about them.
+
+<!-- ad-text -->

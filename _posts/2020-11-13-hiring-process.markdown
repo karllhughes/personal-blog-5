@@ -8,6 +8,8 @@ categories:
   - Software Engineering
 ---
 
+<!-- ad-banner -->
+
 When I took my first real management role as [Packback's Head of Engineering back in 2015](/posts/packback-engineering), I inherited a great team of engineers who were hired before my promotion. Later that year, when the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding new software engineers.
 
 I started with the framework my predecessor used and brought in some heavy influences from _[Peopleware](/posts/peopleware)_ and Josh Tyler's _[Building Great Software Engineering Teams](http://amzn.to/1XQAfT7)_. Over the years, I've refined my hiring process - mostly through trial and error - to come up with the iteration described here.
@@ -37,6 +39,8 @@ Similarly, it's very hard to judge a person's technical ability in all things du
 Finally, I've never done whiteboarding or live coding sessions with candidates, but [a lot of people really hate them](https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process), and I think there's a good reason for that. In the real world, programmers pushed in front of an audience to solve a problem with an obscure algorithm, no time for independent research, and no access to resources. I would never do this job if that were my day-to-day.
 
 Testing programmers at something they don't need to be good at and expecting to learn something about how they would work at your company is delusional. These kinds of interviews only serve to make the hiring team feel superior and ensure better outcomes for engineers with traditional CS backgrounds.
+
+<!-- ad-text -->
 
 ## Skills I Look for in Software Engineers
 
@@ -75,6 +79,8 @@ While I don't want unquestioning loyalty or people who live at the office, I do 
 ## How I Find Software Engineers
 
 ![Finding Software Engineers](https://i.imgur.com/bTlxNvy.jpg)
+
+<!-- ad-text -->
 
 I've used several methods for finding and recruiting software engineers over the years. While I don't have a ton of data to back up these methods, here's what I've found works for me.
 
@@ -121,6 +127,8 @@ Even if you do get a recruiter, you need to keep recruiting too. If your recruit
 ## How I Hire Software Engineers
 
 ![Software Engineering Hiring Process](https://i.imgur.com/X7YQXI4.jpg)
+
+<!-- ad-text -->
 
 Now that you know what I'm looking for and how I start to find software engineering candidates, the next piece in the hiring process is the job interview. I've made adjustments to this process over the years, but at this point, I've landed on these five steps for hiring engineers.
 
@@ -191,6 +199,8 @@ It took me a long time to realize I needed a rubric for hiring.
 Instead, I looked for a candidate who knew a specific set of languages and frameworks, so I wouldn't have to teach them everything from day one. This led me to pass on several candidates who were excited about our mission but not perfectly aligned on technical skills.
 
 ![Hiring without a rubric](https://i.imgur.com/ifKE2JM.jpg)
+
+<!-- ad-banner -->
 
 While hiring software engineers is still challenging, having a robust process that focuses on the skills (both technical and non-technical) that you need makes it much better. Reflecting on what's worked in the past always helps me understand how I can make my process better in the future, so I'd like to hear from you.
 

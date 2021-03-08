@@ -8,6 +8,8 @@ categories:
   - API Development
 ---
 
+<!-- ad-banner -->
+
 We made some [considerable improvements to the tech stack](http://www.thegraidenetwork.com/blog-all/2017/1/16/tech-accomplishments) at The Graide Network during my years at the company, but one of the things I'm most proud of is our automated testing system. In this post, **I'll outline our strategy for testing microservices using layers of unit, integration, acceptance, and end-to-end tests.**
 
 We used tests to deploy our microservices faster and with very few defects. Along the way, I'll offer some other resources that we found helpful as we designed a robust testing system for our microservices.
@@ -28,6 +30,8 @@ While testing adds time to the software development life cycle, it [pays dividen
 - Help developers debug tricky edge cases
 
 When using microservices, these factors are all important, but as you'll see, the distributed nature of this pattern adds an extra challenge.
+
+<!-- ad-text -->
 
 ## Our Architecture and Testing Strategy
 
@@ -58,6 +62,8 @@ Each of our microservices and each frontend application lives in its own reposit
 Our testing strategy is broken down into several layers within each application and integration layers around multiple components of the application. These layers are based on the well-known [testing pyramid](https://automationpanda.com/2018/08/01/the-testing-pyramid/) concept.
 
 ![Software testing pyramid](https://i.imgur.com/Tyryn3G.png)
+
+<!-- ad-text -->
 
 ### Layer 1: API tests
 
@@ -172,6 +178,8 @@ Our dev environment resets itself between the Ghost Inspector runs so that next 
 Unlike the other testing layers we use, the end-to-end tests actually run the whole network of services. There's no mocking of clients or API calls, so the kinds of tests we can do are somewhat limited. For example, it's not possible to determine if an email or Slack notification was sent when testing with Ghost Inspector. But, that's why we have multiple layers of tests.
 
 On its own, no single testing layer is a good indicator of our application's health, but in concert, these testing layers help us ensure that our code is working every time we deploy it.
+
+<!-- ad-banner -->
 
 ## Mountebank: Another Approach to Testing Microservices
 Another tool that has come out since we devised the above testing strategy is [Mountebank](http://www.mbtest.org/). Mountebank is an open-source service virtualization framework that essentially mocks microservices across HTTP. This allows you to run tests on a single microservice as if all its supporting services were really there.

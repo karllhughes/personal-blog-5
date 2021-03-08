@@ -7,6 +7,8 @@ categories:
 - Startups
 ---
 
+<!-- ad-banner -->
+
 I was talking with an entrepreneur and investor here in Chicago recently, and he pointed out a distinction that I've started to notice more and more over the past couple of years:
 
 **Most startups today can be classified as either "high tech" or "tech-enabled."**
@@ -28,6 +30,8 @@ _Want to read more about startups? I've collected [30 of my favorite books about
 When [Steve Jobs and Steve Wozniak put together the first Apple computer](https://www.loc.gov/rr/business/businesshistory/April/apple.html), they were building something that barely existed to that point - a home computer. They had to come up with new circuit boards, write an operating system, and order custom parts from suppliers just to make their first product.
 
 This is a high tech startup. It's an extremely risky application of technology to a novel area, and it usually requires an R&D phase, several rounds of prototyping, and then slow adoption in an uncertain market. If a high tech startup works, the payoff is huge, but if it doesn't - and they usually don't - everyone who threw money at it will lose (see [Theranos](https://en.wikipedia.org/wiki/Theranos)).
+
+<!-- ad-text -->
 
 ### Indicators of a High Tech Startup
 There are a few things to watch for when deciding where a startup falls on the high tech vs. tech-enabled spectrum. High tech startups tend to:
@@ -66,6 +70,8 @@ Most software startups today are tech enabled businesses. While these companies 
 ![Hired.com home page](https://i.imgur.com/VAPbCFn.png)
 
 I don't know anything about Hired.com's stack, but it's pretty clear just by looking at the site that they're not doing anything much beyond basic [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations. Hired is not a high tech startup - it's not really inventing any risky new technology yet - but it's definitely a tech-enabled business because it's using the latest tech available to improve an existing market.
+
+<!-- ad-text -->
 
 ### Indicators of a Tech-Enabled Startup
 With the same caveat as before - tech-enabled startups sit on a spectrum - here are some factors that might indicate a tech-enabled startup:
