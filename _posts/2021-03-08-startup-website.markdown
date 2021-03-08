@@ -193,6 +193,6 @@ Verkada sells enterprise security systems, and they’re continually releasing n
 
 A good startup website doesn’t follow any particular formula. Every startup is different, so each one needs to play upon its strengths and deliver a website that reflects the brand. That could mean an elaborate and complex design like Store Maven, or a colorful and simplistic design like Flying Pinata.
 
-While you might start with a pre-built template, you'll eventually want to invest more in your website over time. Just don't forget that a well-designed startup website should always **build trust and guide visitors to take action. **
+While you might start with a pre-built template, you'll eventually want to invest more in your website over time. Just don't forget that a well-designed startup website should always **build trust and guide visitors to take action.**
 
 _Are you learning how to build your first startup? I collected [my favorite startup books for founders here](https://www.karllhughes.com/posts/startup-books)._
