@@ -82,17 +82,17 @@ JotForm gives you hundreds of themes and templates to make sure your forms stand
  
 Formsite rides the border between form builder and full-on web application creator. You can set up payments, complex data workflows, and embed the forms on your website or landing page.
 
-### [CaptainForm](https://www.shareasale.com/r.cfm?b=921362&u=1653894&m=68154)
-
-[![CaptainForm WordPress form editor](https://i.imgur.com/0gRviP5.png)](https://www.shareasale.com/r.cfm?b=921362&u=1653894&m=68154)
-
-With a drag-and-drop editor, 30 great templates, and deep data integration options, [CaptainForm](https://www.shareasale.com/r.cfm?b=921362&u=1653894&m=68154) is another great WordPress-based option for your forms. It also supports Captcha and includes a free plan so you can try it out without the financial commitment.
-
 ### [CognitoForms](https://www.cognitoforms.com/l/referral/?crs=cmVmZGlyZWN0OjpDRlBMYW5k)
 
 [![CognitoForms](https://i.imgur.com/UBfszkf.png)](https://www.cognitoforms.com/l/referral/?crs=cmVmZGlyZWN0OjpDRlBMYW5k)
 
 Cognito's builder allows you to take payments for a percentage of sales rather than a monthly fee, so it could be great in situations where your revenue is uncertain. I started using CognitoForms in a project last year, and it's made collecting occasional payments significantly easier.
+
+### [CaptainForm](https://www.captainform.com/)
+
+![CaptainForm WordPress form editor](https://i.imgur.com/0gRviP5.png)
+
+With a drag-and-drop editor, 30 great templates, and deep data integration options, CaptainForm is another great WordPress-based option for your forms. It also supports Captcha and includes a free plan so you can try it out without the financial commitment.
 
 ### [Formstack](https://www.formstack.com/)
 
