@@ -25,7 +25,7 @@ While it's difficult, it's clearly not impossible for non-technical founders to 
 
 At [my last two startups](/work/), I was the first engineering hire, and I know dozens of others technical co-founders and CTOs in Chicago alone. Unfortunately, it's not as easy as putting together a [list of interview questions](/posts/cto-interview-questions) and posting a job listing. After having conversations with several of my CTO friends, I put this list of tips together for non-technical founders looking to attract a technical co-founder or CTO.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### 1. Hone Your Vision
 

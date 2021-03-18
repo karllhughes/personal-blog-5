@@ -31,7 +31,7 @@ The tricky word there is "helping." What does that mean exactly? Does it mean th
 
 The short answer is: it depends.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### Engineering Managers Must be Technical
 
@@ -74,7 +74,7 @@ While I tracked my time pretty rigidly for periods of my 8-year management caree
 
 ![engineering-manager-time](https://i.imgur.com/Tx9pTaz.png)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### Technical
 _35% of my time._

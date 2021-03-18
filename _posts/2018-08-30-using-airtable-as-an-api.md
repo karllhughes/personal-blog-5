@@ -47,6 +47,6 @@ Using Airtable is one of the simplest ways to turn your data into an API. You ba
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOSTzeRpeg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 If you want to enhance your Airtable API, check out the [Micro Airtable API library on Github](https://github.com/rosszurowski/micro-airtable-api).

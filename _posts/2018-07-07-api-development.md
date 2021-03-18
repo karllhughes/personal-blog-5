@@ -22,7 +22,7 @@ APIs are used in almost all software, websites, mobile apps, or computer games. 
 
 ![Facebook API login](https://i.imgur.com/idFuNEf.png)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 Ever seen a screen like this? This is a Facebook login button, and it uses Facebook's API to allow users to verify their identity. It essentially lets you skip entering your username and password by using your Facebook account as proof that you are who you say you are. Developers who use Facebook's API can save themselves time by not having to build their own username and password login system, instead piggy-backing off of Facebook's.
 
@@ -90,7 +90,7 @@ This means that developers hoping to analyze or categorize data can simply send 
 
 Aylien might someday offer a user interface, but by starting out as an API-first company, they've aligned themselves with developers and put the focus on their technical tooling rather than UI.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Does Every Business Need an API?
 
@@ -148,7 +148,7 @@ What if you want to trigger alerts, link multiple API requests together, or kick
 
 ![Can your API handle the real world?](https://i.imgur.com/U0j7OTh.png)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## How an API Works
 
@@ -376,4 +376,4 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 
 This guide will continue to evolve and grow as new tools and information becomes available. If you have your own suggestions, [find me on Twitter](https://twitter.com/karllhughes) to let me know about them.
 
-<!-- ad-text -->
+<!-- ad-banner -->

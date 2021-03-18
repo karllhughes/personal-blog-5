@@ -18,7 +18,7 @@ I was recently asked to help a startup interview a prospective CTO. Here are som
 
 _Note: If you’re looking for more reading material, I’ve assembled a list of [my favorite books for startup founders here](https://www.karllhughes.com/posts/startup-books)._
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## MVP Development
 
@@ -51,7 +51,7 @@ In Startupland, QA doesn’t always get the attention it deserves. There are spr
 
 **What to avoid:** If you need somebody who’s going to be comfortable diving in the deep end, then you probably don’t want a candidate that would freak out at the first sign of trouble. If that’s the case, look for somebody who has experienced getting their hands dirty with an ugly codebase.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Hiring
 
@@ -91,7 +91,7 @@ These days cybersecurity is a concern for organizations both small and large. On
 
 ![CTO candidates should know a substantial amount about security](https://i.imgur.com/zaAN5H5.jpg)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### 7. What are some of the first things you would check when evaluating organizational security at a startup? 
 
@@ -295,4 +295,4 @@ Finally, the retention question. You can use this pointed question to learn a lo
 
 **[The Phoenix Project](https://amzn.to/35ZHxNa):** This enjoyable piece of fiction also helps non-technical founders understand the dynamics of software project management. While your CTO will likely take on the role of leading these initiatives, you can be their backup if you know what direction they’re heading in.
 
-<!-- ad-text -->
+<!-- ad-banner -->

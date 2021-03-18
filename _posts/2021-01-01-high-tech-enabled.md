@@ -31,7 +31,7 @@ When [Steve Jobs and Steve Wozniak put together the first Apple computer](https:
 
 This is a high tech startup. It's an extremely risky application of technology to a novel area, and it usually requires an R&D phase, several rounds of prototyping, and then slow adoption in an uncertain market. If a high tech startup works, the payoff is huge, but if it doesn't - and they usually don't - everyone who threw money at it will lose (see [Theranos](https://en.wikipedia.org/wiki/Theranos)).
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### Indicators of a High Tech Startup
 There are a few things to watch for when deciding where a startup falls on the high tech vs. tech-enabled spectrum. High tech startups tend to:
@@ -71,7 +71,7 @@ Most software startups today are tech enabled businesses. While these companies 
 
 I don't know anything about Hired.com's stack, but it's pretty clear just by looking at the site that they're not doing anything much beyond basic [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations. Hired is not a high tech startup - it's not really inventing any risky new technology yet - but it's definitely a tech-enabled business because it's using the latest tech available to improve an existing market.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### Indicators of a Tech-Enabled Startup
 With the same caveat as before - tech-enabled startups sit on a spectrum - here are some factors that might indicate a tech-enabled startup:

@@ -31,7 +31,7 @@ While testing adds time to the software development life cycle, it [pays dividen
 
 When using microservices, these factors are all important, but as you'll see, the distributed nature of this pattern adds an extra challenge.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Our Architecture and Testing Strategy
 
@@ -63,7 +63,7 @@ Our testing strategy is broken down into several layers within each application 
 
 ![Software testing pyramid](https://i.imgur.com/Tyryn3G.png)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### Layer 1: API tests
 

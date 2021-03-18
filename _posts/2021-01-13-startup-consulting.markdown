@@ -26,7 +26,7 @@ A startup consultant is someone whose business is to come into a small company, 
 
 Startup consultants aren't typically involved for the long-term (and are almost never offered equity), but the good ones might provide some follow-through to see how their recommendations pan out. They might also offer a retainer to answer questions about their recommendations as they come up, but they usually aren't part of the day-to-day.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### Why Do People Start Consulting for Startups?
 
@@ -48,7 +48,7 @@ What consultants offer is squishy, and for big companies, it can be more politic
 
 ![Large company vs. startup consulting](https://i.imgur.com/YkVXgqm.png)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 While you will certainly send the startup off with the strategy document you promised, anyone who has worked with a startup knows that **things change too fast for a static recommendation like this to make any difference**. They're going to need you to come back and revise the strategy as they learn new things. Unfortunately, you probably didn't build that into the price, so now you're annoyed that they won't just follow your original plan, and they're annoyed that they spent $20k for an outdated document.
 
@@ -169,6 +169,6 @@ It makes sense. If you're working on an hourly rate, you're likely to get more s
 
 Alan Weiss is a legend in the world of management consulting. [Million Dollar Consulting](https://amzn.to/3hCelzZ) (forgive the clickbaity title) provides a great look at the business nuts and bolts of picking clients, winning proposals, and making a sustainable consulting business.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 The bottom line is that consulting for startups is tough. The earlier the company, the harder it will be for you to make a financially viable consulting firm, and even larger startups have challenges. If you're succeeding as a startup consultant or you have an alternate take, [let me hear what you think](https://twitter.com/KarlLHughes).

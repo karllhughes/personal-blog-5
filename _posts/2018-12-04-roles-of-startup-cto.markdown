@@ -16,7 +16,7 @@ After talking to a number of CTOs in the past few years, I've realized that the 
 
 _Note: If you're looking for more great reads for startup CTOs, check out [my favorite books here](https://www.karllhughes.com/posts/reading-for-startup-ctos)._
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 So rather than just oversee big picture technology direction or strategic partnerships (although he/she will certainly do that), a startup CTO pretty much does a bit of everything.
 
@@ -49,7 +49,7 @@ Most startups I've seen have a non-technical product manager and a de-facto tec
 
 In other cases, a startup may have a [CTO who stands in as the product manager](https://www.reddit.com/r/startups/comments/a20mp9/product_management_ceo_or_cto/eauh5ud/) or at least takes an active role in laying out the product planning process. In my current role at The Graide Network I lead both product and technology, which has been a stretch, but learning new things is the norm at startups.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ### 5. Application architecture
 
@@ -107,7 +107,7 @@ Tech workers have options, so it's rare to keep one for more than 2 or 3 years. 
 
 ![13 Roles of a Startup CTO](https://i.imgur.com/qmBywUb.jpg)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 These challenges are far from the only ones that early startup CTO's face, but they are some of the biggest ones, especially for people who mostly just want to write code. 
 

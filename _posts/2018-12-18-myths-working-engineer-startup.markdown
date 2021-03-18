@@ -22,7 +22,7 @@ _Note: If you're not in engineering, I've collected some [general observations a
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/RMzt4gLx9Hg' frameborder='0' allowfullscreen></iframe></div>
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Myth 1: you’re going to get a huge equity payout
 
@@ -36,7 +36,7 @@ Most engineers who come into an existing organization are met with a slew of pre
 
 You are also likely to get some input on [the way future engineers are hired](https://www.karllhughes.com/posts/hiring-process) and the way your technology team interacts with the business team. These extra-engineering responsibilities can be tough for some to handle, but if they sound like something you’d enjoy, you’ll likely fit right in at a startup.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Myth 2: you _have_ to work 80 hours per week all the time
 
@@ -88,4 +88,4 @@ I honestly enjoy coming into work every day. In part it’s because I like and r
 
 I’m not going to lie and tell you that being an engineer at a startup is the best job for everyone. I’m not going to tell you that it will get you rich or make your life stress-free or increase your employability, but I do believe that if you’ve got the right personality it’s far more stimulating than any other job you can find. The opportunity to pursue a cause that I’m passionate about and that improves the state of education in this country makes my job worth the occasional headache, and succeed or fail, I am just glad to be going along for the ride.
 
-<!-- ad-text -->
+<!-- ad-banner -->

@@ -15,7 +15,7 @@ No-code platforms like [Bubble](https://bubble.is/), [Weebly](https://www.sharea
 
 In this article, I want to introduce you to Bubble. I’ll share some of the pros and cons of building your [web application without code](https://www.karllhughes.com/posts/web-applications), how much you can expect to pay for Bubble, and a comparison of Bubble to some of its competitors. Whether you use Bubble or one of the other good options out there, I’m a strong advocate for [building without code](https://www.telerik.com/blogs/what-no-code-movement-means-for-software-developers), and I hope this post inspires you to embrace the same ethos.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Introducing the Bubble App Builder
 
@@ -47,7 +47,7 @@ This is where tools like Bubble come in. With Bubble, non-technical people can c
 
 ### Bubble Pricing
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 With Bubble's pricing structure, you can't go wrong. Whether you're a small-scale operation or you have staff on hand to build your application, you will find a price point that works for you.
 
@@ -73,7 +73,7 @@ The Professional plans offer reserved servers, white labeling, daily run workflo
 
 **Production Plan:** 50 GBs file storage, priority email support, last 365 days for data backup and restoration, and up to 15 editors for $529/month or $5,700 if paid annually.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 Choosing to move to a Professional plan allows you to have multiple contributors assigned to a project. This collaborative aspect makes Bubble the go-to platform for an organization to optimize production since multiple people can simultaneously work on the app development.
 
@@ -150,7 +150,7 @@ If you decide to take each lesson, you can still be on your way to building your
 
 [Bubble app builder](https://i.imgur.com/cFtmelq.jpg)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 Fill in the "New App" page and select a free ready-made template from their marketplace. If you need additional help getting started, Bubble even offers a network of agencies that can provide services at an additional cost and an active user community on their forums where individuals help one another out.
 

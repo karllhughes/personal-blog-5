@@ -36,7 +36,7 @@ As more of [our tools go to the cloud](https://www.karllhughes.com/posts/cloud-s
 
 ![](https://i.imgur.com/USkbqGm.png)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## How to set up a remote development environment
 
@@ -132,4 +132,4 @@ Having your development projects in a convenient remote location gets you a lot 
 - Share your remote development environment between developers to minimize environmental issues
 - Host your clients' projects remotely to allow them easy access to your code and exact server setup when you complete the project
 
-<!-- ad-text -->
+<!-- ad-banner -->

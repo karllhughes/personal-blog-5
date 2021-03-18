@@ -40,7 +40,7 @@ Finally, I've never done whiteboarding or live coding sessions with candidates, 
 
 Testing programmers at something they don't need to be good at and expecting to learn something about how they would work at your company is delusional. These kinds of interviews only serve to make the hiring team feel superior and ensure better outcomes for engineers with traditional CS backgrounds.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 ## Skills I Look for in Software Engineers
 
@@ -80,7 +80,7 @@ While I don't want unquestioning loyalty or people who live at the office, I do 
 
 ![Finding Software Engineers](https://i.imgur.com/bTlxNvy.jpg)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 I've used several methods for finding and recruiting software engineers over the years. While I don't have a ton of data to back up these methods, here's what I've found works for me.
 
@@ -128,7 +128,7 @@ Even if you do get a recruiter, you need to keep recruiting too. If your recruit
 
 ![Software Engineering Hiring Process](https://i.imgur.com/X7YQXI4.jpg)
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 Now that you know what I'm looking for and how I start to find software engineering candidates, the next piece in the hiring process is the job interview. I've made adjustments to this process over the years, but at this point, I've landed on these five steps for hiring engineers.
 

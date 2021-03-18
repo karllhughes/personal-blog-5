@@ -21,7 +21,7 @@ One of the challenging things about [joining a startup](/posts/working-at-startu
 
 **While it's [a myth that every startup requires you to work overtime every week](https://www.karllhughes.com/posts/myths-working-engineer-startup), most startup employees put in 50-60 hours per week, and many founders put in 60-100 per week.**
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 The problem with long hours is that they're counterproductive:
 
@@ -79,7 +79,7 @@ The problem is that many founders get pressured into thinking short-term. Whethe
 ## Tips for Startup Founders
 At different stages of a company's life, different levels of commitment are required. But, no matter what you're working on, it's not productive to keep grinding away month after month without giving yourself a break.
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 Similarly, if you have employees, **you can't expect them to selflessly spend their lives working long hours and holidays just to help you fulfill your dream.** You _can_ push people to a certain point, but learning how to do so in a productive and worthwhile way is one of the best things you can learn if you want to retain your best employees.
 
@@ -107,7 +107,7 @@ _Note: I've added a few books on this topic in [my list of the best startup book
 
 ## Questions for Potential Startup Employees
 
-<!-- ad-text -->
+<!-- ad-banner -->
 
 While the bulk of an early-stage startup's culture is defined by the founders, employees and managers have a lot of influence on working hours and pacing too. If you're being hired by a startup and you're not sure about what the culture is like, here are some questions you can ask to get a better sense:
 
