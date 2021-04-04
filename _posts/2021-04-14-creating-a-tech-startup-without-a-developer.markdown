@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting a Software Startup the Lean Way"
-date: 2021-03-31
+date: 2021-03-03
 img: /assets/img/start-software-startup.png
 categories:
   - Startups
@@ -40,19 +40,19 @@ _Note: If you want more great books for startup founders, check out [my list of 
 
 Action beats ideas, but you do need something to take action on. I've seen [three reasons that founders pursue a particular startup idea](https://twitter.com/KarlLHughes/status/1334521133610258434): 
 
-### 1. They Find a Problem That Needs Solving
+### 1. You Find a Problem That Needs Solving
 A lot of founders see a problem in their daily lives or day jobs that leads them to start a software company. Personal experience with a problem is good because you're the target market, but you have to make sure other people actually care enough to pay for a solution.
 
 AirBnb fits in this category. The founders made it socially acceptable to solve the problem of accommodations by letting people rent out their homes. There was very little market for this sort of thing before they normalized it.
  
-### 2. They See Validated Market Demand
+### 2. You See Validated Market Demand
 Startups founded based on clear market demand (i.e., people already pay money to solve this problem) will have the easiest time getting started. Not only are customers searching for solutions, they're likely already paying someone to solve the problem. You just have to prove you're better.
 
 That said, it's harder to defend startups based on existing market demand. You're not the only option for solving this problem, and existing competitors will have more resources and existing revenue to fend you off with.
 
 An example of a market-first startup is Uber. There were already people spending money on black car services, but Uber thought they could offer a better service using mobile connectivity.
 
-### 3. They Want to Build Something Cool 😎
+### 3. You Want to Build Something Cool 😎
 Finally, some ideas are just "cool."
 
 These startups typically don't think about [their business model](https://www.karllhughes.com/posts/startup-business-model) until they have to, so they need to raise a lot of money to get to break even. Facebook, Twitter, and Instagram all fit into this category. Each built something totally novel at the time, but they weren't solving an existing problem that had real money behind it at first. They later layered a business model on once they had an audience.
@@ -180,30 +180,99 @@ There are plenty of options you can try as you get started. Direct outreach via 
 My favorite book on growth for software startups is [_Hacking Growth_ by Sean Ellis](https://amzn.to/3fxAgt5). It shares an inside look into the growth strategies that worked for many well-known startups, and while marketing strategies tend to get dated quickly, the specific tactics might help inspire you to try something new.
 
 ## Product Development
+**TL;DR: Creating custom software should be the last resort for early stage startups.**
 
-- Skip engineers: 
-  - https://www.karllhughes.com/posts/web-applications
-- Product process post: https://www.karllhughes.com/posts/product-management-process
-- https://www.karllhughes.com/posts/security-tips-startups
+I've been the first software engineer at two startups now and I never wished I wrote _more_ code. The problem with building early-stage products is that **you don't really know what you need yet.** As [I said back in 2018](https://www.karllhughes.com/posts/less-custom-software):
 
-## Product-Market Fit
-- it's a continuum, never finished
-- indicators you're starting to find it: people find your product organically (word of mouth), people stick around, you're consistently delivering value profitability, you're growing quickly and doesn't feel like a struggle
+> Startups need to move fast and spend as little money as possible, but many first-time founders, unaware of the true cost of developing software, spend too much time worrying about their product and too little time figuring out how they can generate value for their customers.
 
-## Thinking Like a Manager
-- by the time you reach 5-10 employees, your primary job will be management
-- need to think like a business owner not executor
-- biggest factor limiting startup growth after Product market fit
-- let go of control
-- books: emyth, built to sell
-- roles: hiring, vision, processes, partnerships, big sales, funding
+What typically happens is a founder budgets $100,000 to get to launch. They find a developer or offshore team to build the app and if they're lucky they actually hit that deadline and the app works.
 
-More books: https://www.karllhughes.com/posts/startup-books
+Then customers start using the app and the trouble starts. They find weird edge cases, they think of new features, and they point out clunky UI choices. Now, the founder has spent his money building a product that isn't _quite_ good enough to keep customers and he must either give away more equity to keep building or shut the whole thing down.
 
------
+### What's the Alternative?
+Fortunately, there are many great low and no-code app software tools that can help founders go to market with as little capital investment as possible. I've written extensively about [some of the application development tools I like](https://www.karllhughes.com/posts/web-applications), including [Bubble (for web apps)](https://www.karllhughes.com/posts/bubble-web-app) and [Draftbit (for mobile apps)](https://www.telerik.com/blogs/what-no-code-movement-means-for-software-developers).
 
-Lean startup demands that you test your product before you build it, and lean customer development essentially takes that imperative to its next logical step: get a customer before you build it. His advice was to spend as much time as possible in the field, asking questions, and getting real pain points from your potential future customers as possible before spending a dime designing, building, or marketing your product. 
+Most of these tools could be learned in a few weeks, but I actually recommend a hybrid approach now: hire a software engineer to help you configure, set up, and learn these tools. Get your first app out, and then lean on your developer to warn you about how your low-code app will fall apart as you grow.
 
-It's something that when you hear it makes so much sense, but yet very few entrepreneurs actually do it this way. So often people insist that they need a product to demo before they talk to customers, and by the time they realize they've built something that no one needs, they're discouraged and out of money or time (time being the most precious of the two).
+This allows you to go through the "Build-Measure-Learn" cycle much faster than startups that hire a team of engineers to build the entire application from scratch.
 
-Premature automation and optimization is a huge time suck, and developers are expensive. The last two startups I've been with have used off-the-shelf services to create their MVPs, and even now when we want to test something new at The Graide Network, we usually do it manually or semi-manually before we build software around it. If you have an idea, great! I'd love to see you make it happen, but don't fall into the trap of building something before you know it will sell.
+![Build-Measure-Learn Cycle](https://i.imgur.com/4oGxSaR.png)
+
+### But What if I _Really_ Need a Custom App?
+Admittedly, this strategy doesn't work forever. For example, some software startups are technical by nature - you can't build a developer tools company without custom code - and others require highly specialized R&D just to launch.
+
+On the other hand, you might start validating your product with a low-code application builder and then outgrow it as you gain traction. If this happens, you need to either raise money or spend your profits to invest in engineering a custom application. Either way, it's much easier to do this _after_ you have users and validation than before.
+
+Once you do start building a product team, you need to [develop a good process](https://www.karllhughes.com/posts/product-management-process) for planning, prioritizing, and delivering updates. This process should change and scale as your company does, but it's important to have _something_, even early on. Founders who throw new projects at their engineers every week will burn cash and never finish anything.
+
+## Finding Product-Market Fit
+**TL;DR: Product-market fit is a continuum that constantly shifts. You can find degrees of it, but it's never truly finished.**
+
+At this point, your software startup idea has been validated, you've raised funding, built a rudimentary product, and started trying to grow your user base.
+
+If you're extremely lucky, users will flock to your app and you'll start hitting those ambitious growth goals you told everyone about a few months ago. But, if your journey is more typical, you'll need to make some adjustments first. Maybe you need to change your messaging to appeal to a more lucrative buyer, maybe you need a couple key features to reach parity with existing competitors, or maybe you need to adjust your pricing to appeal to less frugal users.
+
+This journey is called product-market fit, and it's one of the hardest parts of building a startup.
+
+### What is Product-Market Fit?
+Product-market fit is the journey to find customers for your startup that are willing and able to pay for your product. Or, if you approach it the other way around, it's the journey to adjust your product to fit the needs of customers who can pay for it.
+
+Either way, it's a constant challenge. Even when you find an early degree of product-market fit, you will quickly have to adjust. For example, you might start off selling your product to consumers. As it starts to pick up traction, you realize that you can't profitably scale your offering for the price you have, so you raise prices. But, raising prices makes you less appealing to your early users, so they start to churn. You react by lowering prices again, but simultaneously making your offering less complex so that you can cut costs. Then your higher-end customers get mad because you're no longer offering the caliber of service they need.
+
+[<img src="https://i.imgur.com/xIo4CzW.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="The Startup Owner's Manual book cover" />](https://amzn.to/2PuVc9y)
+
+There's always give and take. Every decision you make as a founder about features, prices, copy, etc. will affect the way users perceive your product and change you ability to profit from them.
+
+If you want to use a disciplined process to find product-market fit, pick up a copy of _[The Startup Owner's Manual](https://amzn.to/2PuVc9y)_. Steve Blank and Bob Dorf walk you through a step-by-step method of customer discovery and validation that takes almost all the guesswork out of this process. It's not complicated, but it is hard to stay disciplined and follow each step while trying to deal with everything else that founders must handle.
+
+### Look for Positive Signals
+While product-market fit is never truly finished, it can absolutely be felt. I remember when I found a good target market for our services at Draft.dev. Suddenly, I was getting more inbound interest than I could handle and I couldn't hire fast enough.
+
+Some signs that you're getting a high degree of product-market fit include:
+
+- Inbound organic interest
+- A steady stream of unsolicited referrals from customers
+- Paying users with low churn
+- Price insensitivity (ie: when you raise prices, nobody complains)
+
+Of course, this can come with new challenges, and one of the biggest is shifting your mindset as a founder.
+
+## Thinking Like a Business Owner
+**TL;DR: Stop working _in_ your startup and start working _on_ it.**
+
+Once you start to find product-market fit, you have to stop living in the day-to-day. That means extracting yourself from writing code, creating marketing copy, running sales calls, and handling disgruntled customers. These functions are all important, of course, but as a founder, your time is _not_ best spent on tasks that can be easily assigned to employees.
+
+The earlier you get into the habit of delegating work, the faster you'll be able to grow and see new opportunities.
+
+### It's Not as Easy as You Think
+
+[<img src="https://i.imgur.com/TUs6CzA.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="The Emyth Revisited book cover" />](https://amzn.to/2UI6SVt)
+
+Unfortunately, failure to effectively hire and delegate is the #2 reason I've seen startups fail to grow (behind never finding product-market fit). A few things commonly stand in the way:
+
+- Inability to let go of control
+- Fear that employees will never "do it right"
+- Poor hiring practices
+- Inconsistent processes for employees to use
+- Insufficient funds to hire (which means you either need to raise more or find more margin)
+
+I've outlined [my process for hiring and growing a team before](https://www.karllhughes.com/posts/scaling-services), but the best book on this topic I've read is _[The E-Myth Revisited](https://amzn.to/2UI6SVt)_. In it, Michael Gerber talks about how you can leave your comfortable place as a "technician" to build a "franchise prototype" for your business. While the target audience is more small business owners, I find a lot of startup founders need this advice as well. 
+
+### So What Do Founders _Do_?
+As you start to extract yourself from more of the lower-level tasks of running a business, you might face a bit of an identity crisis.
+
+The first shift will likely be towards hiring. Whenever something needs to get done, you will start to write job descriptions instead of immediately jumping to do the project yourself.
+
+Next, as you build your team, you will shift to thinking about processes and setting the vision for the company. When you give employees a "template" for their work and high-level goals for the business, they'll be able to execute most day-to-day tasks without constant input. When you've started to get comfortable with this, you'll hire other managers who hire and define processes for their teams.
+
+At this point, you'll need to step back another level. You should only be jumping into sales calls under special circumstances or when discussing a strategic partnership. You'll also need to spend more time validating your financial models and securing funding (assuming you're going the venture route).
+
+This may all seem like a distant dream, but the earlier you start acting like a business owner and leave execution tasks behind, the better you'll be in the long run. 
+
+## Summing It Up
+The "lean" philosophy dictates that you test your software startup's core assumptions before you start building your application. It makes sense to say this, but very few entrepreneurs actually have the discipline to build a company this way. Instead, founders insist that they need a product before they can talk to customers, and by the time they realize they've built something that no one needs, they're out of money or time.
+
+Don't fall into this trap. Do the work, learn what customers want, and by the time you're actually building software, you'll ensure you build the _right_ software.
+
+_Interested in more great books about building your startup? Here are [21 of my favorites](https://www.karllhughes.com/posts/startup-books) to get you started._

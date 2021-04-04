@@ -188,7 +188,7 @@ The key to preparing your startup for an exit is to make sure the business can t
 
 [<img src="https://i.imgur.com/TUs6CzA.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="The Emyth Revisited book cover" />](https://amzn.to/2UI6SVt)
 
-Although the original was written almost 20 years ago, this book is still a fantastic choice for business owners of any size. It offers practical advice on systemizing your business and building a work plan that will allow employees to succeed even when you are not around. Gerber also reveals how to start working _ON _instead of _IN _your business, which is essential if you want your company to grow.
+Although the original was written almost 20 years ago, this book is still a fantastic choice for business owners of any size. It offers practical advice on systemizing your business and building a work plan that will allow employees to succeed even when you are not around. Gerber also reveals how to start working _ON_ instead of _IN_ your business, which is essential if you want your company to grow.
 
 “I knew of the struggle between the inner technician, manager, and entrepreneur but never had the framework to understand it. If you're a person who has the marketable, technical talent and is self-employed or thinking of being self-employed, I'd say invest in this book and save yourself some inner turmoil.”
 
