@@ -186,4 +186,4 @@ Another tool that has come out since we devised the above testing strategy is [M
 
 There's a well-received book on using Montebank called, aptly enough, [Testing Microservices with Mountebank](https://amzn.to/35BDHto). Published in 2019, this book starts with the theory behind microservice testing and works its way into Montebank-specific tactics to stand up and impersonate your distributed systems.
 
-_Note: This post was originally published in 2017, but was updated with new information in November 2020._
+_Note: This post was originally published in 2017, but was updated with new information in November 2020. Looking for more resources to help you learn to be a better developer? I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books)._

@@ -11,6 +11,8 @@ PHP7 has been out for a few months now; [the performance benefits have been demo
 
 ![docker-php7](https://i.imgur.com/xwm4v6Q.png)
 
+_Looking for more resources to help you learn to be a better developer? I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books). Enjoy!_
+
 ### What is Docker, and how can it help us test PHP7 applications?
 
 [Docker](https://www.docker.com/) is a service for running containers. Containers are small, contained microservices that can run on a single machine. I see them as the next logical step in virtualization: where virtual machines let you emulate an entire operating system, containers let you emulate everything on top of the kernel, so more of the underlying infrastructure is shared while keeping a sharp separation of concerns. If that just went completely over your head, it's okay. I'm not an expert either, but that doesn't mean we can't use Docker as a tool to make our lives a little easier.
@@ -59,3 +61,5 @@ Your application should be available at _http://localhost:80_ if everything is w
 
 ## What's Next?
 If you're looking to deploy your Laravel PHP applications, [check out my tutorial on using Laravel Forge](/posts/laravel-forge). While it doesn't support Docker yet, Forge is a great way to get your PHP apps out into the world fast, so I highly recommend it.
+
+And if you're looking to learn more about software development, I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books)._
