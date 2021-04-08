@@ -9,7 +9,9 @@ categories:
   - Books
 ---
 
-Software engineering management is an evolving field with a growing body of knowledge, and [thousands of books](https://amzn.to/2Et5hfa) are available on the topic. I started [reading more](/posts/trello-as-a-reading-list) a few years ago, so as 2019 gets started, I thought I would take a look at some of the best software management books available. Most of these are pretty popular in the field, but some are a bit non-traditional, so bear with me. Scroll to the bottom if you want to suggest your own favorites as well.
+Software engineering management is an evolving field with a growing body of knowledge, and [thousands of books](https://amzn.to/2Et5hfa) are available on the topic. I started [reading more](/posts/trello-as-a-reading-list) a few years ago, so I thought I would take a look at some of the best software management books available. Most of these are pretty popular in the field, but some are a bit non-traditional, so bear with me. Scroll to the bottom if you want to suggest your own favorites as well.
+
+_Note: If you're looking to stay hands-on, I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books). There's some crossover between these lists, but it's worth checking both out._
 
 ## Classics
 

@@ -114,7 +114,7 @@ Beyond those functions, you will have to pay extra. To deposit and file your tax
 
 If your startup is in its infancy, Payroll4Free could be a good option for you. However, you’ll want to move to a paid platform with more features once you start growing.
 
-**Cost: Payroll4Free is free with the payroll add-on starting at $15 and the direct deposit add-on another $15. **
+**Cost: Payroll4Free is free with the payroll add-on starting at $15 and the direct deposit add-on another $15.**
 
 ### 9. [Zenefits](https://www.zenefits.com/)
 

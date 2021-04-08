@@ -123,4 +123,4 @@ Once you feel good about the high-level test coverage, it's time to decide if re
 
 **[Refactoring: Improving the Design of Existing Code](https://amzn.to/3lIkprU)** - Martin Fowler is one of my favorite technical authors, and _Refactoring_ does not disappoint. I read the original version and then bought the new 2018 edition when it came out because the examples were rewritten in JavaScript.
 
-<!-- ad-banner -->
+_Looking for more reading to help you become a better developer? I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books)._

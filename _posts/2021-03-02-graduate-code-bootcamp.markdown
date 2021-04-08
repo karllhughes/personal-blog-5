@@ -73,6 +73,8 @@ You also might want to try a free course like _[A Beginner’s Guide to Open Sou
 
 <a target="_blank" href="https://shareasale.com/r.cfm?b=1214291&amp;u=1653894&amp;m=59485&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/59485/TrainingAffiliateAds_728x90-Generic.png" border="0" /></a>
 
+Books are another great option. I personally like reading more than courses, and I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books).
+
 ### 4. [Watch for Red Flags](https://www.themuse.com/advice/6-red-flags-to-avoid-when-applying-to-engineering-jobs)
 If you're desperate, you might have to take a job with a few of them. I've done it. You'll be fine. Just stay a year and keep an eye out for a new one.
 

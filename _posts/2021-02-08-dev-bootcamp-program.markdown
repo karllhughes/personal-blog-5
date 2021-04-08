@@ -44,6 +44,8 @@ I can't tell you how many times a friend of mine who studied English or Anthropo
 
 As graduates join the gig-economoy workforce saddled with debt and worthless degrees, it's no surprise that an 8-week bootcamp that opens up a six-figure salary is so appealing.
 
+_Looking for more resources to help you learn to be a better developer without a degree? Here are [20 of my favorite books for software engineers](/posts/software-engineering-books)._
+
 ### 4. Frameworks Offer Easy Starting Points
 
 Finally, higher-level abstractions and frameworks (eg: Ruby on Rails, Django, Express, etc.) allow new developers to build minimally working software faster than ever before. I'm all for using frameworks to help get a project kicked off quickly, but without a base level of knowledge in the language or any idea what object oriented programming means, a lot of bootcamp graduates come out grossly unprepared for messy, real-world, legacy code. 
