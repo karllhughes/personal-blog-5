@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting a Software Startup the Lean Way"
-date: 2021-03-03
+date: 2021-04-14
 img: /assets/img/start-software-startup.png
 categories:
   - Startups
