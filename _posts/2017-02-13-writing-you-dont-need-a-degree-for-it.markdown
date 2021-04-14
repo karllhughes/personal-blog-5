@@ -6,6 +6,7 @@ img: https://i.imgur.com/1887oc3.jpg
 categories:
   - Software Engineering
 ---
+
 *Writing has been one of my favorite hobbies since high school, but I used to feel like an imposter  when I did it. I went to school with a lot of smart people who now write for a living, so I felt like a hack with my scant blog posts and shallow listicles, but I did it anyway.*
 
 *I still don't consider myself a great writer, but I have learned not to care as much what people think about it. If I could add one thing to this article from May 2012, I would say to ignore your own inner critic the most. He's the one who will really keep you from putting pen to paper.*
