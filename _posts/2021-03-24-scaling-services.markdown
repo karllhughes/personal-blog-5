@@ -18,7 +18,7 @@ In an ideal productized service, every process and role is so well-defined that 
 
 After hearing [Tristan King's story on Tropical MBA](https://www.tropicalmba.com/shopifyninjas/) and more recently [Andrew Pierno's on Indie Hackers](https://www.indiehackers.com/post/0-10k-mrr-in-3-5-months-a-step-by-step-guide-on-exactly-what-i-did-1f3ce44511), I decided I would chime in with my approach. In this blog post, I'll outline the exact process I have used to productize my content writing service, [Draft.dev](https://draft.dev). I'll share some specific examples of each step and where the challenges lie in implementing them.
 
-Even with these steps in mind though, starting a new business is really hard. In the past year, I've had some of the highest highs and lowest lows in my professional career, but I can't imagine trading it for another day job anytime soon.
+Even with these steps in mind though, [starting a new business is really hard](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). In the past year, I've had some of the highest highs and lowest lows in my professional career, but I can't imagine trading it for another day job anytime soon.
 
 ## How to Scale a Service Business
 When I started Draft.dev last year, it was essentially just me working as a freelance technical writer. Within 9 months, we have a team of nearly 50 writers, a full-time editor, a great marketing associate, and a handful of other freelancers helping with specialized tasks.

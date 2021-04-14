@@ -38,6 +38,8 @@ The Innovator’s Dilemma is the best-known work of Clayton Christensen, a Harwa
 
 In this classic startup book, Eric Ries talks about his startup’s failure, caused by spending too much time and energy on the initial product launch. The book helps entrepreneurs in companies of all sizes to adapt and adjust to new technologies before it’s too late. Ries provides a scientific approach to developing new ideas in an age where markets change rapidly and quick adaptation is of great importance.
 
+I wrote more about applying [lean methods to software startups](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer) recently, and while the examples in Ries' book are now pretty old, the general philosophy still works.
+
 “I have been running a software business for 30 years, and, after reading this book, my eyes were opened to the “system” for starting and growing a business. Eric provides the core processes for identifying, developing, and refining products and the key metrics to use for growing your business. I really appreciated his concepts of validated learning vs. the typical “gut” approach to decision making. I also got a lot of value out of his disdain for vanity metrics. I now feel like I have a framework for improving and growing my business. This book is an excellent resource for anyone looking to create products that create value.”
 
 

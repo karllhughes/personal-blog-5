@@ -245,7 +245,7 @@ Pretty much every programming language or framework has an HTTP library that you
 
 Now that you know what an API is, why you might need one, and how to access an API, you're ready to get your hands dirty and actually build one. All of the solutions below (with the exception of the last two) require no code, but many of them can be enhanced or improved with some custom development work.
 
-I find this model of starting with a no-code prototype and then enhancing it with code from a developer to be ideal as it allows you to test your API before you [hire a software engineer](https://www.karllhughes.com/posts/hiring-process).
+I find this model of [starting with a no-code prototype and then enhancing it with code](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer) from a developer to be ideal as it allows you to test your API before you [hire a software engineer](https://www.karllhughes.com/posts/hiring-process).
 
 ### [Sheetsu](https://sheetsu.com/)
 

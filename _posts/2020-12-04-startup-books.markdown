@@ -16,7 +16,7 @@ Before I started [Draft.dev](http://draft.dev/) earlier this year, I spent almos
 
 ## Early-Stage Startups
 
-This category includes books for people who are just starting out. If you are building your first product or raising the first round of funding, these books will provide you with a good starting point.
+This category includes books for people who are [just starting out](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). If you are building your first product or raising the first round of funding, these books will provide you with a good starting point.
 
 
 ### [Founders at Work: Stories of Startups' Early Days](https://amzn.to/390FASS)
