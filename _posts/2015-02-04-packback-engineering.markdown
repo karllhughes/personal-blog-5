@@ -20,7 +20,7 @@ Coming into my job with Packback, I wasn't sure that I wanted to be a software e
 
 ## Things Can Change Quickly
 
-[Engineering in a startup can be quite a challenge](/startups), even under the best circumstances. Steven moved on from Packback last month, and as of this week I've taken over his responsibilities as [the leader of our team of four engineers](https://www.karllhughes.com/posts/engineering-manager).
+[Engineering in a startup can be quite a challenge](/startups), even under the best circumstances. Steven moved on from Packback last month, and as of this week I've taken over his responsibilities as [the leader of our team of four engineers](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager).
 
 Coming into a role like this without a ton of experience is a challenge, but I've got a great team to work with, and thanks to Steven, much of the technical architecture questions that I had a year ago have since been answered.
 

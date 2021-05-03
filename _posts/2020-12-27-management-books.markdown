@@ -143,7 +143,7 @@ This book provides a great insight into human psychology and our connection to t
 
 ### [Mythical Man-Month](https://amzn.to/3f9DRvj)
 
-While this book is focused on [software engineering management](https://www.karllhughes.com/posts/engineering-manager), I think it’s helpful for anyone who manages a team of creative people. Brooks reveals several truisms about managing complex projects and the misnomers managers have about resource allocation and the speed of completing a project.
+While this book is focused on [software engineering management](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager), I think it’s helpful for anyone who manages a team of creative people. Brooks reveals several truisms about managing complex projects and the misnomers managers have about resource allocation and the speed of completing a project.
 
 “A great book that tells you everything your project manager and lead architect are doing wrong, leading to the depressing realization that there is nothing you can do. Timeless wisdom.”
 

@@ -29,7 +29,7 @@ My time at Packback helped me develop tools and processes for many of the techn
 
 Of course, there will be plenty of exciting new features to implement, but the reality is that we're a company that needs to build a single great feature set before we branch out too far. In the first few weeks I'll be taking a look at our current web application's architecture, security, and scalability in order to figure out what we need for a successful fall semester.
 
-Unlike at Packback I won't have a team yet. We do have a solid local freelance engineer working with us already, so I won't have to build everything alone. Still, [much less of my day-to-day will be management](https://www.karllhughes.com/posts/engineering-manager). In other words, I'll be doing a bit of planning and a lot of writing code.
+Unlike at Packback I won't have a team yet. We do have a solid local freelance engineer working with us already, so I won't have to build everything alone. Still, [much less of my day-to-day will be management](hhttps://www.toptal.com/engineering-management/a-day-in-life-engineering-manager). In other words, I'll be doing a bit of planning and a lot of writing code.
 
 ### What's Next for The Graide Network?
 
