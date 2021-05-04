@@ -38,6 +38,13 @@ While not exclusively a form creator, [Airtable's input tool](https://airtable.c
 
 Airtable is easy to set up, data can be viewed in multiple ways, the sharing settings are flexible, and you [can use it to power your API](/posts/using-airtable-as-an-api). Once you learn Airtable, it's hard to imagine going back to a spreadsheet again.
 
+
+### [JotForm](https://www.jotform.com/pricing/?utm_source=karll-hughes&utm_campaign=jf1&utm_medium=blog)
+
+[![JotForm form builder](https://i.imgur.com/288Z3qm.png)](https://www.jotform.com/pricing/?utm_source=karll-hughes&utm_campaign=jf1&utm_medium=blog)
+
+JotForm gives you hundreds of themes and templates to make sure your forms stand out and match your branding. Their paid plans also include HIPAA Compliance, so if you're in a healthcare setting, you may want to check out JotForm.
+
 ### [Formidable Forms](https://www.shareasale.com/r.cfm?b=841990&u=1653894&m=64739)
 
 [![Formidable Forms WordPress plugin](https://i.imgur.com/ReKr2Tq.png)](https://www.shareasale.com/r.cfm?b=841990&u=1653894&m=64739)
@@ -69,12 +76,6 @@ It's not quite as open-ended as Google Forms, but SurveyMonkey is decidedly bett
 ![Formspree simple form builder](https://i.imgur.com/H5j2HdF.png)
 
 It may seem like Formspree offers less than Google Forms, but its simplicity is also its power. You can drop a few lines of code from Formspree into your website and immediately start getting responses emailed to you for free. Best of all, the form can be fully customized (using code) to match your site's styling exactly.
-
-### [JotForm](https://www.jotform.com/)
-
-![JotForm form builder](https://i.imgur.com/288Z3qm.png)
-
-JotForm gives you hundreds of themes and templates to make sure your forms stand out and match your branding. Their paid plans also include HIPAA Compliance, so if you're in a healthcare setting, you may want to check out JotForm.
 
 ### [Formsite](https://www.formsite.com/)
 
