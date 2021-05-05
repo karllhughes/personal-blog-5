@@ -175,7 +175,7 @@ Our dev environment resets itself between the Ghost Inspector runs so that next 
 
 ![Development environment which undergoes end-to-end tests](http://i.imgur.com/hzQv09b.png)
 
-Unlike the other testing layers we use, the end-to-end tests actually run the whole network of services. There's no mocking of clients or API calls, so the kinds of tests we can do are somewhat limited. For example, it's not possible to determine if an email or Slack notification was sent when testing with Ghost Inspector. But, that's why we have multiple layers of tests.
+Unlike the other testing layers we use, the end-to-end tests actually run the whole network of services. There's no mocking of clients or API calls, so the kinds of tests we can do are somewhat limited. For example, it's not possible to determine if an email or [Slack notification](/posts/no-slack) was sent when testing with Ghost Inspector. But, that's why we have multiple layers of tests.
 
 On its own, no single testing layer is a good indicator of our application's health, but in concert, these testing layers help us ensure that our code is working every time we deploy it.
 

@@ -142,8 +142,6 @@ What if you want to trigger alerts, link multiple API requests together, or kick
 
 ![Can your API handle the real world?](https://i.imgur.com/U0j7OTh.png)
 
-<!-- ad-banner -->
-
 ## How an API Works
 
 Now that you know what an API is and why it might be a good fit for your business and some technical considerations, let's make it a little more tangible.
@@ -369,5 +367,3 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 ## Next Steps
 
 This guide will continue to evolve and grow as new tools and information becomes available. If you have your own suggestions, [find me on Twitter](https://twitter.com/karllhughes) to let me know about them.
-
-<!-- ad-banner -->

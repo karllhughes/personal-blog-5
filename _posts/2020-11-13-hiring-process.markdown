@@ -8,8 +8,6 @@ categories:
   - Software Engineering
 ---
 
-<!-- ad-banner -->
-
 When I took my first real management role as [Packback's Head of Engineering back in 2015](/posts/packback-engineering), I inherited a great team of engineers who were hired before my promotion. Later that year, when the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding new software engineers.
 
 I started with the framework my predecessor used and brought in some heavy influences from _[Peopleware](/posts/peopleware)_ and Josh Tyler's _[Building Great Software Engineering Teams](http://amzn.to/1XQAfT7)_. Over the years, I've refined my hiring process - mostly through trial and error - to come up with the iteration described here.

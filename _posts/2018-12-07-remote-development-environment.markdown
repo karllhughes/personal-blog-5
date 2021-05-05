@@ -7,8 +7,6 @@ categories:
   - Software Engineering
 ---
 
-<!-- ad-banner -->
-
 My Macbook Pro is a couple years old now and I've been thinking about switching to something more portable (some of the newest [Pixelbooks are awful tempting](https://amzn.to/3nsOpsq)), but being a developer, I don't want to get stuck with an underpowered device that won't run any project I have to throw at it for the next few years.
 
 The inspiration to set up a remote development environment hit me when I saw my colleague Eric logging into his remote desktop PC at home through his Chromebook. If you're comfortable on the command line and aren't afraid of working in Linux, then why not make your whole development environment remote? It's 2018 for goodness' sake!
@@ -35,8 +33,6 @@ Having an issue with your computer? Can't figure out why your code won't compile
 As more of [our tools go to the cloud](https://www.karllhughes.com/posts/cloud-services), I think it's reasonable to assume that more of our computing power will too. The economies of scale and awesome tools for virtualization are making it cheaper to get server space, and with the internet being available just about everywhere, connectivity is becoming less of an issue.
 
 ![](https://i.imgur.com/USkbqGm.png)
-
-<!-- ad-banner -->
 
 ## How to set up a remote development environment
 
@@ -131,5 +127,3 @@ Having your development projects in a convenient remote location gets you a lot 
 - Use a remote environment to set up and experiment with Docker containers instead of using virtual box locally
 - Share your remote development environment between developers to minimize environmental issues
 - Host your clients' projects remotely to allow them easy access to your code and exact server setup when you complete the project
-
-<!-- ad-banner -->

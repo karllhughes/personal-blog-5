@@ -86,7 +86,7 @@ I take him to daycare and pick him up almost every day, stay home with him on We
 On the flip side, I've found some habits and workplace norms tend to drain my energy faster than others. While some of these things are unavoidable or even pleasurable in small doses, I've found that I have more energy on a daily basis when I meter my exposure to them:
 
 ### 1. Interruptions
-When I went out on my own, I set out to eliminate Slack from my daily life. I am in a few groups with friends, but I treat those more like social media channels: I check them a few times per week and don't do "urgent" messages there.
+When I went out on my own, [I set out to eliminate Slack from my daily life](/posts/no-slack). I am in a few groups with friends, but I treat those more like social media channels: I check them a few times per week and don't do "urgent" messages there.
 
 > "Slack is like a meeting that never ends, but because it’s done facelessly, there’s much less pressure to be properly attentive and courteous." - [Timothy Noah, Down With Slack](https://newrepublic.com/article/160444/slack-salesforce-merger-office-communications)
 

@@ -7,8 +7,6 @@ categories:
 - Startups
 ---
 
-<!-- ad-banner -->
-
 One of my friends recently brought up the idea of consulting for startups. He's been working in software for almost two decades, and he's worked for a few well-known startups in the area. He definitely has skills and knowledge that would be valuable for a startup, so he was surprised when I told him **startup consulting is not a good idea.**
 
 I've thought about this topic a lot. I have worked for early-stage startups, done some startup consulting, and met plenty of startup consultants. A few of them have actually been pretty successful.
@@ -25,8 +23,6 @@ I'm also not talking about advisors, mentors, or coaches. People in these roles 
 A startup consultant is someone whose business is to come into a small company, ask some questions, analyze the data, prepare a report, and make recommendations based on their findings. They don't execute tasks or manage team members directly (although there are exceptions) but focus instead on high-level strategy.
 
 Startup consultants aren't typically involved for the long-term (and are almost never offered equity), but the good ones might provide some follow-through to see how their recommendations pan out. They might also offer a retainer to answer questions about their recommendations as they come up, but they usually aren't part of the day-to-day.
-
-<!-- ad-banner -->
 
 ### Why Do People Start Consulting for Startups?
 
@@ -47,8 +43,6 @@ What consultants offer is squishy, and for big companies, it can be more politic
 **While large companies hire consultants to validate decisions or reassure institutional investors, startups hope you will solve their deepest, darkest problems.** Your recommendation isn't just a handy report for investors - they're going to stake the future of their business on it.
 
 ![Large company vs. startup consulting](https://i.imgur.com/YkVXgqm.png)
-
-<!-- ad-banner -->
 
 While you will certainly send the startup off with the strategy document you promised, anyone who has worked with a startup knows that **things change too fast for a static recommendation like this to make any difference**. They're going to need you to come back and revise the strategy as they learn new things. Unfortunately, you probably didn't build that into the price, so now you're annoyed that they won't just follow your original plan, and they're annoyed that they spent $20k for an outdated document.
 
@@ -168,7 +162,5 @@ By "up-market," I mean they start working with larger companies. Usually, it's a
 It makes sense. If you're working on an hourly rate, you're likely to get more successes and less price sensitivity with clients who are larger and less likely to face financial hardship. While this gets you out of the "startup" business, it's definitely going to make you a more successful consultant financially.
 
 Alan Weiss is a legend in the world of management consulting. [Million Dollar Consulting](https://amzn.to/3hCelzZ) (forgive the clickbaity title) provides a great look at the business nuts and bolts of picking clients, winning proposals, and making a sustainable consulting business.
-
-<!-- ad-banner -->
 
 The bottom line is that consulting for startups is tough. The earlier the company, the harder it will be for you to make a financially viable consulting firm, and even larger startups have challenges. If you're succeeding as a startup consultant or you have an alternate take, [let me hear what you think](https://twitter.com/KarlLHughes).

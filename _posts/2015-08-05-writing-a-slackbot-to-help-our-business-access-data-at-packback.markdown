@@ -7,6 +7,9 @@ categories:
   - Software Engineering
   - API Development
 ---
+
+_Note: Since writing this, I've stopped using Slack for most things. [Here's why](](/posts/no-slack))._
+
 [Slack](https://slack.com/) is a messaging tool that's quickly become ubiquitous in large and small companies alike. It's basically like a walled off version of AOL Instant Messenger (you guys remember that from the early 00's right?) for your company's internal communication.
 
 They have apps for iOS and Android, desktop clients, and a web interface, making Slack super accessible and easy to use, plus they allow you to create [Slackbots](https://api.slack.com/bot-users).
