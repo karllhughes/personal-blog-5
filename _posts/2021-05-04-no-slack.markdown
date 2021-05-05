@@ -1,0 +1,120 @@
+---
+title: "Building a Business Without Slack"
+layout: post
+date: 2021-05-04
+img: /assets/img/no-slack.png
+categories:
+- Startups
+---
+
+Last year, I read two books that changed my perspective on work.
+
+[<img src="https://i.imgur.com/8wpAXiu.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="Bored and Brilliant book cover" />](https://amzn.to/3gpINPv)
+
+The first was [Bored and Brilliant](https://amzn.to/3gpINPv) by Manoush Zomorodi. In it, Zomorodi explains the importance of not filling every moment of time with a _quick hit_ of something to do. Counterintuitively, doing nothing can make you more productive in the long run:
+
+> “When our minds wander, we activate something called the 'default mode,' the mental place where we solve problems and generate our best ideas, and engage in what’s known as 'autobiographical planning,' which is how we make sense of our world and our lives and set future goals.” - Manoush Zomorodi, [Bored and Brilliant](https://amzn.to/3gpINPv)
+
+[<img src="https://i.imgur.com/At9SFrU.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="Bored and Brilliant book cover" />](https://amzn.to/3sIbWYy)
+
+The other was Cal Newport's [Deep Work](https://amzn.to/3sIbWYy). In this book, Newport explains how the constant hopping between quick replies, notifications, and distractions makes creators less productive and happy.
+
+> “Efforts to deepen your focus will struggle if you don’t simultaneously wean your mind from a dependence on distraction.” - Cal Newport, [Deep Work](https://amzn.to/3sIbWY)
+
+I haven't gone quite as far as Newport by completely shutting down my social profiles, but I did remove notifications from my phone.
+
+As I evaluated all the technology tools I used, I thought a lot about whether they _actually_ made me more productive or if they simply distracted me into _feeling_ productive.
+
+**One application that stood out as especially troublesome was Slack.**
+
+## Why I Don't Use Slack for Work
+When I left my job to [start my own business last year](https://www.karllhughes.com/posts/cto-writer), I thought a lot about the kind of business I wanted to build. I realized that Slack was not a good fit for the kind of lifestyle I wanted or the team I wanted to hire.
+
+I wanted [Draft.dev](https://draft.dev) to be fully remote and mostly [asynchronous](https://weworkremotely.com/everything-you-need-to-know-about-asynchronous-communication-in-remote-working-environments). This allows us to hire great people around the world and keeps them from feeling left out because they work in a different time zone.
+
+Slack is a highly refined product with solid design and generally good engineering, but it's not perfect. Here's why I opted out of Slack for our business:
+
+### 1. The Availability Perception
+I like talking to people, don't get me wrong, but I don't want to give people the impression that I'm available to chat any time throughout the day. I also don't want my employees to feel pressured to get back to me immediately just because I sent them a Slack message.
+
+Some days, they might need to spend 4-5 hours in deep work, focusing on a problem or banging out an interesting idea. There's no such thing as a "quick question" when you're focused, and I want to build a business that gives us a lot of time for this kind of focus.
+
+### 2. The Slack Clients
+Unlike email, Slack pushes you heavily towards using their always-on, memory-hogging, notification-heavy desktop client. Sure, they have a web version, but it's limited and tries to push you into getting the app at every turn.
+
+It also seems to be impossible to tune your notifications for the desktop and mobile clients correctly. It's very hard to make them quiet without simply turning all notifications off, and once you get to the point, why not just use email?
+
+### 3. Feeling Held Hostage
+
+![Slack holds your old messages hostage, forcing you to upgrade](https://i.imgur.com/NsuTz1E.png)
+
+As your company grows and your backlog of work conversations does too, Slack holds you hostage.
+
+They make you think that you can "get work done" in Slack, but once all your important documents and decisions are stored there, they let you know that you have to upgrade to see old messages.
+
+I get it; they need to make money. I pay for dozens of services that help my team communicate better, but I don't like the bait and switch here.
+
+Similarly, it makes me nervous about adding new people to our team Slack because each person we add will result in a new $10 per month charge. With [50 freelancers on our team today](http://localhost:4000/posts/scaling-services), that's a cost we can't bear just yet.
+
+### 4. Is It Private?
+As an employee, I always wondered if my private Slack messages were _really_ private or if higher-ups could read them. It was never really clear from Slack's product messaging.
+
+I've since found out that, [yes, your boss can read your private Slack messages](https://www.vox.com/recode/2020/1/24/21079275/slack-private-messages-privacy-law-enforcement-lawsuit). Even if I'm the boss, I don't like this level of paternalism.
+
+## But, is Slack Really the Problem Here?
+
+> "If you widen a road to reduce traffic congestion, what generally happens instead is that you get the same level of congestion, only with more vehicles. Similarly, if an office opts for Slack because everybody’s email inbox is overflowing with crap, it’s magical thinking to believe that their Slack channels won’t soon be overflowing with crap, too." - [Timothy Noah](https://newrepublic.com/article/160444/slack-salesforce-merger-office-communications)
+
+I realize I can use Slack's "away" settings to show people that I'm not available.
+
+I also know that team chat tools existed long before Slack.
+
+Still, Slack's the big player in the room, and I've never been part of a Slack group that used the channel effectively for asynchronous communication.
+
+When you have a team in Slack, **people assume that messages will be responded to within a few minutes, and longer response times make people worry**. This might be a [human problem](https://www.indiehackers.com/post/slack-didn-t-break-remote-working-your-colleagues-did-4ce4f90b35) as much as a Slack problem, but I don't want to have to explain my preferred Slack etiquette to everyone who joins my team.
+
+![Slack bills itself as a place to "get work done"](https://i.imgur.com/uyWCNgu.png)
+
+It's ironic because Slack bills itself as a place to "get work done," but I've never seen it used for accomplishing anything significant.
+
+## So What is Slack Good For?
+I don't think that Slack's all bad, though.
+
+I am part of a couple of social channels, including one with my mastermind group, but we use it more like a watercooler than a workplace. I've also been active in a few industry Slack groups, and I've gotten clients through them occasionally.
+
+There's probably also a good case for Slack in a business where nearly instant responses are required (although SMS would likely work just as well). If you're an on-call support team and need to be able to drop things at a moment's notice when something comes through, Slack might be a good app to facilitate this.
+
+Still, we've found pretty good ways to get by without Slack so far.
+
+## Working Without Slack
+Because we hire people all over the world, I don't expect everyone to have compatible work hours, and I don't want team members in different time zones to be left out of important conversations.
+
+I realize that not every company works this way, but here's how we've gotten around Slack to this point:
+
+### 1. Trello and Airtable Comments
+One of my primary issues with Slack is that conversations get lost in channels (especially if people don't use threads, but that's another rant).
+
+Fortunately, the project management tools we use (primarily [Airtable](https://airtable.com/invite/r/4EaSmQNr) and [Trello](https://trello.com/) today, but [I've tried many others in the past](https://www.karllhughes.com/posts/project-management-tools)) all support comments on cards. This is a much more logical place to track conversations around a specific project or task.
+
+[![Airtable home page](https://i.imgur.com/iuElXQG.jpg)](https://airtable.com/invite/r/4EaSmQNr)
+
+### 2. Email
+I funnel all these comment notifications into my Gmail account and then use a system of filters and labels to triage them twice per day ([inspired by this method](https://klinger.io/post/71640845938/dont-drown-in-email-how-to-use-gmail-more)). Some emails get handled by my virtual assistant, and I respond to others within 48 hours.
+
+Gmail's flexibility and powerful filtering and sorting features are much better for keeping track of important messages and removing the fluff. Plus, it works on every device include the browser, so I don't need to have it open at all times.
+
+Email gets a bad wrap because it's been abused and misused for a long time, but I find that people are more understanding of you taking 24-48 hours to answer an email than they are a Slack message.
+
+### 3. Loom
+Finally, some tasks are complicated to explain, so a lot of people hop on Slack to walk other people through them. This is fine when you're working times overlap, but it causes huge bottlenecks if you are in the US but working with people in Australia or India.
+
+This year, I've started using [Loom](https://www.loom.com/) to record detailed walkthroughs or answer complicated questions for my team. This has helped replace a lot of scheduled Zoom calls and Slack conversations I would have had in the past.
+
+## Final Thoughts
+Slack isn't necessary for my team today, but I don't think it's a bad tool for everyone.
+
+My encouragement to business owners, team leaders, and those in authority positions would be to **consider the implications of the tools you decide to use**.
+
+Remote work can be done in many ways. Some teams are remote but require high levels of real-time collaboration. Others - like ours - are remote, but work is done largely independently. Some tools are better for the former (maybe Slack), and others are better for the latter.
+
+Just don't undercut your employees' productivity and focus by forcing them into tools that aren't right for their jobs.

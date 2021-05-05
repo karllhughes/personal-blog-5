@@ -100,8 +100,6 @@ The other thing you have to consider when using Bubble is the challenge of event
 
 If Bubble helps you get to market and raise funding, it may be necessary. But, you may have to rebuild your entire application in a couple years once you outgrow it, and this can be quite expensive and painful.
 
-<!-- ad-banner -->
-
 ## Why I Recommend Bubble for Most MVPs
 
 Not to overemphasize the point, but building your web application in Bubble will save you time and money. You spend no time learning how to code: Open the canvas, and begin dragging and dropping the elements you want into your application. If you have a working idea for your application, you can build it using Bubble in hours, rather than months of coding classes followed by months of development and testing.
@@ -149,8 +147,6 @@ Bubble offers a brief questionnaire that will point you to the best training vid
 If you decide to take each lesson, you can still be on your way to building your first app in less than one hour. Click the "Create a new app" button at the bottom of the welcome page and get started.
 
 [Bubble app builder](https://i.imgur.com/cFtmelq.jpg)
-
-<!-- ad-banner -->
 
 Fill in the "New App" page and select a free ready-made template from their marketplace. If you need additional help getting started, Bubble even offers a network of agencies that can provide services at an additional cost and an active user community on their forums where individuals help one another out.
 

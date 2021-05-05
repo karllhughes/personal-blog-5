@@ -8,8 +8,6 @@ categories:
   - API Development
 ---
 
-<!-- ad-banner -->
-
 **The term "API" gets thrown around a lot these days, but what does it mean? What can you use an API for? Do you have to have a developer on your team to build or use an API? In this guide, we'll explore all those questions and more, including a spotlight on the tools you can use as a [non-technical founder](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto) to build your own APIs.**
 
 You don't have to understand what an API is at this point, but if you do, feel free to skip the first section and move right into "[Why Build an API?](#why-build-an-api)". If you already know why you need one, then skip down to "[Things to Consider When Building an API](#things-to-consider-when-building-an-api)", and if you are seasoned at building APIs but just want to know how you can build them without a developer, jump all the way down to "[Tools for Building APIs Without Code](#tools-for-building-apis-without-code)".
@@ -21,8 +19,6 @@ API stands for "Application Programming Interface." Before I lose you with a bun
 APIs are used in almost all software, websites, mobile apps, or computer games. Some companies even make money using only their APIs, but before I get to that, let's take a look at an example of an API you're probably familiar with:
 
 ![Facebook API login](https://i.imgur.com/idFuNEf.png)
-
-<!-- ad-banner -->
 
 Ever seen a screen like this? This is a Facebook login button, and it uses Facebook's API to allow users to verify their identity. It essentially lets you skip entering your username and password by using your Facebook account as proof that you are who you say you are. Developers who use Facebook's API can save themselves time by not having to build their own username and password login system, instead piggy-backing off of Facebook's.
 
@@ -89,8 +85,6 @@ While many APIs are a bonus or supplemental feature, some companies are built as
 This means that developers hoping to analyze or categorize data can simply send their text to Aylien, then listen for a response with all the analysis they need. There's no custom code involved at all, and using Aylien with existing data should take no more than a few minutes. They charge customers for this time-savings though - once you go over their free tier, there's a fee for using it.
 
 Aylien might someday offer a user interface, but by starting out as an API-first company, they've aligned themselves with developers and put the focus on their technical tooling rather than UI.
-
-<!-- ad-banner -->
 
 ## Does Every Business Need an API?
 
