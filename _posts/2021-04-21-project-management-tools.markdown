@@ -43,6 +43,18 @@ It integrates with a wide array of tools, including Slack, QuickBooks, Dropbox, 
 Their base plan, which comes with [all of TeamWave’s features](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830), starts at $39 per month. It is suitable for growing teams because it supports an unlimited number of users. More importantly, TeamWave has a free 14-day trial.
 
 
+### **[Monday](https://mondaycom.grsm.io/karlhughes7109)**
+
+[![Monday.com](https://i.imgur.com/cqwX9WV.png)](https://mondaycom.grsm.io/karlhughes7109)
+
+
+Monday can help your business move forward by bringing your team and work together on one platform. It is easy to set up and customize. You can choose from hundreds of creative templates or design your own.
+
+It has intuitive dashboards that let you visualize your tasks and progress. It makes it easier for you to monitor and manage all of your resources. Plus, it integrates with all of your tools, including Slack, Excel, and Google Calendar.
+
+The Basic plan, which is ideal for startups, costs $8 per user per month. It doesn’t have a free version, but it offers a free trial.
+
+
 ### **[Airtable](https://airtable.com/invite/r/4EaSmQNr)**
 
 [![Airtable home page](https://i.imgur.com/iuElXQG.jpg)](https://airtable.com/invite/r/4EaSmQNr)
@@ -183,20 +195,6 @@ Its Essential plan costs $26 per user per month, and it can support up to five u
 Simple yet powerful, Teamwork makes it possible for project managers to oversee complex projects. On the platform, you can create projects, assign tasks, upload documents, write comments, and more. Not only that, but it also lets you measure how long each task takes so you can be smart about project planning and prevent burnout.
 
 Teamwork has a free version, which is suitable for individuals and small teams. As you start handling multiple projects, you can turn to their paid plans, which start at $10 per user per month.
-
-
-
-
-### **[Monday](https://monday.com/)**
-
-![Monday.com](https://i.imgur.com/cqwX9WV.png)
-
-
-Monday can help your business move forward by bringing your team and work together on one platform. It is easy to set up and customize. You can choose from hundreds of creative templates or design your own.
-
-It has intuitive dashboards that let you visualize your tasks and progress. It makes it easier for you to monitor and manage all of your resources. Plus, it integrates with all of your tools, including Slack, Excel, and Google Calendar.
-
-The Basic plan, which is ideal for startups, costs $8 per user per month. It doesn’t have a free version, but it offers a free trial.
 
 
 ## Conclusion

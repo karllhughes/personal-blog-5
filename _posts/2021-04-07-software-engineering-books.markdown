@@ -105,7 +105,7 @@ I think one of the hardest ideas for new engineers to grasp is refactoring. In t
 Whether you're considering a move into management or you're just taking on a technical lead role, the books in this category should be on any software engineer's reading list. They might be a little too abstract for junior developers, but after a few years in the industry, you'll start to see some of these patterns in the real world. These books will help you understand and manage relationships with your team better.
 
 ### [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://amzn.to/3rZobAz)
-If you decide to go into [engineering management](https://www.karllhughes.com/posts/engineering-manager), your career path, goals, and day-to-day tasks change completely. Most new managers fail to realize this and still try to spend time coding and keeping up with every technical challenge. _The Manager's Path_ gives you a guide to this new career path and is well worth a read if you're applying for your first management roles now.
+If you decide to go into [engineering management](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager), your career path, goals, and day-to-day tasks change completely. Most new managers fail to realize this and still try to spend time coding and keeping up with every technical challenge. _The Manager's Path_ gives you a guide to this new career path and is well worth a read if you're applying for your first management roles now.
 
 "Fournier's book is a comprehensive overview of all the roles on the career path of modern technical management (starting from "senior engineer mentoring an intern" all the way up to CTO) and how to deal with the challenges at every step of the way."
 

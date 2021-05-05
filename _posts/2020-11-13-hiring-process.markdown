@@ -26,7 +26,7 @@ _Note: If you're looking for some books to help you on your journey as a softwar
 
 ## The Problem with Hiring Software Engineers
 
-Any [engineering manager](https://www.karllhughes.com/posts/engineering-manager) who's hired people in the past will tell you that it's hard. 
+Any [engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager) who's hired people in the past will tell you that it's hard. 
 
 There are lots of constraints, no way to fairly compare two candidates, and suitable candidates for one team may be horrible for another. Because it's so hard, the process has evolved to favor people who think like the interviewers, who know someone at the company, or who perform well in high-pressure interviews. It leaves people with non-traditional backgrounds struggling, often works against diverse candidates, and is nothing like the day-to-day work that most engineers do.
 
