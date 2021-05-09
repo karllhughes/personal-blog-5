@@ -43,7 +43,7 @@ It integrates with a wide array of tools, including Slack, QuickBooks, Dropbox, 
 Their base plan, which comes with [all of TeamWave’s features](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830), starts at $39 per month. It is suitable for growing teams because it supports an unlimited number of users. More importantly, TeamWave has a free 14-day trial.
 
 
-### **[Monday](https://mondaycom.grsm.io/karlhughes7109)**
+### **[Monday.com](https://mondaycom.grsm.io/karlhughes7109)**
 
 [![Monday.com](https://i.imgur.com/cqwX9WV.png)](https://mondaycom.grsm.io/karlhughes7109)
 
@@ -80,19 +80,11 @@ Trello harnesses the power of automation to minimize tedious tasks and processes
 
 You can get Trello for free. As your organization scales, you can get the paid plans, which come with unlimited boards, advanced checklists, and priority support among other things. The paid plans start at $10 per user per month and are worth every cent in my opinion.
 
-### **[Basecamp](https://basecamp.com/)**
+### ~~Basecamp~~
 
 ![Basecamp homepage](https://i.imgur.com/YkxXsJ3.png)
 
-
-For location-independent businesses, Basecamp is a toolkit that can help you work remotely. No matter where you and your team are in the world, you can keep all of your tasks organized using this all-in-one tool.
-
-Basecamp lets you organize your work into different projects. You can fill each one with all of the people, documents, and tasks related to the project. This makes it easier for you to oversee everything.
-
-Due to the COVID-19 pandemic, this tool is more important than ever as it lets you transition to a productive work-from-home environment. You can try Basecamp for free for 30 days.
-
-The Basecamp plan starts at $99 per month. It is a flat fee, which lets you add an unlimited number of users and projects.
-
+I no longer recommend Basecamp due to their [new policies banning political discussions](https://www.theverge.com/2021/4/27/22406673/basecamp-political-speech-policy-controversy), but I did write a new list of companies with better track records on diversity and inclusion that you can [use as an alternative](/posts/basecamp-alternatives).
 
 ### **[Clubhouse](https://clubhouse.io/)**
 
@@ -135,7 +127,7 @@ If you want to bring Notion into your small team, you can get it for $8 per user
 
 All of the paid plans have free trial versions.
 
-**[Asana](https://asana.com/)**
+### [Asana](https://asana.com/)
 
 
 ![Asana homepage](https://i.imgur.com/1UQ6cT8.png)
