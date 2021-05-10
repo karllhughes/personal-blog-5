@@ -103,9 +103,10 @@
   }
 
   .close-form {
-    float: right;
     cursor: pointer;
     color: $gray;
-    width: 0;
+    position: absolute;
+    right: 15px;
+    top: 15px;
   }
 }
