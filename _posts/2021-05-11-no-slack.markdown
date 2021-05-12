@@ -54,7 +54,7 @@ They make you think that you can "get work done" in Slack, but once all your imp
 
 I get it; they need to make money. I pay for dozens of services that help my team communicate better, but I don't like the bait and switch here.
 
-Similarly, it makes me nervous about adding new people to our team Slack because each person we add will result in a new $10 per month charge. With [50 freelancers on our team today](http://localhost:4000/posts/scaling-services), that's a cost we can't bear just yet.
+Similarly, it makes me nervous about adding new people to our team Slack because each person we add will result in a new $10 per month charge. With [50 freelancers on our team today](/posts/scaling-services), that's a cost we can't bear just yet.
 
 ### 4. Is It Private?
 As an employee, I always wondered if my private Slack messages were _really_ private or if higher-ups could read them. It was never really clear from Slack's product messaging.
