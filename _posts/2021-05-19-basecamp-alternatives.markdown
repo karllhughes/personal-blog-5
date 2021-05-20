@@ -1,7 +1,7 @@
 ---
 title: Alternatives to Basecamp for Project Management
 layout: post
-date: 2021-05-08
+date: 2021-05-19
 img: /assets/img/basecamp.png
 categories:
 - Startups
