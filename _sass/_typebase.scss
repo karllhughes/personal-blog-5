@@ -94,8 +94,9 @@ table {
 }
 td,
 th {
-  padding: 0;
+  padding: .5rem;
   line-height: $baseLineHeight * $baseFontSize - 0px;
+  border: 1px solid #a0a0a0;
 }
 /* Code blocks */
 
