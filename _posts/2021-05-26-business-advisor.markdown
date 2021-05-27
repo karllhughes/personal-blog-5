@@ -17,7 +17,7 @@ _Note: If you're looking for more reading material, check out [my list of the be
 
 ## What is a Business Advisor?
 
-Basically, a business advisor is a consultant who provides business owners assistance in running their businesses effectively. For me, the best advisors are great strategists who have both expertise and experience in almost all aspects of a business - in other words, they are probably founders or executives in established companies.
+Basically, a business advisor is a trusted source for a business owner to turn to as they run their business. For me, the best advisors are great strategists who have both expertise and experience in almost all aspects of a business - in other words, they are probably founders or executives in established companies.
 
 Business advisors should know the best practices of the industries they work in. They should be able to identify areas of concern, understand some of your operational challenges, and be willing to share insights with you. I've used my advisors to help with business forecasting, employee management, customer acquisition, accounting, legal compliance, and other critical areas of my business.
 
@@ -25,10 +25,11 @@ Statistics show that [9 out of 10 startups fail in their first year](https://sta
 
 ![Advisors should help you and support you](https://i.imgur.com/Df11F8K.png)
 
+Unlike a [startup consultant](/posts/startup-consulting), most advisors aren't paid to come in and provide help in a specific area of your business, but are more likely someone you meet with monthly or quarterly. They typically provide a much lighter touch than full-on consultants, but obviously, there's some grey area between the two terms.
+
 ## How a Business Advisor Can Help Your Startup 
 
-During your company's activation phase, input from advisors and mentors can make up for your limited experience. As you start scaling, advisors and mentors become even more essential in helping you address unique and challenging problems. Here are some key reasons why I believe startup founders need good advisors:
-
+During your company's early days, input from advisors and mentors can make up for your limited experience. As you start scaling, advisors and mentors become even more essential in helping you address unique and challenging problems. Here are some key reasons why I believe startup founders need good advisors:
 
 ### Management Advice
 
@@ -161,3 +162,5 @@ Ideally, you’d want to have a long-term relationship with your advisor. You wa
 5. Involve them in your planning. Business advisors bring a fresh perspective from an external viewpoint. They may be able to spot something you’ve overlooked and identify underlying problems before they worsen.
 
 As a founder, it's tempting to do everything on your own but having great business advisors is essential to your startup's longevity. Getting timely and relevant advice from people who have been through this before will make taking your business to the next level much easier.
+
+_Want more reading material? Check out [my list of startup books for founders](https://www.karllhughes.com/posts/startup-books) to fill your library._
