@@ -73,6 +73,6 @@ Unfortunately, you don't always get to pick your team, and sometimes you bring o
 
 - Ask the employee how you can help. While really strong "showers" will bring suggestions to you, be open and ask employees what you can do to support them. If the #1 goal of a manager is to keep their employees productive and happy, you have to struggle with them when they do.
 
-- Look for support from peers, other employees. I have worked really hard to cultivate a pool of mentors and peers who I can go to when I struggle with managing people. [Networking is tough, but worth every second](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch).
+- Look for support from peers, other employees. I have worked really hard to cultivate a [pool of mentors and peers](/posts/business-advisor) who I can go to when I struggle with managing people. [Networking is tough, but worth every second](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch).
 
 Whether you're reading this as an employee who wants to show their boss they can respond to feedback or as a manager who is giving this feedback regularly, I hope it helps to think in terms of "showers" and "sayers". If you want to continue to the conversation, [find me on Twitter](https://twitter.com/karllhughes).

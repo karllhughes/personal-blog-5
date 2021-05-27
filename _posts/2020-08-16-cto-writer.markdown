@@ -46,7 +46,7 @@ Knowing that I needed to be chasing growth, I began contemplating a more signifi
 
 Collins was talking about building companies, but it's true for careers as well. My job as an engineering leader had allowed me to earn good money, but I wasn't going to be the best in the world at it, and I wouldn't call engineering my life's passion. When I think about what people might say at my funeral, it's not, "Oh, Karl, he was a great engineer."
 
-As I started exploring my options, talking to friends and mentors, and weighing various business ideas, I kept wondering what I really wanted to be the "best in the world at?"
+As I started exploring my options, [talking to friends and mentors](/posts/business-advisor), and weighing various business ideas, I kept wondering what I really wanted to be the "best in the world at?"
 
 ## The Best at One Thing or Pretty Good at Two Things?
 

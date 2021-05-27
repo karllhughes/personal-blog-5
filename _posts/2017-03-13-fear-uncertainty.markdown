@@ -21,7 +21,7 @@ I walked out of the meeting with the founders a bit shaky and tried to focus on 
 
 [I've talked to countless CTOs and engineering managers](https://www.karllhughes.com/posts/roles-of-startup-cto) since then, and I now realize that this feeling of inadequacy is far from exceptional. In fact, [most people will have this feeling at some point in their career](http://bsris.swu.ac.th/journal/i6/6-6_Jaruwan_73-92.pdf), which is why we have a name for it: imposter syndrome.
 
-I'm not going to try to give you a cure-all for this feeling. If it's your first time managing a team, you're probably going to get it at some point, and hopefully you have a supportive network of mentors within and outside your company to help you out.
+I'm not going to try to give you a cure-all for this feeling. If it's your first time managing a team, you're probably going to get it at some point, and hopefully you have [a supportive network of mentors](/posts/business-advisor) within and outside your company to help you out.
 
 That said, here's what has helped me keep imposter syndrome from paralyzing me:
 

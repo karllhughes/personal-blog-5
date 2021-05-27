@@ -26,7 +26,7 @@ This is an excellent book for any entry-level project manager because it covers 
 
 ### [2. The Art of Project Management](https://amzn.to/2YKjPA5)
 
-Written by the best-selling author of seven books, Scott Berkun, this book is like having an experienced mentor to help guide you on your journey. It contains well-organized and useful guidance on how to tie mission, goals, and features together and get things done. I really like how Berkun managed to put so much useful information into an easy-to-read textbook.
+Written by the best-selling author of seven books, Scott Berkun, this book is like [having an experienced mentor](/posts/business-advisor) to help guide you on your journey. It contains well-organized and useful guidance on how to tie mission, goals, and features together and get things done. I really like how Berkun managed to put so much useful information into an easy-to-read textbook.
 
 “Great book! The descriptions provided detail on all aspects of project management. I would recommend this to all PMPs as well as anyone doing professional development as well.”
 

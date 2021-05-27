@@ -18,7 +18,7 @@ _Learning more about startups? I've compiled a list of [my favorite books for fo
 ## What is Startup Consulting?
 First off, when I say "consultant," I'm not talking about freelancers or contract hires. Those two categories of employees are essentially tax shelters for small companies that can't afford full-time people yet, and their work is typically very execution-focused.
 
-I'm also not talking about advisors, mentors, or coaches. People in these roles are typically more focused on asking questions or serving as a sounding board. If you're an experienced entrepreneur coaching a new founder, that's great. I have several mentors, and they're invaluable, but they don't make a living from helping people like me.
+I'm also not talking about advisors, mentors, or coaches ([more on advisors here](/posts/business-advisor)). People in these roles are typically more focused on asking questions or serving as a sounding board. If you're an experienced entrepreneur coaching a new founder, that's great. I have several mentors, and they're invaluable, but they don't make a living from helping people like me.
 
 A startup consultant is someone whose business is to come into a small company, ask some questions, analyze the data, prepare a report, and make recommendations based on their findings. They don't execute tasks or manage team members directly (although there are exceptions) but focus instead on high-level strategy.
 
@@ -147,7 +147,7 @@ Sara Horowitz does a fantastic job laying out strategies for becoming a successf
 
 If you're really averse to getting tactical, but you're determined to help startups, you can take the mentorship path. While it's a little less direct - you typically don't want to approach founders and say, "Hey, can I mentor you sometime?" - it can be just as fulfilling as consulting.
 
-I've personally never paid my advisors or mentors, but I've known people who do, so you could make some money going this route. That said, if you need a steady income, you'll likely have to supplement your mentorship money with another source.
+I've personally never paid my advisors or mentors, but I've known people who do, so you could make some money going this route. That said, if you need a steady income, you'll likely have to supplement your mentorship money with another source. I wrote more about the [economics of becoming an advisor or mentor here](/posts/business-advisor).
 
 [The Mentor's Guide](https://amzn.to/38TWQYa) is a good read on this topic. Most people don't think much about the tactical side of mentoring, but Lois Zachary has. She lays out some fantastic strategies for mentors and advisors in this book.
 

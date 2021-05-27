@@ -60,7 +60,7 @@ Sometimes, founders stay in stealth mode with commonplace technology out of an i
 
 > "It’s like music — every chord progression has been written before somewhere. The key is that there are so many different ways to execute the same idea. And your job is to figure out the right way." - [Mattan Griffel, Co-founder of One Month](https://learn.onemonth.com/startup-ndas-why-you-shouldnt-be-afraid-of-someone-stealing-your-startup-idea/)
 
-If you're considering building a stealth startup and you think fear _might_ be the reason, take a step back. Find a trusted mentor or two to share your idea with and see what they think.
+If you're considering building a stealth startup and you think fear _might_ be the reason, take a step back. [Find a trusted mentor or advisor](/posts/business-advisor) to share your idea with and see what they think.
 
 ## Problems with Stealth Startups
 I've hinted at some of the problems stealth startups face above, but fear and lack of confidence aren't the only ones. Here are a few aspects of building a company that get harder when you're trying to keep your operation under wraps:
