@@ -83,7 +83,7 @@ Once you leave the role of "software engineer," and step into management, your j
 
 ### [Lean from the Trenches: Managing Large-Scale Projects with Kanban by Henrik Kniberg](https://amzn.to/2BUjHDb)
 
-Kanban is one of the most valuable tools for agile project management. Once you're a manager, your job becomes reporting on progress of projects you may no longer be directly involved in, so you need tools like Kanban to visualize your team's progress. This book goes beyond the theory and gives you lots of real-world examples of Kanban in the field.
+Kanban is one of the most valuable tools for [agile project management](/posts/sprint-tracking). Once you're a manager, your job becomes reporting on progress of projects you may no longer be directly involved in, so you need tools like Kanban to visualize your team's progress. This book goes beyond the theory and gives you lots of real-world examples of Kanban in the field.
 
 "You can find many books on Kanban (or any other "agile" philosophy/methodology), but real world information about about HOW those philosophies have been implemented, and how real world problems have been solved are hard to come by. This book meets that pressing need."
 

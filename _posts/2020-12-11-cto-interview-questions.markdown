@@ -127,7 +127,7 @@ CTOs can become mini project managers responsible for allocating resources in th
 
 ### 10. Describe for me an “Agile” development workflow you’ve used in the past?
 
-If you’re a startup organization, then we reckon there’s, well, quite a high chance that you’re going to be using Agile as your formal development and project management methodology. As with most things, it’s generally advantageous if the CTO candidate can demonstrate that they have prior experience in this field so that they can hit the ground running. 
+If you’re a startup organization, then we reckon there’s, well, quite a high chance that you’re going to be [using Agile as your formal development and project management methodology](/posts/sprint-tracking). As with most things, it’s generally advantageous if the CTO candidate can demonstrate that they have prior experience in this field so that they can hit the ground running. 
 
 **What to look for:** Somebody that, through recounting prior experience, can demonstrate that they have good mastery over the Agile process and can walk you through a prior workflow that they successfully implemented. 
 

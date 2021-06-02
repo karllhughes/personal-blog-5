@@ -25,7 +25,7 @@ It's nobody's fault, but new team members need time to adjust and learn your tea
 
 Good businesses iterate a lot on their products. Poorly run businesses fail to finish testing one thing before they move on to the next.
 
-It can be challenging, but getting the product owner and engineering team to agree to a minimum requirements list will make everyone happier down the line. I say "minimum" requirements because if we're obeying agile principles, that is just our starting point for future iterations. Even if we need something more advanced down the line, we have to agree on the minimum that the app must do.
+It can be challenging, but getting the product owner and engineering team to agree to a minimum requirements list will make everyone happier down the line. I say "minimum" requirements because [if we're obeying agile principles](/posts/sprint-tracking), that is just our starting point for future iterations. Even if we need something more advanced down the line, we have to agree on the minimum that the app must do.
 
 ## Unfamiliar technologies
 
