@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sprint Planning and Agile Metrics"
-date: 2021-06-16
+date: 2021-06-01
 img: /assets/img/sprint-planning.png
 categories:
 - Management
@@ -10,6 +10,8 @@ categories:
 In late 2014, I was managing a team of software engineers working diligently on a complete rewrite of our platform at [Packback](https://www.packback.co/). While we checked in regularly on our progress, we were using a waterfall release cycle. When we finally flipped the switch and moved to our version 2.0 in May 2015, we decided to transition to an [Agile](http://agilemethodology.org/) process.
 
 **Agile is great for [startups who need to build software](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer) at a predictable pace while remaining flexible enough to change the product frequently**. Using short, focused sprints, engineering teams can iterate faster and release new versions more regularly.
+
+<!-- ad-banner -->
 
 That said, Agile brings its own set of challenges. Just because you put a working system in place doesn't mean you won't run into issues along the way. A few things my teams struggled with when implementing Agile include:
 
@@ -35,6 +37,8 @@ Before we dive into agile metrics and the sprint planning process, it might be h
 
 ![An agile product team](https://i.imgur.com/zjVNpQJ.jpg)
 
+<!-- ad-banner -->
+
 At one of my previous startups, our designer was also one of the company's co-founders, so she served as our product owner for most projects. This kind of role merger is typical at early-stage startups, but it can present new challenges. For example, we had a hard time getting enough of our co-founder/designer's time to plan and prepare for each sprint.
 
 To keep things moving, we choose one engineer each sprint to serve as the [scrum master](https://www.projectmanager.com/blog/what-is-a-scrum-master-everything-you-need). They take the business requirements and turn them into stories that translate into engineering work, oversee the sprint planning and retrospective meetings, make sure standups stay on track, and deal with "unexpected" work that showed up during the sprint.
@@ -48,7 +52,7 @@ I break sprints down into eight steps:
 
 ### 1. Prioritization
 
-[<img src="https://i.imgur.com/DrIU9P8.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="Doing Agile Right book cover" />](https://amzn.to/3uaGfbc)
+[<img src="https://i.imgur.com/DrIU9P8.jpg" class="image-right" alt="Doing Agile Right book cover" />](https://amzn.to/3uaGfbc)
 
 During the previous sprint, our leadership team prioritizes features and work coming down the pike. It took a while for me to realize how counterproductive being reactionary (e.g., "oh, I just thought of a cool idea, let's do it now!") was. Moving a team towards a process will net you clear results in any size company, but especially in a startup where resources are tightly constrained.
 
@@ -63,6 +67,8 @@ Some companies have separate design teams with their own sprints - which isn't a
 Up until this point, the work is talked about in terms of "features" or "pages," so next, we take those features (represented by cards in Trello) and write one to five "stories" for each of them.
 
 [Writing user stories is another big project](http://www.agilemodeling.com/artifacts/userStory.htm), so I won't go into that in detail, but **a good story makes it clear what the outcome should be for the end-user of the feature rather than define how the feature should be built**. After stories are written, we keep them in holding until the next sprint planning meeting.
+
+<!-- ad-banner -->
 
 ### 4. Sprint Planning Meeting
 When the engineering team is ready to start a new sprint, we decide on the next scrum master, and they lead the sprint planning meeting. In this meeting, we try to define:
@@ -87,6 +93,8 @@ It's important for engineering teams to show the business what we do. If our sal
 
 So after every sprint, we hold a brief *demo day* (usually 1-2 hours), where the scrum master goes through each story and shows that it now behaves as expected. If something isn't working as expected or someone notices an issue, we either move the story back and try to fix it before the release or hold it back so we can finish it in the next sprint.
 
+<!-- ad-banner -->
+
 ### 7. Sprint Retrospective
 Being self-aware is one sign of a mature team, so during our retrospective we talk about:
 
@@ -103,6 +111,8 @@ Finally, when all the stories are demoed, and the team is ready, we merge our de
 During deployment, we watch our logs and make sure nothing gets stuck. With big releases, there is almost always an edge case or two we didn't think of, and then we have to decide whether to deploy a hotfix or roll back to the previous version of our application.
 
 ![Deployment is like a rocket launch for agile](https://i.imgur.com/wwBttYI.jpg)
+
+<!-- ad-banner -->
 
 ## Agile Metrics and Tracking Sprint Progress
 I mentioned above that during our retrospective, we review some key metrics related to our sprint, but we also make them visible to everyone _during_ the sprint as well. We track estimated points, completed points, and the number of stories delivered by each team member. Here's how our sprint tracking dashboard evolved over time:
@@ -152,6 +162,8 @@ There are seemingly infinite agile tools available now, but if you're a small te
 3. **GitHub** - Implementing a branching and pull-request system is essential. GitHub is still the best option as it's got great integrations, actions, and a solid commenting system. We used pull requests to ensure that at least two team members sign off on each code change before it hits the development servers.
 
 4. **Klipfolio** - Many project management tools offer dashboards, but there are often limits to how well they integrate with other tools. Using Klipfolio, we can gather data from Trello, GitHub, and more to publicly share our progress with the rest of the company.
+
+<!-- ad-banner -->
 
 ![Agile tools](https://i.imgur.com/Crb595L.jpg)
 

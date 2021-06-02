@@ -1,12 +1,12 @@
 /*! Typebase.scss v0.1.0 | MIT License */
 
 // Typesetting variables. Edit here or override in main file prior to import of this.
-$baseFontSize:22 !default; // in pixels. This would result in 22px on desktop
-$baseLineHeight:1.5 !default; // how large the line height is as a multiple of font size
-$leading:$baseLineHeight * 1rem !default;
+$baseFontSize: 22 !default; // in pixels. This would result in 22px on desktop
+$baseLineHeight: 1.5 !default; // how large the line height is as a multiple of font size
+$leading: $baseLineHeight * 1rem !default;
 // Rate of growth for headings
 // I actually like this to be slightly smaller then the leading. Makes for tight headings.
-$scale:1.414 !default;
+$scale: 1.414 !default;
 
 /* Setup */
 
@@ -23,6 +23,7 @@ html {
   // text-size-adjust: auto
 
 }
+
 /* Copy & Lists */
 
 p {
@@ -30,24 +31,29 @@ p {
   margin-top: $leading;
   margin-bottom: 0;
 }
+
 ul,
 ol {
   margin-top: $leading;
   margin-bottom: $leading;
+
   li {
     line-height: $leading;
   }
+
   ul,
   ol {
     margin-top: 0;
     margin-bottom: 0;
   }
 }
+
 blockquote {
   line-height: $leading;
   margin-top: $leading;
   margin-bottom: $leading;
 }
+
 /* Headings */
 
 h1,
@@ -63,28 +69,35 @@ h6 {
   line-height: $leading;
   font-weight: bold;
 }
+
 h1 {
   font-size: 3 * $scale * 1rem;
   line-height: 3 * $leading;
   margin-top: 2 * $leading;
 }
+
 h2 {
   font-size: 2 * $scale * 1rem;
   line-height: 2 * $leading;
   margin-top: 2 * $leading;
 }
+
 h3 {
   font-size: 1 * $scale * 1rem;
 }
+
 h4 {
   font-size: $scale / 2 * 1rem;
 }
+
 h5 {
   font-size: $scale / 3 * 1rem;
 }
+
 h6 {
   font-size: $scale / 4 * 1rem;
 }
+
 /* Tables */
 
 table {
@@ -92,27 +105,39 @@ table {
   border-spacing: 0px;
   border-collapse: collapse;
 }
+
 td,
 th {
   padding: .5rem;
   line-height: $baseLineHeight * $baseFontSize - 0px;
   border: 1px solid #a0a0a0;
 }
+
 /* Code blocks */
 
 code {
   // Forces text to constrain to the line-height. Not ideal, but works.
   vertical-align: bottom;
 }
+
 /* Leading paragraph text */
 
 .lead {
   font-size: $scale * 1rem;
 }
+
 /* Hug a the block above you */
 
 .hug {
   margin-top: 0;
+}
+
+.image-right {
+  float: right;
+  margin-left: 20px;
+  margin-top: 1.5rem;
+  width: 270px;
+  height: auto;
 }
 
 @media (max-width: 576px) {
@@ -125,6 +150,12 @@ code {
     font-size: 1.5 * $scale * 1rem;
     line-height: 1.5 * $leading;
     margin-top: 1.5 * $leading;
+  }
+  .image-right {
+    float: none;
+    margin: 1.5rem 0 0;
+    width: 100%;
+    height: auto;
   }
 }
 
