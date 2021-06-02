@@ -14,6 +14,8 @@ starting point of all the advice I typically share with new coding bootcamp grad
 
 While I didn't attend a coding bootcamp myself, I am a self-taught software developer, so I can relate to the challenges that new graduates face. I've also hired a few bootcamp graduates and talked with countless others in job interviews and meetups, so I've gotten to know many bootcamp success stories over the years.
 
+<!-- ad-banner -->
+
 Here's what I've seen work:
 
 ## Before Graduation
@@ -44,6 +46,8 @@ If you don't want to start your own, take a look at some open-source projects an
 Before you graduate, come up with a list of 10 or fewer companies you want to work at. Pick what matters to you: industry, pay rate, prestige, tech stack. It doesn't matter if they have a job listing or not. Focus on places you want to work and getting to know people at them.
 
 The best job openings go to internal recommendations before they even get published.
+
+<!-- ad-banner -->
 
 ## The Job Hunt
 
@@ -82,6 +86,8 @@ Another way to catch red flags is through backdoor interviews.
 
 Reach out to someone who previously worked at the company and ask them what it's really like inside. You'll get some interesting intel most of the time.
 
+<!-- ad-banner -->
+
 ### 5. Keep Moving...Literally
 Staying in shape is a [long-term investment in yourself and your career](/posts/health-investment-success). I know it seems easy to take a pass on working out when you're job hunting, but don't. It'll help you keep your confidence up and give you a reason to wake up and shower every day.
 
@@ -95,6 +101,8 @@ Develop some expertise or a unique mashup of skills that makes you a niche probl
 No matter how senior you get, you can't coast in this industry.
 
 Early in your career, you need to spend time learning things that you don't have time to learn at work. I typically recommend 10-15 hours per week.
+
+<!-- ad-banner -->
 
 ### 3. Write
 You don't have to write anything profound, but the writing is [the best way to increase your career influence](https://www.karllhughes.com/posts/engineers-should-write).
@@ -111,5 +119,3 @@ Your career is long and there are lots of interesting branches you can take.
 I recently transitioned from being a startup [CTO to a writer and business owner](https://www.karllhughes.com/posts/cto-writer).
 
 The technical skills you develop as a software engineer can carry over into many other areas. Don't be afraid to be creative and cultivate weird combinations of skills.
-
-<a target="_blank" href="https://shareasale.com/r.cfm?b=1214291&amp;u=1653894&amp;m=59485&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/59485/TrainingAffiliateAds_728x90-Generic.png" border="0" /></a>

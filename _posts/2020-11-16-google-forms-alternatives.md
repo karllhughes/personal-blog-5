@@ -11,6 +11,8 @@ I've been using [Google Forms](https://www.google.com/forms/about/) for over a d
 
 That said, it's 2020 and there are plenty of alternatives to Google Forms that might work better for your startup. Depending on what you want to do, one of these Google Forms competitors might finally get you to change the way you collect surveys and user input.
 
+<!-- ad-banner -->
+
 ## Why Replace Google Forms?
 If Google Forms are working for you, then great. No need to fix what isn't broken. That said, there are a lot of good reasons to seek an alternative. For example, what if you want to customize the styling on your forms? Google Forms gives you very limited options for this.
 
@@ -118,5 +120,7 @@ Paperform is perfect for creating bespoke forms and landing pages. You can lever
 [![WPForms](https://i.imgur.com/v1aYTCW.png)](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312)
 
 As one of the most popular paid WordPress plugins available, [WPForms](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312) is worth considering if your site is built on WordPress. Like other options on this list, it includes custom hooks, filters, and styling so your forms fit your design and data needs. 
+
+<!-- ad-banner -->
 
 _Note: This post was originally published in 2018, but was updated with new options and more details in November 2020._

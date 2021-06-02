@@ -18,6 +18,7 @@ I understand that every manager has a different experience. I used to work as an
 
 Over the years, I’ve read many books on leadership and management that have given me insight and guidance. A few weeks ago, I shared [my favorite books for experienced managers](https://www.karllhughes.com/posts/management-books), and this week, I’m sharing 15 of my top picks especially for **new managers.** These books will help you chart your career and better steer your colleagues in the right direction.
 
+<!-- ad-banner -->
 
 ## Networking and Job Hunting
 

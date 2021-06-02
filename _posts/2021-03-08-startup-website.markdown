@@ -23,6 +23,8 @@ Finally, don't hire someone to code your first startup website from scratch. Use
 
 _Looking for more helpful resources for building a startup? Check out [my reading list for founders](https://www.karllhughes.com/posts/startup-books)._
 
+<!-- ad-banner -->
+
 ## Startup Websites You Can Emulate
 If you’re a startup founder who’s building your first website, it can be helpful to draw inspiration from existing designs. In this list of 25 inspirational examples of startup websites, I've tried to collect a sampling of solid, simple designs you can build on. Each of them does a good job explaining what each company does and what makes them unique.
 
@@ -37,6 +39,8 @@ A great way to show off your product is to showcase it right upfront. Limepay do
 ![Coda](https://i.imgur.com/TdsG29A.png)
 
 Coda is an all-in-one document tool for businesses and customers of any industry. As you can see from their home page, they immediately address their customers’ pain points in one image — managing multiple documents and sheets from different platforms is a headache. They do a great job explaining how their tool helps and give you a call to action so you can get started right away. They also start with a clever pun, which never hurts.
+
+<!-- ad-banner -->
 
 ### 3. [HackerOne](https://www.hackerone.com/)
 
@@ -68,6 +72,8 @@ Samsara provides an integrated platform to increase safety, efficiency, and sust
 ![Kohost](https://i.imgur.com/EBp9FcG.png)
 
 Kohost’s API allows hotel guests to easily control all in-room technology, no matter the brand. This is an excellent example of a clean and simple tagline with two calls to action. The header gives you only three options — How Kohost Work, Advantages, and Contact. They don’t make it too complicated, and they pinpoint three areas in the room that can be connected to one device. Plus, the landing page has awesome scrolling animation.
+
+<!-- ad-banner -->
 
 
 ### 8. [Brooklinen](https://www.brooklinen.com/)
@@ -108,6 +114,8 @@ Not only does Store Maven tell you exactly what they do from the get-go, but the
 
 This startup is doing great things by connecting small farms to consumers. They have great catchphrases like “Farm to fam” and “Never miss a _beet_,” and their website is full of funky shapes and cool designs. Considering they are helping small farms, they go with green and blue colors so that you think about nature and sunny days. When you scroll down, they explain the problem and their solution. Their website checks all the boxes for an inspiring company.
 
+
+<!-- ad-banner -->
 
 ### 14. [WPX Hosting](https://wpx.net)
 
@@ -174,6 +182,8 @@ This is simplicity at its finest. Tell them what you do, how to get it, and how 
 
 The sales engagement platform, Outreach, provides AI-powered tools that help sales reps identify, contact, and stay in touch with customers. When you start scrolling down on their website, the first thing you read is a quote from one of their customers. Testimonials are a great way to connect with your audience because consumers naturally trust each other more than they trust a company trying to sell them something — It’s an unbiased voice that establishes trust.
 
+<!-- ad-banner -->
+
 
 ### 24. [Attentive](https://www.attentivemobile.com/)
 
@@ -188,6 +198,8 @@ Give the people what they want — results. Tell them what you do for your custo
 
 Verkada sells enterprise security systems, and they’re continually releasing new technology, features, and products. Their website looks almost futuristic with the black and white colors, graphics, and high-tech security products on display. Verkada’s landing page is a revolving door of announcements, which makes them seem innovative and ahead of the curve. This is a great way to show customers that you are always striving to stay ahead of your competitors.
 
+
+<!-- ad-banner -->
 
 ## Final thoughts
 

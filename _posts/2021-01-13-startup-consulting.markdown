@@ -11,6 +11,8 @@ One of my friends recently brought up the idea of consulting for startups. He's 
 
 I've thought about this topic a lot. I have worked for early-stage startups, done some startup consulting, and met plenty of startup consultants. A few of them have actually been pretty successful.
 
+<!-- ad-banner -->
+
 That said, I steer consultants away from startups when they ask, and in this post, I'll explain why. [I love working with startups](/posts/working-at-startup), so please don't read this as a knock against them. As you'll see, they're just an objectively poor target market for consultants.
 
 _Learning more about startups? I've compiled a list of [my favorite books for founders here](https://www.karllhughes.com/posts/startup-books)._
@@ -23,6 +25,8 @@ I'm also not talking about advisors, mentors, or coaches ([more on advisors here
 A startup consultant is someone whose business is to come into a small company, ask some questions, analyze the data, prepare a report, and make recommendations based on their findings. They don't execute tasks or manage team members directly (although there are exceptions) but focus instead on high-level strategy.
 
 Startup consultants aren't typically involved for the long-term (and are almost never offered equity), but the good ones might provide some follow-through to see how their recommendations pan out. They might also offer a retainer to answer questions about their recommendations as they come up, but they usually aren't part of the day-to-day.
+
+<!-- ad-banner -->
 
 ### Why Do People Start Consulting for Startups?
 
@@ -43,6 +47,8 @@ What consultants offer is squishy, and for big companies, it can be more politic
 **While large companies hire consultants to validate decisions or reassure institutional investors, startups hope you will solve their deepest, darkest problems.** Your recommendation isn't just a handy report for investors - they're going to stake the future of their business on it.
 
 ![Large company vs. startup consulting](https://i.imgur.com/YkVXgqm.png)
+
+<!-- ad-banner -->
 
 While you will certainly send the startup off with the strategy document you promised, anyone who has worked with a startup knows that **things change too fast for a static recommendation like this to make any difference**. They're going to need you to come back and revise the strategy as they learn new things. Unfortunately, you probably didn't build that into the price, so now you're annoyed that they won't just follow your original plan, and they're annoyed that they spent $20k for an outdated document.
 
@@ -75,6 +81,8 @@ So, it's tough for a startup to justify bringing on a consultant who _only_ offe
 
 Most startup founders who have cleared the first couple of bars by doing some fundraising and making some sales are pretty smart people. They don't need a consultant who's never been in their shoes to tell them how to run their business; they need humble people who can get their hands dirty and make shit happen.
 
+<!-- ad-banner -->
+
 ### 4. Consultants Don't Share the "Vision"
 
 > "Consultants had a very topical view of our business, did not sit with us every day, and did not have the same passion and zeal for our company that we as founders naturally had. After three months, we stopped using them and learned a very important lesson." - [Gray Skinner, CEO at Droplr](https://www.startups.com/library/expert-advice/should-you-hire-startup-consultants)
@@ -92,7 +100,7 @@ For one thing, many consultants tend to overgeneralize their experience. If you'
 
 > “We love anecdotes so much because it’s often much easier for people to believe someone’s testimony as opposed to understanding complex data and variation across a continuum. Anecdotes exempt us from having to prove our point: it’s happened once; that’s solid proof as far as I’m concerned.” - [Manuel Frigerio](https://manuel.friger.io/blog/advice)
 
-This overgeneralization problem seems especially toxic in startup consulting because what worked in [cutting-edge startups]() five years ago won't necessarily work today.
+This overgeneralization problem seems especially toxic in startup consulting because what worked in [cutting-edge startups](/posts/high-tech-enabled) five years ago won't necessarily work today.
 
 > "The solution the firm comes up involves a high tech presentation and even higher tech case studies, but when it comes to the true substance of the steps they recommend, it may as well be 1982." - [Michael Schein, CEO at Microfame Media](https://www.inc.com/michael-schein/how-consultants-kill-business.html)
 
@@ -106,6 +114,8 @@ There's value in learning and trying multiple marketing channels, even if they d
 > "Most of the time, your first attempt out of the gate will be suboptimal.  You should not simply write off a channel because of this.  Rather, you should determine if you’re within 'striking range' of making that channel work. Then, you can start iterating until the channel starts paying dividends." - [Ryan Farley, Co-founder at LawnStarter](https://www.ryanjfarley.com/startup-customer-acquisition-channels/)
 
 My point is that consultants tend to offer solutions without offering much of the learning that happens along the way. This makes them a really bad fit for startups where the founders need to be [taking missteps that lead to learning](https://www.waterford.org/education/why-failure-is-better-than-success-for-learning/).
+
+<!-- ad-banner -->
 
 ### 7. Failure is Imminent
 [Up to 90% of startups ultimately fail](https://review42.com/what-percentage-of-startups-fail/). As a consultant, you need to get some wins under your belt, and startups are not a very reliable way to do so. You can take some risk off the table by working exclusively with venture-funded startups or startups that are crossing over the 5-year mark, but by that point, they'll start behaving more like mid-sized businesses than startups anyway.

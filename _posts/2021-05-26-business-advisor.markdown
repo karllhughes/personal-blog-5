@@ -15,6 +15,8 @@ So in this guide, I want to share **everything I've learned about finding and wo
 
 _Note: If you're looking for more reading material, check out [my list of the best startup books for founders](https://www.karllhughes.com/posts/startup-books)._
 
+<!-- ad-banner -->
+
 ## What is a Business Advisor?
 
 Basically, a business advisor is a trusted source for a business owner to turn to as they run their business. For me, the best advisors are great strategists who have both expertise and experience in almost all aspects of a business - in other words, they are probably founders or executives in established companies.
@@ -24,6 +26,8 @@ Business advisors should know the best practices of the industries they work in.
 Statistics show that [9 out of 10 startups fail in their first year](https://startupgenome.com/). While all businesses face challenges, [startups are especially challenging to get off the ground](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer), so having business advisors is crucial. I believe the right ones significantly increase your chances for long-term success.
 
 ![Advisors should help you and support you](https://i.imgur.com/Df11F8K.png)
+
+<!-- ad-banner -->
 
 Unlike a [startup consultant](/posts/startup-consulting), most advisors aren't paid to come in and provide help in a specific area of your business, but are more likely someone you meet with monthly or quarterly. They typically provide a much lighter touch than full-on consultants, but obviously, there's some grey area between the two terms.
 
@@ -40,6 +44,8 @@ Even if you took courses on business management prior to founding your startup, 
 
 One of the most common reasons startups fail is their lack of a concrete roadmap. They have a goal in mind but are often unable to clearly plan how to get there. To ensure your startup becomes a success, a business advisor works with you in creating your own roadmap. This roadmap is based on a strategic plan that details milestones, workflows, processes, and everything else you need to reach your business goal. With their years of experience, business advisors will be much more familiar with the best routes to take and even how to prep detours for potential obstacles.
 
+
+<!-- ad-banner -->
 
 ### Market Research
 
@@ -67,6 +73,8 @@ All business advisors will have invaluable experience, but the ideal one for you
 Your business advisor will have access to your business plan, financial records, and other documents, making it important to get someone you can trust. This is why I recommend that you rely only on those with stellar reputations in the industry or those who are widely recommended by your peers.
 
 
+<!-- ad-banner -->
+
 ### Access
 
 A business advisor with a robust network of industry contacts can provide invaluable help in raising capital for your startup. Look for someone with established connections with investors, partners, and other relevant figures in the industry.
@@ -85,6 +93,8 @@ As a startup, your business advisor should not be on a one-time consulting basis
 ## Where to Look for a Business Advisor
 
 Now that you have an idea of what to look for in a business advisor, the hard part begins—finding the best one for your startup. Here are among the best places to find your ideal business advisor.
+
+<!-- ad-banner -->
 
 ### Networking Groups
 
@@ -107,6 +117,8 @@ Join Facebook groups for entrepreneurs and startups. There’s bound to be a hos
 ### Conferences and Events
 
 Another great way is to attend conferences and industry events to widen your network. These are also great venues to connect with industry experts and former founders who have made successful exits.
+
+<!-- ad-banner -->
 
 ### [AngelList](https://angel.co/)
 
@@ -150,6 +162,8 @@ Equity advisors are usually given around 0.25% to 1.0%. I found some charts in t
 | Standard: Monthly Meetings | 0.25%      | 0.20%         | 0.15%        |
 | Expert: Very Involved      | 1.00%      | 0.80%         | 0.60%        |
 
+
+<!-- ad-banner -->
 
 ## Tips for Working With a Business Advisor
 

@@ -22,6 +22,8 @@ My approach is a little unconventional, but I hope it inspires you to think outs
 
 _Note: If you're looking for some books to help you on your journey as a software engineering manager, [here are some of my favorites](https://www.karllhughes.com/posts/reading-for-engineering-managers)._
 
+<!-- ad-banner -->
+
 ## The Problem with Hiring Software Engineers
 
 Any [engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager) who's hired people in the past will tell you that it's hard. 

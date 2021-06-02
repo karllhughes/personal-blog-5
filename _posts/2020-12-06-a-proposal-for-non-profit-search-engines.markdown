@@ -9,6 +9,8 @@ categories:
 
 Google is the [most widely-used search engine](https://www.smartinsights.com/search-engine-marketing/search-engine-statistics/) in the world, and the company now offers hundreds of other services and products on top of search-based advertising. Personally, I think Google has done a great job improving search over the past two decades, but we are reaching a point where Google's interests are colliding with offering honest search results to users.
 
+<!-- ad-banner -->
+
 ## Google's Competing Services
 All the way back in 2012, Yelp's IPO statement cited Google as both its [biggest asset for gaining new users as well as its biggest competitor](http://seekingalpha.com/article/399831-yelp-has-a-google-problem). Because the site was the largest local business review site when it went public, it gathered much of its traffic from users who use Google to search for nearby businesses - especially those without a website or strong social media presence.
 
@@ -30,6 +32,8 @@ Realistically, it's not likely that a new competitor will be able to enter the s
 
 For example, they could break Google up into multiple companies like they [did to the telephone companies in the 1980s](https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System), or Google search could be turned into a public utility. This is [how electric companies became publicly supported infrastructure](https://www.project-disco.org/competition/030819-antitrust-in-60-seconds-public-utility-regulation/), so it's not impossible that it could happen again.
 
+<!-- ad-banner -->
+
 ### How Would a Non Profit Search Engine Work?
 Essentially, a non-profit search engine would allow users to drive improvements to the algorithm by reporting bad results or collaborating on improvements.
 
@@ -41,6 +45,8 @@ Of course, there is room for abuse in this system as well, but there are numerou
 The closest thing we have today is [DuckDuckGo](https://duckduckgo.com/), which is closed-source and for-profit, but does not store personal data. This gives users some of the privacy-focused features that a non profit search engine might provide, but doesn't answer the potential for abuse or eventual monopoly.
 
 ![DuckDuckGo search engine](https://i.imgur.com/OkT1Ljn.png)
+
+<!-- ad-banner -->
 
 Earlier this year, I spent 3 months exclusively using DuckDuckGo as my search engine of choice. As a programmer, it was really challenging though. Google's results have lots of context about my browsing behaviors, but DuckDuckGo doesn't, so it takes a little massaging to get the results you might expect.
 

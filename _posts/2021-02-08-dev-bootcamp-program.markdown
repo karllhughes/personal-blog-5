@@ -11,6 +11,8 @@ You've probably noticed the rise coding bootcamps over the past few years. If yo
 
 These programs are more analogous to trade schools, and often they take applicants from non-traditional backgrounds who are looking to make a career transition. The goal of each program varies, but generally they are trying to teach students enough applied knowledge to build a website or mobile app in 6 to 12 weeks.
 
+<!-- ad-banner -->
+
 Over the past several years, I've taught or guest spoken at many of Chicago's coding bootcamps including Dev Bootcamp, General Assembly, Fullstack Academy, Coding Dojo, and Startup Institute. While each of these programs is different, there are enough similarities between them that I can help you understand what to expect.
 
 In this post, I'm going to share a summary of what you can expect from a typical coding bootcamp. My goal is to help you set realistic expectations going in and be better prepared for life on the other side. The truth is that [merely attending a bootcamp won't skyrocket your career](https://www.karllhughes.com/posts/graduate-code-bootcamp), but it might open up [career paths that you wouldn't have expected anyway](https://www.freecodecamp.org/news/alternative-career-paths/).
@@ -34,6 +36,8 @@ That said, I'm not all skeptic. I think AI [will make a huge impact on the upcom
 
 The truth is that there is demand for software developers worldwide, *but* the biggest dearth of software engineering talent is localized. Large tech hubs like San Francisco, New York, and Chicago perpetually have more demand than supply when it comes to coding skills.
 
+<!-- ad-banner -->
+
 Simultaneously, the big tech companies are encouraging more people to learn to code because the more talent that's out there, the less they'll have to pay:
 
 > "Wage levels in the tech industry have remained flat since the late 1990s. Adjusting for inflation, the average programmer earns about as much today as in 1998. If demand were soaring, you’d expect wages to rise sharply in response. Instead, salaries have stagnated." - [Ben Tarnoff, The Guardian](https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages)
@@ -52,6 +56,8 @@ Finally, higher-level abstractions and frameworks (eg: Ruby on Rails, Django, Ex
 
 **There's a false security in setting up your first Node app that makes you feel like you know a lot more about software development than you really do.**
 
+<!-- ad-banner -->
+
 ## What Are Coding Bootcamps Good For?
 For a certain type of student with enough money, family support, and time, a coding bootcamp could be a fantastic investment. For $10,000-$20,000, you might be able to kickstart a career that leads to annual income 2-3 times higher than you could before.
 
@@ -66,7 +72,9 @@ While learning to code is [a highly valuable skill](https://bigthink.com/technol
 ### 3. A Minimal Introduction to Applied Web Development
 A few of the students I've seen coming out of these bootcamp programs are ready to take on roles as junior-level developers, but usually they had some experience with programming or engineering before the class began. Most bootcamp graduates are ready for apprenticeships where they'll actually get to work with a mentor and slowly work their way into a full-time gig, and some are not much better off than people who hacked their way through [Codecademy](http://www.codecademy.com/).
 
-This base-level knowledge is all freely available on the internet, so if your primary reason for attending a coding bootcamp is to learn, you might want to save the $10k. 
+This base-level knowledge is all freely available on the internet, so if your primary reason for attending a coding bootcamp is to learn, you might want to save the $10k.
+
+<!-- ad-banner -->
 
 ## What Are Coding Bootcamps _Not_ Doing?
 

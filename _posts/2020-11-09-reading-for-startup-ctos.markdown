@@ -13,6 +13,8 @@ Being a great CTO requires [insight and vision in both technology and business](
 
 Even in the internet era, it can be difficult to find reading material online that’s actually useful. After reading hundreds of books over the past few years, I decided to compile my top picks for startup Chief Technology Officers.
 
+<!-- ad-banner -->
+
 ## Early-Stage
 
 These books will be best for early-stage CTOs tasked with building an MVP and finding product-market fit. Some of these are classics, but they’re all still applicable today.
@@ -213,6 +215,8 @@ One of the most common entrepreneurial traps is believing that because you are a
 Exiting your business provides new challenges that most CTOs never think about. If you know them in advance, selling a business can be fun and profitable. In _Before the Exit_, Andrews presents a series of interesting experiments that will help you plan your future after you sell your company.
 
 “Every active entrepreneur should consider these thought experiments as they build and grow their businesses. For myself, I can tell this will be one of those books I see myself coming back to as I move from one growth stage of my business to another.”
+
+<!-- ad-banner -->
 
 
 ## Next on My List

@@ -12,6 +12,8 @@ Early in my career as an engineering manager, I wrote a long list of [my favorit
 
 I've had this informal list brewing for years, and I've often shared sections of it with [new bootcamp graduates](https://www.karllhughes.com/posts/graduate-code-bootcamp), but this is the first time I'm sharing this list publicly. I hope this helps you sort through the [thousands of software engineering books](https://amzn.to/3eQcloH) that are available and move your career forward - wherever you are today.
 
+<!-- ad-banner -->
+
 ## For Early-Career Engineers
 Whether you just graduated from college, a developer bootcamp or you're a self-taught coder, these books are where I would tell a new software engineer to start. These books are mostly focused on practical, applied programming knowledge, but I have included some reads that will give you a taste of theory and interpersonal best practices.
 

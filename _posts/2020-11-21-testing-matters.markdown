@@ -8,8 +8,6 @@ categories:
   - API Development
 ---
 
-<!-- ad-banner -->
-
 I'm currently writing a series of articles about test frameworks, and it got me thinking about the importance of software testing. Ever since I started writing automated tests almost a decade ago, I've found them to be **one of the most useful tools for building maintainable software**, but I still meet developers who don't write tests.
 
 Sometimes it's because their boss (or the business team) won't give them time, sometimes it's because they've never been told about the benefits of testing, and sometimes they just don't care.
@@ -37,6 +35,8 @@ Unit tests are probably the most widely talked about form of automated test, but
 - **Performance tests** ensure your application meets its SLAs by testing how long it takes to handle requests under load. These may be run on every production deployment or - because they're so complicated and expensive - just when major new features are released.
 
 If you're interested in specific examples of testing patterns, I've written about [API testing](/posts/api-strat-2017-presentation) and [microservice testing](/posts/testing-layers) in the past. Those posts should be an excellent place to turn next if you want examples you can apply to your application.
+
+<!-- ad-banner -->
 
 ## Why Software Testing is Important
 

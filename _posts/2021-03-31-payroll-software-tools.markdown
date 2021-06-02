@@ -20,6 +20,8 @@ A good payroll tool will help you reduce manual data entry, avoid costly tax mis
    
 That said, you should consider your current _and_ future needs.
 
+<!-- ad-banner -->
+
 ## The Best Startup Payroll Providers
 
 This list includes an evaluation of the most commonly recommended payroll tools I could find. I looked at each tool's features, pricing, and target market to get a good sense of which provider might work best for startups like mine. I hope this gives you a better idea of which tool will be the best fit for you, or at least, a starting point for making your own evaluation.
@@ -138,4 +140,4 @@ No matter which state you’re in, the features include unlimited free direct de
 
 **Cost: Wave Payroll pricing starts at $20.00 per month.**
 
-Have your own recommendations? Shoot me [an email](mailto:khughes.me@gmail.com) so I can add them to my list.
+<!-- ad-banner -->

@@ -13,6 +13,8 @@ I remember the first time I sat down for a job interview with a startup that was
 
 It was offputting. I value transparency in startups, so this reluctance to talk about the business to a potential hire felt petty.
 
+<!-- ad-banner -->
+
 After spending the past decade in tech startups, I've come across a fair number of stealth startups like this. The term may sound glamorous, but in fact, startups that spend too much time in stealth mode might be putting themselves at a big disadvantage in the long run.
 
 In this post, I'll offer my take on stealth startups as a former startup employee and now founder. I'll share some of the reasons I've seen people go this route, and some of the challenges that startups in stealth mode will face. Finally, I'll give you a few tips for building or working in a stealth startup.
@@ -25,6 +27,8 @@ Typically, startups use stealth mode as a time to explore or validate a cutting-
 There are varying degrees of secrecy within stealth startups. I've met some founders who were ostensibly operating in stealth mode but shared the idea with almost anyone in private conversations. On the other hand, some stealth startups won't even reveal their target market until without an NDA.
 
 Usually, though, stealth startups are not selling a product to customers yet, and are 100% focused on product development.
+
+<!-- ad-banner -->
 
 ## Why Build a Startup in Stealth Mode?
 
@@ -62,6 +66,8 @@ Sometimes, founders stay in stealth mode with commonplace technology out of an i
 
 If you're considering building a stealth startup and you think fear _might_ be the reason, take a step back. [Find a trusted mentor or advisor](/posts/business-advisor) to share your idea with and see what they think.
 
+<!-- ad-banner -->
+
 ## Problems with Stealth Startups
 I've hinted at some of the problems stealth startups face above, but fear and lack of confidence aren't the only ones. Here are a few aspects of building a company that get harder when you're trying to keep your operation under wraps:
 
@@ -82,6 +88,8 @@ As an aside, [no professional investor will sign an NDA](https://www.forbes.com/
 
 ### 4. Harder to Hire
 Finally, stealth startups don't get the same network effects or publicity in hiring. While some stealth startups will post jobs on startup job boards, experienced candidates are often wary of these ambiguous listings.
+
+<!-- ad-banner -->
 
 ## Examples of Startups That Began in Stealth Mode
 Despite the challenges, dozens of now-successful startups once began in stealth mode. Here are three examples that might give you more insight into why and how stealth startups launch:
@@ -108,6 +116,8 @@ As you can see, all three of these stealth startups were founded by experienced 
 
 ## Tips for Building a Stealth Startup
 While my standard advice for founders is to skip stealth mode, there's no such thing as [one-size-fits-all advice](https://www.karllhughes.com/posts/experts). So, if you do decide to go down the path of operating a company in stealth mode, here are a few things to keep in mind as you go.
+
+<!-- ad-banner -->
 
 ### 1. Don't Skip Market Validation
 [<img src="https://i.imgur.com/ShqpnT1.png" style="width: 240px; float: right; margin-left: 10px;" alt="The Mom Test book cover" />](https://amzn.to/2LpXCUx)

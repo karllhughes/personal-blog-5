@@ -7,8 +7,6 @@ categories:
   - Startups
 ---
 
-<!-- ad-banner -->
-
 There are an average of 12,000 new startups founded daily in the US. To gain an edge, you have to move fast, and even if you’re a software developer, writing code takes time.
 
 No-code platforms like [Bubble](https://bubble.is/), [Weebly](https://www.shareasale.com/r.cfm?b=358504&u=1653894&m=37723), [Webflow](https://webflow.com/), [Weblium](https://weblium.com/), and even [WordPress](https://wordpress.org/) can help you go from concept to prototype to launch in **as little as a few hours** [without the costly expense of a development team or coding classes](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). Reducing your dependency on outside investors to build your MVP is one of the best ways to gain leverage and build a strong company.
@@ -38,6 +36,8 @@ Similarly, there is [Weblium, which offers some great templates](https://www.sha
 
 [Bubble](https://bubble.is/) shines when you are looking to add complex logic to a web application that you build with no code. For example, if you want user registration, social messaging, data manipulation, and integrations with other third-party APIs, Bubble is probably the way to go. While it’s [not the only option](https://www.karllhughes.com/posts/10-web-app-builders), it is definitely one of the most mature and feature-complete no-code application builders available.
 
+
+<!-- ad-banner -->
 
 ## Using Bubble for Your MVP
 
@@ -107,6 +107,8 @@ Not to overemphasize the point, but building your web application in Bubble will
 Of course, you could skip learning to code and hire a developer. This can run you anywhere from $10k-$500k, depending on your project's complexity and the necessary integrations. What’s worse is that it will likely take between 3 and 9 months to develop a web app from scratch when you get a custom build. There’s just no way to shortcut this timeline.
 
 
+<!-- ad-banner -->
+
 
 If you use Bubble, - even at the Production plan level - you will save a significant amount of money and time in your first year. With that additional savings, you can devote more of your funds to creating a sales funnel, investing in [content marketing](http://draft.dev/), or hiring your first team member. If you find your app needs significant changes to gain market acceptance, you won't have to pay a developer every time you need to roll out a change, update, or new feature.
 
@@ -134,6 +136,8 @@ Bubble has lined up several [showcase companies](https://bubble.io/showcase) who
 
 Because Bubble offers their entire platform for free, it makes sense for many early-stage startups to use it to create an MVP. This can help you keep costs down while the app is being tested in the market, creating data for the product’s viability, and creating customer use cases to further develop your product.
 
+
+<!-- ad-banner -->
 
 ## Getting Started with the Bubble App Builder
 

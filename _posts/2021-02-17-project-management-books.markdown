@@ -12,6 +12,8 @@ Being a project manager is not for everyone. The wide range of planning, financi
 To be a good project manager, you need to sharpen and improve your skills constantly. While working in startups, I often took on a de facto role as a project manager, so I’ve read a lot of the classic books on the topic. In this list, I wanted to share my top picks for the best project management books. Hopefully, some of these reads will help you advance your career and practice as well.
 
 
+<!-- ad-banner -->
+
 ## Learning Project Management
 
 Books in this category are for junior-level project managers and will help you build a good “base” for further learning and skill-sharpening.
@@ -168,6 +170,8 @@ In some cases, for the company to grow, it needs a certain degree of freedom, kn
 
 “I agree that this is simultaneously a great screed on the inanity of most corporate management, and also a powerful indictment of the tendency of IT management to just go along, accepting a premise that is false and on most projects, is life-threatening.”
 
+
+<!-- ad-banner -->
 
 ### Next Up
 

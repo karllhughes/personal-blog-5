@@ -22,6 +22,8 @@ With such a successful launch, you'd think that Diaspora could buy enough time t
 
 The social network eventually met a slow, tragic end with one of the founders committing suicide and another heading back to college. The remaining founders ran out of money and while the codebase is still [under active development](https://github.com/diaspora/), it runs as a non-profit that is largely supported by its contributors.
 
+<!-- ad-banner -->
+
 ## Why do People Write Open Source Software?
 > "People engage in creative endeavours because it satisfies some deep need within themselves to exercise creativity and solve problems often with little regard to the societal benefit." - [James Bottomley, Distinguished Engineer at IBM Research](https://opensource.org/node/1009)
 
@@ -44,6 +46,8 @@ A well-known example is [Automattic](https://automattic.com/), the parent compan
 [Red Hat](https://www.redhat.com/en/about/open-source), the maintainer of one of the most popular Linux distributions, is another example of a large open source company. While they continue to build some [free, open source solutions](https://developers.redhat.com/products), they offer high-touch services and remote support to maintain the business.
 
 ![Red Hat is an example of an open source company](https://i.imgur.com/On0vVjm.png)
+
+<!-- ad-banner -->
 
 ### Open Source Does Not Necessarily Mean Free
 So if the source code in open source software is available to anyone on the internet, why does anyone pay for it? While much open source software is free, that's not necessarily the case as [many different licensing schemes are available](https://opensource.org/licenses).
