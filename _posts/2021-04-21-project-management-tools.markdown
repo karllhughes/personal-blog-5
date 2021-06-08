@@ -82,6 +82,14 @@ Trello harnesses the power of automation to minimize tedious tasks and processes
 
 You can get Trello for free. As your organization scales, you can get the paid plans, which come with unlimited boards, advanced checklists, and priority support among other things. The paid plans start at $10 per user per month and are worth every cent in my opinion.
 
+### [Kanban for WordPress](https://kanbanwp.com/)
+
+![Kanban for Wordpress home page](https://i.imgur.com/BEEXnMj.png)
+
+If you are a publisher, WooCommerce, or heavy WordPress user, you might want to integrate your project management tool into WordPress itself. This makes your CMS a fully functional Kanban board with the ability to [track sprints](/posts/sprint-tracking), sales, hires, and blog posts.
+
+You can collaborate with your team, use your board on mobile, and share user accounts with the rest of your team who's already using WordPress. It's definitely a niche tool, but right for some situations.
+
 ### ~~Basecamp~~
 
 ![Basecamp homepage](https://i.imgur.com/YkxXsJ3.png)
