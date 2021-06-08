@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Entrepreneur's Salary Guide"
-date: 2021-05-26
+date: 2021-06-08
 img: /assets/img/entrepreneur-salary.png
 categories:
 - Startups
