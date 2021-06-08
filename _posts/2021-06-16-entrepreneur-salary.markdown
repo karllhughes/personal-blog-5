@@ -25,6 +25,8 @@ This sounded surprisingly high to me, and [ZipRecruiter seems to agree](https://
 
 So, the average salary for an entrepreneur in the United States is likely somewhere between $40,000 and $75,000 per year. But, this number might be a bit misleading.
 
+<!-- ad-banner -->
+
 ### Entrepreneurs Can Make a *Lot of Money*
 
 Unlike most professions, entrepreneurs have theoretically no limit to the amount they can get paid.
@@ -52,6 +54,8 @@ In fact, many entrepreneurs *lose* money when they start a business:
 So while the "unlimited upside" of entrepreneurship makes it appealing to many, it's never a sure thing. Entrepreneurs have to take risks if they want the possibility of success. In this way, an entrepreneur's salary is *much different* from a typical employee's salary.
 
 *Interested in learning more about entrepreneurship? Here are [my favorite books for founders](https://www.karllhughes.com/posts/startup-books) to help you get started on your journey.*
+
+<!-- ad-banner -->
 
 ## How Entrepreneurs Set Their Salaries
 
@@ -95,13 +99,15 @@ Wrong.
 
 The challenges (and stresses) don't go away as your company gets bigger, and for some entrepreneurs, they seem to multiply.
 
-### "Passive" Income
+### 5. "Passive" Income
 
 Finally, I've known a very few entrepreneurs who own businesses that pay them a salary without requiring any of their time.
 
 Very few of these entrepreneurs are first-time founders. Most have spent decades [building a network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), [cultivating mentors](https://www.karllhughes.com/posts/business-advisor), learning an industry, and amassing wealth. By the time they hit their third or fourth business, they have enough capital to pay others to manage their businesses for them.
 
 There is also a tiny cadre of entrepreneurs who generate a livable passive income from a single small business that they own. While these businesses never start as passive, it is possible to design a company that runs without you and pays you a great salary. It's just extremely rare.
+
+<!-- ad-banner -->
 
 ## How to Pay Yourself as an Entrepreneur
 
@@ -138,6 +144,8 @@ Another way that businesses can pay owners is by paying dividends. Dividends are
 Finally, entrepreneurs can make money by selling part or all of their company. This might mean issuing shares to investors, selling a stake to private equity investors, or selling the whole business as an [asset or stock sale](https://marinercapitaladvisors.com/resources/asset-sale-vs-stock-sale-whats-the-difference/).
 
 None of these methods is mutually exclusive. For example, many business owners pay themselves a salary *and* take out dividends if they have more money left over at the end of the year.
+
+<!-- ad-banner -->
 
 ## Increasing Your Salary as an Entrepreneur
 
@@ -198,6 +206,8 @@ Beliefs will impact your behaviors which will impact your results.
 Entrepreneurs who *believe* they should only be paid $50,000 per year *will* only be paid $50,000 per year. I've fallen into this trap so many times but having a good group of peers and mentors to help me see the truth has always helped.
 
 Surround yourself with people who are positive and have a growth mindset. Don't be your own biggest barrier to running a successful, profitable business.
+
+<!-- ad-banner -->
 
 ## Is Being an Entrepreneur a Good Career Move?
 
