@@ -4,7 +4,7 @@ title: "Moonclerk Recurring Payments PHP Library"
 date: 2015-04-27
 img: /assets/img/moonclerk.png
 categories: 
-  - API Development
+  - Software Engineering
 ---
 A few months ago I was looking into an easy way to set up recurring payments without building all the infrastructure on top of a payment processor like Stripe, Braintree, or Paypal myself. Somewhere along the way I found [Moonclerk](https://www.moonclerk.com/?via=karl).
 

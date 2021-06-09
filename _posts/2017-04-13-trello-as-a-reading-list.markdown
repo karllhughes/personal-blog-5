@@ -4,7 +4,7 @@ title: "Trello as a Reading List"
 date: 2017-04-13
 img: https://i.imgur.com/8QeyNBk.png
 categories:
-  - Management
+  - Tools
 ---
 *I first started using Trello and published this post in January, 2015, and since then I've used Trello exclusively as my engineering team's project management system and my personal to-do list. I seriously can't rave enough about Trello, and I've probably introduced a couple dozen people to it along the way. I [still publish a board for books](https://trello.com/b/2n8bdc12/books) that I'm reading or have read if you want to check that out.*
 

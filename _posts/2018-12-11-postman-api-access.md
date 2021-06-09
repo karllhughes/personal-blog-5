@@ -6,6 +6,7 @@ date: 2018-12-11
 categories: 
   - API Development
   - Software Engineering
+  - Tools
 ---
 
 An "Application Programming Interface" or API describes the way that two computer programs talk to one another. There is [a lot you can do with an API](/posts/api-development), but if you aren't a developer how can you access an API? There are several good tools for getting data from APIs without code, but one of the best I've seen is [Postman](https://www.postman.com/).

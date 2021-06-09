@@ -6,6 +6,7 @@ date: 2018-08-30
 categories:
   - Software Engineering
   - API Development
+  - Tools
 ---
 
 I've started using [Airtable](https://airtable.com/invite/r/4EaSmQNr) for almost everything that I used to pack into spreadsheets. The big advantage to using Airtable for your API is that they have an excellent visual user interface and integrations with many other tools built in. Plus, you can use Zapier to trigger custom actions when new items show up in Airtable.

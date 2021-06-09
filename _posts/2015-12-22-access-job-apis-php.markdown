@@ -4,7 +4,7 @@ title: "Accessing Job Board APIs in PHP"
 date: 2015-12-22
 img: /assets/img/job-board-apis.png
 categories:
-  - API Development
+- Software Engineering
 ---
 
 Niche job boards have made a surprising comeback in the past few years. Despite the fact that many large players are well-established in job listings and recruiting, new boards like [We Work Remotely](https://weworkremotely.com/) and [Remote.co](https://remote.co/) have successfully made a niche for themselves in the past few years.

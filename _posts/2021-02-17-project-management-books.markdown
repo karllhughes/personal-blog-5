@@ -4,7 +4,8 @@ title: "The Best Project Management Books"
 date: 2021-02-17
 img: /assets/img/project-management-books.png
 categories:
-- Books
+  - Books
+  - Management
 ---
 
 Being a project manager is not for everyone. The wide range of planning, financial, execution, communication, and monitoring tasks makes it a dynamic and challenging role. Being accountable for the entire team’s progress means that project managers are often on the line when their projects succeed or fail.

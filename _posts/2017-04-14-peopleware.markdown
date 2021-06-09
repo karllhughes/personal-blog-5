@@ -4,7 +4,6 @@ title: "Peopleware: All Technology Problems are Really People Problems"
 date: 2017-04-14
 img: https://i.imgur.com/ceLqlH1.png
 categories:
-  - Management
   - Software Engineering
   - Books
 ---

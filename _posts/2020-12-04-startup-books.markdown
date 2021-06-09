@@ -4,7 +4,6 @@ title: "The Best Startup Books for Founders"
 date: 2020-12-04
 img: /assets/img/startup-books.png
 categories: 
-  - Management
   - Startups
   - Books
 ---

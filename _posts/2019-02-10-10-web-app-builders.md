@@ -5,6 +5,7 @@ date: 2019-02-10
 img: https://i.imgur.com/BQO5ZAf.jpg
 categories: 
   - Startups
+  - Tools
 ---
 
 In the days of [Web 1.0](https://www.geeksforgeeks.org/web-1-0-web-2-0-and-web-3-0-with-their-difference/), entrepreneurs had to learn code or [hire web developers to create a website](https://www.karllhughes.com/posts/hiring-process). Now, two decades later, startup founders are able to build [web applications](https://www.karllhughes.com/posts/web-applications) without needing to know a single line of code.

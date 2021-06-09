@@ -5,6 +5,7 @@ date: 2020-12-08
 img: /assets/img/laravel-forge.png
 categories:
   - Software Engineering
+  - Tools
 ---
 
 As a long-time PHP developer, Laravel is one of the most exciting additions to the ecosystem in the past few years. I've tried many different hosting platforms for my personal and professional projects, but one of the best options for deploying laravel apps today is Forge.

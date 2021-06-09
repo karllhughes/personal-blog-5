@@ -4,6 +4,11 @@ layout: main
 <h2 class="home-page-header">
   {{ page.title }}
 </h2>
+<article class="post">
+  <div class="post-content">
+  {{ page.content }}
+  </div>
+</article>
 {% for post in site.categories[page.category-name] %}
 <article class="post">
   <div class="post-content">

@@ -5,6 +5,7 @@ date: 2017-04-27
 img: https://i.imgur.com/9nVmGDYl.jpg
 categories:
   - Software Engineering
+  - Tools
 ---
 
 *Since I wrote this in September, 2015, continuous integration has become pretty much the standard for smaller, more nimble companies, and it's even making inroads at the enterprise level. The tools are so much better than they were 3 to 5 years ago, that there's really no excuse not to automate your builds, tests, and deployments.*

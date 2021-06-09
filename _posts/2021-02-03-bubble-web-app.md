@@ -5,6 +5,7 @@ img: /assets/img/bubble-app-builder.png
 date: 2021-02-03
 categories: 
   - Startups
+  - Tools
 ---
 
 There are an average of 12,000 new startups founded daily in the US. To gain an edge, you have to move fast, and even if you’re a software developer, writing code takes time.

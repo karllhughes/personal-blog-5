@@ -5,6 +5,7 @@ date: 2018-12-07
 img: https://i.imgur.com/aMQdTd6.jpg
 categories: 
   - Software Engineering
+  - Tools
 ---
 
 My Macbook Pro is a couple years old now and I've been thinking about switching to something more portable (some of the newest [Pixelbooks are awful tempting](https://amzn.to/3nsOpsq)), but being a developer, I don't want to get stuck with an underpowered device that won't run any project I have to throw at it for the next few years.

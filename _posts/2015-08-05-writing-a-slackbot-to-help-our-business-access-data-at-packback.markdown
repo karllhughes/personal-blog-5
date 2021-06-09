@@ -5,7 +5,6 @@ date: 2015-08-05
 img: https://i.imgur.com/BhqV017.png
 categories:
   - Software Engineering
-  - API Development
 ---
 
 _Note: Since writing this, I've stopped using Slack for most things. [Here's why](](/posts/no-slack))._
