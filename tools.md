@@ -2,7 +2,7 @@
 layout: category
 category-name: Tools
 title: Software Tools for Startups 
-permalink: "/tools"
+permalink: "/tools/"
 ---
 
 If you're starting a business, picking the right software tools can make your life infinitely easier.
