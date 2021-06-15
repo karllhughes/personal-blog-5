@@ -30,7 +30,7 @@ Finally, you may want a deeper integration between your form and your website. F
 
 When I need more features or to accept payments, [Wufoo](https://www.shareasale.com/r.cfm?b=1379130&u=1653894&m=89794) is my go-to form builder. It costs a few bucks per month, but with that you can collect thousands of responses, connect with Stripe and other payment systems, and still get integrations with Zapier and other services.
 
-Wufoo also allows you to customize the look of your forms with custom CSS styling. This means your Wufoo forms can integrate seamlessly into your website, making them great for adding interactivity to a static site.
+Wufoo also allows you to customize the look of your forms with custom CSS styling. This means your Wufoo forms can integrate seamlessly into your website, making them great for adding interactivity to a static site. [I wrote a longer comparison](/posts/wufoo-vs-google-forms) of Wufoo and Google Forms recently, so check that out if you want to dig in deeper.
 
 ### [Airtable](https://airtable.com/invite/r/4EaSmQNr)
 
