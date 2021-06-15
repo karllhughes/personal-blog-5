@@ -2,7 +2,7 @@
 layout: post
 title: "Wufoo vs. Google Forms for Business"
 img: /assets/img/wufoo-vs-google-forms.png
-date: 2021-06-16
+date: 2021-06-15
 categories:
   - Tools
 ---
