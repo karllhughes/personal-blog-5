@@ -16,9 +16,9 @@
     text-transform: uppercase;
   }
 
-  a img {
-    max-height: 180px;
-    width: auto;
+  .sponsor-image-left {
+    width: 180px;
+    height: auto;
     float: left;
     margin: 30px 20px 10px 0;
   }
@@ -33,5 +33,14 @@
     margin-bottom: 20px;
     text-decoration: none !important;
     text-align: right;
+  }
+
+  @media (max-width: 576px) {
+    .sponsor-image-left {
+      float: none;
+      margin: 1.5rem 0 0;
+      width: 100%;
+      height: auto;
+    }
   }
 }

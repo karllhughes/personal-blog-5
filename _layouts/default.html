@@ -34,4 +34,64 @@
       );
     }
   }
+
+  // Handles top email form
+  var topForm = document.getElementById("signup-top");
+
+  async function handleTopFormSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("signup-top-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: topForm.method,
+      body: data,
+      headers: {'Accept': 'application/json'}
+    }).then(response => {
+      status.innerHTML = "Please check your email to confirm your subscription.";
+      topForm.reset()
+    }).catch(error => {
+      status.innerHTML = "Oops! There was a problem submitting your email. Try <a href='https://karllhughes.curated.co/'>signing up here</a>."
+    });
+  }
+  topForm.addEventListener("submit", handleTopFormSubmit);
+
+  // Handles hover email form
+  var hoverForm = document.getElementById("signup-hover");
+
+  async function handleHoverFormSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("signup-hover-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: hoverForm.method,
+      body: data,
+      headers: {'Accept': 'application/json'}
+    }).then(response => {
+      status.innerHTML = "Please check your email to confirm your subscription.";
+      hoverForm.reset()
+    }).catch(error => {
+      status.innerHTML = "Oops! There was a problem submitting your email. Try <a href='https://karllhughes.curated.co/'>signing up here</a>."
+    });
+  }
+  hoverForm.addEventListener("submit", handleHoverFormSubmit);
+
+  // Handles bottom email form
+  var bottomForm = document.getElementById("signup-bottom");
+
+  async function handleBottomFormSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("signup-bottom-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: bottomForm.method,
+      body: data,
+      headers: {'Accept': 'application/json'}
+    }).then(response => {
+      status.innerHTML = "Please check your email to confirm your subscription.";
+      bottomForm.reset()
+    }).catch(error => {
+      status.innerHTML = "Oops! There was a problem submitting your email. Try <a href='https://karllhughes.curated.co/'>signing up here</a>."
+    });
+  }
+  bottomForm.addEventListener("submit", handleBottomFormSubmit);
 </script>
