@@ -91,38 +91,35 @@ want to get started learning it. It's <a href="https://leanpub.com/first-php-doc
 <p class="hug">Around the same time, I compiled the Side Project Marketing Checklist, and it went viral. 
 Check it out for ideas to promote your startup or side project.</p>
 
+<!-- modify this form HTML and place wherever you want your form -->
+<form id="my-form" action="//www.karllhughes.com/subscribe" method="POST">
+<label>Email:</label>
+<input type="email" name="email" />
+<button id="my-form-button">Submit</button>
+<p id="my-form-status"></p>
+</form>
 
-  <!-- modify this form HTML and place wherever you want your form -->
+<!-- Place this script at the end of the body tag -->
+<script>
+var form = document.getElementById("my-form");
 
-  <form id="my-form" action="https://www.karllhughes.com/subscribe" method="POST">
-    <label>Email:</label>
-    <input type="email" name="email" />
-    <button id="my-form-button">Submit</button>
-    <p id="my-form-status"></p>
-  </form>
-
-  <!-- Place this script at the end of the body tag -->
-
-  <script>
-    var form = document.getElementById("my-form");
-
-    async function handleSubmit(event) {
-      event.preventDefault();
-      var status = document.getElementById("my-form-status");
-      var data = new FormData(event.target);
-      fetch(event.target.action, {
-        method: form.method,
-        body: data,
-        headers: {
-          'Accept': 'application/json'
-        }
-      }).then(response => {
-        status.innerHTML = "Thanks for your submission!";
-        form.reset()
-      }).catch(error => {
-        status.innerHTML = "Oops! There was a problem submitting your form"
-      });
+async function handleSubmit(event) {
+  event.preventDefault();
+  var status = document.getElementById("my-form-status");
+  var data = new FormData(event.target);
+  fetch(event.target.action, {
+    method: form.method,
+    body: data,
+    headers: {
+      'Accept': 'application/json'
     }
-    form.addEventListener("submit", handleSubmit)
-  </script>
+  }).then(response => {
+    status.innerHTML = "Thanks for your submission!";
+    form.reset()
+  }).catch(error => {
+    status.innerHTML = "Oops! There was a problem submitting your form"
+  });
+}
+form.addEventListener("submit", handleSubmit)
+</script>
 
