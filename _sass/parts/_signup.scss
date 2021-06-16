@@ -80,7 +80,8 @@
     width: 100%;
     padding: 20px 40px;
     background-color: $light-accent;
-    border: 1px solid #82bade;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.4);
+    background-clip: padding-box;
   }
 
   /* Full-width input fields */

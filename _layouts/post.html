@@ -16,11 +16,23 @@ layout: main
 
     {% include signup-top.html category=page.categories %}
 
-    {% if content contains "<!-- ad-banner -->" %}
-    {% assign content = content | replace:"<!-- ad-banner -->","<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script><!-- banner-1 --><ins class='adsbygoogle'     style='display:block'     data-ad-client='ca-pub-2322554200861137'     data-ad-slot='1085267601'     data-ad-format='auto'     data-full-width-responsive='true'></ins><script>  (adsbygoogle = window.adsbygoogle || []).push({});</script>" %}
-    {% endif %}
+    <!-- Google Ads -->
+    <!--    {% if content contains "&lt;!&ndash; ad-banner &ndash;&gt;" %}-->
+    <!--    {% assign content = content | replace:"&lt;!&ndash; ad-banner &ndash;&gt;","<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>&lt;!&ndash; banner-1 &ndash;&gt;<ins class='adsbygoogle'     style='display:block'     data-ad-client='ca-pub-2322554200861137'     data-ad-slot='1085267601'     data-ad-format='auto'     data-full-width-responsive='true'></ins><script>  (adsbygoogle = window.adsbygoogle || []).push({});</script>" %}-->
+    <!--    {% endif %}-->
 
-    {{ content | markdownify }}
+    <!-- Draft Ad -->
+    {% if content contains "<!-- ad-banner -->" %}
+    {% assign content_chunks = content | split:"<!-- ad-banner -->" %}
+      {% for chunk in content_chunks %}
+        {% if forloop.index == 2 %}
+          {% include draft-ad.html link=page.id %}
+        {% endif %}
+        {{ chunk | markdownify }}
+      {% endfor %}
+    {% else %}
+      {{ content | markdownify }}
+    {% endif %}
 
     {% if page.link %}
       <p class="read-more"><a href="{{ page.link }}" target="_blank" class="text-center">Read More...</a></p>

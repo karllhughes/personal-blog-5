@@ -1,0 +1,37 @@
+.ad {
+  background-color: $light-accent;
+  margin: 20px -40px;
+  padding: 10px 40px 40px;
+
+  h3 a {
+    text-decoration: none !important;
+  }
+
+  p.sponsor {
+    font-size: 14px;
+    color: #a0a0a0;
+    text-align: center;
+    line-height: 14px;
+    margin-top: .5rem;
+    text-transform: uppercase;
+  }
+
+  a img {
+    max-height: 180px;
+    width: auto;
+    float: left;
+    margin: 30px 20px 10px 0;
+  }
+
+  a.button {
+    background-color: $green;
+    color: $white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 20px;
+    text-decoration: none !important;
+    text-align: right;
+  }
+}
