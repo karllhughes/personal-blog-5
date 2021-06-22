@@ -32,7 +32,7 @@ Here's another great example of using an API to get data from a third-party sour
 
 ![FinanceBoards using many APIs](https://i.imgur.com/eKIl8LC.png)
 
-[FinanceBoards](https://financeboards.com/) uses stock market data provided by several different sources to create charts, graphs, reports, and more for investors. If you want to build any kind of stock market tracking application, you'll need to get data like this, and APIs make relatively easy to do so.
+[FinanceBoards](https://financeboards.com/) uses stock market data provided by several different sources to create charts, graphs, reports, and more for investors. If you want to build any kind of stock market tracking application, you'll need to get data like this, and [stock data APIs](https://rapidapi.com/blog/best-stock-api/) make relatively easy to do so.
 
 There's almost no end to the kinds of things you can build using APIs, and there are hundreds of free APIs you can use in your projects [check out this list on Github](https://github.com/toddmotto/public-apis), but that's a topic for another time. For the remainder of this guide, we'll focus on building APIs.
 
