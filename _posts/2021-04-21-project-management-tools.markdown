@@ -34,17 +34,6 @@ The most important part of this process is the trial. You need to test the featu
 
 In this guide, I'll walk you through the best **startup project management tools** on the market in 2021. You'll see some of the major advantages and use cases for each as well as get insight into their pricing models. I'm sure this list will need to change over time, so be sure to [ping me on Twitter](https://twitter.com/karllhughes) if you know of another tool I should add to this list.
 
-### **[TeamWave](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830)**
-
-[![Teamwave homepage](https://i.imgur.com/kJoMrK5.png)](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830)
-
-
-TeamWave is a project management, HR management, and customer relationship management tool rolled into one. You can plan and manage meetings, tasks, and events for the entire team. You can also streamline your communication and collaboration with team members, clients, and partners. If you have sensitive information that you only want to share with select people, you can also do that.
-
-It integrates with a wide array of tools, including Slack, QuickBooks, Dropbox, and G Suite. Instead of using multiple apps to get things done, you can use TeamWave to keep everything centralized. Whether on desktop or mobile, you’ll be able to manage your business from anywhere and at any time.
-
-Their base plan, which comes with [all of TeamWave’s features](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830), starts at $39 per month. It is suitable for growing teams because it supports an unlimited number of users. More importantly, TeamWave has a free 14-day trial.
-
 
 ### **[Monday.com](https://mondaycom.grsm.io/karlhughes7109)**
 
@@ -90,6 +79,19 @@ You can get Trello for free. As your organization scales, you can get the paid p
 If you are a publisher, WooCommerce, or heavy WordPress user, you might want to integrate your project management tool into WordPress itself. This makes your CMS a fully functional Kanban board with the ability to [track sprints](/posts/sprint-tracking), sales, hires, and blog posts.
 
 You can collaborate with your team, use your board on mobile, and share user accounts with the rest of your team who's already using WordPress. It's definitely a niche tool, but right for some situations.
+
+### **[TeamWave](https://shareasale.com/r.cfm?b=1530551&u=1653894&m=96830&urllink=&afftrack=https://shareasale.com/r.cfm?b=1530551&u=1653894&m=96830&urllink=&afftrack=)**
+
+[![Teamwave homepage](https://i.imgur.com/kJoMrK5.png)](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830)
+
+
+TeamWave is a project management, HR management, and customer relationship management tool rolled into one. You can plan and manage meetings, tasks, and events for the entire team. You can also streamline your communication and collaboration with team members, clients, and partners. If you have sensitive information that you only want to share with select people, you can also do that.
+
+It integrates with a wide array of tools, including Slack, QuickBooks, Dropbox, and G Suite. Instead of using multiple apps to get things done, you can use TeamWave to keep everything centralized. Whether on desktop or mobile, you’ll be able to manage your business from anywhere and at any time.
+
+Their base plan, which comes with [all of TeamWave’s features](https://www.shareasale.com/r.cfm?b=1530551&u=1653894&m=96830), starts at $39 per month. It is suitable for growing teams because it supports an unlimited number of users. More importantly, TeamWave has a free 14-day trial.
+
+
 
 ### ~~Basecamp~~
 
