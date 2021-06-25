@@ -7,8 +7,6 @@ categories:
 - Startups
 ---
 
-<!-- ad-banner -->
-
 I was talking with an entrepreneur and investor here in Chicago recently, and he pointed out a distinction that I've started to notice more and more over the past couple of years:
 
 **Most startups today can be classified as either "high tech" or "tech-enabled."**
