@@ -53,7 +53,9 @@
       status.innerHTML = "Oops! There was a problem submitting your email. Try <a href='https://karllhughes.curated.co/'>signing up here</a>."
     });
   }
-  topForm.addEventListener("submit", handleTopFormSubmit);
+  if (topForm) {
+    topForm.addEventListener("submit", handleTopFormSubmit);
+  }
 
   // Handles hover email form
   var hoverForm = document.getElementById("signup-hover");
@@ -73,7 +75,9 @@
       status.innerHTML = "Oops! There was a problem submitting your email. Try <a href='https://karllhughes.curated.co/'>signing up here</a>."
     });
   }
-  hoverForm.addEventListener("submit", handleHoverFormSubmit);
+  if (hoverForm) {
+    hoverForm.addEventListener("submit", handleHoverFormSubmit);
+  }
 
   // Handles bottom email form
   var bottomForm = document.getElementById("signup-bottom");
@@ -93,5 +97,7 @@
       status.innerHTML = "Oops! There was a problem submitting your email. Try <a href='https://karllhughes.curated.co/'>signing up here</a>."
     });
   }
-  bottomForm.addEventListener("submit", handleBottomFormSubmit);
+  if (bottomForm) {
+    bottomForm.addEventListener("submit", handleBottomFormSubmit);
+  }
 </script>
