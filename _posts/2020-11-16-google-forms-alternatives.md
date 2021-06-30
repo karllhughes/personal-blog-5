@@ -45,7 +45,7 @@ Airtable is easy to set up, data can be viewed in multiple ways, the sharing set
 
 [![JotForm form builder](https://i.imgur.com/288Z3qm.png)](https://www.jotform.com/pricing/?utm_source=karll-hughes&utm_campaign=jf1&utm_medium=blog)
 
-JotForm gives you hundreds of themes and templates to make sure your forms stand out and match your branding. Their paid plans also include HIPAA Compliance, so if you're in a healthcare setting, you may want to check out JotForm.
+JotForm gives you hundreds of themes and templates to make sure your forms stand out and match your branding. Their paid plans also include HIPAA Compliance, so if you're in a healthcare setting, you may want to check out JotForm. I also did an in-depth comparison of [JotForm and Wufoo](/posts/jotform-vs-wufoo) recently, so read that if you're stuck between those two options.
 
 ### [Formidable Forms](https://www.shareasale.com/r.cfm?b=841990&u=1653894&m=64739)
 
