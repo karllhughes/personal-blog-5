@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: master
+  site_domain: https://www.karllhughes.com
+  display_url: https://www.karllhughes.com
 media_folder: 'assets/img'
 collections:
   - name: 'blog'
@@ -15,6 +17,5 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Featured Image", name: "img", widget: "image" }
-      - { label: "Category", name: "categories", widget: "list" }
+      - { label: "Categories", name: "categories", widget: "list" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
