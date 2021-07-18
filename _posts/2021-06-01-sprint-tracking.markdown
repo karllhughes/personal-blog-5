@@ -4,7 +4,7 @@ title: "Sprint Planning and Agile Metrics"
 date: 2021-06-01
 img: /assets/img/sprint-planning.png
 categories:
-- Management
+  - Management
 ---
 
 In late 2014, I was managing a team of software engineers working diligently on a complete rewrite of our platform at [Packback](https://www.packback.co/). While we checked in regularly on our progress, we were using a waterfall release cycle. When we finally flipped the switch and moved to our version 2.0 in May 2015, we decided to transition to an [Agile](http://agilemethodology.org/) process.

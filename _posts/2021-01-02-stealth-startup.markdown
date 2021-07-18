@@ -4,7 +4,7 @@ title: "The Founder's Guide to Stealth Startups"
 date: 2021-01-02
 img: /assets/img/stealth-startup.png
 categories:
-- Startups
+  - Startups
 ---
 
 I remember the first time I sat down for a job interview with a startup that was proudly in "stealth mode." The interviewer (an early employee) told me a little about the industry and the founders' backgrounds but balked when I asked exactly what they were building.

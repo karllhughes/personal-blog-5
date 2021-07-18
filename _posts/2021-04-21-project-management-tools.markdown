@@ -4,8 +4,8 @@ layout: post
 date: 2021-04-21T00:00:00.000Z
 img: /assets/img/project-management-tools.png
 categories:
-- Tools
-- Startups
+  - Tools
+  - Startups
 ---
 
 How do you manage your project workflows?

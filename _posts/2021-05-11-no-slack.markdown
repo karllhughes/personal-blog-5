@@ -4,8 +4,8 @@ layout: post
 date: 2021-05-11
 img: /assets/img/no-slack.png
 categories:
-- Startups
-- Tools
+  - Startups
+  - Tools
 ---
 
 Last year, I read two books that changed my perspective on work.

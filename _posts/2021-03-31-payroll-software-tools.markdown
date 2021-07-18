@@ -4,8 +4,8 @@ title: "The 10 Best Payroll Software Tools for Startups"
 date: 2021-03-31
 img: /assets/img/payroll.png
 categories:
-- Startups
-- Tools
+  - Startups
+  - Tools
 ---
 
 I recently went through the process of evaluating payroll software tools, so I figured I would collect my findings here and share. Some of these options cater more to early-stage startups like mine, while others may be more suited for larger ones.

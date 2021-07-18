@@ -4,7 +4,7 @@ title: "Starting a Software Startup the Lean Way"
 date: 2021-04-14
 img: /assets/img/start-software-startup.png
 categories:
-- Startups
+  - Startups
 ---
 
 Some believe that creating a successful software startup is about nothing more than making a product that, by its awesome and paradigm-shifting nature, will magically attract customers.

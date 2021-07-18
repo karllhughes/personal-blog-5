@@ -4,8 +4,8 @@ title: "Startup Working Hours: Burnout, Pacing, and Hustle Culture"
 date: 2020-12-16
 img: /assets/img/startup-working-hours.png
 categories:
-- Startups
-- Management
+  - Startups
+  - Management
 ---
 
 <!-- ad-banner -->

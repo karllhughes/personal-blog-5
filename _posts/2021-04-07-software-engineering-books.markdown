@@ -4,8 +4,8 @@ title: "The Best Software Engineering Books"
 date: 2021-04-07
 img: /assets/img/software-engineering-books.png
 categories:
-- Software Engineering
-- Books
+  - Software Engineering
+  - Books
 ---
 
 Early in my career as an engineering manager, I wrote a long list of [my favorite engineering management books](https://www.karllhughes.com/posts/reading-for-engineering-managers). That list has reached thousands of new technical leaders, but I'm often asked for book recommendations by engineers who _aren't_ interested in making the leap into management.

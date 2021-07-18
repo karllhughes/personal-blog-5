@@ -4,8 +4,8 @@ title: "The Best Management Books"
 date: 2020-12-27
 img: /assets/img/management-books.png
 categories:
-- Management
-- Books
+  - Management
+  - Books
 ---
 
 Being a good manager requires a wide range of skills that often take years to build. A great manager needs to be accomplished at delegating, organizing, problem-solving, and knowing how to get the most out of their team.

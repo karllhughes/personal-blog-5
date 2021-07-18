@@ -4,8 +4,8 @@ title: Running My Business From an iPad
 date: 2021-07-09
 img: /assets/img/ipad-business.png
 categories:
-- Startups
-- Tools
+  - Startups
+  - Tools
 ---
 
 Earlier this year, I decided to get an iPad as a more portable work device. I haven't owned an iPad since the first generation models back in 2010, but with the larger sizes and full-size keyboard, I figured it could feasibly serve as a laptop replacement - at least for short stints.

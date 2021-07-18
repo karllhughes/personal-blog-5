@@ -4,7 +4,7 @@ title: "What it's Really Like Working for a Startup"
 date: 2021-01-20
 img: /assets/img/working-at-startup.png
 categories:
-- Startups
+  - Startups
 ---
 
 After almost ten years working for startups, I've seen some pretty wild things.

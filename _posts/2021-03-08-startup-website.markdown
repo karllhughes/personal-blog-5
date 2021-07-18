@@ -4,7 +4,7 @@ title: "The Startup Website List: 25 Inspirational Examples"
 date: 2021-03-08
 img: /assets/img/startup-website.png
 categories:
-- Startups
+  - Startups
 ---
 
 A friend recently asked me for help with her startup's landing page. While I'm not a designer, I've spent almost a decade working with startups and often got pulled into conversations about websites, landing pages, and blogs. Anyway, this conversation got me thinking about what makes a good startup website and ultimately led to the creation of this list.

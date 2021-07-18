@@ -4,7 +4,7 @@ title: "How I'm Scaling My Service Business"
 date: 2021-03-24
 img: /assets/img/scaling-services.png
 categories:
-- Startups
+  - Startups
 ---
 
 When I left my job to [start Draft.dev last year](https://www.karllhughes.com/posts/cto-writer), I knew there were pros and cons to starting a service business. Unlike the venture funded startups I had been with before, Draft.dev required no outside investment, and it was profitable from the first month. The tradeoff - as any service business owner can tell you - is that **scaling a service business is notoriously hard.**
