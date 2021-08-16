@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "API Development: The Complete Guide for Building APIs Without Code" 
-img: "https://i.imgur.com/iWQY2Et.jpg"
-date: 2018-07-07
+title: "API Development: The Complete Guide for Building APIs Without Code"
+date: 2021-08-16T01:22:01.187Z
+img: /assets/img/api-development.png
 categories:
   - Software Engineering
   - API Development
@@ -20,7 +20,7 @@ APIs are used in almost all software, websites, mobile apps, or computer games. 
 
 ![Facebook API login](https://i.imgur.com/idFuNEf.png)
 
-Ever seen a screen like this? This is a Facebook login button, and it uses Facebook's API to allow users to verify their identity. It essentially lets you skip entering your username and password by using your Facebook account as proof that you are who you say you are. Developers who use Facebook's API can save themselves time by not having to build their own username and password login system, instead piggy-backing off of Facebook's.
+Ever seen a screen like this? This is a Facebook login button, and it uses Facebook's API to allow users to verify their identity. It essentially lets you skip entering your username and password by using your Facebook account as proof that you are who you say you are. Developers who use Facebook's API can save themselves time by not having to build their own username and password login system, instead piggybacking off of Facebook's.
 
 Another way that APIs can be used is to show data stored in another platform on your website. Have you ever seen a comment form on a site that looks like this?
 
@@ -32,19 +32,21 @@ Here's another great example of using an API to get data from a third-party sour
 
 ![FinanceBoards using many APIs](https://i.imgur.com/eKIl8LC.png)
 
-[FinanceBoards](https://financeboards.com/) uses stock market data provided by several different sources to create charts, graphs, reports, and more for investors. If you want to build any kind of stock market tracking application, you'll need to get data like this, and [stock data APIs](https://rapidapi.com/blog/best-stock-api/) make relatively easy to do so.
+[FinanceBoards](https://financeboards.com/) uses stock market data provided by several different sources to create charts, graphs, reports, and more for investors. If you want to build any kind of stock market tracking application, you'll need to get data like this, and [stock data APIs](https://rapidapi.com/blog/best-stock-api/) make it relatively easy to do so.
 
 There's almost no end to the kinds of things you can build using APIs, and there are hundreds of free APIs you can use in your projects [check out this list on Github](https://github.com/toddmotto/public-apis), but that's a topic for another time. For the remainder of this guide, we'll focus on building APIs.
 
+<!-- ad-banner -->
+
 ## Why Build an API?
 
-APIs are very powerful because they allow developers to take someone else's work and build their own app or product from of it, but why do API creators do it? It may seem that giving away your company's data or features in an API could help your competitors, but when done right, an API can allow your company to grow into new areas that you never thought possible.
+APIs are very powerful because they allow developers to take someone else's work and build their own app or product from it, but why do API creators do it? It may seem that giving away your company's data or features in an API could help your competitors, but when done right, an API can allow your company to grow into new areas that you never thought possible.
 
 Let's take a look at some companies that have used their APIs to grow and eventually dominate their fields.
 
 ### Quora: Using an API for Internal Use Only
 
-![Quora](https://i.imgur.com/6DbtWGi.png)
+![Quora user interface](https://i.imgur.com/6DbtWGi.png)
 
 First of all, APIs do not have to be publicly available at all. In fact, most companies that have an API only use them internally to allow different parts of their website to talk to each other. [Quora](https://www.quora.com/) is a great example of this, as they have an API, but do not offer external developers a way to gain access to it. Instead, they use this API to keep the data in their mobile and web apps in sync.
 
@@ -52,19 +54,19 @@ The advantage to an internal API is that you can use the same database, business
 
 ### Twitter: Allowing Users to Build their Ecosystem
 
-![Twitter](https://i.imgur.com/U46KSa2.png)
+![Twitter API](https://i.imgur.com/U46KSa2.png)
 
 [Twitter](https://twitter.com/) started out with a huge focus on their API. Developers could get almost any data from Twitter they wanted - trends, hashtags, user stats - and they built some really cool stuff with it. This massive amount of open data and the tools people built actually attracted more users to Twitter. Companies could easily hook into the Twitter API to let users share their content on Twitter without leaving their site, and Twitter in turn got even more content on the platform.
 
-Twitter might have been able to build some of these applications on their own, but there's no way they would have been able to do everything that API users have imagined. Eventually - once Twitter dominated the microblogging universe - they tightened up their API and made larger partners pay for specific kinds of access. While this made early adopters mad, Twitter was able to profit from the growth their API without sacrificing the long-term profits they now get out of it.
+Twitter might have been able to build some of these applications on their own, but there's no way they would have been able to do everything that API users have imagined. Eventually - once Twitter dominated the microblogging universe - they [tightened up their API](https://www.theverge.com/2012/8/23/3263481/twitter-api-third-party-developers) and made partners pay for specific kinds of access. While this made early adopters mad, Twitter was able to profit from the growth of their API without sacrificing the long-term profits they now get out of it.
 
 ### Diigo: An Extra Incentive for Paid Users
 
-![Diigo](https://i.imgur.com/UTYacdW.png)
+![Diigo website](https://i.imgur.com/UTYacdW.png)
 
-[Diigo](https://www.diigo.com/) is a bookmarking and annotation tool with a generous free tier, convenient Chrome extension, and great mobile apps. Because some users wanted to use Diigo for more advanced purposes and build their own applications using the bookmarks they saved in Diigo, Diigo decided to offer a public API, but with a catch. It's only available to paid users.
+[Diigo](https://www.diigo.com/) is a bookmarking and annotation tool with a generous free tier, convenient Chrome extension, and mobile sharing apps. Because some users wanted to use Diigo for more advanced purposes and build their own applications using the bookmarks they saved in Diigo, Diigo decided to offer a public API, but with a catch. It's only available to paid users.
 
-While providing the API probably isn't much more work than servicing their UI (in fact, it might be less work as user interfaces are notoriously hard to get right), Diigo decided that the users who wanted API access were most likely willing to pay a few bucks per month to make their lives easier using the API. It certainly hooked me in and took the product from cool to a critical part of my weekly workflow.
+While providing the API probably isn't much more work than servicing their UI (in fact, it might be less work as [websites are notoriously hard to get right](https://www.karllhughes.com/posts/startup-website)), Diigo decided that the users who wanted API access were most likely willing to pay a few bucks per month to make their lives easier using the API. It certainly hooked me in and took the product from cool to a critical part of my weekly workflow.
 
 If your business has successfully found a tech-savvy audience that is begging for API access, you might want to consider offering one especially if you can profit from it.
 
@@ -72,23 +74,25 @@ If your business has successfully found a tech-savvy audience that is begging fo
 
 ![Mailchimp](https://i.imgur.com/2iW9aMc.png)
 
-[Mailchimp](https://mailchimp.com/) is one of the most popular email marketing tools out there, and it's my personal favorite. It's really easy to use, they have a generous free tier for small mailing lists, and they seem to always be the first when offering new features that are great for email senders. They also have a well-documented API that encourages even more interesting use cases.
+[Mailchimp](https://mailchimp.com/) is one of the most popular email marketing tools out there, and it's my personal favorite. It's really easy to use, they have a generous free tier for small mailing lists, and they seem to always be the first when offering new features that are great for email senders. They also have a [well-documented API](https://mailchimp.com/developer/) that encourages even more interesting use cases.
 
-Without their API, you can create a campaign from a template, add users to a list manually, and look at stock reports. But, using the Mailchimp API, you can build custom templates from your own website's data, import thousands of existing users from a database, or showcase your raw email campaign data in new and novel ways. There's no limit to what you can do, but all these new use cases also mean more revenue for Mailchimp as you still have to pay them to send your emails through their service. If you're building a software-as-a-service platform that charges based on usage, an API could be a great way to increase engagement.
+Without their API, you can create a campaign from a template, add users to a list manually, and look at standard reports. But, using the Mailchimp API, you can build custom templates from your own website's data, import thousands of existing users from a database, or showcase your raw email campaign data in novel ways. There's no limit to what you can do, but all these new use cases also mean more revenue for Mailchimp as you still have to pay them to send your emails through their service. If you're building a software-as-a-service platform that charges based on usage, an API could be a great way to increase engagement.
 
 ### Aylien: API as a Service
 
 ![Aylien](https://i.imgur.com/lQwV0AU.png)
 
-While many APIs are a bonus or supplemental feature, some companies are built as API-first services. [Aylien](https://aylien.com/) is a text analysis and natural language processing service that doesn't offer a user-interface at all - they just sell access to their API.
+While many APIs are a bonus or supplemental feature, some companies are built as API-first services. [Aylien](https://aylien.com/) is a text analysis and natural language processing service that doesn't offer a user interface at all - they just sell access to their API.
 
-This means that developers hoping to analyze or categorize data can simply send their text to Aylien, then listen for a response with all the analysis they need. There's no custom code involved at all, and using Aylien with existing data should take no more than a few minutes. They charge customers for this time-savings though - once you go over their free tier, there's a fee for using it.
+This means that developers hoping to analyze or categorize data can simply send their text to Aylien, then listen for a response with all the analysis they need. There's no custom code involved at all, and using Aylien with existing data should take no more than a few minutes. They charge customers for this time savings though - once you go over their free tier, there's a fee for using it.
 
 Aylien might someday offer a user interface, but by starting out as an API-first company, they've aligned themselves with developers and put the focus on their technical tooling rather than UI.
 
 ## Does Every Business Need an API?
 
-Some businesses have had great success building APIs that customers or other third parties can use, but you do not have to have an API, even if you are building a software-based business. In fact, the complexity of offering an API in addition to a user interface may be too much for a small startup or non-technical founder, but it's still good to understand when and why an API is appropriate.
+> "Every company in the world already has valuable data and functionality housed within its systems. Capitalizing on this value, however, means liberating it from silos and making it interoperable and reusable in different contexts—including by combining it with valuable assets from partners and other third parties." - [Apigee State of the API Economy, 2021](https://pages.apigee.com/rs/351-WXY-166/images/Apigee_StateOfAPIS_eBook_2020.pdf)
+
+Many businesses have had great success building APIs that customers or other third parties can use, but you do not _have_ to have an API, even if you are building a software-based business. In fact, the complexity of offering an API in addition to a user interface may be [too much for a small startup](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer), but it's still good to understand when and why an API is appropriate.
 
 Here is a list of reasons you may or may not want to build an API. While not exhaustive, this should give you a starting point when deciding whether or not an API is right for your use case.
 
@@ -108,9 +112,9 @@ Here is a list of reasons you may or may not want to build an API. While not exh
 - You never intend on expanding to other platforms (eg: mobile, desktop)
 - You don't understand the technical implications of building one
 
-One thing that doesn't have to stand in your way of building an API is not having (or being) an experienced software developer. In fact, you might be able to build a serviceable API without any custom development work, but you should understand some of the implications of giving users API access to your data.
+One thing that doesn't have to stand in your way of building an API is not having (or being) an experienced software developer. **In fact, you might be able to build a serviceable API without any custom development work, but you should understand some of the implications of giving users API access to your data.**
 
-![When to build an API](https://i.imgur.com/i9q2sLl.png)
+![Deciding when to build an API](https://i.imgur.com/i9q2sLl.png)
 
 ## Things to Consider When Building an API
 
@@ -129,16 +133,16 @@ Sometimes you will need your authentication rules to be quite complicated. For e
 When you offer access to your API to the public, it's usually a good idea to prevent people from using it too much or too quickly. Rate limiting can prevent users from abusing your API, scraping all your data, or simply crashing your app because they're making so many requests.
 
 ### Logging/Analytics
-When your API returns an error to a user, you might want to know about it. Logging can be added to capture every request and response or just the ones that failed. Logging or analytics can also help you track how much your API is being used, especially when you're dealing with lots of third party users.
+When your API returns an error to a user, you might want to know about it. Logging can be added to capture every request and response or just the ones that failed. Logging or analytics can also help you track how much your API is being used, especially when you're dealing with lots of third-party users.
 
 ### Side Effects
-What if you want to trigger alerts, link multiple API requests together, or kick off background tasks with your API? These events are referred to as "side effects" meaning that they might not be contained in the primary request and response, but are still important actions when designing your API. Usually this level of customization has to be custom-coded, but there are ways to manage side effects without writing code.
+What if you want to trigger alerts, link multiple API requests together, or kick off background tasks with your API? These events are referred to as "side effects" meaning that they might not be contained in the primary request and response, but are still important actions when designing your API. Usually, this level of customization has to be custom-coded, but there are ways to manage side effects without writing code.
 
 ### Scalability
 "Scalability" is a term that developers use to refer to the ability of your API to grow or shrink depending on the needs of your team or customers. For example, a scalable API can handle 100 users today and 10,000 users tomorrow without throwing lots of errors. Ideally, a good, scalable API will cost less when it's not in use, but that level of scalability is tough to reach without a developer.
 
 ### Speed
-500 milliseconds (1/2 a second) may not sound like much time, but for computers this is an eternity. While there's no single answer to the question, "How fast should your API be?" many successful APIs respond within 100 milliseconds. This can depend greatly on who your users are and what they're using your API for. Real-time stock market price APIs need to be much faster than most consumer web applications.
+500 milliseconds (1/2 a second) may not sound like much time, but for computers, this is an eternity. While there's no single answer to the question, "[How fast should your API be?](https://dev.to/karllhughes/building-a-response-timer-to-benchmark-api-performance-3k6k)" many successful APIs respond within 100 milliseconds. This can depend greatly on who your users are and what they're using your API for. Real-time stock market price APIs need to be much faster than most consumer web applications.
 
 ![Can your API handle the real world?](https://i.imgur.com/U0j7OTh.png)
 
@@ -152,7 +156,7 @@ APIs are a way for computers to share data or functionality, but computers need 
 
 **First, an API needs a data source.** In most cases, this will be a database like [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), or [Redis](https://redis.io/) (don't worry if you don't know what those are, they're basically just ways that programmers store data), but it could also be something simpler like a text file or spreadsheet. The API's data source can usually be updated through the API itself, but it might be updated independently if you want your API to be "read-only".
 
-**Next, an API needs a format for making requests.** When a user wants to use an API, they make a "request". This request usually includes a verb (eg: "Get", "Post", "Put", or "Delete"), a path (this looks like a URL), and a payload (eg: form or JSON data). Good APIs  offer rules for making these requests in their documentation.
+**Next, an API needs a format for making requests.** When a user wants to use an API, they make a "request". This request usually includes a verb (eg: "Get", "Post", "Put", or "Delete"), a path (this looks like a URL), and a payload (eg: form or JSON data). Good APIs offer rules for making these requests in their documentation.
 
 **Finally, an API needs to return a response.** Once the API processes the request and gets or saves data to the data source, it should return a "response". This response usually includes a status code (eg: "404 - Not Found", "200 - Okay", or "500 - Server Error") and a payload (usually text or JSON data). This response format should also be specified in the documentation of the API so that developers know what to expect when they make a successful request.
 
@@ -193,7 +197,7 @@ The example above was simple because the API didn't require any authentication a
 - Click "Params" and enter your `key`, `country`, and `year`.
 - Click "Send" to make the API request to Holiday API.
 
-![](https://i.imgur.com/B63DsOZ.png)
+![Sending an API request with Postman](https://i.imgur.com/B63DsOZ.png)
 
 Just like the response from Open Food Facts, the Holiday API returns a JSON data structure:
 
@@ -263,14 +267,14 @@ I find this model of [starting with a no-code prototype and then enhancing it wi
 
 ### [Airtable](https://airtable.com/invite/r/4EaSmQNr)
 
-**Description:** I've started using Airtable for almost everything that I used to pack into spreadsheets. The big advantage to using Airtable for your API is that they have an excellent visual user interface and integrations with many other tools built in. Plus, you can use Zapier to trigger custom actions when new items show up in Airtable.
+**Description:** I've started using Airtable for almost everything that I used to pack into spreadsheets. The big advantage to [using Airtable for your API](https://www.karllhughes.com/posts/using-airtable-as-an-api) is that they have an excellent visual user interface and integrations with many other tools built-in. Plus, you can use Zapier to trigger custom actions when new items show up in Airtable.
 
 **Pros:**
 - Super simple to get started, another zero-code solution
 - Authentication via a single API key
 - Permissions using sharing settings in UI
 - Input forms to allow users to add content
-- Can use with Zapier to trigger events in other services, send emails, etc.
+- Can use Zapier to trigger events in other services, send emails, etc.
 - Database-style linking between records
 - Query by complex functions for advanced filtering and searching of records
 - User roles allow limited role-based permissions
@@ -320,7 +324,7 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 
 ### [Bubble](https://bubble.io/)
 
-**Description:** Bubble is probably the best web application builder I've seen for those who don't code, and because it also includes an option to expose your data or workflows over an API, it's worth noting here. You can hook into your application's permission settings to manage access to resources or keep certain resources hidden completely. If you're already using Bubble for your website, then using them to generate your API is an easy decision.
+**Description:** Bubble is probably [the best web application builder](https://www.karllhughes.com/posts/bubble-web-app) I've seen for those who don't code, and because it also includes an option to expose your data or workflows over an API, it's worth noting here. You can hook into your application's permission settings to manage access to resources or keep certain resources hidden completely. If you're already using Bubble for your website, then using them to generate your API is an easy decision.
 
 **Pros:**
 - Permissions and authentication managed the same way as it is in the application builder
@@ -348,6 +352,22 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 - No documentation generation
 - Can get expensive at higher use levels
 
+### [Strapi](https://strapi.io/)
+
+**Description:** Strapi is an open-source content management system that lets you self-host an API on your own server in minutes. Even if you're not an experienced developer, you can probably follow the [setup instructions](https://strapi.io/documentation/developer-docs/latest/getting-started/quick-start.html) to get started. The biggest limitation today is that you'll need to run and maintain a server to host your Strapi backend. But, as an [open-source company](https://www.karllhughes.com/posts/open-source-companies), I imagine Strapi will add a hosted version that makes it even easier for non-technical users to get started with.
+
+**Pros:**
+- Very flexible and fast
+- Includes a GraphQL interface, which is a better option for some use cases
+- Can build complex relationships between data models
+- Permissions and authentication rules can be set granularly
+- Scales up as much as your server can handle
+- Free (but you do pay for your server)
+
+**Cons:**
+- Not completely "no-code" because you have to setup and run it on your own server
+- More complicated to set up and configure than some options
+
 ### [PHP CRUD API](https://github.com/mevdschee/php-crud-api)
 
 **Description:** If you're semi-technical or you can hire a developer to do some initial setup, PHP-CRUD-API might be a great option. Once you hook it up to an existing MySQL, Postgres, or SQL Server database, it automatically generates an API that is documented and highly customizable. The downside to this approach is that you'll have to pay to host and set up the application. The upside is that it should scale with you long after your MVP.
@@ -362,8 +382,10 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 **Cons:**
 - Not really a "no-code" solution as you'll likely have to have a developer set it up for you
 - While the application is free, you will have to pay for hosting it (probably $5-$25/month)
-- No authentication, logging, triggers, etc. included out of the box, but they can be added with some simple coding
+- No authentication, logging, triggers, etc. included out of the box, but they can be added with some custom coding
 
-## Next Steps
+## Conclusion
 
-This guide will continue to evolve and grow as new tools and information becomes available. If you have your own suggestions, [find me on Twitter](https://twitter.com/karllhughes) to let me know about them.
+Building an API without code is getting easier every year. When I first wrote this guide in 2017, the options were limited, but with the widespread growth of [cloud services](https://www.karllhughes.com/posts/cloud-services) and [low-code tools](https://stackoverflow.blog/2021/06/09/using-low-code-tools-to-iterate-products-faster/), I've been able to add many new options to this guide.
+
+I intend to keep updating this guide periodically. If you have your own suggestions for building APIs without code, [find me on Twitter](https://twitter.com/karllhughes) to let me hear about them.
