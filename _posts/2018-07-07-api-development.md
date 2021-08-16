@@ -5,7 +5,6 @@ date: 2021-08-16T01:22:01.187Z
 img: /assets/img/api-development.png
 categories:
   - Software Engineering
-  - API Development
 ---
 
 **The term "API" gets thrown around a lot these days, but what does it mean? What can you use an API for? Do you have to have a developer on your team to build or use an API? In this guide, we'll explore all those questions and more, including a spotlight on the tools you can use as a [non-technical founder](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto) to build your own APIs.**
