@@ -112,7 +112,7 @@ I've been a fan of 3D printing for a long time, so Velo3D has been a fascinating
 
 You might have heard of Coda now, but before launch, the company was called Krypton and founded by a former [YouTube Executive, Shishir Mehrotra](https://www.linkedin.com/in/shishirmehrotra/). The company built its Excel-killer in secret with a $400 million pre-launch valuation.
 
-As you can see, all three of these stealth startups were founded by experienced technology executives with investment and industry connections that would be exceedingly hard for a first-time founder to replicate. In my experience, most stealth startups that actually make it to launch have rich pedigrees behind the business.
+As you can see, all three of these stealth startups were founded by [serial entrepreneurs](/posts/serial-entrepreneurs) with investment and industry connections that would be exceedingly hard for a first-time founder to replicate. In my experience, most stealth startups that actually make it to launch have rich pedigrees behind the business.
 
 ## Tips for Building a Stealth Startup
 While my standard advice for founders is to skip stealth mode, there's no such thing as [one-size-fits-all advice](https://www.karllhughes.com/posts/experts). So, if you do decide to go down the path of operating a company in stealth mode, here are a few things to keep in mind as you go.

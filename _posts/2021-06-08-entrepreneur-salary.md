@@ -103,7 +103,7 @@ The challenges (and stresses) don't go away as your company gets bigger, and for
 
 Finally, I've known a very few entrepreneurs who own businesses that pay them a salary without requiring any of their time.
 
-Very few of these entrepreneurs are first-time founders. Most have spent decades [building a network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), [cultivating mentors](https://www.karllhughes.com/posts/business-advisor), learning an industry, and amassing wealth. By the time they hit their third or fourth business, they have enough capital to pay others to manage their businesses for them.
+Very few of these entrepreneurs are first-time founders (and many are [serial entrepreneurs](/posts/serial-entrepreneurs)). Most have spent decades [building a network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), [cultivating mentors](https://www.karllhughes.com/posts/business-advisor), learning an industry, and amassing wealth. By the time they hit their third or fourth business, they have enough capital to pay others to manage their businesses for them.
 
 There is also a tiny cadre of entrepreneurs who generate a livable passive income from a single small business that they own. While these businesses never start as passive, it is possible to design a company that runs without you and pays you a great salary. It's just extremely rare.
 
