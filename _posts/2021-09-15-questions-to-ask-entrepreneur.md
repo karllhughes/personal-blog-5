@@ -15,6 +15,8 @@ If you’re considering joining a startup, there are some things you need to car
 
 Based on my 10+ years of experience working at early-stage startups and now starting my own, I’d like to share what I would ask an entrepreneur before joining their company.
 
+<!-- ad-banner -->
+
 ## Advantages of Working at a Startup
 
 While startups might seem intimidating, they tend to be progressive in the incentives they offer for early employees who are willing to accept the challenge (and risk). Ultimately, you'll learn to be adaptable, drive results, and if the company grows, you'll likely get promoted quickly.
