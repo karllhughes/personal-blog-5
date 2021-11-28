@@ -184,7 +184,7 @@ There are two extremes in this category too:
 #### Extreme 1: Pay for Hours
 The traditional measure of a startup employee is based on [the number of hours they spend in their seat](https://www.karllhughes.com/posts/working-hours), banging out work. The more lines of code an engineer can push and the more calls a sales rep can make, the more respect the founder will give them.
 
-This is naive. I have rarely worked more than 40 hours per week, but sometimes I'd sit at my desk for a couple of extra hours every evening working on side projects. These furthered my career but didn't do much for the company. Still, I was perceived as a hard worker, while my coworkers with families were spurned for not being team players.
+This is naive. I have rarely worked more than 40 hours per week, but sometimes I'd sit at my desk for a couple of extra hours every evening [working on side projects](/posts/side-project-ideas). These furthered my career but didn't do much for the company. Still, I was perceived as a hard worker, while my coworkers with families were spurned for not being team players.
 
 The other problem is that in knowledge work, [more hours is not necessarily better](https://www.cnbc.com/2015/01/26/working-more-than-50-hours-makes-you-less-productive.html).
 

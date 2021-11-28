@@ -9,7 +9,7 @@
 ### License
 
 Code: Apache 2.0
-Content: All rights reserved, Portable CTO, LLC.
+Content: All rights reserved, Hughes Domains, LLC.
 
 _If you'd like to republish something, please email me: khughes.me@gmail.com_
 

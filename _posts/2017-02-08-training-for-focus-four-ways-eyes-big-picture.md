@@ -28,7 +28,7 @@ Checking email, washing dishes, doing laundry, buying groceries, replying to com
 
 ### 3. Plan for a Free Day
 
-For me, it's really helpful to know that a "free day" is coming soon.  I _really like_ my work, but if I do it every day, seven days per week, I tend to burn out and get more easily distracted.  Once per week, I have to take a "free day," where I just let myself work on a side project, meet up with friends, or write several articles for fun.  Once I get my distractions out of the way, I can spend the rest of the week focusing, knowing that another free day is just a short wait away. 
+For me, it's really helpful to know that a "free day" is coming soon.  I _really like_ my work, but if I do it every day, seven days per week, I tend to burn out and get more easily distracted.  Once per week, I have to take a "free day," where I just [let myself work on a side project](/posts/side-project-ideas), meet up with friends, or write several articles for fun.  Once I get my distractions out of the way, I can spend the rest of the week focusing, knowing that another free day is just a short wait away. 
 
 ### 4. The Daily List
 

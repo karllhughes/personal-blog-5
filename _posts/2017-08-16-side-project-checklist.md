@@ -6,9 +6,9 @@ img: https://i.imgur.com/cuhZODE.png
 categories:
   - Startups
 ---
-Like many developers, I've been building side projects in my spare time for years. One of the most fun things about being a software developer is having the ability to build tools that solve your own problems, so most of these projects have been very specific to my needs, but a couple have had potential for market appeal.
+Like many developers, I've been [building side projects in my spare time for years](/posts/side-project-ideas). One of the most fun things about being a software developer is having the ability to build tools that solve your own problems, so most of these projects have been very specific to my needs, but a couple have had potential for market appeal.
 
-The problem for me has always been [effectively marketing my side projects](https://www.sideprojectchecklist.com/2017/why/). Typically, I build a product for myself, try a few things to get the word out, and then lose interest. This has led to most of my projects languishing in obscurity, but this year I'm trying to change that.
+The problem for me has always been effectively marketing my side projects. Typically, I build a product for myself, try a few things to get the word out, and then lose interest. This has led to most of my projects languishing in obscurity, but this year I'm trying to change that.
 
 ## The Side Project Marketing Checklist
 
