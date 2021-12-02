@@ -201,8 +201,30 @@ Simple yet powerful, Teamwork makes it possible for project managers to oversee 
 
 Teamwork has a free version, which is suitable for individuals and small teams. As you start handling multiple projects, you can turn to their paid plans, which start at $10 per user per month.
 
-<!-- ad-banner -->
+### [ProofHub](https://www.proofhub.com/)
 
+![Proofhub home page](https://i.imgur.com/u6FKplc.png)
+
+ProofHub is a project management and team communication software
+designed to the benefit of growing teams. Young startups often need to set
+up definite workflows for maximizing process efficiency and ProofHub
+offers several tools for that. Its advanced task management system offers
+workflow-based Kanban Boards that tie loose ends together. Managers can
+assign tasks, mark deadline dates, and then communicate updates in the
+same window.
+
+For project planning and forecasting, ProofHub offers highly popular Gantt
+Charts that help managers chalk out timelines and manage task
+dependencies. A dedicated &quot;Reports&quot; section offers insights into project KPIs and tracks week-over-week progress.
+
+ProofHub's communication features save startup teams from signing up for
+too many tools. It offers 1:1 chat, group chat, and Slack-like discussion
+boards all in one place.
+
+The pricing is something most startups will be attracted to. For a flat
+monthly price of $89, ProofHub offers unlimited projects and users. No
+extra costs each time there's a new team member or client. No feature
+restrictions either.
 
 ## Conclusion
 
