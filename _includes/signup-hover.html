@@ -11,10 +11,14 @@
 </div>
 <script>
   function openForm() {
-    document.getElementById("popup-email-form").style.opacity = 1;
+    var formDiv = document.getElementById("popup-email-form");
+    formDiv.style.display = "block";
+    formDiv.style.opacity = 1;
   }
   function closeForm() {
-    document.getElementById("popup-email-form").style.opacity = 0;
+    var formDiv = document.getElementById("popup-email-form");
+    formDiv.style.opacity = 0;
+    formDiv.style.display = "none";
   }
   setTimeout(openForm, 10000);
 </script>
