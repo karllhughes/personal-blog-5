@@ -14,7 +14,6 @@ Before I started [Draft.dev](http://draft.dev/) earlier this year, I spent almos
 
 <!-- ad-banner -->
 
-
 ## Early-Stage Startups
 
 This category includes books for people who are [just starting out](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). If you are building your first product or raising the first round of funding, these books will provide you with a good starting point.
@@ -63,6 +62,8 @@ Although named “The Art of the Start,” this book covers various business are
 With over a hundred charts, graphs, and valuable checklists, this book helps startup founders in many ways. For example, it teaches you how to avoid “deadly sins” that lead your business to failure and how to drive your company to repeatable and scalable profits. The methods in this book were created by Steve Blank, a famous Silicon Valley startup, and were tested by him for more than a decade.
 
 “Best entrepreneur book period. If you liked Lean Startup (another great read/education) you'll love this one by Steve Blank. He taught those guys. I love how the author really reset your approach and lays out a clear plan on how to test and scale.”
+
+_**Note:** If you're an early-stage startup founder learning about content marketing, I helped create a course at [thisisgoodmarketing.com](https://thisisgoodmarketing.com/) just for you. Learn everything you need to know about building a repeatable content marketing funnel that actually drives new business._
 
 
 ## Growth Stage Startups

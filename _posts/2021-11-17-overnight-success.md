@@ -13,7 +13,7 @@ I run a small, profitable, bootstrapped business that allows me unlimited flexib
 
 I still work on it full-time, but it’s now at the point where I can safely take vacations and unplug without feeling like things will fall apart. We have good cashflow, a line of clients hoping to work with us, and all this has taken less than 18 months.
 
-From the outside, [Draft.dev](http://Draft.dev) might look like an overnight success. The business has grown from just me to 8 full-time people in a year, and it’s hit my revenue goals three years faster than I expected.
+From the outside, [Draft.dev](https://draft.dev) might look like an overnight success. The business has grown from just me to 8 full-time people in a year, and it’s hit my revenue goals three years faster than I expected.
 
 But like most overnight successes, this was not my first shot on goal.
 
@@ -21,7 +21,7 @@ But like most overnight successes, this was not my first shot on goal.
 
 In the past decade, I’ve made serious attempts with at least 10 failed entrepreneurial ventures and bought countless domain names for fleeting ideas. None of these projects turned a significant profit, much less grew to a point where they could support me full-time.
 
-That said, I learned a lot of important things in each of these failures. Ultimately, [Draft.dev](http://Draft.dev) wouldn't have been possible without these attempts.
+That said, I learned a lot of important things in each of these failures. Ultimately, [Draft.dev](https://draft.dev) wouldn't have been possible without these attempts.
 
 ## An Accounting of Failures
 
@@ -153,7 +153,7 @@ Just as I was forced to go to half-time, my side project was nose-diving. I had 
 
 Meanwhile, the demand for developer-focused content was at an all-time high. Nobody could speak at conferences or meetups, but tech marketing budgets had to go somewhere.
 
-Finally, I had connections to hundreds of Developer Relations professionals through CFP Land. I was able to simply ask a few if they’d like me to write articles for them. Those connections turned into referrals that turned into more clients and [the flywheel quickly accelerated from there](https://www.karllhughes.com/posts/journey-to-30).
+I had connections to hundreds of Developer Relations professionals through CFP Land. I was able to simply ask a few if they’d like me to write articles for them. Those connections turned into referrals that turned into more clients and [the flywheel quickly accelerated from there](https://www.karllhughes.com/posts/journey-to-30).
 
 ## My Day Jobs Were Critical Too
 

@@ -141,4 +141,14 @@ No matter which state you’re in, the features include unlimited free direct de
 
 **Cost: Wave Payroll pricing starts at $20.00 per month.**
 
+### 11. [Pilot.co](https://pilot.co/)
+
+![Pilot.co](https://i.imgur.com/IuK9Sfs.png)
+
+While it doesn't support full-time W2 hires (yet), I discovered Pilot while searching for a way to pay our 150+ international contract employees at Draft.dev. The truth is, there are very few payroll providers that support international payments as well as Pilot, especially for the low price.
+
+They also help you manage compliance, by offering standard freelance contracts for over 100 countries and automatic collection of proper documentation. Finally, you can convert your contract employees to full-time using their employer of record service, which makes international hiring much cheaper and easier for startups.
+
+**Cost: Pilot.co's pricing starts at $29 per month.**
+
 <!-- ad-banner -->

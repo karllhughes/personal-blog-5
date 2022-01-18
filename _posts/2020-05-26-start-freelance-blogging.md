@@ -13,7 +13,7 @@ As I got into startups and developing software, I sort of kept writing as a hobb
 
 In the spring of 2020, I found myself with a little extra time on my hands, so I decided to reach back out to some of the publications I had worked with in the past and start finding more opportunities to write for pay. Within a couple of weeks of emailing people in my network, I had six clients lined up.
 
-_PS: I now run a technical content production company [called Draft.dev](https://draft.dev). If you'd like to apply to write for us, [applications are open now](https://draft.dev/#write)._
+_PS: I now run a technical content production company [called Draft.dev](https://draft.dev). If you'd like to apply to write for us, [applications are open now](https://draft.dev/write)._
 
 ### How Much Does it Pay?
 Most freelance writers have a tough time making much money, but technical writing is among the highest-paid segments of the industry. I've been paid up to $1000 per article depending on the topic, publication, and length. It usually works out to between $50 and $250 per hour (excluding administrative work and pitching). Obviously, that's a big spread, so you'll have to balance the kind of writing you want to do with your desire for income.

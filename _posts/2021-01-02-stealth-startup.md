@@ -46,7 +46,7 @@ Companies in pharmaceutical, heavy industrial, or cutting-edge fields are most l
 ### 2. Prepare for "Big Bang" Launch
 Another reason many founders spend time in stealth mode is to make a big splash when they finally launch. There are [two schools of thought](https://www.chargebee.com/blog/soft-launch-vs-big-bang-approach-launching-product-go/) when it comes to launching a startup, but I tend to [favor launching early](https://www.karllhughes.com/posts/when-to-launch).
 
-Still, some founders with media connections or a large personal following might remain in stealth mode until their startup has prepared all its marketing and PR channels. They may also want to make sure their product is robust enough to handle the sudden influx of traffic they're likely to have.
+Still, some founders with media connections or a large personal following might remain in stealth mode until their startup has prepared all its [content marketing](https://thisisgoodmarketing.com/), social media, and PR channels. They may also want to make sure their product is robust enough to handle the sudden influx of traffic they're likely to have.
 
 ### 3. Avoid Marketing and Sales Distractions
 Some founders - especially those with a product to engineering background - tend to overbuild their early product. They see sales and marketing as a distraction until they've got everything in their product _just right_.

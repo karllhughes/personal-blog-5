@@ -19,7 +19,7 @@ I wish this weren’t the first time I had heard something like this, but it see
 
 In this piece, I want to dig into marketing management. I’ll share some of the challenges and key skills marketing managers at startups need and hopefully give you some useful resources to help you understand the role.
 
-<!-- ad-banner -->
+_**Note:** If you're a startup marketer and you'd like to learn more about content marketing specifically, I co-created [thisisgoodmarketing.com](https://thisisgoodmarketing.com/) just for you._
 
 ## What is a Marketing Manager?
 
