@@ -19,7 +19,7 @@ But like most overnight successes, this was not my first shot on goal.
 
 > “Nobody is an overnight success. Most overnight successes you see have been working at it for ten years.” - **[David Heinemeier Hansson](https://signalvnoise.com/posts/1624-overnight-success-takes-years)**
 
-In the past decade, I’ve made serious attempts with at least 10 failed entrepreneurial ventures and bought countless domain names for fleeting ideas. None of these projects turned a significant profit, much less grew to a point where they could support me full-time.
+In the past decade, I’ve made serious attempts with at least 10 failed entrepreneurial ventures and bought countless domain names for fleeting ideas. None of these [side project ideas](https://www.karllhughes.com/posts/side-project-ideas) turned a significant profit, much less grew to a point where they could support me full-time.
 
 That said, I learned a lot of important things in each of these failures. Ultimately, [Draft.dev](https://draft.dev) wouldn't have been possible without these attempts.
 
