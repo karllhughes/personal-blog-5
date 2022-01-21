@@ -129,7 +129,7 @@ Not every entrepreneur can use direct payments though as some business types hav
 
 ### 2. Paycheck
 
-Most entrepreneurs with a C-Corporation or S-Corporation set up a payroll system and collect a paycheck much like their employees do. There are rules about setting a "[reasonable salary](https://wcginc.com/business-services/s-corp-salary/)" and your business will have to pay payroll taxes when you use this method of paying yourself.
+Most entrepreneurs with a C-Corporation or S-Corporation [set up a payroll system](https://www.karllhughes.com/posts/payroll-software-tools) and collect a paycheck much like their employees do. There are rules about setting a "[reasonable salary](https://wcginc.com/business-services/s-corp-salary/)" and your business will have to pay payroll taxes when you use this method of paying yourself.
 
 The upside to putting yourself on payroll is that you [could pay less in taxes overall](https://www.guidantfinancial.com/blog/10-tax-benefits-of-c-corporations/). The profits kept in the business may be taxed at a lower rate than your personal income, plus your company can deduct your paycheck like any other employee's. This advice is not universal, though, as setting up a C-Corp is more complicated and can be more expensive to maintain.
 

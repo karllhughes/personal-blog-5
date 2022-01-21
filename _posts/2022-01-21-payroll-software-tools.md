@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "The 10 Best Payroll Software Tools for Startups"
-date: 2021-03-31
+title: "The 11 Best Payroll Software Tools for Startups"
+date: 2022-01-21
 img: /assets/img/payroll.png
 categories:
   - Startups
   - Tools
 ---
 
-I recently went through the process of evaluating payroll software tools, so I figured I would collect my findings here and share. Some of these options cater more to early-stage startups like mine, while others may be more suited for larger ones.
+Last year, I went through the process of evaluating payroll software tools, so I figured I would collect my findings here and share. Some of these options cater more to early-stage startups like mine, while others may be more suited for larger ones.
 
 For founders and HR managers at startups, paying employees, administering benefits, and filing taxes properly can be time-consuming and complex. As a leader, you should be focused on growing the business and developing their product, so the more you can offload to software or third-party services, the more effective you'll be at your job.
 
@@ -16,12 +16,10 @@ For founders and HR managers at startups, paying employees, administering benefi
 
 A good payroll tool will help you reduce manual data entry, avoid costly tax mistakes, and allow you to run your business without a lot of overhead. The hard part is deciding which option works best for your needs. I typically recommend two approaches:
 
-1. Ask startups that are similar to you about their choice. What do they like? What do they dislike? This is my preferred way of choosing (and how [we landed on Gusto](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=) at my last startup).
+1. Ask startups that are similar to you about their choice. What do they like? What do they dislike? This is my preferred way of choosing (and how [we landed on Gusto](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=) and [Pilot](https://pilot.grsm.io/gjjc2ow3l0k9) at my last startup).
 2. Try each one out. This is time-consuming and to be honest, many of the options on this list are pretty close in price and features. I don't recommend spending this much time on the decision.
    
 That said, you should consider your current _and_ future needs.
-
-<!-- ad-banner -->
 
 ## The Best Startup Payroll Providers
 
@@ -39,7 +37,17 @@ Gusto is most often used by software startups on the smaller side ($1M-$10M in r
 
 **Cost: Gusto’s [Basic plan starts at $19 per month](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=), plus $6 per month per person.**
 
-### 2. [Patriot Online Payroll](https://shareasale.com/r.cfm?b=240525&u=1653894&m=28083&urllink=&afftrack=)
+### 2. [Pilot.co](https://pilot.grsm.io/gjjc2ow3l0k9)
+
+[![Pilot.co](https://i.imgur.com/IuK9Sfs.png)](https://pilot.grsm.io/gjjc2ow3l0k9)
+
+While it doesn't support full-time W2 hires (yet), I discovered Pilot while searching for a way to pay our 150+ international contract employees at Draft.dev. The truth is, there are very few payroll providers that support international payments as well as Pilot, especially for the low price.
+
+They also help you manage compliance, by offering standard freelance contracts for over 100 countries and automatic collection of proper documentation. Finally, you can convert your contract employees to full-time using their employer of record service, which makes international hiring much cheaper and easier for startups.
+
+**Cost: Pilot.co's pricing starts at $29 per month.**
+
+### 3. [Patriot Online Payroll](https://shareasale.com/r.cfm?b=240525&u=1653894&m=28083&urllink=&afftrack=)
 
 [![Patriot Payroll](https://i.imgur.com/fNBh0rE.png)](https://shareasale.com/r.cfm?b=240525&u=1653894&m=28083&urllink=&afftrack=)
 
@@ -51,7 +59,7 @@ Patriot Payroll is a great tool for startups looking for wallet-friendly payroll
 
 **Cost: Patriot Payroll [starts at $10 per month](https://shareasale.com/r.cfm?b=240525&u=1653894&m=28083&urllink=&afftrack=), plus $4 per month per person.**
 
-### 3. [Intuit QuickBooks Payroll](https://quickbooks.intuit.com/payroll/)
+### 4. [Intuit QuickBooks Payroll](https://quickbooks.intuit.com/payroll/)
 
 ![Quickbooks Payroll](https://i.imgur.com/xeN6FUo.png)
 
@@ -63,7 +71,7 @@ QuickBooks Payroll is most often used by tech companies like VOSTROM, with 10-50
 
 **Cost: Quickbook Payroll’s basic plan starts at $45 per month, plus $4 per month per person. However, they are offering 50% off for the first 3 months at the moment.**
 
-### 4. [SurePayroll](https://www.surepayroll.com/)
+### 5. [SurePayroll](https://www.surepayroll.com/)
 
 ![SurePayroll](https://i.imgur.com/MVGWiHD.png)
 
@@ -74,18 +82,6 @@ SurePayroll offers customer service and data migration if your startup is lookin
 The [companies using SurePayroll](https://enlyft.com/tech/products/surepayroll) are most often in the software industry.
 
 **Cost: Full-service is $29.99 per month, plus $5 per employee per month. Self-service is $19.99 per month, plus $4 per month per employee.**
-
-### 5. [Square Payroll](https://squareup.com/us/en/payroll)
-
-![Square payroll](https://i.imgur.com/ZSLCWlu.png)
-
-Square Payroll is ideal for companies that already use Square for payment processing and is among the most affordable full-service payroll options available. As a plug-and-play payroll solution, it’s easy to set up, and the app automatically syncs with your Square point-of-sale system (POS). This makes it simple for Square users to create one streamlined financial system.
-
-Your monthly subscription includes automatic quarterly and annual tax filings, timecard integration and Square Team app access, and flat pricing for payroll services and live support. You can also sync hours, review sales, and manage permissions with the Square Team Management integration. However, some reviewers, such as PCMag, complain about the platform’s user experience, which isn’t as sleek, professional, and state-of-the-art as competitors like SurePayroll. But the company does provide helpful guides to help navigate the payroll system.
-
-Startups that typically go with Square Payroll already use Square for payment processing.
-
-**Cost: Square Payroll starts at $29 per month, plus $5 per month per person. The Pay Contractors Only option is $5 per month per person.**
 
 ### 6. [Rippling](https://www.rippling.com/)
 
@@ -141,14 +137,16 @@ No matter which state you’re in, the features include unlimited free direct de
 
 **Cost: Wave Payroll pricing starts at $20.00 per month.**
 
-### 11. [Pilot.co](https://pilot.co/)
+### 11. [Square Payroll](https://squareup.com/us/en/payroll)
 
-![Pilot.co](https://i.imgur.com/IuK9Sfs.png)
+![Square payroll](https://i.imgur.com/ZSLCWlu.png)
 
-While it doesn't support full-time W2 hires (yet), I discovered Pilot while searching for a way to pay our 150+ international contract employees at Draft.dev. The truth is, there are very few payroll providers that support international payments as well as Pilot, especially for the low price.
+Square Payroll is ideal for companies that already use Square for payment processing and is among the most affordable full-service payroll options available. As a plug-and-play payroll solution, it’s easy to set up, and the app automatically syncs with your Square point-of-sale system (POS). This makes it simple for Square users to create one streamlined financial system.
 
-They also help you manage compliance, by offering standard freelance contracts for over 100 countries and automatic collection of proper documentation. Finally, you can convert your contract employees to full-time using their employer of record service, which makes international hiring much cheaper and easier for startups.
+Your monthly subscription includes automatic quarterly and annual tax filings, timecard integration and Square Team app access, and flat pricing for payroll services and live support. You can also sync hours, review sales, and manage permissions with the Square Team Management integration. However, some reviewers, such as PCMag, complain about the platform’s user experience, which isn’t as sleek, professional, and state-of-the-art as competitors like SurePayroll. But the company does provide helpful guides to help navigate the payroll system.
 
-**Cost: Pilot.co's pricing starts at $29 per month.**
+Startups that typically go with Square Payroll already use Square for payment processing.
+
+**Cost: Square Payroll starts at $29 per month, plus $5 per month per person. The Pay Contractors Only option is $5 per month per person.**
 
 <!-- ad-banner -->

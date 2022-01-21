@@ -24,10 +24,12 @@ Entries are broken down into categories and include a bit about how I use them. 
 - [Diigo](https://www.diigo.com/) - I use Diigo as a bookmark organization system and a way to pipe interesting articles into my email newsletter.
 
 ## Payroll and Freelancers
-- [Pilot.co](https://pilot.co/) - We have contractors in 27 countries, and Pilot was the best payroll solution I could find for our use case. They've been very helpful about understanding international taxes and laws too.
+- [Pilot.co](https://pilot.grsm.io/gjjc2ow3l0k9) - We have contractors in 27 countries, and Pilot was the best payroll solution I could find for our use case. They've been very helpful about understanding international taxes and laws too.
 - [Gusto](https://www.shareasale.com/r.cfm?b=1006810&u=1653894&m=71912) - For full-time employees, Gusto is the best option available today. It's affordable and lets you easily layer on other benefits.
 - [Upwork](https://www.upwork.com/) - I've hired developers, writers, and designers on Upwork. While you have to wade through a lot of junk to find the few good people there, they make it really simple to hire freelancers.
 - [Fiverr](https://www.fiverr.com/) - For very short-term projects, I use Fiverr. Things like logo design, bug fixes, and presentation design are all easily outsourced to Fiverr members.
+
+_Note: I have compared many [more payroll tools here](https://www.karllhughes.com/posts/payroll-software-tools) if you're looking for other options._
 
 ## Writing
 - [Google Docs](https://refergsuite.app.goo.gl/ACiV) - After trying a few methods, I found the editing and commenting features in Google Docs in addition to the Grammarly integration to make it the easiest tool for writing. If only it supported Markdown...
