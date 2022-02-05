@@ -74,6 +74,18 @@ pre {
   overflow: scroll;
 }
 
+ul.task-list {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 20px;
+  li {
+    margin-left: 0;
+    input{ 
+      margin-right: 10px;
+    }
+  }
+}
+
 .wrapper {
   background-color: $white;
   margin-right: auto;
