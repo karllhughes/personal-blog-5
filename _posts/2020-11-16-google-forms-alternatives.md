@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "14 Alternatives to Google Forms"
+title: "15 Alternatives to Google Forms"
 img: /assets/img/google-forms-alternatives.png
 date: 2020-11-16
 categories: 
@@ -9,9 +9,7 @@ categories:
 
 I've been using [Google Forms](https://www.google.com/forms/about/) for over a decade, and it has continued to impress me with new features, improved design, and more flexibility every year. Coupled with automation tools like [Zapier](https://zapier.com/) or [n8n.io](https://n8n.io/), there's not a lot you _can't_ do with Google Forms.
 
-That said, it's 2020 and there are plenty of alternatives to Google Forms that might work better for your startup. Depending on what you want to do, one of these Google Forms competitors might finally get you to change the way you collect surveys and user input.
-
-<!-- ad-banner -->
+That said, it's 2021 and there are plenty of alternatives to Google Forms that might work better for your startup. Depending on what you want to do, one of these Google Forms competitors might finally get you to change the way you collect surveys and user input.
 
 ## Why Replace Google Forms?
 If Google Forms are working for you, then great. No need to fix what isn't broken. That said, there are a lot of good reasons to seek an alternative. For example, what if you want to customize the styling on your forms? Google Forms gives you very limited options for this.
@@ -31,6 +29,12 @@ Finally, you may want a deeper integration between your form and your website. F
 When I need more features or to accept payments, [Wufoo](https://www.shareasale.com/r.cfm?b=1379130&u=1653894&m=89794) is my go-to form builder. It costs a few bucks per month, but with that you can collect thousands of responses, connect with Stripe and other payment systems, and still get integrations with Zapier and other services.
 
 Wufoo also allows you to customize the look of your forms with custom CSS styling. This means your Wufoo forms can integrate seamlessly into your website, making them great for adding interactivity to a static site. [I wrote a longer comparison](/posts/wufoo-vs-google-forms) of Wufoo and Google Forms recently, so check that out if you want to dig in deeper.
+
+### [SurveyMonkey]([https://www.surveymonkey.com/](https://www.shareasale.com/r.cfm?b=1379130&u=1653894&m=89794))
+
+[![SurveyMonkey form builder](https://i.imgur.com/1DhLTlQ.png)](https://www.shareasale.com/r.cfm?b=1379130&u=1653894&m=89794)
+
+It's not quite as open-ended as Google Forms, but SurveyMonkey is decidedly better for capturing user, employee, or customer feedback and making sense of the results. Many of the features are similar to other form builders, and you can get started building surveys with up to 10 questions for free.
 
 ### [Airtable](https://airtable.com/invite/r/4EaSmQNr)
 
@@ -67,12 +71,6 @@ Typeform has a unique and visually appealing style. Because they offer a compreh
 
 [NinjaForms](https://www.shareasale.com/r.cfm?b=812237&u=1653894&m=63061) is another option for WordPress-based sites that need to handle user input. It's especially good for non-technical users who want a simple drag-and-drop interface that accepts payments and user email addresses securely. They support PayPal or Stripe for payments and integrate with all the major email providers for collecting subscribers.
 
-### [SurveyMonkey](https://www.surveymonkey.com/)
-
-![SurveyMonkey form builder](https://i.imgur.com/1DhLTlQ.png)
-
-It's not quite as open-ended as Google Forms, but SurveyMonkey is decidedly better for capturing user, employee, or customer feedback and making sense of the results. Many of the features are similar to other form builders, and you can get started building surveys with up to 10 questions for free.
-
 ### [Formspree](https://formspree.io/)
 
 ![Formspree simple form builder](https://i.imgur.com/H5j2HdF.png)
@@ -103,6 +101,8 @@ With a drag-and-drop editor, 30 great templates, and deep data integration optio
 
 With a relatively high price point, Formstack definitely falls on the premium end of the alternatives to Google Forms. That said, you get what you pay for. They have a massive integration library, hundreds of templates, and lots of examples of forms built for different goals and industries.
 
+<!-- ad-banner -->
+
 ### [Appenate](https://www.appenate.com/)
 
 ![Appenate app builder and forms](https://i.imgur.com/PBb3h0l.png)
@@ -121,6 +121,10 @@ Paperform is perfect for creating bespoke forms and landing pages. You can lever
 
 As one of the most popular paid WordPress plugins available, [WPForms](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312) is worth considering if your site is built on WordPress. Like other options on this list, it includes custom hooks, filters, and styling so your forms fit your design and data needs. 
 
-<!-- ad-banner -->
+### [Basin](https://usebasin.com/)
 
-_Note: This post was originally published in 2018, but was updated with new options and more details in November 2020._
+![Basin](https://i.imgur.com/cL63imI.png)
+
+Basin is another good option for people who want to build custom, on-brand forms without writing custom code. With just a few clicks, you can set up forms to collect submissions, send email notifications, and integrate with other tools to get your data where it needs to go.
+
+_Note: This post was originally published in 2018, but was updated with new options and more details in April 2021._
