@@ -2,7 +2,7 @@
 layout: post
 title: "15 Alternatives to Google Forms"
 img: /assets/img/google-forms-alternatives.png
-date: 2020-11-16
+date: 2022-04-21
 categories: 
   - Tools
 ---
@@ -111,9 +111,11 @@ If you've outgrown forms entirely and you need something a little more robust, c
 
 ### [Paperform](https://paperform.co/)
 
-![Paperform](https://i.imgur.com/C2HIm0F.png)
+![Paperform](https://i.imgur.com/8oUUyUe.png)
 
-Paperform is perfect for creating bespoke forms and landing pages. You can leverage more than 20 data-collection fields, accept payments, and even manage your product inventory. If you're looking to move your Google forms elsewhere, you can use Paperform's importer to preview how they'd look.
+While some forms are pretty or powerful, Paperform has both brains and beauty. Create your own themes, tailor your color palette to your business and embed content wherever you like.
+
+Paperform has 500+ templates and 2,000 integrations to help you make it yours, whether you want lead generation forms, take payments, or schedule booking. You can leverage more than 20 data-collection fields, accept payments, and even manage your product inventory. If you're looking to move your Google forms elsewhere, you can use Paperform's importer to preview how they'd look.
 
 ### [WPForms](https://www.shareasale.com/r.cfm?b=834775&u=1653894&m=64312)
 
@@ -127,4 +129,4 @@ As one of the most popular paid WordPress plugins available, [WPForms](https://w
 
 Basin is another good option for people who want to build custom, on-brand forms without writing custom code. With just a few clicks, you can set up forms to collect submissions, send email notifications, and integrate with other tools to get your data where it needs to go.
 
-_Note: This post was originally published in 2018, but was updated with new options and more details in April 2021._
+_Note: This post was originally published in 2018, but was updated with new options and more details in April 2022._
