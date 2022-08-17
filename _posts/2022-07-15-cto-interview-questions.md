@@ -1,22 +1,18 @@
 ---
 layout: post
 title: "24 Startup CTO Interview Questions"
-date: 2020-12-11
+date: 2022-07-15
 img: /assets/img/cto-interview.png
 categories: 
   - Management
   - Startups
 ---
 
-<!-- ad-banner -->
-
 Hiring a [Chief Technology Officer (CTO)](https://www.karllhughes.com/posts/roles-of-startup-cto) is a difficult feat at the best of times. But for startups, [a lot rides on choosing the right candidate](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto). Whereas in a large organization a CTO might be expected to focus largely on high-level strategic decisions such as overseeing development teams and finding integration partners, in the startup environment, it’s all hands on deck — from day one. 
 
 Your CTO might have to do everything from hop into the code to establish lead sprint meetings, and find time to [travel to tech conferences](https://www.cfpland.com/guides/speaking/).  
 
 I was recently asked to help a startup interview a prospective CTO. Here are some of the questions I used during the interview process, and I hope they help you in your CTO hiring process. I’ve ordered these by topic so that you can jump to the ones that best suit your startup’s needs.
-
-_Note: If you’re looking for more reading material, I’ve assembled a list of [my favorite books for startup founders here](https://www.karllhughes.com/posts/startup-books)._
 
 <!-- ad-banner -->
 
@@ -51,7 +47,7 @@ In Startupland, QA doesn’t always get the attention it deserves. There are spr
 
 **What to avoid:** If you need somebody who’s going to be comfortable diving in the deep end, then you probably don’t want a candidate that would freak out at the first sign of trouble. If that’s the case, look for somebody who has experienced getting their hands dirty with an ugly codebase.
 
-<!-- ad-banner -->
+_Note: If you’re looking for more reading material, I’ve assembled a list of [my favorite books for startup founders here](https://www.karllhughes.com/posts/startup-books)._
 
 ## Hiring
 
