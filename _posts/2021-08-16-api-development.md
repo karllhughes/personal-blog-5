@@ -242,6 +242,23 @@ Now that you know what an API is, why you might need one, and how to access an A
 
 I find this model of [starting with a no-code prototype and then enhancing it with code](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer) from a developer to be ideal as it allows you to test your API before you [hire a software engineer](https://www.karllhughes.com/posts/hiring-process).
 
+### [Sparklite](https://sparklite.io/)
+
+**Description:** If you have data and calculations in an Excel Spreadsheet, you can turn them into a Sparklite no-code app in just a few clicks.  Simply define the inputs and outputs in your spreadsheet and SparkLite will take care of the rest, giving you a secure, queryable API that developers can use with any frontend.
+
+**Pros:**
+- A no-code, simple solution
+- [Integrations with other no-code builders](https://docs.sparklite.io/5i3pAmMSTNfd4RCwlIgv/integrating-your-api/integrations-hub)
+- API testing UI built-in
+- Works with Excel out of the box
+- Fast, even with complex calculations
+- Free!
+
+**Cons:**
+- No custom code or authentication yet
+- No write or update support yet
+- Google Sheets not yet supported
+
 ### [Sheetsu](https://sheetsu.com/)
 
 **Description:** Sheetsu might be the easiest way to get started building an API because you probably already have some data in a spreadsheet that will make up the backbone of your application. Sheetsu takes any Google Sheet and turns it into a queryable, flexible API.
