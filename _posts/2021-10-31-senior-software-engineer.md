@@ -67,7 +67,7 @@ Regardless of the path you take, there are some skills I've found all senior sof
 
 As a senior engineer, you'll be expected to communicate more with early-career engineers, managers, and stakeholders than you did in previous roles. Because you'll have more knowledge about the system and technology than many of your peers, you'll be able to speak to the important considerations that decision-makers need to weigh.
 
-Likely, this will require some combination of writing and speaking skills.
+Likely, this will require some combination of writing and speaking skills. While you don't have to be as proficient as a [full-fledged developer relations pro does](https://devrelcareers.com/), the more comfortable you are communicating with others, the better you'll be as a senior engineer.
 
 ### 2. Multiple Programming Languages/Frameworks
 

@@ -91,7 +91,7 @@ After a year or so, I started hacking around on a new project called JobApis, a 
 
 Besides the obvious terms of service violations that some of these "unofficial" wrappers encouraged, I never found much demand for a service that aggregates job listings. Job seekers don't have money (and they already have plenty of tools) and recruiters only care about getting candidates, not jobs.
 
-Unfortunately, I didn’t learn this until *after* I had written a lot of code and set up all sorts of fancy SaaS features. That said, I eventually did tap into my network and conduct some customer discovery calls. The experience of getting on the phone to talk to potential customers was invaluable, and it was one of the key reasons [Draft.dev](http://Draft.dev) took off so quickly.
+Unfortunately, I didn’t learn this until *after* I had written a lot of code and set up all sorts of fancy SaaS features. That said, I eventually did tap into my network and conduct some customer discovery calls. The experience of getting on the phone to talk to potential customers was invaluable, and it was one of the key reasons [Draft.dev](http://Draft.dev) took off so quickly. All that knowledge of job boards also helped when we launched [DevRel Careers](https://devrelcareers.com/) as a way to share the jobs our clients needed help promoting.
 
 ### 7. The Side Project Marketing Checklist
 
@@ -135,7 +135,7 @@ I set up a customer development funnel (and [wrote about it here for Indie Hacke
 
 ![CFP Land home page](https://i.imgur.com/pqs8vZz.png)
 
-Within a year or two, I had over 2000 subscribers and I started talking to some of them about a paid SaaS tool based on CFP Land. This led me to learn more about the world of developer relations, and while I didn’t know it at the time, the connections I made while building CFP Land would be paramount to Draft.dev’s early success.
+Within a year or two, I had over 2000 subscribers and I started talking to some of them about a paid SaaS tool based on CFP Land. This led me to learn more about the world of developer relations and all the [devrel job opportunities out there](https://devrelcareers.com/categories). While I didn’t know it at the time, the connections I made while building CFP Land would also be paramount to Draft.dev’s early success.
 
 A few months into creating SaaS features for CFP Land, I had a couple hundred dollars in monthly recurring revenue. Unfortunately, it started to flatline and I realized how small this target market was. Very few tech conference speakers would actually pay for something to help them manage conference talks, it just wasn’t something they’d pay for.
 
