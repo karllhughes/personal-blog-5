@@ -388,6 +388,8 @@ Still, it's worth trying this tool out if you already have your data on a web pa
 
 **Description:** If you're semi-technical or you can hire a developer to do some initial setup, PHP-CRUD-API might be a great option. Once you hook it up to an existing MySQL, Postgres, or SQL Server database, it automatically generates an API that is documented and highly customizable. The downside to this approach is that you'll have to pay to host and set up the application. The upside is that it should scale with you long after your MVP.
 
+If you want to go this route, you can use [Kinsta’s application hosting](https://kinsta.com/), which is optimized for PHP applications. Kinsta’s platform is a solid foundation for building and scaling your API-based application. They provide a high-performance and secure environment, with features like automatic backups, scalability, and easy deployment.
+
 **Pros:**
 - Much more flexible as you can view and modify the whole app's source code
 - Once set up, you just have to modify your database schema to modify the API

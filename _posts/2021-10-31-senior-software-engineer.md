@@ -73,7 +73,7 @@ Likely, this will require some combination of writing and speaking skills. While
 
 I don't know if senior software engineers tend to know more languages or if this is really a requisite skill, but I do think that knowing multiple programming languages gives you a broader base of experience and a more dynamic skillset. I've learned a lot by trying new languages and taking the patterns they use back to my codebase.
 
-The good news is that learning new programming languages gets easier after your first two. I found that after learning PHP and JavaScript, Python and Ruby were relatively easy to understand.
+The good news is that [learning new programming languages](https://kinsta.com/blog/best-programming-language-to-learn/) gets easier after your first two. I found that after learning PHP and JavaScript, Python and Ruby were relatively easy to understand.
 
 ### 3. Debugging Skills
 
