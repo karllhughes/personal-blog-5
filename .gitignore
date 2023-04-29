@@ -6,6 +6,7 @@ Gemfile.lock
 package-lock.json
 node_modules/
 .jekyll-cache/
+.bundle/
 
 ### macOS ###
 *.DS_Store
@@ -34,3 +35,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 _drafts/
+
+__replit*
