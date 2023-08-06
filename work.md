@@ -4,7 +4,7 @@ title: Productized Studio Portfolio
 permalink: /work/
 ---
 
-I'm currently working with my partner, [Manuel Weiss](https://www.linkedin.com/in/manuelweiss1986/), to buy and build a collection of niche service businesses. Our 10-year vision (December 2033) is to amass a portfolio of 10+ companies with $100mm in total revenue.
+I'm currently working with my partner, [Manuel Weiss](https://www.linkedin.com/in/manuelweiss1986/), to buy and build a collection of digital service businesses. Our 10-year vision (December 2033) is to amass a portfolio of 10+ companies with $100mm in total revenue.
 
 Here's a summary of where we're at in our journey:
 
