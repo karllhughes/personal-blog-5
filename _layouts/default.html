@@ -10,31 +10,6 @@
 </body>
 </html>
 <script>
-  // Track outbound links
-  var captureOutboundLink = function(url) {
-    gtag('event', 'click', {
-      'event_category': 'outbound',
-      'event_label': url,
-      'transport_type': 'beacon',
-      'event_callback': function(){document.location = url;}
-    });
-  }
-
-  // Add onclick attribute to outbound links
-  var allLinks = document.links
-  for (var i=0; i < allLinks.length; i++) {
-    var elem = allLinks[i];
-    if (
-      !elem.getAttribute('href').startsWith('/') &&
-      !elem.getAttribute('href').startsWith('https://www.karllhughes.com')
-    ) {
-      elem.setAttribute(
-        'onclick',
-        'captureOutboundLink("' + elem.getAttribute('href') + '");'
-      );
-    }
-  }
-
   // Handles top email form
   var topForm = document.getElementById("signup-top");
 
