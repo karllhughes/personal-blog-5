@@ -21,6 +21,10 @@ What if instead of selling the business, I used the cashflow from Draft.dev as l
 
 I'm happy to report that after about a year of work, I was able to close a deal to buy a second business, [The Podcast Consultant](https://thepodcastconsultant.com/). In this post, I'll share the process my partner and I used to find, vet, and close the deal. Whether you end up on the buy or sell side, I hope this gives other entrepreneurs some insight into how acquisitions work.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtNkEh90el8?si=aFnK_Ze0svjm7vpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Video from my interview on [Acquiring Minds](https://acquiringminds.co/articles/karl-hughes-the-podcast-consultant) in 2023.*
+
 ## How Do You Buy a Business?
 
 Working around startups for many years, I had exposure to acquisitions, private equity, and search funds. While I knew that buying a company was possible, I had no idea what the process would really look like.
