@@ -1,6 +1,6 @@
 title: Karl Hughes
 description: > # this means to ignore newlines until "baseurl:"
-  Startups, Software Engineering, Management
+  Buying and Scaling Digital Service Businesses
 permalink: 'posts/:title'
 baseurl: ""
 url: "https://www.karllhughes.com"
