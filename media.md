@@ -11,7 +11,7 @@ After removing himself from the day-to-day, Karl partnered with long-time friend
 
 In his free time, Karl likes to write about his journey [buying and scaling digital service businesses](https://www.karllhughes.com/), run races, and spend time with his family in downtown Chicago.
 
-_[Headshot](https://drive.google.com/file/d/1qRD9gPwaZFC6c1UOVHtEBNn2nlFIcUIr/view?usp=sharing) | [Headshot (square)](https://drive.google.com/file/d/1GQ-lGWtQSCIB_cGbrr-PsFDu7d3YFQvu/view?usp=drive_link)_
+_[Headshot](https://drive.google.com/file/d/1qRD9gPwaZFC6c1UOVHtEBNn2nlFIcUIr/view?usp=sharing) / [Headshot (square)](https://drive.google.com/file/d/1GQ-lGWtQSCIB_cGbrr-PsFDu7d3YFQvu/view?usp=drive_link)_
 
 ### Media Appearances
 Karl has appeared as a guest on many business podcasts and YouTube channels, including:
