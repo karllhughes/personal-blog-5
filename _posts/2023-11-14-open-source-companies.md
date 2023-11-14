@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "How Do Open Source Companies Make Money?"
-date: 2021-03-17
+date: 2023-11-14
 img: /assets/img/open-source-companies.png
 categories:
   - Software Engineering
   - Startups
 ---
 
-A few weeks ago post, I wrote about the [case for simple business models](/posts/startup-business-models) in startups. This sparked a later conversation about open source companies and their business models. So, I figured I would focus on the question of how companies building open source software make profitable businesses.
+Since starting [Draft.dev](https://draft.dev) in 2020, I've had the opportunity to work with dozens of open source companies in the software development space. I've always found it fascinating to compare and contrast the various business models these open source businesses use, so in this post, I want to highlight some of the ways companies building open source software make profitable businesses.
 
-I'll start with a brief example...
+Let's start with a brief example...
 
 ## The Story of _Diaspora_
 
@@ -27,18 +27,18 @@ The social network eventually met a slow, tragic end with one of the founders co
 ## Why do People Write Open Source Software?
 > "People engage in creative endeavours because it satisfies some deep need within themselves to exercise creativity and solve problems often with little regard to the societal benefit." - [James Bottomley, Distinguished Engineer at IBM Research](https://opensource.org/node/1009)
 
-To be honest, most open source projects aren't started for money. Part of the point of the Diaspora story is that even though their business failed, their idea and their codebase lives on. Software developers who write open source software rarely care to monetize it as the road to making money in open source is much more difficult than making money as a software engineer.
+To be honest, most open source projects aren't started for money.
 
-But maintaining a large open source project [is a lot of work](https://mikemcquaid.com/2019/05/20/research-study-interview-work-of-maintaining-open-source-software/), and many developers wouldn't mind being paid for their time. Some even go so far as to spawn successful companies from their open source projects, but this is admittedly rare.
+James Hickey, founder of the [.NET Coravel project](https://www.pro.coravel.net/), which has over 2 million downloads and 2800 stars on Github, told me he started the project because it "seemed to me a missing piece of the .NET ecosystem." While starting the project helped James solve his own problems and learn more about the language itself, Coravel also proved to be useful to many other programmers.
 
-## The Challenge of Open Source Business Models
-To understand the reason that building a profitable open source business is hard, you first have to understand what open source software is and how licenses work.
+But maintaining a large open source project [is a lot of work](https://mikemcquaid.com/2019/05/20/research-study-interview-work-of-maintaining-open-source-software/). While James has successfully monetized Coravel, many open source developers never make much money from their efforts. Let's take a deeper look at why this is so hard and how some companies are overcoming the challenge.
 
-### What is an Open Source Company?
+## What is an Open Source Company?
 **An open source company as any business whose primary product is open source software.**
 
-Software that is open source distributes the source code publicly. Because maintaining software is a lot of work, many of the largest open source projects are primarily supported and owned by for-profit companies.
+Open source software is distributed publicly, typically for free, but because maintaining software is a lot of work, many of the largest open source projects are supported and owned by for-profit companies.
 
+### Examples of Open Source Companies
 A well-known example is [Automattic](https://automattic.com/), the parent company that maintains and distributes [WordPress.org](https://wordpress.org/). While Automattic now runs several closed source software products in addition to the open source WordPress, they started primarily as an open source business.
 
 ![WordPress is owned by Automattic, an open source company](https://i.imgur.com/7h5UkeF.png)
@@ -47,16 +47,37 @@ A well-known example is [Automattic](https://automattic.com/), the parent compan
 
 ![Red Hat is an example of an open source company](https://i.imgur.com/On0vVjm.png)
 
+### Why Start an Open Source Company?
+[Strapi](https://strapi.io/) is also an example of an open source company. I recently asked Strapi's Head of Marketing, [Victor Coisne](https://www.linkedin.com/in/victorcoisne/) about why they give away the core Strapi product and he mentioned four things:
+
+1. The open source version of Strapi serves as the "top of the funnel" for other paid products,
+2. It helps increase adoption and virality, especially with developers,
+3. Open source tools tend to have a higher conversion rate because they ease adoption friction, and
+4. Being open source helps offset their support and R&D costs as the community of contributors also contribute to these areas.
+
+![Strapi is an example of an open source startup](https://i.imgur.com/JHhPOnz.png)
+
 <!-- ad-banner -->
+
+### The Challenge of Monetizing Open Source Software
+Building a business around an open source project can be really hard. [Emily Omier](https://www.emilyomier.com/), who helps open source companies with positioning and commercial strategy, has built her business around helping open source companies address some of these challenges. She pointed out to me that the decision to make a project open source is not one that founders should take lightly:
+
+> "Not all open source companies start with an open source project that is then monetized...often the founders start with an idea, and decide that the best way to build the company they want to build is with an open source approach."
+
+She pointed out that one of the biggest challenges open source companies face is that by monetizing, they might seem like they're trying to "wring dollars out of the open source community," which is not a good approach. "Often the people who are good commercial customers would not be part of your open source community."
+
+Open source companies must understand the different drivers that contributors and potential commercial users have because they likely aren't exactly the same.
 
 ### Open Source Does Not Necessarily Mean Free
 So if the source code in open source software is available to anyone on the internet, why does anyone pay for it? While much open source software is free, that's not necessarily the case as [many different licensing schemes are available](https://opensource.org/licenses).
 
-I'm not a lawyer, but I've built enough software to understand that just because code is out there on the internet doesn't mean you're necessarily allowed to use it. Similar to how images are subject to copyright even though they can be viewed online, code is also copyrighted by default. You can't just copy a nontrivial codebase and use it in your application without permission.
+I'm not a lawyer, but I've built enough software to understand that just because code is available on the internet doesn't mean you're necessarily allowed to use it any way you want. Similar to how images are subject to copyright even though they can be viewed online, code is also copyrighted by default. You can't just copy a nontrivial codebase and use it in your application without permission.
 
 Some open source licenses come with restrictions. For example, some require you to make any software you build with their code open source as well. Others are open source, but not free for for-profit enterprises to use.
 
-Now, let's not be naive. Once software is out in the public domain, some people will steal it, and they'll likely get away with it. But, for open source companies, this might not be a huge problem. In the rest of this article, I'll share some of the most popular ways for open source businesses to profit from their code, even when it's available for all the world to see.
+Now, let's not be naive. Once software is out in the public domain, some people will steal it, and they'll likely get away with it. So, most open source companies choose not to use a license as their primary means of monetizing their software.
+
+Let's take a look at some of the ways open source companies can successfully monetize, and some examples of companies that have used these strategies successfully.
 
 ## 6 Ways Open Source Companies Can Make Money
 
@@ -72,8 +93,10 @@ While not typically used by large for-profit companies, some individual develope
 
 The downside to this model is that it's really hard to build predictable, sustainable income from it. Some people will heavily use and benefit from updates while [never paying the creators](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), and this frustrates those who do support the project. If you've ever asked your boss if you can start paying for some of the free, open source software you use at work, you know how tough this can be to sell.
 
+"I think this model works best for smaller-scope projects which are not designed to grow over time," Victor Coisne told me.
+
 ### 2. Hosted Version of the Product
-Some open source projects allow you to run their software on your own servers for free, but they'll charge you for a hosted version. For example, you can deploy [n8n.io](https://n8n.io/) to an AWS or DigitalOcean machine and keep it running on your own, or you can [sign up for their hosted version](https://www.n8n.cloud/) and avoid the hassle of maintaining servers.
+While donations probably won't take your open source company far,  open source projects allow you to run their software on your own servers for free, but they'll charge you for a hosted version. For example, you can deploy [n8n.io](https://n8n.io/) to an AWS or DigitalOcean machine and keep it running on your own, or you can [sign up for their hosted version](https://www.n8n.cloud/) and avoid the hassle of maintaining servers.
 
 While this tactic won't work for every open source project, it's a very popular option. It offers a clear delineation between the paid and free versions of the product, and can be bundled with other features like support and training. The downside is that your margins are never going to be very high. If you charge too much, users will be able to justify the cost of maintaining their own servers.
 
@@ -103,6 +126,11 @@ As in Automattic's case, they offer a free, open source product (WordPress.org) 
 
 The downside to this model is that building and maintaining multiple products is a lot of work. Small teams will find this distracting and it might mean the open source product suffers.
 
+### Combining Monetization Models in Open Source
+The reality is that many open source companies use multiple monetization channels. [Jonathan Reimer](https://www.linkedin.com/in/jonathimer/), Co-Founder of [Crowd.dev](https://www.crowd.dev/) told me that they make money from offering a hosted version of their tool and an open core model. "Both of these come with additional features," he told me. "The key value driver is the intelligence that we add to the data (enrichment, sentiment analysis, conversation detection, etc) in our paid versions."
+
+![Crowd.dev homepage](https://i.imgur.com/TR1GQmg.png)
+
 ## Learning More
 
 [<img src="https://i.imgur.com/BQxNXfE.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="For Fun and Profit book cover" />](https://amzn.to/3buqGnd)
@@ -113,3 +141,10 @@ If you're interested in building a profitable open source project and you want t
 - [For Fun and Profit: A History of the Free and Open Source Software Revolution](https://amzn.to/3buqGnd) - If you're looking to learn about the history of open source, Tozzi's book is a good starting point. It's brief and mostly objective.
 - [Fundamentals of Open Source Management](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Ffundamentals%2Dof%2Dprofessional%2Dopen%2Dsource%2Dmanagement%2F&afftrack=) - This free course gives you a business and legal overview of open source. Good for technical and non-technical open source project contributors.
 - [Introduction to Open Source Development, Git, and Linux](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fintroduction%2Dto%2Dopen%2Dsource%2Ddevelopment%2Dgit%2Dand%2Dlinux%2F&afftrack=) - More technical in nature, this course will show you some best practices for developing secure, scalable open source software. This course focuses on open source software, an introduction to Linux systems and the use of Git, the revision control system.
+- [Working in Public: The Making and Maintenance of Open Source Software](https://www.google.de/books/edition/Working_in_Public/EKeUzQEACAAJ?hl=en)
+- [Podcasts for Building Open Source Startups](https://www.crowd.dev/post/5-insightful-podcasts-for-building-open-source-devtool-startups)
+- [From Project to Profit: How to Build a Business Around Your Open Source Project](https://amzn.to/3MKtj7T)
+- [Positioning Free Open Source Software](https://www.emilyomier.com/free-e-book)
+- [Open Core Ventures Handbook](https://handbook.opencoreventures.com/)
+
+_Note: This piece was first written in 2021, but updated in 2023 with input from several clients and friends in the industry. If you have your own resources or recommendations, I'd love to hear them. DM me on [Twitter](https://twitter.com/karllhughes) or [Linkedin](https://www.linkedin.com/in/karllhughes/)._
