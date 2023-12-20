@@ -40,7 +40,7 @@ The reason that people don't want to accept full responsibility for their action
 
 If you're an entrepreneur, _you_ are your business.
 
-If you're the type of person who blames others for your failures, your business will never accept responsibility for its failures. You won't admit you were wrong to your customers; you won't admit that you missed that deadline for your taxes; you won't examine your own bad decisions when your business comes crashing down around you.
+If you're the type of person who blames others for your failures, your business will never accept responsibility for its failures. You won't admit you were wrong to your customers; you won’t admit that you missed that deadline for your [small business taxes](https://turbotax.intuit.com/small-business-taxes/); you won't examine your own bad decisions when your business comes crashing down around you.
 
 Placing blame externally is deadly for entrepreneurs.
 
