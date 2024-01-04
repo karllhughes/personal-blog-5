@@ -49,3 +49,32 @@ header {
     }
   }
 }
+
+footer {
+  form {
+    line-height: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+
+    input {
+      margin: 0 0 0.5em 0;
+      border: 1px solid $gray;
+      padding: 10px 20px;
+      line-height: 1.5rem;
+      color: $dark-gray;
+    }
+
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+      color: $gray;
+      opacity: 1; /* Firefox */
+    }
+
+    :-ms-input-placeholder { /* Internet Explorer 10-11 */
+      color: $gray;
+    }
+
+    ::-ms-input-placeholder { /* Microsoft Edge */
+      color: $gray;
+    }
+  }
+}
