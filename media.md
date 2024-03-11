@@ -5,11 +5,11 @@ permalink: /media/
 ---
 
 ### Bio
-After a decade leading software engineering teams at venture-funded startups, Karl started down the path of entrepreneurship. He founded [Draft.dev](https://draft.dev/) in 2020 and within two years, the company reached $2.5 million in annual revenue.
+After a decade leading software engineering teams at venture-funded startups, Karl started down the path of agency entrepreneurship. He founded a niche content service, [Draft.dev](https://draft.dev/) in 2020, and within two years, the company reached $2.5 million in annual revenue.
 
-After removing himself from the day-to-day, Karl partnered with long-time friend, Manuel Weiss to purchase another digital service business, [The Podcast Consultant](https://thepodcastconsultant.com/) ([read more about the acquisition here](https://www.karllhughes.com/posts/acquiring-tpc)). They're currently focused on implementing an organic growth strategy and streamlining operations at the 24-person podcast production business.
+After removing himself from the day-to-day, Karl partnered with long-time friend, Manuel Weiss to purchase an audio/video production company, [The Podcast Consultant](https://thepodcastconsultant.com/) ([read more about the acquisition here](https://www.karllhughes.com/posts/acquiring-tpc)). They're currently focused on growing that business and helping more agency owners sell their businesses.
 
-In his free time, Karl likes to write about his journey [buying and scaling digital service businesses](https://www.karllhughes.com/), run races, and spend time with his family in downtown Chicago.
+In his free time, Karl likes to write about his journey [buying and scaling digital service businesses](https://www.karllhughes.com/), run, play retro handheld games, and spend time with his family in downtown Chicago.
 
 _[Headshot](https://drive.google.com/file/d/1qRD9gPwaZFC6c1UOVHtEBNn2nlFIcUIr/view?usp=sharing) / [Headshot (square)](https://drive.google.com/file/d/1GQ-lGWtQSCIB_cGbrr-PsFDu7d3YFQvu/view?usp=drive_link)_
 
@@ -27,10 +27,10 @@ He is currently available for guest appearances and interviews using the contact
 
 - Scaling a service or agency business
 - Acquiring a small business
+- Selling an agency
 - "Productizing" your service
 - Marketing and sales for high-cost services
 - Hiring and running a remote team
-- Content marketing and modern SEO
 - Balancing family and entrepreneurship
 - Creating a big vision for your small company
 
