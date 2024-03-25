@@ -10,7 +10,7 @@ categories:
 
 Hiring a [Chief Technology Officer (CTO)](https://www.karllhughes.com/posts/roles-of-startup-cto) is a difficult feat at the best of times. But for startups, [a lot rides on choosing the right candidate](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto). Whereas in a large organization a CTO might be expected to focus largely on high-level strategic decisions such as overseeing development teams and finding integration partners, in the startup environment, it’s all hands on deck — from day one. 
 
-Your CTO might have to do everything from hop into the code to establish lead sprint meetings, and find time to [travel to tech conferences](https://www.cfpland.com/guides/speaking/).  
+Your CTO might have to do everything from hop into the code to establish lead sprint meetings, and find time to travel to tech conferences.  
 
 I was recently asked to help a startup interview a prospective CTO. Here are some of the questions I used during the interview process, and I hope they help you in your CTO hiring process. I’ve ordered these by topic so that you can jump to the ones that best suit your startup’s needs.
 

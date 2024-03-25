@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 ---
 <p>I have always enjoyed public speaking, but in 2017, <a href="https://www.karllhughes.com/posts/one-year-conference-summary">I started applying to speak at technology conferences</a>. Since then, I've spoken at many conferences around the country as well as a variety of Chicago-area meetups and coding bootcamps.</p>
-<p>As I started speaking, I realized that it was a pain to keep up with the hundreds of Calls for Proposals available every year, so I started <a href="https://www.cfpland.com">CFP Land</a> to help solve this problem for myself and other speakers. If you want to start speaking, I <a href="https://www.cfpland.com/guides/speaking/">also wrote a free 17,000 word guide</a> on the topic.</p>
+<p>As I started speaking, I realized that it was a pain to keep up with the hundreds of Calls for Proposals available every year, so I started CFP Land to help solve this problem for myself and other speakers. If you want to start speaking, I also wrote a free 17,000 word guide on the topic.</p>
 <p>Below is a list of the conference talks I'm currently giving:</p>
 
 <h3>Stop Writing Code and Start Solving Problems</h3>

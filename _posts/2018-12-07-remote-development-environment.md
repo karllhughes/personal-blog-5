@@ -128,3 +128,5 @@ Having your development projects in a convenient remote location gets you a lot 
 - Use a remote environment to set up and experiment with Docker containers instead of using virtual box locally
 - Share your remote development environment between developers to minimize environmental issues
 - Host your clients' projects remotely to allow them easy access to your code and exact server setup when you complete the project
+
+If you're looking for more Macintosh remote working tips, like [how to screen share on Mac](https://setapp.com/how-to/all-the-ways-to-screen-share-on-mac), check out [Setapp's blog too](https://setapp.com/blog).

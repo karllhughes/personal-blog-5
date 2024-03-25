@@ -19,7 +19,6 @@ In 2017, I wrote a book called **[Building Your First PHP Application with Docke
 One format that I've seen work really well is the long, in-depth guide to a niche topic. I've written
 a few of these:
 
-- [CFP Land's 17,000 word guide to Speaking at Tech Conferences](https://www.cfpland.com/guides/speaking/)
 - [The Complete Guide for Building APIs Without Code](https://www.karllhughes.com/posts/api-development)
 - [The Guide for Building Webs Apps Without Code](https://www.karllhughes.com/posts/web-applications)
 - [Using Technology to Improve Student Writing Skills](https://www.thegraidenetwork.com/blog-all/using-technology-to-improve-student-writing-skills)

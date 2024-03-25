@@ -125,7 +125,7 @@ For a couple years, I had been collecting developer tools and no-code app builde
 
 This project was yet another one without a clear path to monetization, but I found it useful for myself if nothing else. I also used it to start [my personal email newsletter](https://karllhughes.curated.co/), which now has over 1000 subscribers and is a fun way to get feedback on my ideas and writing.
 
-### 10. [CFP Land](https://www.cfpland.com/)
+### 10. CFP Land
 
 Even though I knew I didn’t want to devote myself to PHP and Docker for years, I thought writing a book and starting a site on the topic would give me enough street cred to apply to speak at conferences. So, I started another list (this time of technical conferences) so I could keep tabs on the speaker application dates.
 
