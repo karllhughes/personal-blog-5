@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up a Remote Development Environment with Google Chrome and DigitalOcean"
-date: 2018-12-07
+date: 2024-03-26
 img: https://i.imgur.com/aMQdTd6.jpg
 categories: 
   - Software Engineering
@@ -129,4 +129,4 @@ Having your development projects in a convenient remote location gets you a lot 
 - Share your remote development environment between developers to minimize environmental issues
 - Host your clients' projects remotely to allow them easy access to your code and exact server setup when you complete the project
 
-If you're looking for more Macintosh remote working tips, like [how to screen share on Mac](https://setapp.com/how-to/all-the-ways-to-screen-share-on-mac), check out [Setapp's blog too](https://setapp.com/blog).
+If you're looking for more Macintosh remote working tips, check out this article on [how to screen share on Mac](https://setapp.com/how-to/all-the-ways-to-screen-share-on-mac).
