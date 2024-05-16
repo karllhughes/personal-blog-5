@@ -4,8 +4,7 @@ title: "Joining The Graide Network as Chief Technology Officer"
 date: 2016-07-18
 img: https://i.imgur.com/KV9Ehie.png?1
 categories:
-  - Startups
-  - Management
+  - Archive
 ---
 After over 2 and a half years at [Packback](https://www.packback.co/), I've decided to move on and have accepted the [CTO](https://www.karllhughes.com/posts/roles-of-startup-cto) role at [The Graide Network](http://www.thegraidenetwork.com/).
 

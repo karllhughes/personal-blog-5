@@ -4,7 +4,7 @@ title: "Paths Up the Mountain"
 img: /assets/img/mountain-paths.png
 date: 2022-06-16
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 You are finally ready to climb the mountain.

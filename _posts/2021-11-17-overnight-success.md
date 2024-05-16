@@ -4,7 +4,7 @@ title: "10 Years of Indie Hacking to an Overnight Success"
 img: /assets/img/overnight-success.png
 date: 2021-11-17
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 I’m basically living the indie hacker’s dream.

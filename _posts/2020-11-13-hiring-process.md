@@ -4,8 +4,7 @@ title: "Recruiting and Hiring Software Engineers"
 date: 2020-11-13
 img: /assets/img/hiring.png
 categories: 
-  - Management
-  - Software Engineering
+  - Archive
 ---
 
 When I took my first real management role as [Packback's Head of Engineering back in 2015](/posts/packback-engineering), I inherited a great team of engineers who were hired before my promotion. Later that year, when the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding new software engineers.

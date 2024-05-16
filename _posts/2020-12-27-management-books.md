@@ -4,7 +4,7 @@ title: "The Best Management Books"
 date: 2020-12-27
 img: /assets/img/management-books.png
 categories:
-  - Management
+  - Leadership
   - Books
 ---
 

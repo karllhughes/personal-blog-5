@@ -4,7 +4,7 @@ title: High Tech vs. Tech-Enabled Startups
 date: 2021-01-01
 img: /assets/img/high-tech.png
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 I was talking with an entrepreneur and investor here in Chicago recently, and he pointed out a distinction that I've started to notice more and more over the past couple of years:

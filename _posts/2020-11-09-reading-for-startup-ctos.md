@@ -4,8 +4,6 @@ title: "Essential Reading for Startup CTOs"
 date: 2020-11-09
 img: /assets/img/cto-reading.png
 categories: 
-  - Management
-  - Startups
   - Books
 ---
 

@@ -4,7 +4,7 @@ title: "How to Find a CTO: Tips for Non Technical Founders"
 date: 2020-12-14
 img: /assets/img/find-cto.png
 categories: 
-  - Startups
+  - Entrepreneurship
 ---
 
 I've worked in startups my whole career, first as a software engineer, then as a Chief Technology Officer (CTO), and most recently [as a founder](https://www.karllhughes.com/posts/cto-writer). In that time, the most common question I get from non-technical founders has been, "How can I find a CTO or technical co-founder?"

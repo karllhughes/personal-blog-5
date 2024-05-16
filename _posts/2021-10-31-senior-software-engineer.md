@@ -4,7 +4,7 @@ title: "Becoming a Senior Software Engineer"
 img: /assets/img/senior-software-engineer.png
 date: 2021-10-31
 categories:
-  - Software Engineering
+  - Archive
 ---
 
 I used to [speak regularly at many of the Chicago-area coding bootcamps](https://www.karllhughes.com/posts/graduate-code-bootcamp) and one of the common questions that students posed to me was, “How can I become a ‘senior software engineer’?”

@@ -4,7 +4,7 @@ title: "What to do After Your Coding Bootcamp"
 date: 2021-03-02
 img: /assets/img/after-coding-bootcamp.png
 categories:
-  - Software Engineering
+  - Archive
 ---
 
 I have been a guest lecturer, instructor, and mock interviewer at half a dozen Chicago coding bootcamps over the past

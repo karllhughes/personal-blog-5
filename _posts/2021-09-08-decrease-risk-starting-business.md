@@ -4,7 +4,7 @@ title: "Q&A: Decreasing Risk as an Entrepreneur"
 img: /assets/img/decreasing-risk.png
 date: 2021-09-08
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 ## Question

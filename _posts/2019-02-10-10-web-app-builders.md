@@ -4,7 +4,6 @@ title: "10 Web Application Builders for Non-Technical Startup Founders"
 date: 2019-02-10
 img: https://i.imgur.com/BQO5ZAf.jpg
 categories: 
-  - Startups
   - Tools
 ---
 

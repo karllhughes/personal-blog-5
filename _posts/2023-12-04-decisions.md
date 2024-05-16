@@ -4,7 +4,7 @@ title: "Decision Fear and Decision Fatigue"
 img: /assets/img/decisions.png
 date: 2023-12-04
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 Among the challenges I did not expect when starting a business was the constant stream of decisions I had to make. I never realized how exhausting it was to make every single choice, especially in the early days when I didn't have a team to delegate any of them to.

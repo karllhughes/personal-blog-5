@@ -4,7 +4,7 @@ title: "Buying a Business: Acquiring The Podcast Consultant"
 img: /assets/img/bought-business.png
 date: 2023-05-10
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 In 2022, my company, [Draft.dev](https://draft.dev) was growing rapidly. My team was solidifying and I had less and less to do. I knew that building a business that could thrive without me was the goal, but as that reality got closer, I started having an existential crisis.

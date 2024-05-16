@@ -4,7 +4,7 @@ title: "Building a Free Website on the GABA Stack - A Spin on JAM Stack"
 date: 2018-01-26
 img: https://i.imgur.com/lnx7vsT.png
 categories:
-  - Software Engineering
+  - Archive
 ---
 
 _Note: When I first wrote this in early 2018, I had not heard of the [JAM Stack](https://jamstack.org/), which uses **J**avascript, **A**PIs, and **M**arkdown. The **GABA* stack I mention here is basically just a more specific version of the JAM stack, and it remains one of my favorite methods for building websites at low cost._

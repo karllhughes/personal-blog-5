@@ -4,8 +4,7 @@ title: "Writing Less Software to Accomplish More"
 date: 2018-02-05
 img: https://i.imgur.com/Q3rBr7S.png
 categories: 
-  - Startups
-  - Software Engineering
+  - Archive
 ---
 Creating custom software should be the last resort for early stage startups.
 

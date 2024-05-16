@@ -4,7 +4,6 @@ title: "The 11 Best Payroll Software Tools for Startups"
 date: 2022-01-21
 img: /assets/img/payroll.png
 categories:
-  - Startups
   - Tools
 ---
 

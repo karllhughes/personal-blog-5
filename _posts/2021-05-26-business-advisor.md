@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Finding a Business Advisor for Your Startup"
+title: "Finding a Great Business Advisor"
 date: 2021-05-26
 img: /assets/img/business-advisor.png
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 I've always been very intentional about [building my network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), so when I started [Draft.dev](https://draft.dev) it was relatively easy for me to pull together a short list of business advisors. I can't tell you how valuable these experienced mentors have been as I've navigated the ups and downs of life as a startup founder.

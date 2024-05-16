@@ -4,7 +4,7 @@ title: "Business Blogging Without the Lies"
 date: 2017-02-02
 img: https://i.imgur.com/c6KGcSE.jpg
 categories:
-  - Startups
+  - Growth
 ---
 *This post was originally published in March of 2012, and since then the world of blogging, social media, and community building has changed quite a bit. That said, I stand by what I wrote here, and have republished it in its original form.*
 

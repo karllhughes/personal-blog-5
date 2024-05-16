@@ -4,8 +4,6 @@ title: "Essential Reading for Software Engineering Managers"
 date: 2019-02-23
 img: https://i.imgur.com/LfoGVeM.jpg
 categories: 
-  - Management
-  - Software Engineering
   - Books
 ---
 

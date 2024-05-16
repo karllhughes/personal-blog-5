@@ -4,7 +4,7 @@ title: "How to Hire at a Startup"
 img: /assets/img/hire-at-startup.png
 date: 2022-05-22
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 Hiring is always hard. Even with 10 years of experience leading teams at startups, I make mistakes, and I've never met another founder who hasn't.

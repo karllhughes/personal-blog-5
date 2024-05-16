@@ -4,7 +4,7 @@ title: "Startup Leadership: Setting Goals and Getting Buy-in"
 img: /assets/img/goals-buy-in.png
 date: 2022-09-22
 categories:
-  - Startups
+  - Leadership
 ---
 
 Almost two years after starting Draft.dev, I took a step back and realized that my role had to change.

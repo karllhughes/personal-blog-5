@@ -4,8 +4,6 @@ title: "Using Airtable as an API"
 img: "https://i.imgur.com/2TkEuM2.png"
 date: 2018-08-30
 categories:
-  - Software Engineering
-  - API Development
   - Tools
 ---
 

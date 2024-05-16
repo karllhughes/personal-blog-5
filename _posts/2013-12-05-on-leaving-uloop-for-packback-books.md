@@ -4,7 +4,7 @@ title: "On Leaving Uloop for Packback Books"
 date: 2013-12-05
 img: https://i.imgur.com/EFSTrzT.png
 categories: 
-  - Startups
+  - Archive
 ---
 
 This month marked the end of my first startup experience and the beginning of my next one.

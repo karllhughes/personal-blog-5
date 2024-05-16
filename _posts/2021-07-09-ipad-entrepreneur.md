@@ -4,7 +4,7 @@ title: Running My Business From an iPad
 date: 2021-07-09
 img: /assets/img/ipad-business.png
 categories:
-  - Startups
+  - Entrepreneurship
   - Tools
 ---
 

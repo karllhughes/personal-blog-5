@@ -4,7 +4,7 @@ title: "How Microservices Help Enforce Domain Driven Design"
 date: 2016-05-16
 img: 
 categories:
-  - Software Engineering
+  - Archive
 ---
 I'm working my way through a long backlog of episodes of Software Engineering Radio right now, and I just listened to [Eric Evans' episode on 10 years of Domain Driven Design](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/). Evans is the author of the original book on [Domain Driven Design](http://amzn.to/2287YWI), and during the episode he talked about some of the forces and trends that have come and gone in the past 10 years and how they've influenced and changed DDD.
 

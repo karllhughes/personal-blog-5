@@ -4,7 +4,7 @@ title: "30 Side Project Ideas: Earn Money and Build New Skills Without Leaving Y
 img: /assets/img/side-project-ideas.png
 date: 2021-11-28
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 I started [many side projects of varying success](https://www.karllhughes.com/posts/overnight-success) before going full-time on my own business last year. Each of these side projects helped me learn new skills like marketing, sales, and content that I wasn’t going to get from my day job as an engineer.

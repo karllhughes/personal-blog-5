@@ -4,7 +4,7 @@ title: "Defining a Big Vision"
 img: /assets/img/big-vision.png
 date: 2023-09-01
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 When I started my Draft.dev in 2020, my goal was to build a business that allowed me to take a month off at a time.

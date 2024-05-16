@@ -4,7 +4,8 @@ title: "15 Things I've Learned About Founder Sales"
 img: /assets/img/founder-sales.png
 date: 2023-06-25
 categories:
-  - Startups
+  - Growth
+  - Entrepreneurship
 ---
 One of the first roles founders take on is that of sales leader. In fact, I've never seen a sales-driven startup get to over $1mm in revenue without a founder taking on the sales role.
 

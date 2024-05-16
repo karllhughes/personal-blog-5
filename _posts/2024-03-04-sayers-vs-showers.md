@@ -4,7 +4,7 @@ title: "Sayers vs. Showers"
 date: 2024-03-04
 img: /assets/img/sayer-shower.png
 categories: 
-  - Management
+  - Leadership
 ---
 
 I've had the opportunity to work with many employees who struggled for one reason or another. Some were junior hires who knew that they didn't know everything, but wanted to improve; some were experienced technical leaders who thought they knew everything, and saw little reason to listen to feedback. Most fell somewhere between those two extremes.

@@ -4,7 +4,8 @@ title: "You Want to Start a Business, but do You Really Want to be a CEO?"
 img: /assets/img/ceo-vs-founder.png
 date: 2022-04-17
 categories:
-  - Startups
+  - Entrepreneurship
+  - Leadership
 ---
 
 I went to [MicroConf](https://microconf.com/) for the first time a couple of weeks ago. While I had a great time there, I noticed that a lot of the founders there were struggling to build a team. Many were running financially successful businesses of one, but they had flatlined because they eventually became the bottleneck.

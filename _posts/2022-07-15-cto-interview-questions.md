@@ -4,8 +4,7 @@ title: "24 Startup CTO Interview Questions"
 date: 2022-07-15
 img: /assets/img/cto-interview.png
 categories: 
-  - Management
-  - Startups
+  - Entrepreneurship
 ---
 
 Hiring a [Chief Technology Officer (CTO)](https://www.karllhughes.com/posts/roles-of-startup-cto) is a difficult feat at the best of times. But for startups, [a lot rides on choosing the right candidate](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto). Whereas in a large organization a CTO might be expected to focus largely on high-level strategic decisions such as overseeing development teams and finding integration partners, in the startup environment, it’s all hands on deck — from day one. 

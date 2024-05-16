@@ -4,8 +4,7 @@ title: "Testing Microservices: A Layered Testing Strategy"
 date: 2020-11-29
 img: /assets/img/testing-microservices.png
 categories:
-  - Software Engineering
-  - API Development
+  - Archive
 ---
 
 <!-- ad-banner -->

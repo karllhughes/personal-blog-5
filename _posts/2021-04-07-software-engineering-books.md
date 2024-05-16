@@ -4,7 +4,6 @@ title: "The Best Software Engineering Books"
 date: 2021-04-07
 img: /assets/img/software-engineering-books.png
 categories:
-  - Software Engineering
   - Books
 ---
 

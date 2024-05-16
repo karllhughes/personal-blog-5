@@ -4,8 +4,7 @@ title: "The Evolution of Our Product Management Process"
 date: 2020-02-17
 img: https://i.imgur.com/Vk5UmLX.png
 categories: 
-  - Startups
-  - Management
+  - Archive
 ---
 
 In 2016 when [I joined The Graide Network](https://www.karllhughes.com/posts/joining-the-graide-network), I was the first developer. With the 

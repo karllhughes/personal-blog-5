@@ -4,8 +4,7 @@ title: "How Do Open Source Companies Make Money?"
 date: 2023-11-14
 img: /assets/img/open-source-companies.png
 categories:
-  - Software Engineering
-  - Startups
+  - Entrepreneurship
 ---
 
 Since starting [Draft.dev](https://draft.dev) in 2020, I've had the opportunity to work with dozens of open source companies in the software development space. I've always found it fascinating to compare and contrast the various business models these open source businesses use, so in this post, I want to highlight some of the ways companies building open source software make profitable businesses.

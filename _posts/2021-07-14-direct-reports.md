@@ -4,7 +4,7 @@ title: Managing Direct Reports at a Startup
 date: 2021-07-14
 img: /assets/img/direct-reports.png
 categories:
-  - Management
+  - Leadership
 ---
 
 I remember the first time I was put in charge of a team at a startup. I had been in leadership roles in college, but that was nothing compared to managing software engineers who were 5 to 15 years more experienced than myself.

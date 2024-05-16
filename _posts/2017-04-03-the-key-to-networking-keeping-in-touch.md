@@ -4,8 +4,7 @@ title: "The Key to Networking: Keeping in Touch"
 date: 2017-04-03
 img: https://i.imgur.com/ukYykv1.jpg
 categories:
-  - Software Engineering
-  - Management
+  - Leadership
 ---
 
 I first started using a system for keeping in touch with important people in my life in college. I realized that if I wasn't intentional about it, I wouldn't be able to keep up with a few dozen coworkers, mentors, friends, and peers, so I started keeping a list of people who I wanted to stay in touch with.

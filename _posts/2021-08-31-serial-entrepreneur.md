@@ -4,7 +4,7 @@ title: "What Does It Take to Become a Serial Entrepreneur?"
 img: /assets/img/serial-entrepreneur.png
 date: 2021-08-31
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 An entrepreneur comes up with an idea and creates a new business out of it, facing a great deal of risk with the possibility of reaping significant rewards down the road.

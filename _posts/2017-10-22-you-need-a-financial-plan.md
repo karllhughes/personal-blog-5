@@ -4,7 +4,7 @@ title: "Startup Employees Still Need a Financial Plan"
 date: 2017-10-22
 img: https://i.imgur.com/OBnTjIV.jpg
 categories:
-  - Startups
+  - Archive
 ---
 I know this is a little off base from my usual posts about software, technology, and startups, but hear me out because it's important. You might think that if you work hard, are good at your job, and you save some money in your 401(k) every year, you'll be in good shape to retire in 25, 35, or 45 years. The baby boomer generation assumed this formula would work, and now the average retiree only has [enough money for $230 per month in retirement](https://talkpoverty.org/2016/08/05/one-third-americans-nothing-saved-retirement/).
 

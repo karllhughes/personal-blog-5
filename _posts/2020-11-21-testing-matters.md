@@ -4,8 +4,7 @@ title: "The Importance of Software Testing"
 date: 2020-11-21
 img: /assets/img/software-testing.png
 categories:
-  - Software Engineering
-  - API Development
+  - Archive
 ---
 
 I'm currently writing a series of articles about test frameworks, and it got me thinking about the importance of software testing. Ever since I started writing automated tests almost a decade ago, I've found them to be **one of the most useful tools for building maintainable software**, but I still meet developers who don't write tests.

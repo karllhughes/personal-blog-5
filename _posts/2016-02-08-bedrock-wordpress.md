@@ -4,7 +4,7 @@ title: "Bedrock: Bringing Modern PHP to Wordpress"
 date: 2016-02-08
 img:
 categories:
-  - Software Engineering
+  - Archive
 ---
 I cut my teeth writing websites in Wordpress, but I've fallen out of love with it over the past five years. Initially, Wordpress is exciting because within minutes you can bring a site up and make it live to the world. Even better, you can edit code straight from the dashboard and see your changes immediately right in the browser. Of course, it won't take long before you realize that this is a _terrible_ idea, and you'll either get lost in complexity or you'll have to start at square one learning [PHP the right way](http://www.phptherightway.com/). **What if Wordpress didn't have to be bad?** But what if a situation comes up where you want the ease of use of Wordpress _and _to use the best practices of modern PHP? That's where [Bedrock](https://github.com/roots/bedrock) comes in. 
 

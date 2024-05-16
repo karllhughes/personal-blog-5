@@ -4,7 +4,7 @@ title: "Creating Your First Affiliate Marketing Website [Checklist]"
 img: /assets/img/affiliate-marketing.png
 date: 2022-02-05
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 There are lots of ways to make money online, but one of the oldest is affiliate marketing. In this model, you create a website that attracts visitors, then directs traffic to affiliates who pay you a percentage of each sale you help them make.
 

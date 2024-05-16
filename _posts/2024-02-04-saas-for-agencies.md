@@ -4,7 +4,7 @@ title: "Should You Build a SaaS for Agencies?"
 img: /assets/img/saas-agency.png
 date: 2024-02-04
 categories:
-  - Startups
+  - Entrepreneurship
 ---
  
 Being that my background was in funded tech startups and I now run two digital agencies, I see a lot of interesting questions at the intersection of these two worlds. A member of [Microconf Connect](https://connect.microconf.com/) recently started a thread that I just had to weigh in on, so today, I'll be sharing the original question and my answer.

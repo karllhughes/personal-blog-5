@@ -4,7 +4,7 @@ title: "5 Things I Learned at Midwest PHP 2016"
 date: 2016-03-08
 img: 
 categories: 
-  - Software Engineering
+  - Archive
 ---
 Now that Midwest PHP 2016 is over and I'm back on my cozy couch here in Chicago, I'll share just a few of the nuggets of knowledge I gathered over the weekend in Minneapolis:
 

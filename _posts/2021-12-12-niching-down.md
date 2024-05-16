@@ -4,7 +4,8 @@ title: "How Niching Down Can Help Your Business Grow"
 img: /assets/img/niche-down.png
 date: 2021-12-12
 categories:
-  - Startups
+  - Entrepreneurship
+  - Growth
 ---
 
 Last year I took a leap. After years of working with startups, I decided [I was ready to go out on my own](https://www.karllhughes.com/posts/cto-writer). Back then, I wouldn’t have predicted I’d be here today, leading a rapidly growing content agency producing technical blog posts and tutorials for over 60 companies.

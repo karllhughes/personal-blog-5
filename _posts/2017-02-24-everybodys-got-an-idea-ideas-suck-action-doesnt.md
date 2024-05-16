@@ -4,7 +4,7 @@ title: "Everybody's Got an Idea. Ideas Suck. Action Doesn't."
 date: 2017-02-24
 img: https://i.imgur.com/ZAHOINQ.jpg
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 > “Amateurs sit and wait for inspiration, the rest of us just get up and go to work.” - Steven King

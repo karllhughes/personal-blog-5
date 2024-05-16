@@ -4,7 +4,7 @@ title: "In Defense of Simple Business Models"
 date: 2021-02-23
 img: /assets/img/startup-business-model.png
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 The two fastest ways to kill your startup are:

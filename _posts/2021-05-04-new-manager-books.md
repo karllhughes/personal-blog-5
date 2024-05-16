@@ -4,7 +4,7 @@ title: "The 15 Best Books for New Managers"
 date: 2021-05-04
 img: /assets/img/books-new-managers.png
 categories:
-  - Management
+  - Leadership
   - Books
 ---
 

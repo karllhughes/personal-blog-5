@@ -4,7 +4,7 @@ title: Farmers, Pioneers and Software Engineers
 date: 2020-06-05
 img: https://i.imgur.com/QNrbvwq.png
 categories: 
-  - Software Engineering
+  - Leadership
 ---
 
 I've worked with a lot of software engineers and met hundreds while [speaking at conferences](/speaking/) and [running a local meetup](https://www.meetup.com/Chicago-PHP-User-Group/). Broadly speaking, software engineers come in two types: Pioneers and Farmers.

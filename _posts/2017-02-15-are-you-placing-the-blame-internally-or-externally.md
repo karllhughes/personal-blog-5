@@ -4,7 +4,7 @@ title: "Placing Blame: Internally or Externally"
 date: 2017-02-15
 img: /assets/img/placing-blame.png
 categories: 
-  - Startups
+  - Leadership
 ---
 
 There are two kinds of people in the world:

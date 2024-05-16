@@ -4,7 +4,7 @@ title: "My Beef With Twitter: Taking the Engagement Out of Social Media"
 date: 2017-02-12
 img: https://i.imgur.com/e2pmwAL.jpg
 categories: 
-  - Startups
+  - Growth
 ---
 *In 2012 when I wrote this post I was getting jaded with Twitter. For about a year, I had spent a lot of time having conversations and meeting people there, but by 2012, Google+ was becoming a much better outlet.*
 

@@ -4,7 +4,7 @@ title: "On Diversity in Conference Speakers"
 date: 2019-08-29
 img: https://i.imgur.com/FPUwWnT.jpg
 categories:
-  - Software Engineering
+  - Leadership
 ---
 
 I caused a bit of a stir this week because I called out a conference in Central Europe for 

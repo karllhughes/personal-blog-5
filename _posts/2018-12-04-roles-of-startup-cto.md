@@ -4,8 +4,7 @@ title: "The Many Roles of a Startup CTO"
 date: 2018-12-04
 img: https://i.imgur.com/TYBQOEy.jpg
 categories: 
-  - Startups
-  - Management
+  - Entrepreneurship
 ---
 
 <img src="https://i.imgur.com/e43eJtu.jpg" style="float:right; margin-left: 15px; max-width: 350px">

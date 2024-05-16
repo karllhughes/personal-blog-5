@@ -4,7 +4,7 @@ title: "Maximizing for Energy"
 date: 2021-01-06
 img: /assets/img/energy.png
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 When [left my full-time job last year](https://www.karllhughes.com/posts/cto-writer), I started thinking about the lifestyle I wanted to build around my business. While I [enjoy having structure](https://www.balancethegrind.com.au/interviews/karl-hughes-founder-of-draft-dev/) in my workday, I no longer had to accept the 8-6 workday that [startups typically abide by](https://www.karllhughes.com/posts/working-hours). I could build my working hours around my family, my clients, my preferences, or anything I wanted.

@@ -4,7 +4,7 @@ title: "On Taking Breaks"
 img: /assets/img/taking-breaks.png
 date: 2022-10-28
 categories:
-  - Startups
+  - Leadership
 ---
 
 I'll be honest, I've never experienced _burnout_.

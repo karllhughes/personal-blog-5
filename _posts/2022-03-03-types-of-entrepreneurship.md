@@ -4,7 +4,7 @@ title: "The 8 Types of Entrepreneurship"
 img: /assets/img/types-of-entrepreneurship.png
 date: 2022-03-03
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 I recently joined [Entrepreneurs’ Organization (EO)](https://hub.eonetwork.org/), a peer group for business owners with chapters across the globe. Unlike many of the tech-focused business groups I have been part of over the past decade, EO doesn’t limit membership to a particular industry or funding model, so I’ve gotten to meet a much wider range of business owners in the past few months.
 

@@ -4,7 +4,7 @@ title: "Community Is About Engagement, Not Size"
 date: 2017-02-05
 img: https://i.imgur.com/lQFuE0w.jpg
 categories:
-  - Startups
+  - Growth
 ---
 *Back in March, 2012 when I wrote and first published this post and was doing some informal social media consulting, buying Twitter and Facebook fans was a big trend. I'm out of the social media world nowadays, but I assume it still happens.*
 

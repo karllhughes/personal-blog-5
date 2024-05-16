@@ -4,7 +4,7 @@ title: "Beginner PHP Resources"
 date: 2017-10-30
 img: https://i.imgur.com/AzJJjsn.jpg
 categories:
-  - Software Engineering
+  - Archive
 ---
 I was recently asked by a new web developer what resources I would recommend for people just starting to learn PHP. While the resources available have changed a lot in the past few years, I have been keeping a list for just such a time. Below are a few of my favorite links for new PHP developers as well as some resources for any beginner programmer.
 

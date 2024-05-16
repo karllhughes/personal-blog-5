@@ -4,8 +4,7 @@ title: "The Myths You’ll Hear About Working as an Engineer at a Startup"
 date: 2018-12-18
 img: https://i.imgur.com/QHH8cxL.jpg
 categories: 
-  - Startups
-  - Software Engineering
+  - Archive
 ---
 
 When I first graduated from college and went looking for a job with a startup I had no idea what to expect. I knew what I didn’t want - I had done internships with some huge corporations already - but finding honest accounts from engineers who had worked at a startup was difficult. Most of the articles I found were glamorous accounts of rare success stories. Many of the early employees at Google and Apple and Facebook had written books and blog posts galore, but what about the thousands of less lucky startup employees out there? What about the average startup engineer's story?

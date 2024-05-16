@@ -4,7 +4,7 @@ title: "The Entrepreneur's Salary Guide"
 date: 2021-06-08
 img: /assets/img/entrepreneur-salary.png
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 When I started my business last year, I knew I wanted to pay myself *something* from the beginning. At first, I couldn't take much money out of the business, but as my company grew, I steadily increased my salary. While I'm still making less than I did as a [CTO at a startup](https://www.karllhughes.com/posts/roles-of-startup-cto), it's slowly catching up.

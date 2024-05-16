@@ -4,8 +4,7 @@ title: "Building a Great Startup Culture"
 date: 2020-12-20
 img: /assets/img/startup-culture.png
 categories: 
-  - Management
-  - Startups
+  - Entrepreneurship
 ---
 
 I once shared office space with a quickly-growing startup in downtown Chicago. This company seemed to be printing money, and they spent it accordingly. They had one of the most prestigious office buildings, free meals for employees, a company barista, and yoga classes on Tuesdays.

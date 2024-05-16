@@ -4,7 +4,7 @@ title: "Productivity for Entrepreneurs"
 img: /assets/img/productivity.png
 date: 2022-01-08
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 > “Every human has a finite number of heartbeats. I don't intend to waste any of mine.” - Neil Armstrong

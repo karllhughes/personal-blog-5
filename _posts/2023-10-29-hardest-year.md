@@ -4,7 +4,7 @@ title: "Why 2023 Was My Hardest Year So Far"
 img: /assets/img/hardest-year.png
 date: 2023-10-29
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 If you follow me on social media or hear me on podcasts, you probably think I have it made.

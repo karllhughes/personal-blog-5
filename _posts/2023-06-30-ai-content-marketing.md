@@ -4,7 +4,7 @@ title: "How Generative AI Will Change Content Marketing"
 img: /assets/img/ai-content-marketing.png
 date: 2023-06-30
 categories:
-  - Startups
+  - Growth
 ---
 
 You can't spend 10 minutes on the internet without hearing about AI, and yes, I realize that this newsletter is now part of the problem. 🤦‍♂️

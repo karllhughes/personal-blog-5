@@ -4,7 +4,8 @@ title: "The Cold Sales Trap"
 img: /assets/img/cold-sales-trap.png
 date: 2024-01-02
 categories:
-  - Startups
+  - Entrepreneurship
+  - Growth
 ---
 
 Entrepreneurs who are just getting started often spend too much time figuring out their offering (product, pricing, etc.) and not enough time figuring out their marketing strategy. Some of my most popular pieces reflect this ([How to Scale to $1mm](https://www.karllhughes.com/posts/1million) and [How We Found Our First 30 Clients](https://www.karllhughes.com/posts/journey-to-30)).

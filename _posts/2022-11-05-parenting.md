@@ -4,7 +4,7 @@ title: "Parenting While Entrepreneuring"
 img: /assets/img/parenting.png
 date: 2022-11-05
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 Having kids is a valuable experience for entrepreneurs.
 

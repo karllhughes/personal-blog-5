@@ -4,7 +4,7 @@ title: "Training for Focus: 4 Ways to Keep Your Eyes on the Big Picture"
 date: 2017-02-08
 img: https://i.imgur.com/3ZFyeQ2.jpg
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 *I used to struggle with staying focused. Since I first wrote this article in March, 2012, I've come up with a number of systems and routines to help me, including the items I mention in this article. Besides the bit mentioning Trello at the end (I used to just use paper lists), I've re-published this article in its original form.*
 

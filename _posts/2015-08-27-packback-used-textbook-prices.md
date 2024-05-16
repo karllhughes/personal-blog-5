@@ -4,7 +4,7 @@ title: "Textbook Prices: Packback's Open Source Price Comparison Tool"
 date: 2015-08-27
 img: https://i.imgur.com/XptxLBtl.png
 categories:
-  - Software Engineering
+  - Archive
 ---
 Like a lot of startups, we rely heavily on open source software at Packback, and while it's fun to be able to spin up a project quickly with Laravel or Angular, we've long been looking for ways to give back to the open source community. This summer, we've released [a  few small open source projects](https://github.com/packbackbooks), but the one I'm most excited about for the future is our open source [textbook price collector](https://github.com/packbackbooks/textbook-prices).
 

@@ -4,8 +4,7 @@ title: "The Age of Cloud Services"
 date: 2018-03-02
 img: https://i.imgur.com/2IQOJ7R.jpg
 categories:
-  - Software Engineering
-  - API Development
+  - Archive
 ---
 Cloud based web hosting has enabled small startups to build and scale software applications that can compete with much larger companies, and now most large enterprises are [taking advantage of cloud hosting](https://www.forbes.com/sites/vmware/2017/04/07/cloud-2-0-companies-move-from-cloud-first-to-cloud-only/#9994cb44d5ed) as well. Businesses have embraced this move because it saves them money and makes it much faster to scale up or down their operations. While there are pockets or resistance, we're at the point where it's pretty much best practice _not_ to provision your own "bare metal" servers unless regulations require it or your scale is to the point where you _must_ create your own hosting services (eg: Amazon, Google).
 

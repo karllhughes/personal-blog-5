@@ -4,7 +4,6 @@ title: "Five Takeaways from Clean Code: A Handbook of Agile Software Craftsmansh
 date: 2017-04-16
 img: https://i.imgur.com/EHex9XC.png
 categories:
-  - Software Engineering
   - Books
 ---
 *I first published this post in May 2015, but Clean Code is timeless. If you're new to programming, read it because it's a great primer. If you're experienced in programming, read it because it's a great reminder.*

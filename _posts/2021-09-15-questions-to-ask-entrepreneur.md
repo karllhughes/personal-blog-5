@@ -4,7 +4,7 @@ title: "20 Questions to Ask an Entrepreneur Before Joining Their Startup"
 img: /assets/img/ask-entrepreneur.png
 date: 2021-09-15
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 I've had three jobs with startups where my ultimate interview was directly with the founders. Obviously, that doesn't make me the most experienced startup employee ever, but there are a few things I wish I knew on those first few interviews that I know to ask now.

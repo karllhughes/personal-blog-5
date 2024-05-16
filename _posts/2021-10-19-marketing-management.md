@@ -4,7 +4,7 @@ title: "Why Marketing Management is so Hard in Startups"
 img: /assets/img/marketing-management.png
 date: 2021-10-19
 categories:
-  - Startups
+  - Growth
 ---
 
 I’ve gotten to know a lot of marketing managers at startups since I started working on [Draft.dev](https://draft.dev/) full-time last year. I was talking to one recently and she mentioned some of their marketing goals and constraints.

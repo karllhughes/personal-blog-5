@@ -4,7 +4,8 @@ title: "Entrepreneurial Leadership: Inspiring, Aligning, and Managing Your Team"
 img: /assets/img/entrepreneurial-leadership.png
 date: 2021-10-07
 categories:
-  - Startups
+  - Entrepreneurship
+  - Leadership
 ---
 
 I was having a conversation with a friend recently and she told me about her boss, the founder of the small company she works at. Her department’s been struggling a lot in the past few months, but instead of rolling up his sleeves to offering to help them get through it, his reply was, "I’m sorry you’re going through that."

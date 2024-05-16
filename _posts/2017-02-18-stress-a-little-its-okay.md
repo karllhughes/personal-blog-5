@@ -4,7 +4,7 @@ title: "Stress a Little, It's Okay"
 date: 2017-02-18
 img: https://i.imgur.com/ZllpgO0.jpg
 categories:
-  - Startups
+  - Leadership
 ---
 
 *I've always been pretty good at dealing with stress, but as I get older and new things come up to stress me out, it's helpful to go back and remember that a little stress is okay. I wrote this post back in July of 2012, and is being published as part of my [2017 daily writing project](/posts/2017-writing-goal).*

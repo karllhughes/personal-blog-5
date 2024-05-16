@@ -4,7 +4,7 @@ title: "12 Entrepreneurship Books That Impacted Me the Most"
 img: /assets/img/entrepreneur-books.png
 date: 2023-10-01
 categories:
-  - Startups
+  - Entrepreneurship
   - Books
 ---
 

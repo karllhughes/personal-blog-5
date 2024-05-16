@@ -4,7 +4,7 @@ layout: post
 date: 2021-05-19
 img: /assets/img/basecamp.png
 categories:
-  - Tools
+  - Archive
 ---
 
 Basecamp has recently come under fire for [changes](https://world.hey.com/jason/changes-at-basecamp-7f32afc5) the founders implemented including the prohibition of societal and political discussions on the company’s internal Basecamp account. It also ceased giving out “paternalistic” benefits and has done away with committees.

@@ -4,7 +4,7 @@ title: "Why Startup Consulting is a Bad Idea"
 date: 2021-01-13
 img: /assets/img/startup-consulting.png
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 One of my friends recently brought up the idea of consulting for startups. He's been working in software for almost two decades, and he's worked for a few well-known startups in the area. He definitely has skills and knowledge that would be valuable for a startup, so he was surprised when I told him **startup consulting is not a good idea.**

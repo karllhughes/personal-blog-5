@@ -4,7 +4,7 @@ title: "The World Needs a Non Profit Search Engine"
 date: 2020-12-06
 img: /assets/img/non-profit-search-engine.png
 categories:
-  - Startups
+  - Archive
 ---
 
 Google is the [most widely-used search engine](https://www.smartinsights.com/search-engine-marketing/search-engine-statistics/) in the world, and the company now offers hundreds of other services and products on top of search-based advertising. Personally, I think Google has done a great job improving search over the past two decades, but we are reaching a point where Google's interests are colliding with offering honest search results to users.

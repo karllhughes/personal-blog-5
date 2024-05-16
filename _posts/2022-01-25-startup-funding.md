@@ -4,7 +4,7 @@ title: "Startup Funding Without Giving Up Equity"
 img: /assets/img/startup-funding.png
 date: 2022-01-25
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 If you spend much time in online forums about startups, one of the most persistent questions is about funding. These questions dominate [r/startups](https://www.reddit.com/r/startups/) and [Quora](https://www.quora.com/), likely because funding is one of the first places would-be entrepreneurs get stuck:

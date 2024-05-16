@@ -4,7 +4,7 @@ title: "Q&A: Common Mistakes Growing Small Business Owners Make"
 img: /assets/img/business-owner-mistakes.png
 date: 2021-08-11
 categories:
-  - Startups
+  - Entrepreneurship
 ---
 
 ## Question

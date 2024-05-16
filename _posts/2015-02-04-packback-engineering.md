@@ -4,8 +4,7 @@ title: "An Update on Engineering at Packback"
 date: 2015-02-04
 img: https://i.imgur.com/kir3G3s.jpg
 categories: 
-  - Software Engineering
-  - Startups
+  - Archive
 ---
 
 As I enter my second full year of working with [Packback](https://www.packback.co/), I can say that it's already been an exciting and challenging experience. When I came in on my first day, there were five offshore developers dragging files onto two servers with absolutely no discernible workflow, coding standards, or version control system.

@@ -4,7 +4,7 @@ title: "What to Expect from a Coding Bootcamp"
 date: 2021-02-08
 img: /assets/img/expect-coding-bootcamp.png
 categories:
-  - Software Engineering
+  - Archive
 ---
 
 You've probably noticed the rise coding bootcamps over the past few years. If you come from a traditional computer science background you may be skeptical, but these programs aren't trying to teach the totality of computer science in a few weeks.
