@@ -16,7 +16,7 @@ For founders and HR managers at startups, paying employees, administering benefi
 
 A good payroll tool will help you reduce manual data entry, avoid costly tax mistakes, and allow you to run your business without a lot of overhead. The hard part is deciding which option works best for your needs. I typically recommend two approaches:
 
-1. Ask startups that are similar to you about their choice. What do they like? What do they dislike? This is my preferred way of choosing (and how [we landed on Gusto](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=) and [Pilot](https://pilot.grsm.io/gjjc2ow3l0k9) at my last startup).
+1. Ask startups that are similar to you about their choice. What do they like? What do they dislike? This is my preferred way of choosing (and how [we landed on Gusto](https://gusto.com/r/karl4741) and [Plane](https://pilot.grsm.io/gjjc2ow3l0k9) at my last startup).
 2. Try each one out. This is time-consuming and to be honest, many of the options on this list are pretty close in price and features. I don't recommend spending this much time on the decision.
    
 That said, you should consider your current _and_ future needs.
@@ -25,27 +25,27 @@ That said, you should consider your current _and_ future needs.
 
 This list includes an evaluation of the most commonly recommended payroll tools I could find. I looked at each tool's features, pricing, and target market to get a good sense of which provider might work best for startups like mine. I hope this gives you a better idea of which tool will be the best fit for you, or at least, a starting point for making your own evaluation.
 
-### 1. [Gusto](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=)
+### 1. [Gusto](https://gusto.com/r/karl4741)
 
-[![Gusto](https://i.imgur.com/mqnLrOu.png)](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=)
+[![Gusto](https://i.imgur.com/mqnLrOu.png)](https://gusto.com/r/karl4741)
 
-[Gusto](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=), which used to be ZenPayroll, was founded in 2011 and is widely known for being an affordable payroll and benefits management software for startups and other small businesses. Its mobile interface integrates seamlessly with accounting and time-tracking software. The autopilot feature ensures your employees are always paid on time, but it also allows you to customize pay schedules whenever you’d like.
+[Gusto](https://gusto.com/r/karl4741), which used to be ZenPayroll, was founded in 2011 and is widely known for being an affordable payroll and benefits management software for startups and other small businesses. Its mobile interface integrates seamlessly with accounting and time-tracking software. The autopilot feature ensures your employees are always paid on time, but it also allows you to customize pay schedules whenever you’d like.
 
 In addition to payroll features, Gusto also offers tools for HR managers to manage job offer letters, health insurance, 401(k)s, paid time off (PTO) policies, workers’ compensation insurance, and more. Plus, it can automatically handle federal and state payroll taxes. And with its self-service portals, your employees can download pay stubs and tax forms. However, the platform does lack integrated background checks, an IT systems management feature, and does not register for benefits in all states (see the whole list [here](https://support.gusto.com/state-registration-compliance/)).
 
 Gusto is most often used by software startups on the smaller side ($1M-$10M in revenue).
 
-**Cost: Gusto’s [Basic plan starts at $19 per month](https://shareasale.com/r.cfm?b=1006810&u=1653894&m=71912&urllink=&afftrack=), plus $6 per month per person.**
+**Cost: Gusto’s [Basic plan starts at $19 per month](https://gusto.com/r/karl4741), plus $6 per month per person.**
 
-### 2. [Pilot.co](https://pilot.grsm.io/gjjc2ow3l0k9)
+### 2. [Plane](https://pilot.grsm.io/gjjc2ow3l0k9)
 
-[![Pilot.co](https://i.imgur.com/IuK9Sfs.png)](https://pilot.grsm.io/gjjc2ow3l0k9)
+[![Plane](https://i.imgur.com/IuK9Sfs.png)](https://pilot.grsm.io/gjjc2ow3l0k9)
 
-While it doesn't support full-time W2 hires (yet), I discovered Pilot while searching for a way to pay our 150+ international contract employees at Draft.dev. The truth is, there are very few payroll providers that support international payments as well as Pilot, especially for the low price.
+I discovered Plane while searching for a way to pay our 150+ international contract employees at Draft.dev. The truth is, there are very few payroll providers that support international payments as well as Plane, especially for the low price.
 
 They also help you manage compliance, by offering standard freelance contracts for over 100 countries and automatic collection of proper documentation. Finally, you can convert your contract employees to full-time using their employer of record service, which makes international hiring much cheaper and easier for startups.
 
-**Cost: Pilot.co's pricing starts at $29 per month.**
+**Cost: Plane's pricing starts at $29 per month.**
 
 ### 3. [Patriot Online Payroll](https://shareasale.com/r.cfm?b=240525&u=1653894&m=28083&urllink=&afftrack=)
 
