@@ -18,6 +18,7 @@ Karl has appeared as a guest on many business podcasts and YouTube channels, inc
 
 - [Acquiring Minds (Video)](https://www.youtube.com/watch?v=HtNkEh90el8)
 - [Starter Story (Video)](https://www.youtube.com/watch?v=i6kCkGmJc9M)
+- [Empowering Bright Ideas (Video)](https://youtu.be/ZTxXsbseU_E?si=FrAR80mkQYbDzmVW)
 - [Master Leadership](https://shows.acast.com/masterleadership/episodes/ml287-karl-hughes)
 - If I Was Starting Today - [1](https://harkaudio.com/p/jim-huffman/building-a-productized-service-with-karl-hughes-76-jim-huffman), [2](https://harkaudio.com/p/jim-huffman/a-productized-service-roundtable-with-5-ceos-94-jim-huffman)
 - [Coffee With Closers (Video)](https://www.youtube.com/watch?v=TQgeF9LTwp0)
