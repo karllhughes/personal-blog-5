@@ -23,7 +23,7 @@ Finally, you may want a deeper integration between your form and your website. F
 ## Google Forms Alternatives
 
 ### [forms.app](https://forms.app/)
-If you're looking for an alternative to Google Forms, [forms.app](https://forms.app/) is a great option. Their platform is user-friendly and does not require any coding skills to create interactive forms, surveys, and quizzes. One of the most attractive features of forms.app is its cost-effectiveness. Many advanced functionalities, such as conditional logic, calculators, product baskets, various question types, payment collection, signature collection, and advanced analytics, are **available for free.**
+If you're looking for an alternative to Google Forms, [forms.app](https://forms.app/en/google-forms-alternative?utm_source=f-partners&utm_medium=karllhughes) is a great option. Their platform is user-friendly and does not require any coding skills to create interactive forms, surveys, and quizzes. One of the most attractive features of forms.app is its cost-effectiveness. Many advanced functionalities, such as conditional logic, calculators, product baskets, various question types, payment collection, signature collection, and advanced analytics, are **available for free.**
 
 ![Forms.app home page](https://i.imgur.com/nRrmT7M.png)
  
