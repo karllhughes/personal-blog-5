@@ -30,6 +30,9 @@ If you're looking for an alternative to Google Forms, [forms.app](https://forms.
 Additionally, [forms.app](https://forms.app/) includes an AI form generator feature that speeds up the form and survey creation process. You just need to explain what you want to create, and the AI will handle the rest.
 
 ### [Drag'n Survey](https://www.dragnsurvey.com/en)
+
+[![Drag'n survey homepage](https://i.imgur.com/ItCr4Dx.jpeg)](https://www.dragnsurvey.com/en)
+
 Drag'n Survey is a good alternative to Google Forms thanks to its innovative features. The tool offers AI-assisted form creation, as well as survey creation through importing Word documents, PDFs, or even images. A practical function allows you to directly load your existing Google Forms into the software.
 
 Drag'n Survey allows you to create stylish surveys to showcase your brand image, but it also helps with analytics. To analyze your survey results, you can perform cross-tabulations and data cross-referencing. Your reports are also 100% customizable.
