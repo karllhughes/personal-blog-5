@@ -259,9 +259,11 @@ I find this model of [starting with a no-code prototype and then enhancing it wi
 - No write or update support yet
 - Google Sheets not yet supported
 
-### [Sheetsu](https://sheetsu.com/)
+### [Sheet2API](https://sheet2api.com/)
 
-**Description:** Sheetsu might be the easiest way to get started building an API because you probably already have some data in a spreadsheet that will make up the backbone of your application. Sheetsu takes any Google Sheet and turns it into a queryable, flexible API.
+![Sheet2Api Screenshot](https://i.imgur.com/pwxiSxT.jpeg)
+
+**Description:** Sheet2API might be the easiest way to get started building an API because you probably already have some data in a spreadsheet that will make up the backbone of your application. Sheet2API takes any Google Sheet and turns it into a queryable, flexible API.
 
 **Pros:**
 - Super simple to get started. This is truly a zero-code solution
@@ -271,7 +273,6 @@ I find this model of [starting with a no-code prototype and then enhancing it wi
 - Input forms to allow users to add content
 - Can use with Zapier to trigger events in other services, send emails, etc.
 - Includes "instructions" you can email to developers to help them start using your API
-- "Handlebars" option allows you to create a frontend template from your data
 
 **Cons:**
 - Does not allow you to enhance your API with custom code
@@ -279,7 +280,7 @@ I find this model of [starting with a no-code prototype and then enhancing it wi
 - Linking data in multiple tables isn't really possible
 - Query options are somewhat limited (just a simple search by field)
 - Doesn't appear to allow rate limiting
-- While there is a free plan, it's extremely limited, and you're likely going to have to move to the $49/month plan pretty quickly
+- While there is a free plan, it's extremely limited, and you're likely going to have to move to the £24.99/month plan pretty quickly
 
 ### [Airtable](https://airtable.com/invite/r/4EaSmQNr)
 
