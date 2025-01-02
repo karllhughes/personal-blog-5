@@ -1,30 +1,32 @@
 ---
 layout: post
-title: "30 Side Project Ideas: Earn Money and Build New Skills Without Leaving Your Day Job"
+title: "30 Side Project Ideas to Earn Extra Money and Build New Skills"
 img: /assets/img/side-project-ideas.png
-date: 2021-11-28
+date: 2025-01-02
 categories:
   - Entrepreneurship
 ---
 
-I started [many side projects of varying success](https://www.karllhughes.com/posts/overnight-success) before going full-time on my own business last year. Each of these side projects helped me learn new skills like marketing, sales, and content that I wasn’t going to get from my day job as an engineer.
+For the first 10 years of my career, I had [many side projects with varying degrees of success](https://www.karllhughes.com/posts/overnight-success).
 
-While none of them made me very much money, they absolutely helped me expand my knowledge and learn about new career opportunities.
+While most of them didn't make me a lot of money, each of them helped me learn new skills and gain confidence before I launched a successful business in 2020. Without side projects, I never would have had exposure to marketing, sales, or financial modeling, and all those skills came in really handy when Draft.dev started to take off.
 
-So this week, I wanted to share a few **side project ideas** that you can explore. Most of these are things you can work on without having to leave your day job, and each presents a unique opportunity for growth and learning with a relatively low barrier to entry.
+So this week, I wanted to share a bunch of worthwhile **side project ideas** that you can explore.
 
-## Why Are Side Projects Helpful?
+Most of these are things you can do without leaving your day job and with little to no training, so they're a great way to get started on the path towards full-time entrepreneurship if you want.
 
-Doing side projects, even if they’re totally unrelated to your career background, can provide a variety of helful benefits to your personal career and psyche:
+### Why Have a Side Project?
 
-* They’re fun. They’re essentially hobbies that you can earn and learn from!
+Doing side projects, even if they’re totally unrelated to your career background, can provide a variety of helful benefits:
+
+* They’re fun. They’re essentially hobbies that you can earn and learn from.
 * They can help you enrich your career or start a new one.
-* Side projects foster learning and encourage creativity.
-* Personal growth and self-improvement increases positivity in other areas of your life as well.
+* Side projects provide a good creative outlet.
+* They can give you the skills and confidence to start your own full-time business someday.
 
 ## 30 Side Project Ideas You Can Try
 
-So, with these benefits in mind, let's take a look at a few ideas you can get started with relatively quickly:
+So, with these benefits in mind, let's take a look at a few ideas you can get started with relatively quickly.
 
 ### 1. Landscaper or Yard Worker
 
@@ -32,17 +34,19 @@ Regardless of the season, you’ll always find people who need to have yard work
 
 ![Landscape work as a side project](https://i.imgur.com/Qp9UL7b.jpg)
 
-### 2. Public Speaking Coach
+### 2. Public Speaker or Speaking Coach
 
-If you’re an experienced storyteller, presenter, or public speaker, you can try your hand at becoming a public speaking or presentation coach. In this consultative role, you'll help professionals improve their storytelling skills and communicate their ideas clearly and confidently.
+I've always loved speaking, but I will admit, I've never tried to take it seriously enough to get paid. That said, it's a very viable side project pathway.
 
-I used to speak regularly at conferences a few years ago, so let me be the first to tell you that many of us on the stage could use a good speaking coach.
+If you’re an experienced storyteller, presenter, or public speaker, you can try your hand at becoming a paid speaker or a speaking coach. Public speaking is the #1 fear for most professionals, so there's always demand for this kind of work, and there are some [good books on the topic](https://amzn.to/41XifwA) if you need help getting started.
 
 ### 3. Marketing Consultant
 
-Small and mid-size enterprises (SMEs) have a major contribution in most economies. According to the [World Bank](https://www.worldbank.org/en/topic/smefinance), they’re responsible for approximately 90% of businesses and over 50% of employment worldwide.
+Small and mid-size enterprises (SMEs) are the economic engine of most countries. According to the [World Bank](https://www.worldbank.org/en/topic/smefinance), they’re responsible for approximately 90% of businesses and over 50% of employment worldwide.
 
 However, many SMEs rarely have the means to recruit and hire top-notch, in-house marketing professionals or the top agencies. So, they often [turn to consultants](https://www.karllhughes.com/posts/startup-consulting) for help in coming up with and executing strategies. If you’ve had prior experience in the industry, this can be a lucrative side hustle and doesn't necessarily require a lot of time if you limit the number of clients you take on.
+
+Also, check out [Consulting Success](https://amzn.to/3PkrKi4), a great book for new consultants whether you take on the work full-time or as a side hustle.
 
 ### 4. Private Tutor
 
@@ -54,17 +58,19 @@ If you’ve done well academically or are still a college student, you can try p
 
 No matter your background, there is a form of writing for you. You can opt to be a content writer, technical writer, journalist, copywriter, or even a greeting card writer. As a freelance writer, you’re free to pitch your work to different publications - both online and print - or you can sign up for and find jobs via freelance websites like Upwork, Fiverr, or Guru.
 
+If you're looking to get started, be sure to [check out this book](https://amzn.to/3DD5Zr4) as it will give you a lot of insight into the industry and how you can carve out a niche.
+
 ### 6. Financial Auditor/Bookkeeper
 
 As a small business owner, I can tell you how challenging finances and bookkeeping are. As small companies scale up, it's difficult for them to handle important administrative tasks like financial management, proper accounting, regulatory reporting, preparing monthly statements, etc.
 
-If you hold a finance degree or an MBA and know accounting, then this could be the perfect side project. I've had several friends start accounting businesses as side projects before going out on their own full-time.
+Even if you don't hold a finance degree or an MBA, this could be the perfect side project if you are good with numbers and details. I've had several friends start accounting businesses as side projects before going out on their own full-time.
 
 ### 7. Landlord/Airbnb Host
 
 Do you own a property or have some extra space in your home?
 
-You might want to look into renting it out. Whether you opt to rent out a room or your entire house, property rental is a reliable option for generating additional revenue. There are some risks associated with allowing strangers into your property, but this can be one of the more passive forms of side projects if you do it right.
+You might want to look into renting it out. Whether you opt to rent out a room or your entire house, [property rental is a reliable option for generating additional revenue](https://amzn.to/41SC601). There are some risks associated with allowing strangers into your property, but this can be one of the more passive forms of side projects if you do it right.
 
 ### 8. ESL (English as a Second Language) Teacher
 
@@ -73,6 +79,8 @@ You might want to look into renting it out. Whether you opt to rent out a room o
 ### 9. Fitness Instructor
 
 Gyms and Health and Fitness clubs are a sizeable industry, with a market size that’s valued at over [$30 billion in 2021](https://www.statista.com/statistics/605223/us-fitness-health-club-market-size-2007-2021/) alone. Given its sheer size, this industry presents a number of opportunities for those looking into becoming a personal trainer or a home fitness instructor. Throw in the increased interest in virtual fitness training thanks to the pandemic and now is a perfect time to start a side gig in this field.
+
+And, if you're ever ready to level up and start your own gym, [there are plenty of good resources on that topic too](https://amzn.to/3DGG5CT).
 
 ### 10. Graphic Designer
 
@@ -94,7 +102,11 @@ Are you an expert in your field? You can leverage your knowledge and skills and 
 
 ### 14. Blogger
 
-Starting a blog is relatively easy and affordable. If you have a knack for writing or taking great photos, you can become a blogger. Keep in mind thought that with blogs, money may come in slowly. Once you’ve built an audience through your consistent and value-adding posts, you can generate revenue through ads, affiliate marketing, subscriptions, or sponsorships. The great thing about blogging is that you have total freedom.
+Starting a blog is relatively easy and affordable. If you have a knack for writing or taking great photos, you can become a blogger.
+
+Keep in mind thought that with blogs, money may come in slowly. Once you’ve built an audience through your consistent and value-adding posts, you can generate revenue through ads, affiliate marketing, subscriptions, or sponsorships. The great thing about blogging is that you have total freedom.
+
+While it has taken years of consistency, I make a few hundred dollars per month from this blog. I've also sold individual sponsored posts for thousands of dollars before, so it's certainly a viable path for a side project.
 
 ### 15. YouTuber
 
@@ -106,15 +118,19 @@ With [over 2 billion monthly users](https://blog.hootsuite.com/youtube-stats-mar
 
 Like blogs and YouTube channels, podcasting is a great avenue for you to share your knowledge and expertise. And yes, it’s possible to earn from podcasting as a side project. You can make money from sponsorships or advertising partnerships.
 
+One of my businesses, [The Podcast Consultant](https://thepodcastconsultant.com/) can also help if you're looking to take your podcast really seriously.
+
 ### 17. Editor or Proofreader 
 
-Are you detail-oriented? Do you have a good grasp of the English language?
+With AI writing getting more common, the need for high-quality human editing is only increasing.
 
-If so, you might want to look into freelance editing and proofreading as side project ideas. With the surge of freelancing platforms like Upwork and Fiverr, it’s become easier for individuals to look for clients who are in need of editing and proofreading services. 
+Freelance editing and proofreading are great side project options, especially if you can help people level up mid-tier AI-generated writing into something more interesting.
 
 ### 18. Virtual Assistant 
 
-Being a virtual assistant (VA) is a fantastic opportunity for you to develop new skills and broaden your professional network. Virtual assistant duties range from scheduling appointments to making phone calls. Some VAs also offer content writing, graphic designing, and marketing services. If you have a lot of free time and if you’re very organized, this is worth looking into. 
+Being a virtual assistant (VA) is a fantastic opportunity for you to develop new skills and broaden your professional network. Virtual assistant duties range from scheduling appointments to making phone calls, so you'll get a ton of different types of experience in this role. The money can also be pretty decent - I pay my full-time assistant over $3000/month and she works fully remote from halfway across the world.
+
+So, if you have a bit of free time and if you’re very organized, this is worth looking into.
 
 ### 19. Photographer
 
@@ -136,7 +152,9 @@ More than [60 million households](https://www.iii.org/fact-statistic/facts-stati
 
 ### 23. Uber or Lyft Driver
 
-If you have a car, you can drive for ride-sharing platforms such as Uber and Lyft. Once you’ve signed up for your preferred platform and you’re cleared as a driver-partner, you can start driving people around as a legitimate side project.
+If you have a car, you can drive for ride-sharing platforms such as Uber and Lyft. Once you’ve signed up for your preferred platform and you’re cleared as a driver-partner, you can start driving people around as a legitimate side hustle.
+
+That said, it's gotten pretty competitive, so be sure to read up on [best practices for Uber and Lyft driving](https://amzn.to/4jeSPB5) if you want to make this a serious side gig.
 
 ### 24. PostMates Driver
 
@@ -144,7 +162,7 @@ Another side project that gives you the freedom to work whenever you want is del
 
 ### 25. Website Developer
 
-You can learn how to code (or [attend a developer bootcamp](https://www.karllhughes.com/posts/dev-bootcamp-program)) and build websites in your free time. This is how I got started in the industry, and the internet is full of resources for those of you who want to learn HTML, Python, Javascript, or CSS. Once you build your portfolio, use it to pitch clients on [their own startup website](https://www.karllhughes.com/posts/startup-website).
+You can teach yourself to code (or [attend a developer bootcamp](https://www.karllhughes.com/posts/dev-bootcamp-program)) and build websites in your free time. This is how I got started in the industry, and the internet is full of resources for those of you who want to learn HTML, Python, Javascript, or CSS. Once you build your portfolio, use it to pitch clients on [their own startup website](https://www.karllhughes.com/posts/startup-website).
 
 ### 26. Website Designer
 
@@ -164,7 +182,7 @@ If you know how to use digital editing software, you can edit videos as a side j
 
 ### 30. Makeup Artist
 
-If you’re into makeup and want to help people look their best, working as a freelance makeup artist can let you leverage your passion and skills for extra income. Once you’ve built a loyal customer base, you can earn significantly from this side project. You also have the potential to scale up your venture, especially if you start getting more clients. 
+If you’re into makeup and want to [help people look their best](https://amzn.to/3W5d1LH), working as a freelance makeup artist can let you leverage your passion and skills for extra income. Once you’ve built a loyal customer base, you can earn significantly from this side project. You also have the potential to scale up your venture, especially if you start getting more clients. 
 
 ## Final Thoughts
 

@@ -12,7 +12,7 @@ In 2021, I first tried to do all my work from an iPad. Back then, iPadOS didn't 
 
 While I was able to do a fair bit of my day-to-day work on my 2020 iPad Air, there were enough limitations that I decided it wasn't practical as my daily driver. The poor machine was relegated to my media shelf as a fun toy and movie player for the kids.
 
-But, a lot has changed in the past 3 years. So, when the [2024 iPad Pro came out](https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/), I decided I would pick one up and try it again.
+But, a lot has changed in the past 3 years. So, when the [2024 iPad Pro came out](https://amzn.to/4fIcl5P), I decided I would pick one up and try it again.
 
 ## Can an iPad be Used as a Laptop Replacement?
 
@@ -35,8 +35,8 @@ In 2021, it was nearly impossible to use an iPad, even for my light days of call
 Here are a few of the things new to iPad that make using it as a daily driver more viable than before:
 
 - **Stage Manager** - While Apple's arbitrary limitations on the number of windows you can open at once and the layout of those windows can be annoying, Stage Manager makes using a large external display with an iPad significantly better. I set my iPad Pro's screen to use the traditional single-app layout while my external display uses Stage Manager to better utilize the space.
-- **Extended Display Support** - On that note, my 2020 iPad Air couldn't even extend the display to an external monitor; it could only mirror it. Having support for widescreen, high definition external displays makes a huge difference when looking at multiple windows or multitasking.
-- **Peripheral Support** - My iPad can now simultaneously support an external mouse, keyboard, webcam, and microphone via a combination of USB and Bluetooth. [Having a good USB hub](https://amzn.to/4bnSsPs) is a must, but that's true with all of Apple's hardware now.
+- **Extended Display Support** - On that note, my 2020 iPad Air couldn't even extend the display to an external monitor; it could only mirror it. Having support for [widescreen, high definition external displays](https://amzn.to/4fDIHP8) makes a huge difference when looking at multiple windows or multitasking.
+- **Peripheral Support** - My iPad can now simultaneously support an external mouse, keyboard, webcam, and microphone via a combination of USB and Bluetooth. [Having a good USB hub](https://amzn.to/4bnSsPs) is a must, but that's true with all of Apple's hardware now. I have had good luck with [[Anker's USB hubs and dongles](https://amzn.to/4a1J18Z).
 - **More Native iPad Apps** - It's taken a while, but more developers are releasing Native iPad applications that are closer to full-featured apps than their mobile counterparts. Even Google Sheets (which remains a weak point for iPadOS) is much more usable today than it was four years ago. That said, there are a few apps where it's still easier to use the website than the iPad app (more on that later).
 - **Replit (and other browser-based IDEs)** - While I don't write code daily, this blog and some websites I manage don't have a true CMS, so I still need a way to edit and write code occasionally. [Replit](https://replit.com/) is amazing for this use case, and they're continually adding features that make light code editing easier on mobile devices.
 - **FaceID** - One of the more annoying thing about the previous generation of iPads was the fingerprint sensor requirement. When using an external keyboard and mouse, I found that I constantly had to lean into the iPad to press my finger on the sensor. FaceID is obviously much easier to use.
@@ -62,4 +62,4 @@ For someone like me who's primarily doing sales and management, it's possible to
 
 It will take a lot more work for software developers or specialized software users to ditch their laptops for an iPad, but I think it could be good enough for those of us who work a managers schedule and want an ultra-portable work station.
 
-Have you switched to iPad full-time? Or tried it? [Let me hear about your experience on X](https://twitter.com/karllhughes).
+Interested in switching to an iPad for work? [Pick one up](https://amzn.to/4iB2FNk) and let me know how it goes!
