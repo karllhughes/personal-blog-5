@@ -2,21 +2,23 @@
 layout: post
 title: "12 Entrepreneurship Books That Impacted Me the Most"
 img: /assets/img/entrepreneur-books.png
-date: 2023-10-01
+date: 2025-02-07
 categories:
   - Entrepreneurship
   - Books
 ---
 
-A lot of new entrepreneurs ask me what books they should read (or which ones I like), and I find this question surprisingly hard to answer.
+Books have made a huge impact on my career as an entrepreneur, but the problem with making recommendations is that books resonate differently depending on where you are in your personal journey.
 
-The problem is that the impact of a book is dependent on your current situation and challenges. The books that impact me most now probably wouldn't have been helpful earlier in my journey, and the ones I read when I was first starting out probably wouldn't be as impactful to me personally anymore.
+So, when new entrepreneurs ask me what books they should read, I find the question surprisingly difficult to answer. The books that impact me today probably wouldn't have landed the same way when I was just starting, and vice-versa.
 
-I also read a lot, and many of the books that have impacted my entrepreneurial journey the most aren't _typical_ business books.
+Finally, I read across a wide variety of genres, and many of the books that have impacted me aren't _typical_ business books. Classics like _Good to Great_ and _Measure What Matters_ are great all-purpose business books and will help you be a better manager, but I find their application to early-stage entrepreneurship pretty weak.
 
-Classics like _Good to Great_ and _Measure What Matters_ are great all-purpose business books and will help you be a better manager, but I find their application to entrepreneurship pretty weak.
+With those caveats aside, I thought it would be interesting to share the 12 books that have had the biggest impact on my entrepreneurial journey _and_ the point at which they left their impact.
 
-With those caveats aside, I thought it would be interesting to share the 12 books that have had the biggest impact on my entrepreneurial journey. I've organized this list chronologically, so I'll explain each book in the context of its impact on my life at the time.
+I've organized this list chronologically, so I'll explain each book in the context of its impact on my life at the time, and if you prefer a video version of this, I recorded this as an episode for my podcast, [Retained Trust](https://www.retainedtrust.com/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_li5zzt6x3Q?si=Ac523aBTg6l0Iatn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hopefully, some of these will hit you at just the right time in your entrepreneurial journey to make a big impact too.
 
@@ -156,7 +158,7 @@ While I'm still working on this, _The Gap and the Gain_ helped me shift my persp
 Seeing *the gap* without seeing *the gain* will lead you to constantly chase more and never be happy. Appreciating the progress you make will allow you to enjoy the journey much more.
 
 ## 12. [The Alchemist](https://amzn.to/48B69dl) by Paulo Coelho
-I love a good allegory, so while friends have been recommending this book to me for years, I finally got around to it in 2023.
+I love a good allegory, so while friends have been recommending this book to me for years, I finally got around to it a couple years ago.
 
 _The Alchemist_ is the story of a young shepherd's journey to find his "personal legend," a great treasure that is revealed to him in a dream. Along the way, he meets others on the search for their personal legends and learns some universal truths about belief, fear, and having your own great pursuits.
 
@@ -178,4 +180,4 @@ If you like this kind of inspirational advice in story form, _The Alchemist_ nee
 
 ## What's Next?
 
-I've always got a full backlog of books that people recommend to me, but I'm also always keeping an ear out for others. [Find me on Twitter](https://twitter.com/karllhughes) if you have your own suggestions or you liked this list.
+I've always got a full backlog of books that people recommend to me, but I'm also always keeping an ear out for others. Let me know if you have your own suggestions or you liked this list.
