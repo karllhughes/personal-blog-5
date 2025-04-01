@@ -21,7 +21,7 @@ An old friend recently saw my appearance on [Starter Story](https://www.youtube.
 
 I didn't know where to begin. No, the video didn't lie. In some ways, I've been incredibly successful in my career thus far. But it didn't tell the whole story either.
 
-2023 has been the hardest in my life so far, both personally and professionally. I don't want to dramatize this and pretend that my life is hard. I'm extremely fortunate compared to most of the world, but mentally, the past 9 months have been far from the easy road you see on the outside.
+2023 has been the hardest in my life so far, both personally and professionally. I don't want to dramatize this and pretend that my life is hard - I'm extremely fortunate compared to most of the world - but mentally, the past 9 months have been far from the easy road you see on the outside.
 
 And yet, it's been the year in which I've learned the most as well.
 
@@ -85,7 +85,7 @@ In August, things started to stabilize. It's hard to say what came first, but I 
 In hindsight, 7-8 months doesn't seem that long, but when you're in the depths of it, it can feel like a neverending nightmare. That said, now that it's behind me, I can take stock of the experience and I'm very grateful to have had it so early in my entrepreneurial career. Here are just a few of the things I learned this year:
 
 1. **The tiger won't kill you.** Even if your business takes a nosedive, you'll live.
-2. **Keep your health in order.** Don't let diet, sleep, inactivity, or substances bring you down.
+2. **Keep your health in order.** Don't let diet, sleep, inactivity, or substances increase your stress. [Stress is a huge detriment to productivity](https://www.firstmats.co.uk/blogs/facts-and-statistics/executive-summary-of-workplace-stress-anxiety-depression-statistics-2023), so while it might seem like you don't have time to work out and eat right, you probably don't have time _not_ to.
 3. **Minimize fixed costs in your business.** Leverage contractors as much as possible and keep subscriptions monthly (instead of forcing an annual lock-in).
 4. **Get credit; know how much you're comfortable using.** It's better to have it *before* you need it than after.
 5. **Taking big risks might slow you down.** If they don't pan out, but you learn a lot
