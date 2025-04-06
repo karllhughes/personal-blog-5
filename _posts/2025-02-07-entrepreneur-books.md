@@ -24,7 +24,7 @@ Hopefully, some of these will hit you at just the right time in your entrepreneu
 
 ## 1. [The Four Hour Workweek](https://amzn.to/3F2hoOo) by Timothy Ferriss
 
-[<img src="https://i.imgur.com/kSxzGJJ.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="Unlimited Power book cover" />](https://amzn.to/3F2hoOo)
+[<img src="https://i.imgur.com/kSxzGJJ.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="Four Hour Workweek book cover" />](https://amzn.to/3F2hoOo)
 
 After I graduated from college, I spent 6 months living in a tent and touring the Eastern half of the United States. During this period, I had a job with a small startup where - for the first time - my income was removed from my hours. I was paid for producing results, and I typically didn't have to work many hours each day to hit my numbers.
 
