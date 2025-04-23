@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "The 11 Best Payroll Software Tools for Startups"
-date: 2022-01-21
+date: 2025-04-23
 img: /assets/img/payroll.png
 categories:
   - Tools
 ---
 
-Last year, I went through the process of evaluating payroll software tools, so I figured I would collect my findings here and share. Some of these options cater more to early-stage startups like mine, while others may be more suited for larger ones.
+When my first business (which relied heavily on international contractors) started to grow, I went through the process of evaluating many of the most popular payroll software tools. I learned a lot in the process, so I figured I would collect my findings here and share.
 
 For founders and HR managers at startups, paying employees, administering benefits, and filing taxes properly can be time-consuming and complex. As a leader, you should be focused on growing the business and developing their product, so the more you can offload to software or third-party services, the more effective you'll be at your job.
+
+While I'd like to give you a definitive list, some of these options cater more to early-stage startups and small businesses like mine, while others may be more suited for larger ones. So, you'll probably have to dig into each of these on your own, but this should give you a solid starting point.
 
 ## Choosing a Payroll Software Tool for Your Startup
 
@@ -148,4 +150,11 @@ Startups that typically go with Square Payroll already use Square for payment pr
 
 **Cost: Square Payroll starts at $29 per month, plus $5 per month per person. The Pay Contractors Only option is $5 per month per person.**
 
-<!-- ad-banner -->
+### Also Consider: [Toggl Track](https://toggl.com/)
+
+[Toggl](https://toggl.com/) isn’t a payroll tool on its own, but if you’re paying hourly employees or contractors, it’s one of the easiest ways to track time. It’s super lightweight, integrates with popular payroll platforms like Gusto and QuickBooks, and gives you clean reports that make payroll (or invoicing) a lot less painful. I’ve used it with remote teams and love how fast it is to get set up.
+
+We use it for many of our contractors, but I also use it personally. As a founder, I'm always conscious of how I'm spending my time, so my business partner and I use it as an easy way to keep each other accountable and understand what we're focused on in a given month.
+
+## Final Thoughts
+If you have other suggestions for payroll tools or thoughts on what's worked for your startup, I'd love to hear it. Reach out via [email](mailto:khughes.me@gmail.com) or [Linkedin](https://www.linkedin.com/in/karllhughes/).
