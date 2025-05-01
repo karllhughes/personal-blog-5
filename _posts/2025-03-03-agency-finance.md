@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agency Finance 101: Insights from the CFOs"
-img: /assets/img/agency-finance.png
+image: /assets/img/agency-finance.png
 date: 2025-03-03
 categories:
   - Entrepreneurship

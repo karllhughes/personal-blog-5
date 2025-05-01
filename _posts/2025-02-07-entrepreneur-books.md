@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Entrepreneurship Books That Impacted Me the Most"
-img: /assets/img/entrepreneur-books.png
+image: /assets/img/entrepreneur-books.png
 date: 2025-02-07
 categories:
   - Entrepreneurship

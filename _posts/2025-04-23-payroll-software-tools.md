@@ -2,7 +2,7 @@
 layout: post
 title: "The 11 Best Payroll Software Tools for Startups"
 date: 2025-04-23
-img: /assets/img/payroll.png
+image: /assets/img/payroll.png
 categories:
   - Tools
 ---

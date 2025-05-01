@@ -11,6 +11,10 @@ layout: main
     {% if page.img %}
     <div class="page-cover-image">
       <img class="page-image" src="{{page.img}}" alt="{{page.title}}" style="width: 100%; aspect-ratio: 16 / 9;">
+    </div>
+    {% elsif page.image %}
+    <div class="page-cover-image">
+      <img class="page-image" src="{{page.image}}" alt="{{page.title}}" style="width: 100%; aspect-ratio: 16 / 9;">
     </div> <!-- End Page Cover Image -->
     {% endif %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Sell Your Digital Marketing Agency"
-img: /assets/img/sell-agency.png
+image: /assets/img/sell-agency.png
 date: 2025-04-06
 categories:
   - Entrepreneurship
