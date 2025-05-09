@@ -11,8 +11,6 @@ After almost ten years working for startups, I've seen some pretty wild things.
 
 One startup I worked for raised a couple million dollars and then hit a wall. With little traction and mounting debts, two of the founders had to push out two of the other founders to cut costs and narrow their focus. That was...awkward...to say the least.
 
-<!-- ad-banner -->
-
 One of my friends worked for a startup with about eight employees. They were working on a new round of funding when one of the co-founders died unexpectedly. The other co-founder and employees floundered, and the whole thing eventually fell apart.
 
 I once shared some office space with a startup that hit a $5.5 billion valuation shortly before it was revealed that [they defrauded investors](https://www.wsj.com/articles/outcome-a-hot-tech-startup-misled-advertisers-with-manipulated-information-sources-say-1507834627) by inflating their sales numbers. The founders - who were investors in my company - were investigated and eventually indicted.
@@ -44,8 +42,6 @@ For example, I've been the first employee at two startups. Each time, I got to d
 
 > "People want autonomy and authority; they want to understand the mission of their company and be empowered. This, in turn, drives innovation." - [Daniel Odio, CEO at Armory](https://venturebeat.com/2019/08/10/dont-be-afraid-to-give-your-employees-real-autonomy/)
 
-<!-- ad-banner -->
-
 ### 3. You'll Meet Great People
 People who work at startups tend to be passionate, ambitious, and interesting. Startups often hire people from nontraditional backgrounds who are hustlers or hackers in their own right, so you're bound to meet a few characters on your startup journey.
 
@@ -70,8 +66,6 @@ While salaries at small startups tend to be lower, you might be able to negotiat
 Owing even a tiny piece of a billion-dollar pie will completely change your financial future.
 
 ![Equity could pay off, but it's risky](https://i.imgur.com/poUepdb.png)
-
-<!-- ad-banner -->
 
 That said, exchanging part of your salary for equity is [notoriously risky](https://davidcummings.org/2017/02/06/4-reasons-why-startup-stock-options-are-usually-worthless/). Very few startups ever make it to an exit event, and you'll likely need to stay for years before your shares vest. If they're options, you're also on the hook to buy those shares at the strike price, meaning you need a little cash on hand just to cash out.
 
@@ -98,8 +92,6 @@ High expectations aren't bad on their own, but when coupled with inexperienced m
 In my experience, early salespeople often have it the worst. Startup founders set aggressive sales goals based on little data to hit their investors' targets. Then, they bring on junior salespeople without a script or existing book of clients and expect them to replicate the founder's win rate.
 
 > "At every single startup I’ve been a part of, I’ve created my own collateral, lobbied for tools, mentored other team members, worked with product, was a quasi therapist to the leadership team, booked my own travel, did my own expenses, created CRM rules, and more." - [Amy Volas](https://medium.com/smashing-quota/what-its-really-like-to-work-in-sales-at-a-startup-c2d59dba6c11)
-
-<!-- ad-banner -->
 
 This happens in engineering roles too. For example, many startups rely on early-career engineers to build their products. These engineers fall into building too much without proper market validation.
 
@@ -131,8 +123,6 @@ While the opportunity to get stock in an early-stage company is enticing, it's u
 For example, the last two startups I joined didn't offer health insurance until we reached ten employees, and even then, it was pretty subpar insurance. Startups are also unlikely to give you [access to a 401k for retirement savings](https://www.karllhughes.com/posts/startup-retirement) or any matching until they get to 20-100 employees.
 
 Finally, startups have a high rate of failure, so if you're worried about suddenly being without a job, it might be best to avoid an early-stage startup. If you have personal savings, a spouse who brings in income, or a highly marketable set of skills, this is probably less of a concern. As a software engineer, I was always okay with the risk of working for a startup because I knew I could quickly land another job if I had to.
-
-<!-- ad-banner -->
 
 ## Should You Work for a Startup?
 Now that you've seen both sides of the deal, it's time to decide whether working for a startup is a good idea.

@@ -61,8 +61,6 @@ Get creative: [build the MVP yourself](https://www.karllhughes.com/posts/creatin
 
 I joined The Graide Network because the two non-technical founders had built a business generating real revenue off email and spreadsheets. Hustle in the face of not having a product is extremely attractive.
 
-<!-- ad-banner -->
-
 ### 4. Technical Talent is in High Demand
 
 Most software engineers with more than 5 years of experience have little trouble finding a job. The trick here is to narrow your market so that your startup can stand out.
@@ -99,8 +97,6 @@ $50,000 might not pay a full-time engineer's salary in many places in the United
 Finally, **keep moving forward**.
 
 Never use your lack of technical skill as a reason not to move your startup forward. The longer you stick with it, the more you'll learn, and the more likely you are to find a level of success that becomes attractive to a technical co-founder.
-
-<!-- ad-banner -->
 
 Whether you measure your startup's success by fundraising, revenue, or users, find a way to move your key metrics forward until your future CTO can't ignore you.
 

@@ -7,8 +7,6 @@ categories:
   - Entrepreneurship
 ---
 
-<!-- ad-banner -->
-
 When I joined my first startup almost ten years ago, most of the prevailing wisdom about startups said that you should be ready for an 80-hour per week grind. So, I made it my mission to work longer and harder than anyone else on the path to success.
 
 At that time, I didn't have a family, significant other, or many hobbies outside of work, plus I liked my job, so it was relatively easy to put in long hours and work weekends. While I did a lot of tasks in those early days, looking back, I realize that _I didn't actually accomplish much._
@@ -19,8 +17,6 @@ After working for three early-stage startups and [founding my own in 2020](https
 One of the challenging things about [joining a startup](/posts/working-at-startup) is that there are rarely "typical" work hours. Some startups expect employees to be in the office from 8 am to 8 pm every day and answer emails on the weekend, while others might allow complete flexibility with very little concern over hours worked.
 
 **While it's [a myth that every startup requires you to work overtime every week](https://www.karllhughes.com/posts/myths-working-engineer-startup), most startup employees put in 50-60 hours per week, and many founders put in 60-100 per week.**
-
-<!-- ad-banner -->
 
 The problem with long hours is that they're counterproductive:
 
@@ -78,8 +74,6 @@ The problem is that many founders get pressured into thinking short-term. Whethe
 ## Tips for Startup Founders
 At different stages of a company's life, different levels of commitment are required. But, no matter what you're working on, it's not productive to keep grinding away month after month without giving yourself a break.
 
-<!-- ad-banner -->
-
 Similarly, if you have employees, **you can't expect them to selflessly spend their lives working long hours and holidays just to help you fulfill your dream.** You _can_ push people to a certain point, but learning how to do so in a productive and worthwhile way is one of the best things you can learn if you want to retain your best employees.
 
 Here are four things I've learned about startup work hours and pacing as a founder:
@@ -106,8 +100,6 @@ _Note: I've added a few books on this topic in [my list of the best startup book
 
 ## Questions for Potential Startup Employees
 
-<!-- ad-banner -->
-
 While the bulk of an early-stage startup's culture is defined by the founders, employees and managers have a lot of influence on working hours and pacing too. If you're being hired by a startup and you're not sure about what the culture is like, here are some questions you can ask to get a better sense:
 
 ### 1. How Many Hours Per Week is Typical?
@@ -118,8 +110,6 @@ Again, with more companies going remote, many are also giving employees the opti
 
 ### 3. Do People Hang Out Outside of Work Much?
 I asked this question in interviews with startups because I wanted to know the dynamic of the team. There's no right answer here, and I've been with startups on both extremes. If you're young and early in your career, you might like hanging out with your coworkers at the bar after work. If you have a family and established friend group, you might prefer to clock out at 5 pm every day.
-
-<!-- ad-banner -->
 
 Working hours are an important part of deciding if you'll be a good fit at a startup. Some startups are built off the expectation that everyone should put in 60+ hours per week, but many aren't, so focus on the kinds of companies and culture you want to be part of.
 

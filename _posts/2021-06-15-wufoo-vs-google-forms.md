@@ -11,8 +11,6 @@ Web forms were already common when I first joined the workforce, so I can only i
 
 There are countless online forms that allow you to gather data, and each specializes in a different use case. Forms can be used for quizzes and polls, newsletter signups, event registrations, fundraising drives, and gathering feedback from customers. For businesses, they play a vital role in sales and marketing through lead generation, online ordering and payments, customer feedback, and sales contact. For both B2C and B2B, online forms provide a secure solution for collecting data essential to business operations.
 
-<!-- ad-banner -->
-
 ## Wufoo or Google Forms?
 
 Among the online form creation tools available, [Google Forms](https://www.google.com/forms/about/) is the most widely used mainly due to its availability and accessibility. You just need a Google account to use it for free, and creating a form here only takes a few minutes. However, [Google Forms has limitations in design customization, security, and function](/posts/google-forms-alternatives).
@@ -63,8 +61,6 @@ To maximize the benefits you can gain from your Wufoo account, sign up for one o
 
 The biggest downside of Wufoo is that it requires monthly or annual subscriptions to fully unlock all its features. But, it might be a worthwhile investment, considering the convenience it can bring you and your customers.
 
-<!-- ad-banner -->
-
 ## Google Forms
 
 ![Google forms home page](https://i.imgur.com/NSiIUVj.png)
@@ -106,8 +102,6 @@ Google Forms allows you to add as many collaborators as you want. You can build 
 Google Forms is a great online builder tool for basic use. However, it has a few limitations. For one, design customization is limited to changing the color palette and the background image. You can’t change fonts or the layout.
 
 There is also a limit to the amount of data you can collect. Google Forms only accepts texts up to 500kb and images up to 2MB. Spreadsheets are also limited to 256 cells or 40 sheets.
-
-<!-- ad-banner -->
 
 ## Choose the Right Form for Your Needs
 

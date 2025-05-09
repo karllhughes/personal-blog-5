@@ -116,8 +116,6 @@ With a drag-and-drop editor, 30 great templates, and deep data integration optio
 
 With a relatively high price point, Formstack definitely falls on the premium end of the alternatives to Google Forms. That said, you get what you pay for. They have a massive integration library, hundreds of templates, and lots of examples of forms built for different goals and industries.
 
-<!-- ad-banner -->
-
 ### [Appenate](https://www.appenate.com/)
 
 ![Appenate app builder and forms](https://i.imgur.com/PBb3h0l.png)

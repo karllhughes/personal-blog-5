@@ -14,8 +14,6 @@ starting point of all the advice I typically share with new coding bootcamp grad
 
 While I didn't attend a coding bootcamp myself, I am a self-taught software developer, so I can relate to the challenges that new graduates face. I've also hired a few bootcamp graduates and talked with countless others in job interviews and meetups, so I've gotten to know many bootcamp success stories over the years.
 
-<!-- ad-banner -->
-
 Here's what I've seen work:
 
 ## Before Graduation
@@ -47,8 +45,6 @@ Before you graduate, come up with a list of 10 or fewer companies you want to wo
 
 The best job openings go to internal recommendations before they even get published.
 
-<!-- ad-banner -->
-
 ## The Job Hunt
 
 The first job is the hardest. Plan on 3-6 months of searching, or 6-12 months if you're picky or can't devote 40+ hours/week to it.
@@ -73,11 +69,7 @@ Work on practice problems like [Project Euler](https://projecteuler.net/) (prono
 
 While I personally [dislike whiteboard interviews](https://www.karllhughes.com/posts/hiring-process), they're commonplace, so get used to them. You'll get better over time, but you do need to practice.
 
-You also might want to try a free course like _[A Beginner’s Guide to Open Source Software Development](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fbeginners%2Dguide%2Dopen%2Dsource%2Dsoftware%2Ddevelopment%2F&afftrack=)_ or a low-cost online course like _[The Cloud Engineer Bootcamp](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fcloud%2Dengineer%2Dbootcamp%2F&afftrack=)_ offered by the Linux Foundation.
-
-<a target="_blank" href="https://shareasale.com/r.cfm?b=1214291&amp;u=1653894&amp;m=59485&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/59485/TrainingAffiliateAds_728x90-Generic.png" border="0" /></a>
-
-Books are another great option. I personally like reading more than courses, and I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books).
+Books are another great option. I personally like reading more than courses, so I've collected [20 of my favorite books for software engineers here](/posts/software-engineering-books).
 
 ### 4. [Watch for Red Flags](https://www.themuse.com/advice/6-red-flags-to-avoid-when-applying-to-engineering-jobs)
 If you're desperate, you might have to take a job with a few of them. I've done it. You'll be fine. Just stay a year and keep an eye out for a new one.
@@ -85,8 +77,6 @@ If you're desperate, you might have to take a job with a few of them. I've done 
 Another way to catch red flags is through backdoor interviews.
 
 Reach out to someone who previously worked at the company and ask them what it's really like inside. You'll get some interesting intel most of the time.
-
-<!-- ad-banner -->
 
 ### 5. Keep Moving...Literally
 Staying in shape is a [long-term investment in yourself and your career](/posts/health-investment-success). I know it seems easy to take a pass on working out when you're job hunting, but don't. It'll help you keep your confidence up and give you a reason to wake up and shower every day.
@@ -101,8 +91,6 @@ Develop some expertise or a unique mashup of skills that makes you a niche probl
 No matter how senior you get, you can't coast in this industry.
 
 Early in your career, you need to spend time learning things that you don't have time to learn at work. I typically recommend 10-15 hours per week.
-
-<!-- ad-banner -->
 
 ### 3. Write
 You don't have to write anything profound, but the writing is [the best way to increase your career influence](https://www.karllhughes.com/posts/engineers-should-write).

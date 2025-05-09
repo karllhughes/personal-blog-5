@@ -16,8 +16,6 @@ On the other hand, I’ve had the pleasure of working with some fantastic entrep
 
 This reflection got me thinking about the subject of entrepreneurial leadership.
 
-<!-- ad-banner -->
-
 ## What is entrepreneurial leadership?
 
 **Entrepreneurial leadership is a leadership style based on inspiring people to achieve a common goal.** It is about giving your team a strong sense of purpose and instilling the passion to pursue it while giving them the confidence to take a certain amount of risk.

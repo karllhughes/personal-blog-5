@@ -12,8 +12,6 @@ In this post, I'll walk you through exactly how I use Trello for project managem
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F3qLERNbZy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- ad-banner -->
-
 ## Why Trello Makes a Great Project Management Tool
 
 Before I get into the *how*, let's take a step back and talk about why you might pick Trello for your next ongoing or short-term project.

@@ -11,8 +11,6 @@ Whether you’re starting a business, exploring a new product offering, or simpl
 
 In this article, I’ll take a look at two of the most popular form creation tools available online: [JotForm](https://www.jotform.com/pricing/?utm_source=karll-hughes&utm_campaign=jf1&utm_medium=blog) and [Wufoo](https://www.shareasale.com/r.cfm?b=1379130&u=1653894&m=89794). I’ll try to compare **JotForm vs. Wufoo** in terms of their features, use cases, and similarities.
 
-<!-- ad-banner -->
-
 ## The Importance of Online Forms for Businesses
 
 But businesses shouldn’t just slap on web forms on their sites willy-nilly, and they shouldn’t just go with whatever works. Your form’s design is a crucial component. It can help your business land a new lead, or it can cause you to lose a potential customer.

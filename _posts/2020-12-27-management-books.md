@@ -12,8 +12,6 @@ Being a good manager requires a wide range of skills that often take years to bu
 
 After almost a decade of managing marketing and software engineering teams at startups, I have gone through many ups and downs as a manager. While I still [wouldn’t call myself an expert on the topic](https://www.karllhughes.com/posts/experts), I have read a lot of good books in my journey to improve as a leader. In this article, I will share my top picks for management books, but I’d love to hear from you as well. [Shoot me an email](mailto:khughes.me@gmail.com) with your recommendations so I can add them to my list.
 
-<!-- ad-banner -->
-
 ## Case Studies
 
 These books include real-life stories told by various business managers and owners. These are dramatic case studies about the rise and fall of businesses and what the management team did right and wrong along the way.

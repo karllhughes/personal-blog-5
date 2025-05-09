@@ -13,8 +13,6 @@ Everyone in the city was enamored with this company. They were on the front page
 
 A few years later, the founders were indicted for defrauding investors based on deceptive sales practices. The once-prestigious startup was cut down to a shell of its former self, and the founders are now facing jail time.
 
-<!-- ad-banner -->
-
 ## Why Care About Startup Culture?
 This experience reminded me that culture isn't defined by the perks your startup offers, and **a toxic culture can kill your business**.
 
@@ -25,8 +23,6 @@ Culture is the difference between a sales force that lies to customers and one t
 After ten years as an [early employee](/posts/working-at-startup) ([and now founder](https://www.karllhughes.com/posts/cto-writer)) at several startups, I have some thoughts on what makes a good startup culture. In this post, I'll offer some tangible tips for founders who want to intentionally build their startup's culture. This won't be your typical cookie-cutter listicle, so brace yourself for a slightly unconventional perspective on company culture.
 
 _Note: If you're looking for more reading material to help you on your journey to create a healthy startup, [I created this list of my favorite books for founders](/posts/startup-books)._
-
-<!-- ad-banner -->
 
 ## What is Startup Culture?
 **Culture is the collection of the behavioral norms people within an organization exhibit.** Behaviors are a product of each person's values and the rules that are enforced, so I think of the culture equation as something like this:
@@ -48,8 +44,6 @@ This is a pretty standard way of thinking of culture, but there are some unique 
 The primary difference between startup culture and corporate culture is that **startup employees are united behind an idea**. In the early stages, every employee is a foot soldier in an ideological battle. Startup culture is the embodiment of the company's vision, the heartbeat of the company's ideology.
 
 On the other hand, corporate culture tends to be more aligned with the company's bottom line. When a startup tries to build a culture based purely on this sort of bottom-line thinking, it [can be a recipe for disaster](https://www.inc.com/robbie-abed/new-study-says-focusing-on-your-net-profit-could-actually-hurt-your-business-heres-why-what-to-do-instead.html). Startups that sell employees on their potential financial gain will struggle to retain them when things inevitably get tough.
-
-<!-- ad-banner -->
 
 ### Culture Can Change...Eventually
 The larger an organization is, the longer it takes to change its culture.
@@ -80,8 +74,6 @@ If you attack this problem early by manipulating these factors towards the cultu
 If you wait until your startup is 50-people strong to tinker, you're going to have a bad time.
 
 ![Trying to manipulate your culture at a large startup will just make you have a bad time](https://i.imgur.com/nYYaaHi.jpg)
-
-<!-- ad-banner -->
 
 ## Factors That Define Your Company Culture
 Ok, let's get a little more concrete here.
@@ -152,8 +144,6 @@ So, if you're looking to build a culture that encourages high-performers, you ne
 
 ![A wild goose appears!](https://i.imgur.com/3G989IG.jpg)
 
-<!-- ad-banner -->
-
 ### 4. Spending, Hiring, and Compensation
 Another telling factor in startup culture is how the company spends money.
 
@@ -202,8 +192,6 @@ Most startups adopt a hybrid (minimum hours + performance) system for rewarding 
 The last question I'd like to explore is whether it's worth trying to change your startup's culture at all?
 
 Some startups with very poor cultures have succeeded (read [Dan Lyons' book about working at Hubspot](https://amzn.to/36KqteK) for a case study), and some startups with great cultures have failed. I don't believe it's always a make-or-break issue...at least in the short term.
-
-<!-- ad-banner -->
 
 The other problem (which I've already discussed above) is that it's tough to actually change your culture without changing the people in your company. Can your startup really afford to turn over half its employees who don't fit with your new cultural paradigms? What if the source of your culture is you (the founder)? Are you going to leave to make the culture better?
 

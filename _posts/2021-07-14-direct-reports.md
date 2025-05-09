@@ -11,8 +11,6 @@ I remember the first time I was put in charge of a team at a startup. I had been
 
 It was scary and it stretched my comfort zone, but ultimately, learning to manage direct reports effectively was one of the most valuable skills I picked up early in my career.
 
-<!-- ad-banner -->
-
 ## What are Direct Reports?
 
 Direct reports refer to employees that report directly to someone above them in an organization’s hierarchy. This person can be a team leader, supervisor, or manager.

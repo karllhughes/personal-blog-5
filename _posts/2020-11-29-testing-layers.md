@@ -7,7 +7,6 @@ categories:
   - Archive
 ---
 
-<!-- ad-banner -->
 
 We made some [considerable improvements to the tech stack](http://www.thegraidenetwork.com/blog-all/2017/1/16/tech-accomplishments) at The Graide Network during my years at the company, but one of the things I'm most proud of is our automated testing system. In this post, **I'll outline our strategy for testing microservices using layers of unit, integration, acceptance, and end-to-end tests.**
 
@@ -62,7 +61,6 @@ Our testing strategy is broken down into several layers within each application 
 
 ![Software testing pyramid](https://i.imgur.com/Tyryn3G.png)
 
-<!-- ad-banner -->
 
 ### Layer 1: API tests
 
@@ -178,7 +176,6 @@ Unlike the other testing layers we use, the end-to-end tests actually run the wh
 
 On its own, no single testing layer is a good indicator of our application's health, but in concert, these testing layers help us ensure that our code is working every time we deploy it.
 
-<!-- ad-banner -->
 
 ## Mountebank: Another Approach to Testing Microservices
 Another tool that has come out since we devised the above testing strategy is [Mountebank](http://www.mbtest.org/). Mountebank is an open-source service virtualization framework that essentially mocks microservices across HTTP. This allows you to run tests on a single microservice as if all its supporting services were really there.

@@ -170,9 +170,6 @@ In some cases, for the company to grow, it needs a certain degree of freedom, kn
 
 “I agree that this is simultaneously a great screed on the inanity of most corporate management, and also a powerful indictment of the tendency of IT management to just go along, accepting a premise that is false and on most projects, is life-threatening.”
 
-
-<!-- ad-banner -->
-
 ### Next Up
 
 So what books should I put on my list? Let me hear your suggestions [on Twitter](https://twitter.com/karllhughes?lang=en) or [by email](mailto:khughes.me@gmail.com).

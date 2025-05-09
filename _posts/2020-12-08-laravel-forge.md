@@ -22,7 +22,6 @@ While Forge is great for the majority of Laravel PHP applications, you might fin
 
 Still, the simplicity of Forge makes it worth using - especially for side projects or small PHP applications that don't need specialized infrastructure. In this tutorial, you'll see how to use Laravel Forge to deploy a laravel application to your hosting provider of choice. I'll use [DigitalOcean](https://m.do.co/c/888fefc32a01), but the same steps will work with any major host that gives you SSH access.
 
-<!-- ad-banner -->
 
 ## Laravel Forge Pricing
 Because Forge works a little differently than a PaaS, the pricing model is different too. With Forge, you'll pay for your web host _plus_ Forge's provisioning software. While Forge plans start at just $12/month, your web hosting costs might be quite a bit higher depending on your needs.
@@ -48,7 +47,6 @@ You'll need three things to start using Forge:
 
 Forge will link to your DigitalOcean account and automatically provision a droplet for you, so you don't even need to set up your server on DigitalOcean - just enter your authentication details.
 
-<!-- ad-banner -->
 
 ### 2. Provision a New Server
 
@@ -94,7 +92,6 @@ Most likely, your Laravel project will require a `.env` file with environmental 
 
 You can also get more granular control over your Nginx configuration by clicking "Edit Files" -> "Edit Nginx Configuration" in the bottom right-hand side of the "Site Details" page.
 
-<!-- ad-banner -->
 
 ## Laravel Forge Features
 

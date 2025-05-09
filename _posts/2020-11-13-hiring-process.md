@@ -21,8 +21,6 @@ My approach is a little unconventional, but I hope it inspires you to think outs
 
 _Note: If you're looking for some books to help you on your journey as a software engineering manager, [here are some of my favorites](https://www.karllhughes.com/posts/reading-for-engineering-managers)._
 
-<!-- ad-banner -->
-
 ## The Problem with Hiring Software Engineers
 
 Any [engineering manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager) who's hired people in the past will tell you that it's hard. 
@@ -79,8 +77,6 @@ While I don't want unquestioning loyalty or people who live at the office, I do 
 
 ![Finding Software Engineers](https://i.imgur.com/bTlxNvy.jpg)
 
-<!-- ad-banner -->
-
 I've used several methods for finding and recruiting software engineers over the years. While I don't have a ton of data to back up these methods, here's what I've found works for me.
 
 ### Job Listings
@@ -126,8 +122,6 @@ Even if you do get a recruiter, you need to keep recruiting too. If your recruit
 ## How I Hire Software Engineers
 
 ![Software Engineering Hiring Process](https://i.imgur.com/X7YQXI4.jpg)
-
-<!-- ad-banner -->
 
 Now that you know what I'm looking for and how I start to find software engineering candidates, the next piece in the hiring process is the job interview. I've made adjustments to this process over the years, but at this point, I've landed on these five steps for hiring engineers.
 
@@ -198,8 +192,6 @@ It took me a long time to realize I needed a rubric for hiring.
 Instead, I looked for a candidate who knew a specific set of languages and frameworks, so I wouldn't have to teach them everything from day one. This led me to pass on several candidates who were excited about our mission but not perfectly aligned on technical skills.
 
 ![Hiring without a rubric](https://i.imgur.com/ifKE2JM.jpg)
-
-<!-- ad-banner -->
 
 While hiring software engineers is still challenging, having a robust process that focuses on the skills (both technical and non-technical) that you need makes it much better. Reflecting on what's worked in the past always helps me understand how I can make my process better in the future, so I'd like to hear from you.
 

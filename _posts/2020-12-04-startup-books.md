@@ -11,7 +11,6 @@ As a startup founder, you get pulled in a million different directions from the 
 
 Before I started [Draft.dev](http://draft.dev/) earlier this year, I spent almost a decade [working with startups](/posts/working-at-startup), reading, and preparing myself to run a business. I worked with some great people, met fantastic mentors, and read some outstanding books that gave me the confidence to go out on my own. In this post, I’ll give you my list of the best startup books available today.
 
-<!-- ad-banner -->
 
 ## Early-Stage Startups
 
@@ -201,8 +200,6 @@ The hard thing about “exiting” is that you can’t actually “practice” i
 It’s a process that might take years or even decades. Besides, there are many irreparable mistakes that a business owner can make, which makes the exiting process overwhelmingly complicated. This book opened my eyes in various ways, and I’m sure it will be helpful for you, too.
 
 “Every active entrepreneur should consider these thought experiments as they build and grow their businesses. For myself, I can tell this will be one of those books I see myself coming back to as I move from one growth stage of my business to another.”
-
-<!-- ad-banner -->
 
 
 ## Next On My List

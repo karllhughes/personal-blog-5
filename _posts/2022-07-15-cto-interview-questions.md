@@ -13,8 +13,6 @@ Your CTO might have to do everything from hop into the code to establish lead sp
 
 I was recently asked to help a startup interview a prospective CTO. Here are some of the questions I used during the interview process, and I hope they help you in your CTO hiring process. I’ve ordered these by topic so that you can jump to the ones that best suit your startup’s needs.
 
-<!-- ad-banner -->
-
 ## MVP Development
 
 For many startups, building a minimal viable product (MVP) is the first technical job to get done as soon as the logo’s been decided upon and the startup garage has been rented. And guess what? For many startups, building it isn’t going to get outsourced to Upwork. Use these questions to gauge your potential CTO’s readiness to get the job done.
@@ -85,8 +83,6 @@ While the above will provide you with a good sense for the potential hire’s ov
 These days cybersecurity is a concern for organizations both small and large. One of the key functionalities of a startup CTO is going to be around making sure that all internal systems are properly secured. Does the potential CTO have the required background in security to know what to look for?
 
 ![CTO candidates should know a substantial amount about security](https://i.imgur.com/zaAN5H5.jpg)
-
-<!-- ad-banner -->
 
 ### 7. What are some of the first things you would check when evaluating organizational security at a startup? 
 
@@ -289,5 +285,3 @@ Finally, the retention question. You can use this pointed question to learn a lo
 **[The Mythical Man-Month](https://amzn.to/3pWPMla):** If you want a little insight into what your CTO will be facing as they take on the role at your startup, this is one of my favorite books. You don’t have to be technical at all to see how software projects can go off the rails with the wrong leadership in place.
 
 **[The Phoenix Project](https://amzn.to/35ZHxNa):** This enjoyable piece of fiction also helps non-technical founders understand the dynamics of software project management. While your CTO will likely take on the role of leading these initiatives, you can be their backup if you know what direction they’re heading in.
-
-<!-- ad-banner -->

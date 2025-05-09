@@ -13,8 +13,6 @@ While your average small business owner might start and run a single business fo
 
 I’ve had the opportunity to work with a few serial entrepreneurs over the years. Many were customers or investors in companies I joined, so I got to know quite a bit about their motivations and drive. In this post, I’ll offer some perspective on the mind of a serial entrepreneur so you can see if running multiple businesses might be something in your future as well.
 
-<!-- ad-banner -->
-
 ## Why Do People Start Multiple Businesses?
 
 ![Entrepreneur and their team](https://i.imgur.com/a0tg91U.jpg)

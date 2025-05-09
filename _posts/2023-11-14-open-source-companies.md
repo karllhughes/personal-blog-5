@@ -21,8 +21,6 @@ With such a successful launch, you'd think that Diaspora could buy enough time t
 
 The social network eventually met a slow, tragic end with one of the founders committing suicide and another heading back to college. The remaining founders ran out of money and while the codebase is still [under active development](https://github.com/diaspora/), it runs as a non-profit that is largely supported by its contributors.
 
-<!-- ad-banner -->
-
 ## Why do People Write Open Source Software?
 > "People engage in creative endeavours because it satisfies some deep need within themselves to exercise creativity and solve problems often with little regard to the societal benefit." - [James Bottomley, Distinguished Engineer at IBM Research](https://opensource.org/node/1009)
 
@@ -55,8 +53,6 @@ A well-known example is [Automattic](https://automattic.com/), the parent compan
 4. Being open source helps offset their support and R&D costs as the community of contributors also contribute to these areas.
 
 ![Strapi is an example of an open source startup](https://i.imgur.com/JHhPOnz.png)
-
-<!-- ad-banner -->
 
 ### The Challenge of Monetizing Open Source Software
 Building a business around an open source project can be really hard. [Emily Omier](https://www.emilyomier.com/), who helps open source companies with positioning and commercial strategy, has built her business around helping open source companies address some of these challenges. She pointed out to me that the decision to make a project open source is not one that founders should take lightly:
@@ -138,8 +134,6 @@ If you're interested in building a profitable open source project and you want t
 
 - [How to Open Source](https://howtoopensource.dev/) - A great guide to getting started in open source software by long-time OSS contributor and maintainer, Richard Schneeman, who also runs [Code Triage](https://www.codetriage.com/). Check out both of these resources if you're new to open source and want to start taking it more seriously.
 - [For Fun and Profit: A History of the Free and Open Source Software Revolution](https://amzn.to/3buqGnd) - If you're looking to learn about the history of open source, Tozzi's book is a good starting point. It's brief and mostly objective.
-- [Fundamentals of Open Source Management](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Ffundamentals%2Dof%2Dprofessional%2Dopen%2Dsource%2Dmanagement%2F&afftrack=) - This free course gives you a business and legal overview of open source. Good for technical and non-technical open source project contributors.
-- [Introduction to Open Source Development, Git, and Linux](https://shareasale.com/r.cfm?b=734319&u=1653894&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Ftraining%2Fintroduction%2Dto%2Dopen%2Dsource%2Ddevelopment%2Dgit%2Dand%2Dlinux%2F&afftrack=) - More technical in nature, this course will show you some best practices for developing secure, scalable open source software. This course focuses on open source software, an introduction to Linux systems and the use of Git, the revision control system.
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.google.de/books/edition/Working_in_Public/EKeUzQEACAAJ?hl=en)
 - [Podcasts for Building Open Source Startups](https://www.crowd.dev/post/5-insightful-podcasts-for-building-open-source-devtool-startups)
 - [From Project to Profit: How to Build a Business Around Your Open Source Project](https://amzn.to/3MKtj7T)

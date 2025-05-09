@@ -214,9 +214,6 @@ Exiting your business provides new challenges that most CTOs never think about. 
 
 “Every active entrepreneur should consider these thought experiments as they build and grow their businesses. For myself, I can tell this will be one of those books I see myself coming back to as I move from one growth stage of my business to another.”
 
-<!-- ad-banner -->
-
-
 ## Next on My List
 
 The books above helped me grow from engineer to manager to CTO, but learning is a never-ending process. Here are a few of the books that I’m planning to read next in case you’re interested:

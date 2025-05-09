@@ -33,9 +33,6 @@ Features that I consider include:
 *   Customizable interface
 *   The company's track record on diversity, inclusion, and social impact
 
-
-<!-- ad-banner -->
-
 ## 6 Alternatives to Basecamp
 
 
@@ -137,9 +134,6 @@ Asana currently offers four pricing plans: Free, Premium at $10.99 per month, Bu
 ![Asana acts against racism](https://i.imgur.com/EfuMufl.png)
 
 As a progressive company, Asana also seeks to address the [diversity issues](https://www.theguardian.com/sustainable-business/2016/jun/06/silicon-valley-diversity-problem-tech-industry-solutions) that plague tech companies in Silicon Valley. The company also has an [anti-racism stand and is taking action](https://blog.asana.com/2020/09/diversity-inclusion-equity/#close) to broaden support for diversity, equity, and inclusion.
-
-
-<!-- ad-banner -->
 
 ## More Options
 

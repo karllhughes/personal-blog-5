@@ -37,8 +37,6 @@ Similarly, there is [Weblium, which offers some great templates](https://www.sha
 [Bubble](https://bubble.is/) shines when you are looking to add complex logic to a web application that you build with no code. For example, if you want user registration, social messaging, data manipulation, and integrations with other third-party APIs, Bubble is probably the way to go. While it’s [not the only option](https://www.karllhughes.com/posts/10-web-app-builders), it is definitely one of the most mature and feature-complete no-code application builders available.
 
 
-<!-- ad-banner -->
-
 ## Using Bubble for Your MVP
 
 Staying lean means carefully watching every penny you invest in your startup, so the first stop is to build an MVP (Minimum Viable Product). This version of your product will allow you to gather feedback, test the market, find funding, and adjust and update quickly. Creating an MVP can be costly if you need to hire a software engineer, and [low-cost outsourced options have their downsides](https://www.karllhughes.com/posts/risk-of-offshore-outsourcing).
@@ -46,8 +44,6 @@ Staying lean means carefully watching every penny you invest in your startup, so
 This is where tools like Bubble come in. With Bubble, non-technical people can create a professional application with no coding experience. Of course, as your MVP grows and moves into the full production stages, it may become necessary to hire on or contract with a developer to help create any additional functionality that the platform doesn’t offer.
 
 ### Bubble Pricing
-
-<!-- ad-banner -->
 
 With Bubble's pricing structure, you can't go wrong. Whether you're a small-scale operation or you have staff on hand to build your application, you will find a price point that works for you.
 
@@ -72,8 +68,6 @@ The Professional plans offer reserved servers, white labeling, daily run workflo
 **Professional Plan:** 20 GBs file storage, email support, last 30 days for data backup and restoration, and up to 2 editors for $129/month or $1,380 if paid annually.
 
 **Production Plan:** 50 GBs file storage, priority email support, last 365 days for data backup and restoration, and up to 15 editors for $529/month or $5,700 if paid annually.
-
-<!-- ad-banner -->
 
 Choosing to move to a Professional plan allows you to have multiple contributors assigned to a project. This collaborative aspect makes Bubble the go-to platform for an organization to optimize production since multiple people can simultaneously work on the app development.
 
@@ -107,9 +101,6 @@ Not to overemphasize the point, but building your web application in Bubble will
 Of course, you could skip learning to code and hire a developer. This can run you anywhere from $10k-$500k, depending on your project's complexity and the necessary integrations. What’s worse is that it will likely take between 3 and 9 months to develop a web app from scratch when you get a custom build. There’s just no way to shortcut this timeline.
 
 
-<!-- ad-banner -->
-
-
 If you use Bubble, - even at the Production plan level - you will save a significant amount of money and time in your first year. With that additional savings, you can devote more of your funds to creating a sales funnel, investing in [content marketing](http://draft.dev/), or hiring your first team member. If you find your app needs significant changes to gain market acceptance, you won't have to pay a developer every time you need to roll out a change, update, or new feature.
 
 Any successful startup founder will tell you that a product is flexible and changes over time. With the Bubble app builder, you make those changes in minutes without any additional cost. This gives you an edge over other competitors who are going to market at the same time because the ability to change quickly is crucial to early stage startups.
@@ -135,9 +126,6 @@ I’m not the only startup founder who recommends Bubble.
 Bubble has lined up several [showcase companies](https://bubble.io/showcase) who have used the Bubble app builder to create their products. Since its start in 2012, Bubble has grown to over 700,000 Bubblers, so there is an active community out there when you need support or advice.
 
 Because Bubble offers their entire platform for free, it makes sense for many early-stage startups to use it to create an MVP. This can help you keep costs down while the app is being tested in the market, creating data for the product’s viability, and creating customer use cases to further develop your product.
-
-
-<!-- ad-banner -->
 
 ## Getting Started with the Bubble App Builder
 

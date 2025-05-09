@@ -35,8 +35,6 @@ Unit tests are probably the most widely talked about form of automated test, but
 
 If you're interested in specific examples of testing patterns, I've written about [API testing](/posts/api-strat-2017-presentation) and [microservice testing](/posts/testing-layers) in the past. Those posts should be an excellent place to turn next if you want examples you can apply to your application.
 
-<!-- ad-banner -->
-
 ## Why Software Testing is Important
 
 The business problem with testing is that it's not immediately apparent that you need them.
@@ -46,8 +44,6 @@ The business problem with testing is that it's not immediately apparent that you
 The diagram below illustrates this point. Initially, the cost of writing no tests or manually testing your code is much lower than writing automated tests. This is because setting up an automated test suite, and getting developers familiar with a test-driven workflow will take some time.
 
 ![The cost of automated software tests over time](/assets/img/cost-of-tests-over-time.png)
-
-<!-- ad-banner -->
 
 Eventually though, maintaining code without tests will lead to costly production bugs, and a manual testing strategy scales linearly (as you add more code, testers must spend more time doing tests). So in the long-run, automated tests make maintaining your code cheaper.
 
