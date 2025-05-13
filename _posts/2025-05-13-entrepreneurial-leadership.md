@@ -2,21 +2,26 @@
 layout: post
 title: "Entrepreneurial Leadership: Inspiring, Aligning, and Managing Your Team"
 img: /assets/img/entrepreneurial-leadership.png
-date: 2021-10-07
+date: 2025-05-13
 categories:
   - Entrepreneurship
   - Leadership
 ---
 
-I was having a conversation with a friend recently and she told me about her boss, the founder of the small company she works at. Her department’s been struggling a lot in the past few months, but instead of rolling up his sleeves to offering to help them get through it, his reply was, "I’m sorry you’re going through that."
+You might think that leadership is synonymous with entrepreneurship, but I find that a lot of very good early-stage entrepreneurs aren't actually very good leaders.
 
-While you can’t be involved in every bit of day-to-day work as an entrepreneur, you do have to make sure your team knows you’re on their side. Sometimes that means moving resources around so they get the support they need and sometimes it just means offering a listening ear.
+Often, the skills that make someone good at starting a company (hard work, wide range of skills, opportunistic insights), aren't necessarily the skills that a business needs to grow to 10, 20, 100, or 1000 employees.
 
-On the other hand, I’ve had the pleasure of working with some fantastic entrepreneurs in the past. The ones I admire the most are supportive, transparent, and downright inspiring to work for.
+Similarly, every type of business and team requires a different style of leadership. The entrepreneurs I've most enjoyed working for are supportive, transparent, and inspiring, but some people need more direct guidance and domineering oversight.
 
-This reflection got me thinking about the subject of entrepreneurial leadership.
+Reflecting on what I've learned as an entrepreneur who employs dozens of people and as an employee in the past, I thought I'd put together my thoughts on entrepreneurial leadership and how entrepreneurs can develop themselves, their people, and their businesses by becoming better leaders.
 
-## What is entrepreneurial leadership?
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkO32a2XZ70?si=jd8x0t9CwfIp5HLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Check out my podcast episode with Patty Campagna of [Leading Teams](https://leadingteamsinc.com/) for [Retained Trust](https://www.retainedtrust.com/ep29-leading-growing-with-trust-with-patty-campagna/) to hear more about entrepreneurial leadership._
+
+## What is Entrepreneurial Leadership?
 
 **Entrepreneurial leadership is a leadership style based on inspiring people to achieve a common goal.** It is about giving your team a strong sense of purpose and instilling the passion to pursue it while giving them the confidence to take a certain amount of risk.
 
