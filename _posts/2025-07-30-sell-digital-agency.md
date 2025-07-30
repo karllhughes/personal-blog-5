@@ -2,7 +2,7 @@
 layout: post
 title: "How to Sell Your Digital Marketing Agency"
 image: /assets/img/sell-agency.png
-date: 2025-04-06
+date: 2025-07-30
 categories:
   - Entrepreneurship
 ---
@@ -12,6 +12,11 @@ In 2022, I started the process to [acquire a second digital agency](https://www.
 So, I built a wishlist and started reaching out to digital marketing agencies that I thought would be a good fit. Within a few weeks, I was having regular calls with owners who wanted to sell their businesses, and I started getting a look "under the hood" at a few of these companies.
 
 After the first acquisition, I took about a year to focus on learning and stabilizing that business before I started the hunt for my third. So, while my personal experience comes from buying digital marketing agencies, I've also gotten to speak with dozens of entrepreneurs who have sold their agencies for [my podcast](https://retainedtrust.com/) and in my acquisition research.
+
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wH1GCb7pdI?si=6StFKlK17TEYi4sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Check out my episode of [Retained Trust](https://www.retainedtrust.com/ep40-how-to-exit-your-agency-the-smart-way/) to hear more about my perspective on selling your digital marketing agency._
 
 In this post, I'd like to share a summary of how digital agency acquisitions typically work. If you're an owner who'd like to sell your digital marketing agency or other digital service business, then this is going to be a highly transparent look at how the process works from valuation all the way to closing.
 
