@@ -13,6 +13,8 @@ I was the first engineer at CTO at a couple of early-stage tech startups, so one
 
 In this post, I'll share some of the best web application builders I've seen for non-technical founders to build MVPs and POCs. Some of these are AI-based coding tools while others are more traditional "no-code" builders. Let's dive in!
 
+<!-- ad-banner -->
+
 ## 1. [Cursor](https://cursor.com/en)
 
 Cursor is an AI-powered code editor that’s particularly well-suited for non-technical founders building relatively straightforward web apps. Built on top of [VS Code](https://code.visualstudio.com/) and integrated tightly with GPT-4, Cursor lets you write prompts like “create a user login page” or “add Stripe payments” and receive working code snippets, suggestions, or even entire files.
@@ -59,24 +61,24 @@ The big drawback is that because it’s a relatively new platform, Lovable doesn
 
 Zoho Creator is primarily for internal tools, so if you're building something with a small userbase and intensive data requirements, this might be the right option for you. Their drag-and-drop web application builder features pre-built apps such as "Time Tracker", "Project Tracker", "Appointment Management", "Contacts", and more. Plus, it integrates with the Google Suite, QuickBooks, PayPal, and many other popular applications.
 
-### 8. [Thunkable](https://thunkable.com/)
+## 8. [Thunkable](https://thunkable.com/)
 
 Thunkable is a drag-and-drop builder cross-platform mobile and web apps without writing code. It’s particularly well-suited for non-technical founders as it targets both iOS and Android with a single app build. Thunkable supports API integrations, animations, logic flows, and even features like camera access and push notifications. The platform includes a free plan for basic prototyping, while paid plans start at $15/month, scaling up with additional publishing options and support.
 
 Thunkable offers a lot of flexibility, but building complex logic-heavy apps still requires a bit of a learning curve, and performance can be a concern in large-scale applications. Still, it’s a great option for mobile-first MVPs or proof-of-concepts.
 
-### 9. [Softr](https://www.goodbarber.com/)
+## 9. [Softr](https://www.goodbarber.com/)
 
 Softr is a no-code platform that allows you to build full-featured web apps, client portals, and internal tools directly from Airtable or Google Sheets. As a heavy [Airtable](https://airtable.com/invite/r/4EaSmQNr) user myself, I love Softr because it gives you a good looking frontend for even the biggest, most complex Airtable backends.
 
 Softr includes features like user authentication, gated content, search functionality, and integrations with tools like Zapier and Stripe. The pre-built templates for marketplaces, directories, job boards, and dashboards make Softr ideal for non-technical founders looking to quickly launch a marketplace site. Like many no-code platforms, it’s limited in terms of backend customization and complex workflows, but it strikes a great balance between speed, flexibility, and ease of use.
 
-### 10. [Glide](https://www.glideapps.com/)
+## 10. [Glide](https://www.glideapps.com/)
 
 Finally, Glide lets you turn Google Sheets or Excel files into powerful mobile and web apps without writing any code. It’s especially useful for building internal tools, CRMs, inventory trackers, or lightweight client portals, and offers a well-designed interface with built-in components for forms, calendars, and charts. 
 
 The free plan allows for basic apps with limited rows of data, while paid plans start at $60/month for more advanced features, integrations, and custom domains. Scalability is probably your biggest limitation. Glide apps are best suited for simpler use cases or internal-facing tools rather than full-scale public SaaS products. Still, its ease of use and spreadsheet-based logic make it incredibly accessible for non-technical founders.
 
-### Conclusion
+## Conclusion
 
 The ecosystem of web and mobile app builders for non-technical founders is growing every day, so while this list includes my favorites in 2025, I'm sure I'll have to come back to this post to update it often. If you have a favorite that I should check out, [tell me about it](mailto:khughes.me@gmail.com), so I can keep this list up-to-date with all the latest options!
