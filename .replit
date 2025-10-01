@@ -22,3 +22,6 @@ requiredFiles = [".replit", "replit.nix", "README.md"]
 [[ports]]
 localPort = 4000
 externalPort = 80
+
+[agent]
+expertMode = true

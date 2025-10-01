@@ -7,7 +7,7 @@ categories:
   - Archive
 ---
 
-When I took my first real management role as [Packback's Head of Engineering back in 2015](/posts/packback-engineering), I inherited a great team of engineers who were hired before my promotion. Later that year, when the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding new software engineers.
+When I took my first real management role as [Packback's Head of Engineering back in 2015](/posts/packback-engineering), I inherited a team of engineers who were hired before my promotion. Later that year, when the time came for me to do some of my own hiring, I had to quickly adopt a process for finding and onboarding new software engineers.
 
 I started with the framework my predecessor used and brought in some heavy influences from _[Peopleware](/posts/peopleware)_ and Josh Tyler's _[Building Great Software Engineering Teams](http://amzn.to/1XQAfT7)_. Over the years, I've refined my hiring process - mostly through trial and error - to come up with the iteration described here.
 
@@ -129,7 +129,7 @@ Now that you know what I'm looking for and how I start to find software engineer
 
 Instead of setting up "phone screenings," I treat our first call as a two-way [informational interview](https://en.wikipedia.org/wiki/Informational_interview).
 
-The candidate needs to know if we'd work well together, and I need to know if they've got the four skills I listed above. I don't try to suss out deep technical knowledge, but if there's something in their work history or resume that stands out, I'll ask about it. I end the call by selling them on the role and seeing how interested they might be in the job.
+The candidate needs to know if we'd work well together, and I need to know if they've got the four skills I listed above. I don't try to suss out deep technical knowledge, but if there's something in their work history or resume that stands out (there are some good [resume samples](https://www.harmontau.com.au/resume-writing-services-perth/) here), I'll ask about it. I end the call by selling them on the role and seeing how interested they might be in the job.
 
 ### Step 2: An In-Person Pairing Project
 
