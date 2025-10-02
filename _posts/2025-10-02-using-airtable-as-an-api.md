@@ -7,7 +7,13 @@ categories:
   - Tools
 ---
 
-I've been using [Airtable](https://airtable.com/invite/r/4EaSmQNr) for almost everything that I used to pack into spreadsheets for the past several years. The big advantage to using Airtable (and by extension, the Airtable API) is that they have an excellent visual user interface and integrations with many other tools built in. Plus, you can use Zapier to trigger custom actions when new items show up in Airtable.
+As an agency owner, I spend a lot of time tracking projects, finances, job applications, and content. For almost all of these use cases, spreadsheets could work, but for the past several years, I've moved the majority of my workflows like this to [Airtable](https://airtable.com/invite/r/4EaSmQNr).
+
+The big advantage to using Airtable (and by extension, the Airtable API) is that it has an excellent visual user interface and integrations with many other tools built in. Plus, you can use Zapier to trigger custom actions when new items show up in Airtable.
+
+If you haven't tried the Airtable API yet, you're in for a treat. Airtable having such a simple and intuitive API means all the data you store there instantly has the ability to programmatically interact with all your other tools and services. This opens you up to limitless possibilities for triggering automations or even building an entire website with Airtable as your back end.
+
+In this post, I'll walk you through some of the pros and cons and share a quick tutorial for getting started with the Airtable API.
 
 ## Airtable API Pros
 Some of the advantages to using Airtable's [no-code API](/posts/api-development) include:
