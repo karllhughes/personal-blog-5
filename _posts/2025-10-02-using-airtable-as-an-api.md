@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using the Airtable API"
-img: "assets/airtable-api.png"
+img: "/assets/airtable-api.png"
 date: 2025-10-02
 categories:
   - Tools
