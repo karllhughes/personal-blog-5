@@ -1,32 +1,38 @@
 ---
 layout: post
 title: "Startup Working Hours: Burnout, Pacing, and Hustle Culture"
-date: 2020-12-16
+date: 2025-10-27
 img: /assets/img/startup-working-hours.png
 categories:
   - Entrepreneurship
 ---
 
-When I joined my first startup almost ten years ago, most of the prevailing wisdom about startups said that you should be ready for an 80-hour per week grind. So, I made it my mission to work longer and harder than anyone else on the path to success.
+When I joined my first startup 15 years ago, the prevailing wisdom said that you should be ready for an 80-hour per week grind.
 
-At that time, I didn't have a family, significant other, or many hobbies outside of work, plus I liked my job, so it was relatively easy to put in long hours and work weekends. While I did a lot of tasks in those early days, looking back, I realize that _I didn't actually accomplish much._
+And now, in 2025, the talk around startups is all about the [9-9-6 work week (ie: the 80-hour per week grind)](https://www.wired.com/story/silicon-valley-china-996-work-schedule/).
 
-After working for three early-stage startups and [founding my own in 2020](https://www.karllhughes.com/posts/cto-writer), I've talked to countless founders about startup hours, pacing, burnout, and hustling. I've since seen a lot of founders fall into the trap of working more hours instead of working smarter, so in this post, I'll give you my perspective on why this happens. Finally, I'll share a few things that I've learned about maintaining balance in a startup from both an employee's and founder's perspective.
+The more things change, the more things stay the same.
+
+Anyway, back when I joined my first startup, I was right out of college. I didn't have a family, significant other, or hobbies outside of work. I liked my job, plus I didn't have a mature personal network or any understanding of leverage,  so it was relatively easy to put in long hours and work weekends. While I certainly did a lot of tasks and learned a lot of skills in those early days, looking back, I realize that _I didn't actually accomplish much._
+
+After working for three early-stage startups, [founding my own in 2020](https://www.karllhughes.com/posts/cto-writer), and [buying a second company](https://www.karllhughes.com/posts/acquiring-tpc) in 2022, I've talked to countless founders about startup hours, pacing, burnout, and hustling, and honestly, they almost all make the same shortsighted tradeoffs as I did.
+
+While hard work is inevitable in entrepreneurial ventures, it's not always the shortest path to success. In fact, it often leads to distracting side effects (broken personal relationships, anxiety, health issues) that detract from your ability to do hard things in the long-run. In this post, I'll share more about the limitations to working more hours and some of the things I've learned about maintaining balance in a startup from both an employee's and founder's perspective.
 
 ## "Typical" Startup Hours
 One of the challenging things about [joining a startup](/posts/working-at-startup) is that there are rarely "typical" work hours. Some startups expect employees to be in the office from 8 am to 8 pm every day and answer emails on the weekend, while others might allow complete flexibility with very little concern over hours worked.
 
 **While it's [a myth that every startup requires you to work overtime every week](https://www.karllhughes.com/posts/myths-working-engineer-startup), most startup employees put in 50-60 hours per week, and many founders put in 60-100 per week.**
 
-The problem with long hours is that they're counterproductive:
+But, the problem with long hours is that they're counterproductive:
 
 > "John Pencavel found that productivity per hour declines sharply when a person works more than 50 hours a week. After 55 hours, productivity drops so much that putting in any more hours would be pointless. And, those who work up to 70 hours a week are only getting the same amount of work done as those who put in the 55 hours." - [CNBC Report on Standford Productivity Study](https://www.cnbc.com/2019/03/20/stanford-study-longer-hours-doesnt-make-you-more-productive-heres-how-to-get-more-done-by-doing-less.html)
 
 [<img src="https://i.imgur.com/Vn2qohv.jpg" style="width: 240px; float: right; margin-left: 10px;" alt="Bored and Brilliant book cover" />](https://amzn.to/2WjbkL5)
 
-Your body ultimately needs sleep, food, relaxation, and [_even boredom_](https://www.gq.com/story/how-and-why-you-should-be-bored) to function properly. This is especially true for those of us who do [high-concentration, creative work](https://www.wired.com/story/eight-hour-workday-is-a-lie/) (like writing, programming, and strategic thinking).
+Your body needs sleep, food, relaxation, and [_even boredom_](https://www.gq.com/story/how-and-why-you-should-be-bored) to function properly. This is especially true for those of us who do [high-concentration, creative work](https://www.wired.com/story/eight-hour-workday-is-a-lie/) (like writing, programming, and strategic thinking).
 
-One of my favorite reads in 2019 was _[Bored and Brilliant](https://amzn.to/2WjbkL5)_ because it reminded me of the need to put down my phone and just think every once in a while. Regular introspection leads to clarity, focus, and prioritization that is extremely valuable as a startup founder.
+A few years back, I ran across _[Bored and Brilliant](https://amzn.to/2WjbkL5)_, and it led me down the path of examining my own perceived productivity. It reminded me of the need to put down my phone and just *think* every once in a while. Regular introspection leads to clarity, focus, and prioritization that is extremely valuable as a startup founder.
 
 _Looking for more good startup books? I've listed [a few dozen of my favorites here](/posts/startup-books)._
 
@@ -42,10 +48,12 @@ There are four factors I see at play in defining startup working hours:
 
 You might think of startup founders as original, free-thinking, creative people, but most of them are just as vulnerable to peer pressure and cultural norms as any of us. So, when high-profile startup founders report that they [slept at the office](https://www.businessinsider.com/elon-musk-sleeps-under-desk-as-tesla-faces-model-3-production-goals-2018-6), other founders see this as a template for success. Some even [lie about the number of hours they work](https://hbr.org/2015/04/why-some-men-pretend-to-work-80-hour-weeks) because of the cultural pressure to put in more time.
 
-### 2. Work-Life Separation is Dwindling
-It's even harder to "unplug" from work when your office is six feet away from your bedroom, and your phone goes to bed with you at night. Now that more companies are going remote, employees [are working longer hours](https://www.cbsnews.com/news/covid-19-lockdown-work-from-home-day-one-hour-longer/) and having more meetings in what would be off-hours.
+The pursuit of press coverage and venture capital just raises the profile of these myths, giving outsiders the impression that these founders must be truly special. Remember, it's a lot of hype, and that hype begets more hype, so while startup employees can claim they work an ever-increasing number of hours, it's impossible to verify those claims or failry evaluate their output from the outside.
 
-The problem is even more pronounced for startup founders. They are often betting their financial future on their new business or so wildly passionate about the problem they solve that it's next to impossible to "turn it off."
+### 2. Work-Life Separation is Dwindling
+It's even harder to "unplug" from work when your office is six feet away from your bedroom, and your phone goes to bed with you at night. Now that more companies are remote than ever, employees [are working longer hours](https://thehill.com/business/4110598-remote-employees-work-longer-and-harder-studies-show/) and having more meetings in what would be off-hours.
+
+The problem is even more pronounced for startups. Founders are often betting their financial future on their new business or so wildly passionate about the problem they solve that it's next to impossible to "turn it off."
 
 ### 3. External Pressure
 Building a business requires making promises to a lot of people. As a founder, you're telling employees that they'll have a job, you're telling customers that you'll deliver value, and you're promising your family that all this sacrifice will be worth it someday. These pressures are amplified when startups raise money because venture-funded startups have a board who might watch the founders closely to make sure they're working as hard as possible to get them the return they expect.
@@ -57,9 +65,7 @@ This might be controversial, but I believe that part of the reason startups tout
 
 When you require everyone in your company to work 60+ hour weeks, you exclude people who have a family at home, kids they need to pick up from school, or mental health issues. This disproportionately hurts minorities, single parents, older workers, and [women](https://www.telegraph.co.uk/news/2016/06/16/working-long-hours-harms-women-but-protects-men-study-shows/), and it's part of the reason we see fewer underrepresented groups in startups.
 
-This isn't always the case though. I remember meeting a CTO at another startup early in my career who quit work at 3 pm every day to pick up his kids. This [set a culture at the company](/posts/startup-culture), which was totally different from my experience.
-
-![Long hours is a form of gatekeeping](https://i.imgur.com/ApmhcQ1.png)
+This isn't always the case though. I remember meeting a CTO at another startup early in my career who quit work at 3 pm every day to pick up his kids. This [set a culture at the company](/posts/startup-culture), which was totally different from my personal experiences.
 
 ## You Need Appropriate Pacing
 
@@ -113,4 +119,4 @@ I asked this question in interviews with startups because I wanted to know the d
 
 Working hours are an important part of deciding if you'll be a good fit at a startup. Some startups are built off the expectation that everyone should put in 60+ hours per week, but many aren't, so focus on the kinds of companies and culture you want to be part of.
 
-_This post was first published in 2014 but was updated thanks to 6 more years of startup experience in 2020._
+_This post was first published in 2014, but has been heavily updated multiple times as I've gained more experience and new research has come out._
