@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Startup Working Hours: Burnout, Pacing, and Hustle Culture"
-date: 2025-10-27
+date: 2025-10-29
 img: /assets/img/startup-working-hours.png
 categories:
   - Entrepreneurship
