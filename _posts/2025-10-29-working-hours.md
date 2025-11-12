@@ -60,8 +60,6 @@ Building a business requires making promises to a lot of people. As a founder, y
 
 Once these external pressures are internalized, companies tend to build a culture that encourages long hours. Managers then reward employees who put in the most time, and employees come to expect these working conditions. You can see this vicious cycle most prominently in [law and consulting](https://abovethelaw.com/2019/12/the-biglaw-firm-where-associates-are-putting-in-the-most-working-hours/) where billable hours are a badge of honor.
 
-For these consultants, pressure to track every hour and maximize their efficiency is essential to ensuring projects stay on budget, and it's why there are so many [time tracking tools tailored for consulting teams](https://toggl.com/blog/best-time-tracking-apps-for-consultants).
-
 ### 4. Gatekeeping
 This might be controversial, but I believe that part of the reason startups tout their commitments to long hours is as a form of gatekeeping.
 
