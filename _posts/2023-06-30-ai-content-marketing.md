@@ -7,7 +7,7 @@ categories:
   - Growth
 ---
 
-You can't spend 10 minutes on the internet without hearing about AI, and yes, I realize that this newsletter is now part of the problem. 🤦‍♂️
+You can't spend 10 minutes on the internet without hearing about AI, and yes, I realize that this blog post is now part of the problem. 🤦‍♂️
 
 That said, people keep asking me what it's going to do for content marketing. Being that I own two marketing agencies now, it's something that I'm thinking about a lot, so I figured I would go ahead and share some of my thoughts here.
 
@@ -19,7 +19,7 @@ This year, the writing landscape is undergoing a significant transformation. Che
 These AI-enabled tools are geared towards making the writing process more efficient and accessible, offering a new avenue for how we create and share ideas.
 
 ## Easier to Create More, Dynamic Content
-The ease and accessibility of content creation (not just writing) will lead to a surge of new content creators. It will be easier to produce high-quality content, and Subject Matter Experts (SMEs) will be in a position to write and create more.
+The ease and accessibility of content creation (not just writing) will lead to a surge of new content creators. It will be easier to [produce high-quality content](https://undetectable.ai/ai-seo-writer), and Subject Matter Experts (SMEs) will be in a position to write and create more.
 
 I think this will only feed the trend towards specialization among marketing agencies. Nobody goes to their local marketing agency just because it's local anymore; they go to the agency that knows their niche best.
 
@@ -28,13 +28,17 @@ We'll also see more marketing content that's customized for each individual pros
 Finally, advancements in audio and video technology will continue to lessen the workload for creators. Tools like Descript are making audio and video editing much less tedious, and while they're not a replacement for highly-skilled audio editors, they allow less experienced SMEs to do a first pass quickly.
 
 ## SEO Will Change, Not Disappear
-The development of AI writing tools *does not* spell the end of Search Engine Optimization (SEO), but it will certainly change if search engines move to chat-style interfaces. We'll see search engines adopt increasingly customized results for each searcher, and combining multiple sources to offer even better results.
+The development of AI writing tools *does not* spell the end of Search Engine Optimization (SEO), but it will certainly change if users continue to adopt chat-style interfaces. We'll see search engines adopt increasingly customized results for each searcher, and combining multiple sources to offer even better results.
 
-The kicker is that AI and search engines both need high-quality, original source material to "learn" from. So, they'll have to find ways to reward the best creators. I have a feeling, the algorithms to detect unoriginal or AI-generated content will get better and reward deep subject matter expertise over content volume.
+The kicker is that AI and search engines both need high-quality, original source material to "learn" from. So, they'll have to find ways to reward the best creators. I have a feeling, the algorithms to detect unoriginal or AI-generated content will get better and reward deep subject matter expertise over content volume alone.
+
+*2025 Update: looks like [AEO or GEO are the new terms for optimizing for LLMs](https://draft.dev/learn/aeo-geo-for-dev-tools), but as I pointed out here in 2023, SEO isn't dead, it's just evolved.*
 
 ## There Will Be a Premium on the Most Original Content
-Finally, a premium will be placed on the most original content.
+Finally, a premium will be placed on original concepts and distribution.
 
-AI is great for assisting content creators, but it still needs good source material to work. Unlike humans, AI doesn't "discover" or "invent" or have "personal experience." Content based on real-world experience and human research will become increasingly valuable. Case studies, data, and observations gleaned from deep technical knowledge will become the bedrock of original content, creating a crucial differentiating factor in a sea of AI-generated material.
+AI is great for assisting content creators, but it still needs good source material and distribution channels to work.
 
-What do you think? Let me hear your predictions on [Twitter](https://twitter.com/karllhughes).
+Unlike humans, AI doesn't "discover" or "invent" or have "personal experience." Content based on real-world experience and human research will become increasingly valuable. Case studies, data, and observations gleaned from deep technical knowledge will become the bedrock of original content, creating a crucial differentiating factor in a sea of AI-generated material.
+
+What do you think? Let me hear your predictions on [Linkedin](https://www.linkedin.com/in/karllhughes/).
