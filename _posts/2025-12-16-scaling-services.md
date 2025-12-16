@@ -1,30 +1,33 @@
 ---
 layout: post
-title: "How I'm Scaling My Service Business"
-date: 2021-03-24
+title: "How I'm Scaling My Productized Service Business"
+date: 2025-12-16
 img: /assets/img/scaling-services.png
 categories:
   - Entrepreneurship
   - Growth
 ---
 
-When I left my job to [start Draft.dev last year](https://www.karllhughes.com/posts/cto-writer), I knew there were pros and cons to starting a service business. Unlike the venture funded startups I had been with before, Draft.dev required no outside investment, and it was profitable from the first month. The tradeoff - as any service business owner can tell you - is that **scaling a service business is notoriously hard.**
+When I left my job to [start Draft.dev a few years ago](https://www.karllhughes.com/posts/cto-writer), I knew there were pros and cons to starting a service business. Unlike the venture funded startups I had been with before, Draft.dev required no outside investment, and it was profitable from the first month.
+
+The tradeoff - as any service business owner can tell you - is that **scaling a service business is notoriously hard.**
+
+I've now scaled Draft.dev to multiple millions in revenue and since acquired [The Podcast Consultant](https://thepodcastconsultant.com/) to begin scaling it as well. These experiences were both a direct result of productizing our offerings, so I wanted to share a bit more about what productized services are and why more service businesses should take note.
 
 ## The Middle Ground: "Productized" Services
-An approach that appealed to me from the moment I first heard about it is [the productized service](https://productizeandscale.com/what-is-productized-service/):
 
 > "A productized service is one that runs systematically and continues to produce and grow with or without your direct involvement." - Brian Casel
 
 In an ideal productized service, every process and role is so well-defined that the founder doesn't need to be involved in _any_ of the day-to-day work. This is in stark contrast to models like [hourly consulting](https://www.karllhughes.com/posts/startup-consulting) where you trade time for money. Productizing a service is hard to pull off, but if you can do it, it makes your company more valuable and less dependent on you.
 
-After hearing [Tristan King's story on Tropical MBA](https://www.tropicalmba.com/shopifyninjas/) and more recently [Andrew Pierno's on Indie Hackers](https://www.indiehackers.com/post/0-10k-mrr-in-3-5-months-a-step-by-step-guide-on-exactly-what-i-did-1f3ce44511), I decided I would chime in with my approach. In this blog post, I'll outline the exact process I have used to productize my content writing service, [Draft.dev](https://draft.dev). I'll share some specific examples of each step and where the challenges lie in implementing them.
+After hearing [Tristan King's story on Tropical MBA](https://www.tropicalmba.com/shopifyninjas/) and [Andrew Pierno's on Indie Hackers](https://www.indiehackers.com/post/0-10k-mrr-in-3-5-months-a-step-by-step-guide-on-exactly-what-i-did-1f3ce44511), I decided I would chime in with my approach.
 
-Even with these steps in mind though, [starting a new business is really hard](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). In the past year, I've had some of the highest highs and lowest lows in my professional career, but I can't imagine trading it for another day job anytime soon.
+Even with these steps in mind though, [starting a new business is really hard](https://www.karllhughes.com/posts/creating-a-tech-startup-without-a-developer). In the past few years, I've had some of the highest highs and lowest lows in my professional career, but I can't imagine trading it for another day job anytime soon.
 
 ## How to Scale a Service Business
-When I started Draft.dev last year, it was essentially just me working as a freelance technical writer. Within 9 months, we have a team of nearly 50 writers, a full-time editor, a great marketing associate, and a handful of other freelancers helping with specialized tasks.
+Within 9 months of starting Draft.dev, we built a team of nearly 50 writers, a full-time editor, a marketing associate, and a handful of other freelancers helping with specialized tasks.
 
-My wife jokes that I like delegating too much, but the truth is **that's what separates entrepreneurs from freelancers**. Delegating isn't magic though - it's a lot of work. Here's how I have approached it in my service business:
+My wife jokes that I like delegating too much, but the truth is **that's what separates entrepreneurs from freelancers**. Delegating isn't magic though - it's a lot of work. Here's how I have approached it in my service businesses:
 
 ### 1. Niche Down
 When I first started the business, I took just about any client that wanted help with their engineering blog or technical copywriting. I knew I wanted to do something at the intersection of software engineering and writing, but I wasn't yet sure where the profitable, scalable niche was in this area.
@@ -105,4 +108,6 @@ Once you get the basic process down, you realize that **scaling a service busine
 
 If you like the idea of systematizing your business, read [The E-Myth Revisited](https://amzn.to/38fFbKL). This is the book I recommend the most to entrepreneurs who are struggling to get out of the day-to-day execution work in their business, and it's the primary inspiration for my process above.
 
-Finally, I've created [this list of must-read books for startup founders](https://www.karllhughes.com/posts/startup-books). These include some of the most impactful reads for me as I started my business, so I hope they help you turn your idea into reality too. 
+Service businesses that are productized like this are also much easier to sell. Check out [Built to Sell](https://amzn.to/4pHHfkE) if you'd like more on that topic or [my post on selling your business](https://www.karllhughes.com/posts/sell-digital-agency). There are lots of specialized resources as well that focus on various industries and business types. For example, if you want to [sell your veteranary practice](https://transitionselite.com/) or [sell your local business](https://www.bizbuysell.com/sell) you might use a specialized broker or resource.
+
+Finally, I've created [this list of must-read books for entrepreneurs](https://www.karllhughes.com/posts/entrepreneur-books). These include some of the most impactful reads for me as I started my business, so I hope they help you turn your idea into reality too.
