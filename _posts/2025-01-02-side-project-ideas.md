@@ -58,7 +58,9 @@ If you’ve done well academically or are still a college student, you can try p
 
 No matter your background, there is a form of writing for you. You can opt to be a content writer, technical writer, journalist, copywriter, or even a greeting card writer. As a freelance writer, you’re free to pitch your work to different publications - both online and print - or you can sign up for and find jobs via freelance websites like Upwork, Fiverr, or Guru.
 
-If you're looking to get started, be sure to [check out this book](https://amzn.to/3DD5Zr4) as it will give you a lot of insight into the industry and how you can carve out a niche.
+If you’re just learning to write, one way to improve your skills is to practice on your own assignments. Students who are balancing studies with part-time work often use [Paper Owl](https://papersowl.com/) to work on their own academic writing. By practicing research, editing, and structuring assignments through the platform, they can improve their skills, manage their time better, and gain confidence in handling more complex writing tasks. Gaining this kind of experience early makes it easier to tackle larger projects later on.
+
+If you're looking to get started, I can also recommend [the book, _Start Your Own Freelance Writing Business_](https://amzn.to/3DD5Zr4) as it will give you a lot of insight into the industry and how you can carve out a niche.
 
 ### 6. Financial Auditor/Bookkeeper
 
