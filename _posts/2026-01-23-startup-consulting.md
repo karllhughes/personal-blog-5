@@ -1,17 +1,19 @@
 ---
 layout: post
 title: "Why Startup Consulting is a Bad Idea"
-date: 2021-01-13
+date: 2026-01-23
 img: /assets/img/startup-consulting.png
 categories:
   - Entrepreneurship
 ---
 
-One of my friends recently brought up the idea of consulting for startups. He's been working in software for almost two decades, and he's worked for a few well-known startups in the area. He definitely has skills and knowledge that would be valuable for a startup, so he was surprised when I told him **startup consulting is not a good idea.**
+One of the most common mistakes new consultants make is focusing on the market they know rather than the market that can help them achieve their long-term goals.
 
-I've thought about this topic a lot. I have worked for early-stage startups, done some startup consulting, and met plenty of startup consultants. A few of them have actually been pretty successful.
+For example, a friend of mine recently brought up the idea of consulting for startups.
 
-That said, I steer consultants away from startups when they ask, and in this post, I'll explain why. [I love working with startups](/posts/working-at-startup), so please don't read this as a knock against them. As you'll see, they're just an objectively poor target market for consultants.
+He's been working in software for almost two decades, he's worked for a few well-known companies, and he definitely has skills and knowledge that would be valuable for a startup. But, he was surprised when I told him **startup consulting is not a good idea.**
+
+Now look, I love startups. I have been the first employee twice, and one of my businesses [does a lot of work for series A startups](https://draft.dev). I've consulted for some in the past, and I've met plenty of startup consultants in the past decade, but I stand by the statement that they're not good customers for consultants, no matter how much you [love working with startups](/posts/working-at-startup).
 
 _Learning more about startups? I've compiled a list of [my favorite books for founders here](https://www.karllhughes.com/posts/startup-books)._
 
@@ -20,7 +22,9 @@ First off, when I say "consultant," I'm not talking about freelancers or contrac
 
 I'm also not talking about advisors, mentors, or coaches ([more on advisors here](/posts/business-advisor)). People in these roles are typically more focused on asking questions or serving as a sounding board. If you're an experienced entrepreneur coaching a new founder, that's great. I have several mentors, and they're invaluable, but they don't make a living from helping people like me.
 
-A startup consultant is someone whose business is to come into a small company, ask some questions, analyze the data, prepare a report, and make recommendations based on their findings. They don't execute tasks or manage team members directly (although there are exceptions) but focus instead on high-level strategy.
+Clarity around consulting vs. advisory vs. mentorship roles often comes down to how interactions are structured, the payment details, and what outcome is expected. Some of these conversations are exploratory and informal, while others are focused and intentional. And as a side note, founders should use tools like [private live video chat](https://callmechat.com/anonymous-chat) when they need confidential, direct discussion without distractions, but more on that in the future.
+
+Anyway, a startup consultant is someone whose business is to come into a small company, ask some questions, analyze the data, prepare a report, and make recommendations based on their findings. They don't execute tasks or manage team members directly (although there are exceptions) but focus instead on high-level strategy.
 
 Startup consultants aren't typically involved for the long-term (and are almost never offered equity), but the good ones might provide some follow-through to see how their recommendations pan out. They might also offer a retainer to answer questions about their recommendations as they come up, but they usually aren't part of the day-to-day.
 
@@ -28,12 +32,14 @@ Startup consultants aren't typically involved for the long-term (and are almost 
 
 **The most lucrative piece of the consulting market is focused on Fortune 500 companies.** That's where giants like [PwC, Deloitte, E&Y, KPMG, McKinsey, and BCG](https://www.consultancy.uk/news/14018/the-10-largest-consulting-firms-in-the-world) all play, but for one-person consulting shops or small agencies, it's pretty hard to land one of these customers.
 
-So, many new consultants set their sites on startups. Some figure they can take their experience from a larger company (or, god forbid, [an MBA](https://www.cleverism.com/why-you-should-not-hire-mbas-for-startup/)) to help early-stage startups "grow up." Others trade on a former employer's success (i.e., people who put "Formerly Google/Apple/Facebook/etc." in their Linkedin bios), using name recognition to attract startups that like having a name brand behind their consultants.
+So, many new consultants set their sights on startups. Some figure they can take their experience from a larger company (or, god forbid, [an MBA](https://www.cleverism.com/why-you-should-not-hire-mbas-for-startup/)) to help early-stage startups "grow up." Others trade on a former employer's success (i.e., people who put "Formerly Google/Apple/Facebook/etc." in their Linkedin bios), using name recognition to attract startups that like having a name brand behind their consultants.
 
 These hopeful new consultants hang up their shingles, offering something vague like "Proven Growth Strategies" or "Scalable Product-Led Growth." If they [have a deep personal network](https://www.karllhughes.com/posts/the-key-to-networking-keeping-in-touch), they'll probably find enough clients to survive for a couple of years, but most of them won't stick with the startup market long.
 
 ## The Case Against Startup Consulting
-While startups can make decisions quickly - [almost to a fault](https://www.fastcompany.com/3006682/not-so-fast-10-hasty-mistakes-startup-founders-make) - they aren't an easy market to serve. They're price sensitive, have high expectations, and prone to failure. Let's dive into each of these points and see how they affect startup consulting.
+While startups can make decisions quickly - [almost to a fault](https://www.fastcompany.com/3006682/not-so-fast-10-hasty-mistakes-startup-founders-make) - they aren't an easy market to serve. They're price sensitive, have high expectations, prone to failure, and often need more tactical than strategic help.
+
+Let's dive into each of these points and see how they affect startup consulting.
 
 ### 1. Founders Have Unrealistic Expectations
 What consultants offer is squishy, and for big companies, it can be more political than practical:
