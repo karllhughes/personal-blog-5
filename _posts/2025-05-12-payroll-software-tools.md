@@ -32,9 +32,11 @@ This list includes an evaluation of the most commonly recommended payroll tools 
 
 [Gusto](https://gusto.com/r/karl4741), which used to be ZenPayroll, was founded in 2011 and is widely known for being an affordable payroll and benefits management software for startups and other small businesses. Its mobile interface integrates seamlessly with accounting and time-tracking software. The autopilot feature ensures your employees are always paid on time, but it also allows you to customize pay schedules whenever you’d like.
 
-In addition to payroll features, Gusto also offers tools for HR managers to manage job offer letters, health insurance, 401(k)s, paid time off (PTO) policies, workers’ compensation insurance, and more. Plus, it can automatically handle federal and state payroll taxes. And with its self-service portals, your employees can download pay stubs and tax forms. However, the platform does lack integrated background checks, an IT systems management feature, and does not register for benefits in all states (see the whole list [here](https://support.gusto.com/state-registration-compliance/)).
+In addition to payroll features, Gusto also offers tools for HR managers to manage job offer letters, health insurance, 401(k)s, paid time off (PTO) policies, workers’ compensation insurance, and more. Plus, it can automatically handle federal and state payroll taxes. And with its self-service portals, your employees can download pay stubs and tax forms. Finally, Gusto is integrated with Freshbooks' [payroll software for accountants](https://www.freshbooks.com/payroll-software), so if you already use Freshbooks, it's even easier to adopt.
 
-Gusto is most often used by software startups on the smaller side ($1M-$10M in revenue).
+However, Gusto does lack some features that I'd like to eventually see. For example, integrated background checks, an IT systems management feature, and state compliance registrations (although some states are covered as you can see [here](https://support.gusto.com/state-registration-compliance/)).
+
+Gusto is most often used by software startups on the smaller side ($1M-$10M in revenue), but honestly, Gusto is good for just about any stage business and I've been a long-time satisfied user.
 
 **Cost: Gusto’s [Basic plan starts at $19 per month](https://gusto.com/r/karl4741), plus $6 per month per person.**
 
