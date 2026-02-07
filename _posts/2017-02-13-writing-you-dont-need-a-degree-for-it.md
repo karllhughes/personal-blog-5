@@ -7,7 +7,7 @@ categories:
   - Leadership
 ---
 
-*Writing has been one of my favorite hobbies since high school, but I used to feel like an imposter  when I did it. I went to school with a lot of smart people who now write for a living, so I felt like a hack with my scant blog posts and shallow listicles, but I did it anyway.*
+*Writing has been one of my favorite hobbies since high school, but I used to feel like an imposter when I did it. I went to school with a lot of smart people who now write for a living, so I felt like a hack with my scant blog posts and shallow listicles, but I did it anyway.*
 
 *I still don't consider myself a great writer, but I have learned not to care as much what people think about it. If I could add one thing to this article from May 2012, I would say to ignore your own inner critic the most. He's the one who will really keep you from putting pen to paper.*
 
@@ -29,10 +29,10 @@ I think some writers try too hard to make their work sound like it was written b
 
 ## 4. Find Someone to Give You Honest Feedback
 
-Good feedback is hard to find. Plenty of people will read your work, and once you get moderately good at writing, they'll say, "Oh, great job writing."  _Honest_ feedback won't be all positive. Find people who are _better_ or _more experienced_ than you are, and ask them to tell you only the negatives if you have to.
+Good feedback is hard to find. Plenty of people will read your work, and once you get moderately good at writing, they'll say, "Oh, great job writing." _Honest_ feedback won't be all positive. Find people who are _better_ or _more experienced_ than you are, and ask them to tell you only the negatives if you have to.
 
 ## 5. Just Start Writing
 
-By far, the hardest thing to do is to pick up your pen (or open your laptop) and just start writing. You'll undoubtedly write your first blog post, article, or story and think, "this can't be any good." The truth is, it probably isn't very good, but you'll have to get over it. Just start writing, and figure out what works and what doesn't as you go. If you never start, you'll never make any progress.
+By far, the hardest thing to do is to pick up your pen (or open your laptop) and just start writing. You'll undoubtedly write your first blog post, article, or story and think, "this can't be any good." The truth is, it probably isn't very good, but you'll have to get over it unless you want to simply rely on [writing services](https://ca.essaypro.com/) forever, as that's always another option!
 
-What tips do you have for new or aspiring writers?  I'd love to hear more of your thoughts on [Twitter](https://twitter.com/KarlLHughes).
+Otherwise, just start writing, and figure out what works and what doesn't as you go. If you never start, you'll never make any progress.
