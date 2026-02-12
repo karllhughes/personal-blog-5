@@ -1,15 +1,19 @@
 ---
 layout: post
 title: "Maximizing for Energy"
-date: 2021-01-06
+date: 2026-02-12
 img: /assets/img/energy.png
 categories:
   - Entrepreneurship
 ---
 
-When [left my full-time job last year](https://www.karllhughes.com/posts/cto-writer), I started thinking about the lifestyle I wanted to build around my business. While I [enjoy having structure](https://www.balancethegrind.com.au/interviews/karl-hughes-founder-of-draft-dev/) in my workday, I no longer had to accept the 8-6 workday that [startups typically abide by](https://www.karllhughes.com/posts/working-hours). I could build my working hours around my family, my clients, my preferences, or anything I wanted.
+I have been self-employed for over five years now, and ever since the beginning, I have thought about the lifestyle I wanted to build around my businesses.
 
-**As I've internalized this, I've been trying to figure out what I'm maximizing life for.** My friend Ben Wilhelm asked me about this on [his podcast a few months ago](https://www.exceptionswelcome.com/1204355/5468083-building-a-resilient-career-with-karl-hughes), and in this post, I'd like to build out that answer. You don't get many years on this planet, so you have to know what you're trying to get out of your short trip here.
+While I enjoy having structure in my workday, I no longer have to accept the standard 8 am to 6 pm working day that [startups typically abide by](https://www.karllhughes.com/posts/working-hours). I choose to build my working hours around my family, my clients, my preferences, or whatever makes sense for me. It's a huge perk to being an entrepreneur and one that I'm surprised so few really take advantage of.
+
+Anyway, **as I've internalized this ability, I've been trying to figure out what I'm maximizing life for.**
+
+My friend Ben Wilhelm asked me about this on [his podcast a while ago](https://www.exceptionswelcome.com/1204355/5468083-building-a-resilient-career-with-karl-hughes), and in this post, I'd like to build out that answer. You don't get many years on this planet, so you have to know what you're trying to get out of your short trip here.
 
 **I'm maximizing for energy, and in this post, I'll explain what that means.**
 
@@ -42,13 +46,18 @@ I am naturally a positive person, but I've found that certain habits result in m
 
 I've found that once I center my life around energy, most of the other things fall into place. With enough energy, I can fight through the tough parts of running a small business, maintaining good relationships, and managing my own psychology.
 
-Again, all of this is very personal. It's not meant to be a universal guide to living a happier life. I genuinely believe everyone is different, but reading about what works for other people might give you some new ideas to try.
+And I'm not the only one who believes this. According to research [72% of founders report mental health challenges and higher stress levels](https://www.join-lume.com/science), and the only way you can really combat this is having the right supports (people, activities, habits) in place.
+
+> "Founders don’t fail from lack of skill. They fail from exhaustion, noise, and isolation." - Quote on [lume's website](https://www.join-lume.com/) that I find especially compelling
 
 ## Energy Builders
-**I find energy in balance.** Too much of anything will drain me, so I try to get some of each of these things every day:
+
+**I find energy in balance.** Too much of anything will drain me, so I try to get some of each of these things every day. While all of this is very personal, understanding what works for other people will probably give you some new ideas to try:
 
 ### 1. Sleep, Movement, and Fuel
-7-8 hours of sleep, 30 minutes of exercise, and a mostly unprocessed, plant-based diet seems to work for me. When I get the wrong mix here, I can tell. Time and effort invested in your health [is a great investment in your long-term success](https://www.karllhughes.com/posts/health-investment-success).
+7-8 hours of sleep, 30+ minutes of exercise, and a high-protein, relatively low sugar diet works for me. When I get the wrong mix here, I can tell. I've also found things like artificial sweeteners mess with my gut and mental clarity, so I try to minimize those.
+
+Time and effort invested in your health [is a great investment in your long-term success](https://www.karllhughes.com/posts/health-investment-success).
 
 ![Diet is an important part of how I maintain my energy levels](https://i.imgur.com/wmdnXv2.jpg)
 
