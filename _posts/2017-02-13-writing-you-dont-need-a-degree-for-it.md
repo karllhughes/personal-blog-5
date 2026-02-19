@@ -31,6 +31,8 @@ I think some writers try too hard to make their work sound like it was written b
 
 Good feedback is hard to find. Plenty of people will read your work, and once you get moderately good at writing, they'll say, "Oh, great job writing." _Honest_ feedback won't be all positive. Find people who are _better_ or _more experienced_ than you are, and ask them to tell you only the negatives if you have to.
 
+This is also where honest [paperwriter customer reviews](https://paperwriter.com/reviews) come in. If you get a paperwriter, you need to pick one with good reviews by real people just to make sure you don't get burned.
+
 ## 5. Just Start Writing
 
 By far, the hardest thing to do is to pick up your pen (or open your laptop) and just start writing. You'll undoubtedly write your first blog post, article, or story and think, "this can't be any good." The truth is, it probably isn't very good, but you'll have to get over it unless you want to simply rely on [writing services](https://ca.essaypro.com/) forever, as that's always another option!
