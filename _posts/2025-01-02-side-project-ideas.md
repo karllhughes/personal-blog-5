@@ -150,7 +150,7 @@ Babysitting and pet sitting are classic side project ideas that you can do in yo
 
 ### 22. Dog Walker
 
-More than [60 million households](https://www.iii.org/fact-statistic/facts-statistics-pet-ownership-and-insurance) across the US own a dog. As one of those houses, I can tell you, taking the dog out every day and helping her get her energy out is a huge chore. Dog walking can be a profitable side project that won’t require you to leave your day job if you can do it during your spare time or on weekends. It's also nice because it doesn't require a long-term commitment. 
+More than [60 million households](https://www.iii.org/fact-statistic/facts-statistics-pet-ownership-and-insurance) across the US own a dog. Having been one of those houses for many years, I can tell you, taking the dog out every day and helping her get her energy out is a huge chore. Dog walking can be a profitable side project that won’t require you to leave your day job if you can do it during your spare time or on weekends. It’s also nice because it doesn’t require a long-term commitment; you can even take an [online dog training](https://dogacademy.org/) course to offer more services.
 
 ### 23. Uber or Lyft Driver
 
